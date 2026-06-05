@@ -1,0 +1,41 @@
+[
+  {
+    "id": "solution-brainstorm",
+    "title": "Solution Brainstorming",
+    "module": "06-solution-discovery",
+    "topicIds": ["ideation-prototyping"],
+    "definition": "Structured ideation to generate multiple solutions per validated opportunity.",
+    "whenToUse": "After opportunities are mapped on an OST.",
+    "frameworkSteps": ["Anchor on one opportunity", "Diverge — generate 10+ ideas", "Cluster and vote", "Select top 2-3 to prototype"],
+    "interviewPrompts": [],
+    "officeUse": "Design sprints and OST solution branches.",
+    "relatedConcepts": ["ost-structure", "prototype-fidelity"],
+    "sources": ["helloPM-mod-6"]
+  },
+  {
+    "id": "prototype-fidelity",
+    "title": "Prototype Fidelity",
+    "module": "06-solution-discovery",
+    "topicIds": ["ideation-prototyping"],
+    "definition": "How polished a prototype is — matched to the assumption being tested.",
+    "whenToUse": "Choosing how to build a test artifact.",
+    "frameworkSteps": ["Identify riskiest assumption", "Choose lowest fidelity that tests it", "Build and test", "Increase fidelity only if needed"],
+    "interviewPrompts": ["What fidelity would you use to test X?"],
+    "officeUse": "Sprint planning with design and engineering.",
+    "relatedConcepts": ["concept-testing", "experiment-design"],
+    "sources": ["helloPM-mod-6"]
+  },
+  {
+    "id": "concept-testing",
+    "title": "Concept Testing",
+    "module": "06-solution-discovery",
+    "topicIds": ["ideation-prototyping"],
+    "definition": "Showing a solution concept to users to gauge desirability before building.",
+    "whenToUse": "Before committing engineering resources.",
+    "frameworkSteps": ["Create concept (sketch/prototype)", "Test with 5-8 target users", "Measure comprehension and intent", "Iterate or pivot"],
+    "interviewPrompts": ["What do you think this does?", "Would you use this? Why or why not?"],
+    "officeUse": "Feature validation and pitch testing.",
+    "relatedConcepts": ["problem-solution-fit", "prototype-fidelity"],
+    "sources": ["helloPM-mod-6"]
+  }
+]

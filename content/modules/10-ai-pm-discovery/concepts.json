@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ai-problem-framing",
+    "title": "AI Problem Framing",
+    "module": "10-ai-pm-discovery",
+    "topicIds": ["ai-discovery"],
+    "definition": "Deciding whether AI/ML is the right approach vs rules, search, or manual processes.",
+    "whenToUse": "Before scoping any AI feature.",
+    "frameworkSteps": ["Define user job", "Assess if AI adds unique value", "Check data availability", "Estimate cost/latency tradeoffs", "Decide AI vs non-AI"],
+    "interviewPrompts": ["When would you NOT use AI for this problem?"],
+    "officeUse": "AI feature proposals and build vs buy decisions.",
+    "relatedConcepts": ["eval-criteria", "human-in-the-loop"],
+    "sources": ["helloPM-mod-10"]
+  },
+  {
+    "id": "eval-criteria",
+    "title": "AI Eval Criteria",
+    "module": "10-ai-pm-discovery",
+    "topicIds": ["ai-discovery", "ai-evals"],
+    "definition": "Measurable quality bars for AI outputs: accuracy, relevance, safety, latency, cost.",
+    "whenToUse": "Before shipping any AI feature; ongoing regression testing.",
+    "frameworkSteps": ["Define quality dimensions", "Create golden dataset", "Set thresholds per dimension", "Run eval pipeline", "Block ship if below bar"],
+    "interviewPrompts": ["How would you evaluate an AI summarization feature?"],
+    "officeUse": "AI PRDs, launch checklists, and monitoring dashboards.",
+    "relatedConcepts": ["golden-datasets", "regression-testing-ai"],
+    "sources": ["helloPM-mod-10"]
+  },
+  {
+    "id": "human-in-the-loop",
+    "title": "Human-in-the-Loop",
+    "module": "10-ai-pm-discovery",
+    "topicIds": ["ai-discovery"],
+    "definition": "Designing human review, correction, or override into AI workflows.",
+    "whenToUse": "High-stakes outputs, early launches, or low model confidence.",
+    "frameworkSteps": ["Identify failure modes", "Design review UI", "Route low-confidence to human", "Capture corrections for training"],
+    "interviewPrompts": ["Where would you add human review in this AI flow?"],
+    "officeUse": "AI product design and trust/safety planning.",
+    "relatedConcepts": ["eval-criteria", "ai-problem-framing"],
+    "sources": ["helloPM-mod-10"]
+  },
+  {
+    "id": "golden-datasets",
+    "title": "Golden Datasets",
+    "module": "10-ai-pm-discovery",
+    "topicIds": ["ai-evals"],
+    "definition": "Curated input-output pairs used to benchmark AI quality over time.",
+    "whenToUse": "Building and maintaining AI eval pipelines.",
+    "frameworkSteps": ["Collect representative inputs", "Define expected outputs", "Label with domain experts", "Version and expand over time"],
+    "interviewPrompts": ["How do you build a golden set for X?"],
+    "officeUse": "ML ops and release gates.",
+    "relatedConcepts": ["eval-criteria", "regression-testing-ai"],
+    "sources": ["helloPM-mod-10"]
+  },
+  {
+    "id": "regression-testing-ai",
+    "title": "AI Regression Testing",
+    "module": "10-ai-pm-discovery",
+    "topicIds": ["ai-evals"],
+    "definition": "Re-running evals on golden datasets after model or prompt changes to catch quality drops.",
+    "whenToUse": "Every model update, prompt change, or context window change.",
+    "frameworkSteps": ["Run eval suite on golden set", "Compare to baseline", "Investigate regressions", "Block release if critical metrics drop"],
+    "interviewPrompts": ["How do you prevent AI quality regressions?"],
+    "officeUse": "CI/CD for AI features.",
+    "relatedConcepts": ["golden-datasets", "eval-criteria"],
+    "sources": ["helloPM-mod-10"]
+  }
+]

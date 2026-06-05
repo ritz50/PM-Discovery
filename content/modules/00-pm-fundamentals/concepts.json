@@ -1,0 +1,67 @@
+[
+  {
+    "id": "three-ds-lifecycle",
+    "title": "Discovery, Delivery, Distribution (3Ds)",
+    "module": "00-pm-fundamentals",
+    "topicIds": ["pm-fundamentals"],
+    "definition": "The product management lifecycle: discover what to build, deliver it, distribute it to users.",
+    "whenToUse": "Framing any PM work; deciding where to spend your time.",
+    "frameworkSteps": ["Discovery — user/market research, validation", "Delivery — roadmap, PRD, execution", "Distribution — growth, adoption, GTM"],
+    "interviewPrompts": ["Walk me through the product development lifecycle.", "Where should a PM spend most of their time?"],
+    "officeUse": "Onboarding, stakeholder alignment, role clarity.",
+    "relatedConcepts": ["product-sense", "ambiguity-to-clarity"],
+    "sources": ["helloPM-pm-fundamentals-s1"]
+  },
+  {
+    "id": "product-sense",
+    "title": "Product Sense",
+    "module": "00-pm-fundamentals",
+    "topicIds": ["pm-fundamentals"],
+    "definition": "Intuition for what users need, grounded in problems they care about — not features for their own sake.",
+    "whenToUse": "Evaluating ideas, prioritizing, interview case questions.",
+    "frameworkSteps": ["Identify user segment", "Articulate their problem or desire", "Judge if solution fits the job", "Define success metrics"],
+    "interviewPrompts": ["How would you improve Google Maps?", "What makes a good product?"],
+    "officeUse": "Idea evaluation and roadmap debates.",
+    "relatedConcepts": ["three-ds-lifecycle", "user-centricity"],
+    "sources": ["helloPM-pm-fundamentals-s2"]
+  },
+  {
+    "id": "user-centricity",
+    "title": "User Centricity",
+    "module": "00-pm-fundamentals",
+    "topicIds": ["pm-fundamentals"],
+    "definition": "Building around what users value — they reciprocate attention or money only when you solve an important problem.",
+    "whenToUse": "Every discovery and prioritization decision.",
+    "frameworkSteps": ["Talk to users regularly", "Validate problems before solutions", "Measure outcomes not outputs"],
+    "interviewPrompts": ["Why do most startups fail?"],
+    "officeUse": "Culture and decision-making north star.",
+    "relatedConcepts": ["product-sense", "problem-validation"],
+    "sources": ["helloPM-pm-fundamentals-s1"]
+  },
+  {
+    "id": "ambiguity-to-clarity",
+    "title": "Ambiguity to Clarity",
+    "module": "00-pm-fundamentals",
+    "topicIds": ["pm-fundamentals"],
+    "definition": "The PM converts fuzzy goals into clear plans: vision → strategy → roadmap → PRD → executable work.",
+    "whenToUse": "Strategy & execution phases; stakeholder management.",
+    "frameworkSteps": ["Clarify outcome", "Research and decide", "Document in roadmap/PRD", "Align team", "Execute and learn"],
+    "interviewPrompts": ["What does a PM actually do day to day?"],
+    "officeUse": "Kickoffs, planning, exec updates.",
+    "relatedConcepts": ["three-ds-lifecycle", "prd-structure"],
+    "sources": ["helloPM-strategy-s1"]
+  },
+  {
+    "id": "product-backlog-structure",
+    "title": "Product Backlog Structure",
+    "module": "00-pm-fundamentals",
+    "topicIds": ["pm-fundamentals"],
+    "definition": "Epics → features → user stories, each with goals and success metrics (e.g. The Go Product car rental example).",
+    "whenToUse": "Breaking roadmap into delivery units.",
+    "frameworkSteps": ["Define epic goal and quarter", "List features per epic", "Write user stories", "Attach metrics per epic"],
+    "interviewPrompts": ["How do you structure a product backlog?"],
+    "officeUse": "Sprint planning and agile ceremonies.",
+    "relatedConcepts": ["user-stories", "outcome-vs-output"],
+    "sources": ["helloPM-pm-fundamentals-assignment"]
+  }
+]

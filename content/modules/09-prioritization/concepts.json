@@ -1,0 +1,93 @@
+[
+  {
+    "id": "three-c-plus-p",
+    "title": "Product Strategy (3C + P)",
+    "module": "09-prioritization",
+    "topicIds": ["rice-prioritization"],
+    "definition": "Strategy framework: Customers, Competition, Company, and Product (4Ps: product, place, price, promotion).",
+    "whenToUse": "Creating product strategy before roadmap planning.",
+    "frameworkSteps": ["Analyze customers and needs", "Map competition and alternatives", "Assess company capabilities and context", "Define product and 4Ps"],
+    "interviewPrompts": ["What are the four components of product strategy?"],
+    "officeUse": "Strategy docs, quarterly planning, exec reviews.",
+    "relatedConcepts": ["roadmap-communication", "outcome-vs-output"],
+    "sources": ["helloPM-strategy-s2"]
+  },
+  {
+    "id": "rice-scoring",
+    "title": "RICE Scoring",
+    "module": "09-prioritization",
+    "topicIds": ["rice-prioritization"],
+    "definition": "Prioritization formula: (Reach × Impact × Confidence) ÷ Effort.",
+    "whenToUse": "Comparing multiple initiatives on a roadmap.",
+    "frameworkSteps": ["List initiatives", "Score Reach, Impact, Confidence, Effort", "Calculate RICE", "Rank and discuss tradeoffs"],
+    "interviewPrompts": ["How would you prioritize these three features?"],
+    "officeUse": "Roadmap planning and stakeholder alignment.",
+    "relatedConcepts": ["prioritization-tradeoffs"],
+    "sources": ["helloPM-mod-9"]
+  },
+  {
+    "id": "ost-structure",
+    "title": "Opportunity Solution Tree Structure",
+    "module": "09-prioritization",
+    "topicIds": ["ost"],
+    "definition": "Outcome at root → opportunities from research → solutions → experiments.",
+    "whenToUse": "Continuous discovery and aligning team on what to test next.",
+    "frameworkSteps": ["Define measurable outcome", "Map opportunities from interviews", "Brainstorm solutions per opportunity", "Design experiments per solution"],
+    "interviewPrompts": ["Draw an OST for...", "How does discovery connect to your roadmap?"],
+    "officeUse": "Weekly discovery cadence and product trio rituals.",
+    "relatedConcepts": ["continuous-discovery", "outcome-vs-output"],
+    "sources": ["helloPM-mod-9"]
+  },
+  {
+    "id": "outcome-vs-output",
+    "title": "Outcome vs Output",
+    "module": "09-prioritization",
+    "topicIds": ["ost"],
+    "definition": "Outputs are features shipped; outcomes are behavior changes achieved.",
+    "whenToUse": "Setting goals, OKRs, and evaluating success.",
+    "frameworkSteps": ["State desired outcome", "Identify outputs that might drive it", "Measure outcome not output", "Pivot if output doesn't move outcome"],
+    "interviewPrompts": ["Give an example of an outcome vs output goal."],
+    "officeUse": "OKR setting and success metric definition.",
+    "relatedConcepts": ["ost-structure", "rice-scoring"],
+    "sources": ["helloPM-mod-9"]
+  },
+  {
+    "id": "prioritization-tradeoffs",
+    "title": "Prioritization Tradeoffs",
+    "module": "09-prioritization",
+    "topicIds": ["rice-prioritization"],
+    "definition": "Explicitly communicating what you are NOT doing and why when prioritizing.",
+    "whenToUse": "Stakeholder meetings and roadmap reviews.",
+    "frameworkSteps": ["Present ranked list", "Name deprioritized items", "Explain opportunity cost", "Document decision rationale"],
+    "interviewPrompts": ["How do you say no to a stakeholder request?"],
+    "officeUse": "Roadmap reviews and exec updates.",
+    "relatedConcepts": ["rice-scoring"],
+    "sources": ["helloPM-mod-9"]
+  },
+  {
+    "id": "continuous-discovery",
+    "title": "Continuous Discovery",
+    "module": "09-prioritization",
+    "topicIds": ["ost"],
+    "definition": "Weekly customer touchpoints to iteratively test assumptions, not a one-time phase.",
+    "whenToUse": "Ongoing product development after initial launch.",
+    "frameworkSteps": ["Weekly customer interviews", "Update opportunity map", "Run small experiments", "Feed learnings into backlog"],
+    "interviewPrompts": ["How do you practice continuous discovery on a busy team?"],
+    "officeUse": "Product trio weekly rituals.",
+    "relatedConcepts": ["ost-structure", "research-synthesis"],
+    "sources": ["helloPM-mod-9"]
+  },
+  {
+    "id": "roadmap-communication",
+    "title": "Roadmap Communication",
+    "module": "09-prioritization",
+    "topicIds": ["rice-prioritization"],
+    "definition": "Presenting priorities as problems and outcomes, not feature dates.",
+    "whenToUse": "Stakeholder updates and cross-team alignment.",
+    "frameworkSteps": ["Lead with outcomes", "Show evidence from discovery", "Indicate confidence level", "Avoid false precision on dates"],
+    "interviewPrompts": ["How would you present a roadmap to executives?"],
+    "officeUse": "Quarterly planning and all-hands.",
+    "relatedConcepts": ["prioritization-tradeoffs", "outcome-vs-output"],
+    "sources": ["helloPM-mod-9"]
+  }
+]

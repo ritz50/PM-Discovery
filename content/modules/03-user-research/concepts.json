@@ -1,0 +1,54 @@
+[
+  {
+    "id": "qual-vs-quant",
+    "title": "Qualitative vs Quantitative Research",
+    "module": "03-user-research",
+    "topicIds": ["user-research"],
+    "definition": "Qual explores why and how (interviews); quant measures how many and how often (surveys, analytics).",
+    "whenToUse": "Qual for discovery; quant for validation and sizing.",
+    "frameworkSteps": ["Define learning goal", "Choose qual, quant, or mixed", "Run study", "Synthesize findings"],
+    "interviewPrompts": ["When would you use a survey vs an interview?"],
+    "officeUse": "Research planning and stakeholder buy-in.",
+    "relatedConcepts": ["interview-techniques", "research-synthesis"],
+    "sources": ["helloPM-mod-3"]
+  },
+  {
+    "id": "interview-techniques",
+    "title": "Discovery Interview Techniques",
+    "module": "03-user-research",
+    "topicIds": ["user-research"],
+    "definition": "Open-ended, past-behavior-focused conversations to uncover unmet needs and workarounds.",
+    "whenToUse": "Early discovery when you need to understand problems deeply.",
+    "frameworkSteps": ["Prepare guide", "Build rapport", "Explore past behavior", "Probe with why/how", "Debrief immediately"],
+    "interviewPrompts": ["Tell me about the last time you...", "What did you do next?"],
+    "officeUse": "User interviews, customer calls, win/loss debriefs.",
+    "relatedConcepts": ["interview-guide", "switch-interview"],
+    "sources": ["helloPM-mod-3"]
+  },
+  {
+    "id": "mom-test",
+    "title": "The Mom Test",
+    "module": "03-user-research",
+    "topicIds": ["user-research"],
+    "definition": "Ask about past behavior and specifics, not opinions or hypotheticals — so users can't lie to please you.",
+    "whenToUse": "All discovery interviews; especially early problem validation.",
+    "frameworkSteps": ["Talk about their life, not your idea", "Ask about past specifics", "Talk less, listen more", "Avoid compliments and hypotheticals"],
+    "interviewPrompts": ["Tell me about the last time you...", "What did you do instead?"],
+    "officeUse": "Interview guide design; coaching teams on customer conversations.",
+    "relatedConcepts": ["interview-techniques", "switch-interview"],
+    "sources": ["helloPM-discovery-s1", "resources/The-Mom-Test PM.pdf"]
+  },
+  {
+    "id": "research-synthesis",
+    "title": "Research Synthesis",
+    "module": "03-user-research",
+    "topicIds": ["user-research"],
+    "definition": "Turning raw interview notes into themes, insights, and opportunities.",
+    "whenToUse": "After every batch of 3-5 interviews.",
+    "frameworkSteps": ["Extract observations", "Cluster into themes", "Write insight statements", "Map to opportunities"],
+    "interviewPrompts": [],
+    "officeUse": "Research readouts and OST opportunity mapping.",
+    "relatedConcepts": ["ost-structure", "assumption-mapping"],
+    "sources": ["helloPM-mod-3"]
+  }
+]

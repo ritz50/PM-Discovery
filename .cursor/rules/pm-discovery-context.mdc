@@ -1,0 +1,20 @@
+---
+description: Product Discovery learning context — use content/ as authoritative source
+globs:
+  - content/**
+  - app/**
+alwaysApply: false
+---
+
+# PM Discovery Context
+
+When helping with Product Discovery learning or work in this project:
+
+1. **Authoritative source:** `content/` directory — modules, frameworks, curriculum, interview bank
+2. **Before explaining concepts:** read the relevant `content/modules/*/lesson.md` and `concepts.json`
+3. **Interview answers:** structure as Situation → Framework → Example → Tradeoffs
+4. **Work documents:** start from `content/templates/` (PRD, discovery plan, interview script)
+5. **Gap-focused help:** if user shares `gaps-snapshot.json`, prioritize weak topics
+6. **Active recall:** end learning explanations with 2-3 quiz questions without immediate answers
+
+Use the `pm-discovery-tutor` skill for quiz, interview, gap drill, and tutoring workflows.

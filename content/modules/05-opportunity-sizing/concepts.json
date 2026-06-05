@@ -1,0 +1,41 @@
+[
+  {
+    "id": "tam-sam-som",
+    "title": "TAM / SAM / SOM",
+    "module": "05-opportunity-sizing",
+    "topicIds": ["opportunity-sizing"],
+    "definition": "Market sizing framework: total market, serviceable segment, and realistically obtainable share.",
+    "whenToUse": "Pitching new initiatives, prioritizing bets, investor conversations.",
+    "frameworkSteps": ["Define TAM from industry data", "Narrow to SAM by segment/geo", "Estimate SOM with realistic penetration"],
+    "interviewPrompts": ["How would you size the market for X?"],
+    "officeUse": "Business cases and roadmap justification.",
+    "relatedConcepts": ["market-sizing", "opportunity-assessment"],
+    "sources": ["helloPM-mod-5"]
+  },
+  {
+    "id": "opportunity-assessment",
+    "title": "Opportunity Assessment",
+    "module": "05-opportunity-sizing",
+    "topicIds": ["opportunity-sizing"],
+    "definition": "Structured evaluation of problem severity, market size, strategic fit, and feasibility.",
+    "whenToUse": "Go/no-go before major discovery or build investment.",
+    "frameworkSteps": ["Score problem evidence", "Estimate market size", "Assess strategic fit", "Evaluate feasibility", "Recommend pursue/pivot/kill"],
+    "interviewPrompts": ["Walk me through how you'd assess this opportunity."],
+    "officeUse": "Leadership reviews and portfolio decisions.",
+    "relatedConcepts": ["tam-sam-som", "problem-solution-fit"],
+    "sources": ["helloPM-mod-5"]
+  },
+  {
+    "id": "market-sizing",
+    "title": "Bottom-Up Market Sizing",
+    "module": "05-opportunity-sizing",
+    "topicIds": ["opportunity-sizing"],
+    "definition": "Calculating market size from unit economics: customers × price × purchase frequency.",
+    "whenToUse": "When you need defensible numbers for stakeholders.",
+    "frameworkSteps": ["Count addressable customers", "Estimate conversion rate", "Multiply by ARPU or deal size", "Sanity-check against top-down"],
+    "interviewPrompts": ["Build a bottom-up estimate for..."],
+    "officeUse": "Business cases and pricing strategy.",
+    "relatedConcepts": ["tam-sam-som"],
+    "sources": ["helloPM-mod-5"]
+  }
+]

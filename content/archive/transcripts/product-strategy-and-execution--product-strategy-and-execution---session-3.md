@@ -1,0 +1,5395 @@
+1
+00:08:52.250 --> 00:08:56.609
+Ankit Shukla: Hello, everyone. A quick yes or no in the chat if I'm audible and visible.
+
+2
+00:09:13.040 --> 00:09:17.450
+Ankit Shukla: Thank you, Juhi. Thank you, Lalit. Thank you, Milan. Thank you, women. Thank you, Aman. Thank you, Baliki.
+
+3
+00:09:18.880 --> 00:09:23.770
+Ankit Shukla: Thank you, Nan. Thank you, Archana. Thank you, Shapneel. Yes. Let me just go ahead and start the session for them.
+
+4
+00:09:25.460 --> 00:09:26.220
+Ankit Shukla: Yes.
+
+5
+00:09:26.530 --> 00:09:27.500
+Ankit Shukla: Thank you, thank you.
+
+6
+00:09:28.150 --> 00:09:29.590
+Ankit Shukla: Thank you, Ashish. Yes.
+
+7
+00:09:31.470 --> 00:09:34.860
+Ankit Shukla: cool, I think we are right on time. So…
+
+8
+00:09:42.490 --> 00:09:43.360
+Ankit Shukla: Yes.
+
+9
+00:09:45.680 --> 00:09:46.730
+Ankit Shukla: It's yesterday?
+
+10
+00:09:46.940 --> 00:09:50.210
+Ankit Shukla: We were discussing the product roadmap and execution session.
+
+11
+00:09:51.060 --> 00:09:53.890
+Ankit Shukla: And today, we are going to extend the sync, okay?
+
+12
+00:09:54.030 --> 00:09:56.779
+Ankit Shukla: But before that, let me give you a quick overview.
+
+13
+00:09:57.350 --> 00:10:00.019
+Ankit Shukla: of what we have done so far. Chesh, give me a moment.
+
+14
+00:10:07.630 --> 00:10:08.990
+Ankit Shukla: Just give me a moment.
+
+15
+00:10:28.150 --> 00:10:29.719
+Ankit Shukla: Hello. Is the audio better now?
+
+16
+00:10:32.770 --> 00:10:33.860
+Ankit Shukla: Cool, thank you.
+
+17
+00:10:34.350 --> 00:10:35.180
+Ankit Shukla: Yes.
+
+18
+00:10:37.990 --> 00:10:43.969
+Ankit Shukla: Good. So now let me go ahead and give you a quick revision of what we have done in the last few sessions, okay? So…
+
+19
+00:10:49.360 --> 00:10:50.530
+Ankit Shukla: Yesterday.
+
+20
+00:10:54.280 --> 00:11:01.880
+Ankit Shukla: So in the first session, In the first session, we talked about.
+
+21
+00:11:05.030 --> 00:11:08.740
+Ankit Shukla: product vision Product vision is a big picture.
+
+22
+00:11:09.480 --> 00:11:13.100
+Ankit Shukla: It is what your product is going to look like in its ultimate form.
+
+23
+00:11:13.210 --> 00:11:15.019
+Ankit Shukla: The purpose of the product vision?
+
+24
+00:11:15.170 --> 00:11:21.879
+Ankit Shukla: Is to give your team A vision, a clarity, a big picture, as in, what are we working for?
+
+25
+00:11:22.130 --> 00:11:22.950
+Ankit Shukla: Right?
+
+26
+00:11:24.350 --> 00:11:28.980
+Ankit Shukla: Second part that we considered yesterday was… product strategy.
+
+27
+00:11:33.780 --> 00:11:34.590
+Ankit Shukla: Right?
+
+28
+00:11:35.250 --> 00:11:40.859
+Ankit Shukla: Now, understand that whenever Let's take an example of a Click Hit Match.
+
+29
+00:11:44.070 --> 00:11:48.530
+Ankit Shukla: For a cricket match, whenever someone goes ahead and any team tries to play.
+
+30
+00:11:48.640 --> 00:11:51.719
+Ankit Shukla: They would have a strategy, which is called as the game strategy.
+
+31
+00:11:54.760 --> 00:11:55.570
+Ankit Shukla: Right.
+
+32
+00:11:55.900 --> 00:11:57.590
+Ankit Shukla: And in this strategy.
+
+33
+00:11:57.860 --> 00:12:04.739
+Ankit Shukla: There would be some contribution from the ballers, there would be some contribution from the fielders, there will be some contribution from…
+
+34
+00:12:05.350 --> 00:12:12.580
+Ankit Shukla: maybe the, the top batsmen, the lower batsmen, and the middle-order batsmen, right? So I can divide this strategy in two.
+
+35
+00:12:13.610 --> 00:12:19.780
+Ankit Shukla: What is your strategy from Betting side, which is betting strategy.
+
+36
+00:12:20.910 --> 00:12:22.709
+Ankit Shukla: And what is our strategy from?
+
+37
+00:12:24.340 --> 00:12:25.550
+Ankit Shukla: the bowling side.
+
+38
+00:12:26.770 --> 00:12:30.809
+Ankit Shukla: Right? And in this, we have multiple components that if we get to bat first.
+
+39
+00:12:31.210 --> 00:12:41.949
+Ankit Shukla: then this is what we are going to do. If we get to ball first, then this is how we are going to do the batting, right? Similarly, those two components can be here. So understand that at a high level, our strategy is defined.
+
+40
+00:12:42.600 --> 00:12:50.870
+Ankit Shukla: Then, the individual teams are also going to, like, the individual parts of the team are also going to form a strategy, and all of these three needs to be coherent with each other.
+
+41
+00:12:51.640 --> 00:12:55.180
+Ankit Shukla: All of these three need to be coherent with each other. That is why, in business also.
+
+42
+00:12:55.400 --> 00:12:58.239
+Ankit Shukla: At a high level, we create a business strategy.
+
+43
+00:13:00.560 --> 00:13:04.329
+Ankit Shukla: And now there is a product department, which creates a product strategy.
+
+44
+00:13:06.600 --> 00:13:13.690
+Ankit Shukla: And the product strategy contains 4 parts, right? As I've told you yesterday, that product strategy contains 4 parts.
+
+45
+00:13:13.840 --> 00:13:17.419
+Ankit Shukla: The base of any product strategy is the customer.
+
+46
+00:13:20.440 --> 00:13:36.020
+Ankit Shukla: And then… we have… The company, its strengths and weaknesses, We also have… the competitor, or…
+
+47
+00:13:36.170 --> 00:13:38.679
+Ankit Shukla: The market conditions or the ecosystem?
+
+48
+00:13:39.990 --> 00:13:43.369
+Ankit Shukla: And then, eventually, on top of all of these, we have something called as
+
+49
+00:13:43.580 --> 00:13:53.209
+Ankit Shukla: the product. What is going to be your product? What is its value propositions? What are the solutions that it has for the customer problems, for the eco-competitor problems, and these kind of things.
+
+50
+00:13:53.490 --> 00:14:01.600
+Ankit Shukla: Right? So you formulate strategy in this way. And then I have also shown you a couple of examples of product strategy in real time from LinkedIn and other companies.
+
+51
+00:14:01.710 --> 00:14:06.489
+Ankit Shukla: Right? So this is what we have done yesterday. Always understand, everyone.
+
+52
+00:14:06.690 --> 00:14:12.740
+Ankit Shukla: That product strategy needs to be agile, But not too agile.
+
+53
+00:14:12.940 --> 00:14:15.610
+Ankit Shukla: If you are changing a product strategy.
+
+54
+00:14:15.920 --> 00:14:18.060
+Ankit Shukla: If you are changing a product strategy.
+
+55
+00:14:18.280 --> 00:14:23.660
+Ankit Shukla: Then, you need to have a solid Reason for changing the same.
+
+56
+00:14:24.150 --> 00:14:25.030
+Ankit Shukla: Right?
+
+57
+00:14:25.180 --> 00:14:27.690
+Ankit Shukla: So… This is a hierarchy.
+
+58
+00:14:28.990 --> 00:14:36.880
+Ankit Shukla: We have the business strategy, From business strategy, we are going to create a product strategy.
+
+59
+00:14:38.550 --> 00:14:42.350
+Ankit Shukla: From product strategy, we are going to create a product roadmap.
+
+60
+00:14:44.550 --> 00:14:49.019
+Ankit Shukla: From a product roadmap, we are going to create a product requirement document.
+
+61
+00:14:49.270 --> 00:14:55.320
+Ankit Shukla: From a product requirement document, we are going to create a backlog of tasks.
+
+62
+00:14:57.710 --> 00:14:58.570
+Ankit Shukla: Right?
+
+63
+00:14:58.860 --> 00:15:08.020
+Ankit Shukla: As you move here, as you move down, As you move down, Things become more agile.
+
+64
+00:15:12.240 --> 00:15:18.760
+Ankit Shukla: Agility increases. Agility… Means it can change.
+
+65
+00:15:19.660 --> 00:15:24.970
+Ankit Shukla: Right? So as you go down, the things become more agile, but as you are going above.
+
+66
+00:15:26.070 --> 00:15:29.549
+Ankit Shukla: As you are going more above.
+
+67
+00:15:29.660 --> 00:15:46.120
+Ankit Shukla: then things need to be defined for more longer term, and they cannot change easily. You can change them if the market conditions are changing, if something new inside that you are getting, but it is advised to have a very solid reason before you change the top things.
+
+68
+00:15:48.590 --> 00:15:49.520
+Ankit Shukla: Okay.
+
+69
+00:15:50.080 --> 00:15:50.950
+Ankit Shukla: Yes.
+
+70
+00:15:52.290 --> 00:15:54.580
+Ankit Shukla: Who has the visibility of the strategy?
+
+71
+00:15:55.060 --> 00:16:11.969
+Ankit Shukla: Ideally, it should be everyone in the company, because they know what the company is doing, but in practical scenarios, it is limited to the top level, and then top level has multiple ways, which I'm going to show you today, to percolate that strategy within the team, down to the team, right? So this is what we have done yesterday.
+
+72
+00:16:12.380 --> 00:16:14.950
+Ankit Shukla: Now, in today's session, I'm going to talk about
+
+73
+00:16:15.650 --> 00:16:21.309
+Ankit Shukla: What is the outcome of a product strategy? The outcome of a product strategy is a well-designed product roadmap.
+
+74
+00:16:22.150 --> 00:16:25.060
+Ankit Shukla: Right? It's a well-designed product roadmap.
+
+75
+00:16:25.250 --> 00:16:28.689
+Ankit Shukla: Right, so now today we are going to talk about creating a product roadmap.
+
+76
+00:16:28.940 --> 00:16:34.520
+Ankit Shukla: But before that, tell me, go ahead in the chat if you have understood everything so far, and you want to go ahead with today's session.
+
+77
+00:16:36.510 --> 00:16:38.050
+Ankit Shukla: Tell me, go ahead in the chat.
+
+78
+00:16:59.330 --> 00:17:00.260
+Ankit Shukla: Wonderful.
+
+79
+00:17:01.260 --> 00:17:05.829
+Ankit Shukla: So, creating a roadmap. Before creating our roadmap, let me show you what our roadmap looks like.
+
+80
+00:17:06.950 --> 00:17:09.619
+Ankit Shukla: This is example of a roadmap.
+
+81
+00:17:10.140 --> 00:17:12.310
+Ankit Shukla: So, observe this very carefully, guys.
+
+82
+00:17:14.740 --> 00:17:17.180
+Ankit Shukla: This is the time zone. This is the timeline.
+
+83
+00:17:19.109 --> 00:17:23.539
+Ankit Shukla: Right? We have divided the milestone into two phases, Phase 1 and Phase 2.
+
+84
+00:17:24.640 --> 00:17:25.599
+Ankit Shukla: And then…
+
+85
+00:17:25.730 --> 00:17:31.850
+Ankit Shukla: In the Module 1, let's say it could be a web application or anything, we have divided modules into some or the other logic.
+
+86
+00:17:32.290 --> 00:17:34.289
+Ankit Shukla: Feature 1 is going to be released.
+
+87
+00:17:34.410 --> 00:17:35.960
+Ankit Shukla: Till mid of November.
+
+88
+00:17:36.160 --> 00:17:37.959
+Ankit Shukla: After that, we'll work on
+
+89
+00:17:38.290 --> 00:17:45.600
+Ankit Shukla: Till January on feature 2. While we are working on feature 2, we'll also parallelie start feature number 3, and it'll get completed on this.
+
+90
+00:17:46.510 --> 00:17:48.140
+Ankit Shukla: Right? Similarly.
+
+91
+00:17:48.930 --> 00:17:59.079
+Ankit Shukla: In Module 2, this is… this could be a different team altogether. So they are working on Feature 4 from September, and then they are going to complete the Feature 4 in… sometime in the mid of December.
+
+92
+00:17:59.290 --> 00:18:04.439
+Ankit Shukla: This is what a product roadmap looks like. So what is a product roadmap? It is just a timeline view.
+
+93
+00:18:04.600 --> 00:18:07.420
+Ankit Shukla: Of what your product is going to look like in the future.
+
+94
+00:18:08.240 --> 00:18:11.509
+Ankit Shukla: Right? What are the things that you are going to develop in the future?
+
+95
+00:18:11.730 --> 00:18:14.919
+Ankit Shukla: Now, can you guys tell me what is the purpose of building a product roadmap?
+
+96
+00:18:15.380 --> 00:18:16.609
+Ankit Shukla: Tell me in the chat.
+
+97
+00:18:16.740 --> 00:18:20.349
+Ankit Shukla: What do you think is the purpose of building a product roadmap?
+
+98
+00:18:27.050 --> 00:18:29.989
+Ankit Shukla: Everyone, think about it for the movement, and then tell me.
+
+99
+00:18:46.280 --> 00:18:48.099
+Ankit Shukla: Yes. Very good.
+
+100
+00:18:48.370 --> 00:18:51.939
+Ankit Shukla: Visibility is a wonderful name for this. Okay, so understand, guys.
+
+101
+00:18:58.890 --> 00:19:08.270
+Ankit Shukla: In the first session, In the first session, we have divided product Management, cycle.
+
+102
+00:19:08.410 --> 00:19:12.590
+Ankit Shukla: Into 3 parts. Or we have defined the purpose of a product manager into 3 parts.
+
+103
+00:19:12.810 --> 00:19:16.669
+Ankit Shukla: The first is… A product manager does.
+
+104
+00:19:19.790 --> 00:19:21.150
+Ankit Shukla: Product discovery.
+
+105
+00:19:23.570 --> 00:19:24.770
+Ankit Shukla: Then they do…
+
+106
+00:19:28.070 --> 00:19:29.350
+Ankit Shukla: Product delivery.
+
+107
+00:19:29.650 --> 00:19:33.690
+Ankit Shukla: And then… They do product.
+
+108
+00:19:36.830 --> 00:19:38.040
+Ankit Shukla: distributions.
+
+109
+00:19:38.590 --> 00:19:39.460
+Ankit Shukla: Right?
+
+110
+00:19:39.980 --> 00:19:44.340
+Ankit Shukla: In the product discovery, the major purpose of a product manager is to find
+
+111
+00:19:45.900 --> 00:19:51.019
+Ankit Shukla: The product… in the product discovery, the major purpose of a product manager is to find
+
+112
+00:19:51.540 --> 00:19:56.690
+Ankit Shukla: What will be valuable For the users.
+
+113
+00:19:58.570 --> 00:20:13.009
+Ankit Shukla: So we need to create something that users want, which you are going to do user research, market research, you are going to implement moms tests, jobs to be done, conduct interviews, you will create personas, journey maps, in order to find out what the users will value.
+
+114
+00:20:14.110 --> 00:20:21.850
+Ankit Shukla: The second part is, you are going to understand what is viable or profitable for the business.
+
+115
+00:20:22.040 --> 00:20:27.040
+Ankit Shukla: So, you need to find the ideas, initiatives, features, products, which are…
+
+116
+00:20:27.250 --> 00:20:36.680
+Ankit Shukla: helping, which will be helping the users get value, and helping the business move forward, right? This is the whole purpose of product discovery.
+
+117
+00:20:37.400 --> 00:20:45.289
+Ankit Shukla: Right? Then in the second part, in the product delivery part, your major purpose, your major purpose is understand that
+
+118
+00:20:45.950 --> 00:20:54.999
+Ankit Shukla: In a product management, In our product management talk, I have multiple times told you that
+
+119
+00:20:55.150 --> 00:21:01.069
+Ankit Shukla: Product management, or software development, is a Team sport.
+
+120
+00:21:03.420 --> 00:21:16.720
+Ankit Shukla: You need multiple developers to develop, you need some people to conduct the research, or you have to do it by yourself. You need some designers, you need some legal people, you need some marketers, you need some salespeople in order to make a product successful.
+
+121
+00:21:17.050 --> 00:21:22.839
+Ankit Shukla: Right? In order to achieve both of these things, that business will get money and users will get value, you need a team.
+
+122
+00:21:23.170 --> 00:21:27.120
+Ankit Shukla: And that is why I always understand that product management is a team sport.
+
+123
+00:21:27.850 --> 00:21:32.010
+Ankit Shukla: And the issue with the team is that everyone comes with their own perspective.
+
+124
+00:21:32.360 --> 00:21:44.760
+Ankit Shukla: And if you do not give clarity, then people might move in a different direction altogether. And there would be a lot of conflicts. So, the major purpose of a product manager in any team when it comes to stakeholder management is
+
+125
+00:21:45.370 --> 00:21:50.080
+Ankit Shukla: To give and get, clarity.
+
+126
+00:21:53.490 --> 00:21:55.239
+Ankit Shukla: To give and get clarity.
+
+127
+00:21:57.760 --> 00:22:02.719
+Ankit Shukla: Right? Clarity means… How would your team know
+
+128
+00:22:02.930 --> 00:22:09.279
+Ankit Shukla: What do we need to build? Why we are building it, when we need to ship it, these kind of questions.
+
+129
+00:22:09.930 --> 00:22:12.700
+Ankit Shukla: Right? So it is super important for everyone.
+
+130
+00:22:12.920 --> 00:22:23.829
+Ankit Shukla: as every product manager, to understand that the value that they bring to their team is clarity. Clarity of what needs to be done, when it needs to be done, why it needs to be done, and these kind of things.
+
+131
+00:22:25.190 --> 00:22:38.270
+Ankit Shukla: Right? So this is clarity. And one… and there are multiple ways in which they can give clarity. So can you guys tell me, in the chat, what are the various ways in which a product manager can give clarity to their teams?
+
+132
+00:23:09.820 --> 00:23:10.600
+Ankit Shukla: Yes.
+
+133
+00:23:27.500 --> 00:23:28.440
+Ankit Shukla: Very good.
+
+134
+00:23:28.900 --> 00:23:31.310
+Ankit Shukla: So, in terms of clarity, what will happen is…
+
+135
+00:23:35.350 --> 00:23:38.620
+Ankit Shukla: There are multiple kinds of documents that you can create. The first
+
+136
+00:23:39.180 --> 00:23:43.730
+Ankit Shukla: Like, the very easiest method to get clarity is… meetings.
+
+137
+00:23:45.800 --> 00:23:48.610
+Ankit Shukla: Or… Communication.
+
+138
+00:23:50.710 --> 00:23:56.729
+Ankit Shukla: But communication and meetings could be a big time killer for your teams. If you're not structuring them well.
+
+139
+00:23:57.130 --> 00:24:01.369
+Ankit Shukla: Then what will happen? You will keep on doing the meetings, people still will not get the clarity.
+
+140
+00:24:01.580 --> 00:24:05.890
+Ankit Shukla: Right? So, apart from all the meetings and communications are important.
+
+141
+00:24:06.090 --> 00:24:12.070
+Ankit Shukla: Apart from just doing meetings and communication and brainstorming, you need to have some kind of documentation right.
+
+142
+00:24:13.320 --> 00:24:16.610
+Ankit Shukla: documentation, or I would call it as an artifact.
+
+143
+00:24:20.480 --> 00:24:21.390
+Ankit Shukla: Right?
+
+144
+00:24:21.820 --> 00:24:23.480
+Ankit Shukla: And then what happens is…
+
+145
+00:24:25.610 --> 00:24:31.379
+Ankit Shukla: Here, we can create multiple documents. One document, one high-level document that you can create is a product.
+
+146
+00:24:31.570 --> 00:24:32.430
+Ankit Shukla: Roadmap.
+
+147
+00:24:34.300 --> 00:24:46.289
+Ankit Shukla: Right? Which gives clarity to some of the customers, which gives clarity to your salespeople, marketing people, team, as in, this is what we are trying to do, so that they can manage their time, and they can get the clarity.
+
+148
+00:24:46.850 --> 00:24:52.500
+Ankit Shukla: Right? In B2B, there are even companies which make their product roadmaps public.
+
+149
+00:24:53.110 --> 00:25:00.510
+Ankit Shukla: So that, if they do not have a feature today, and if they're trying to develop it tomorrow, customers can see that this will come, so I can go ahead and join this platform.
+
+150
+00:25:01.190 --> 00:25:06.040
+Ankit Shukla: Right? So there is a product roadmap, there is a PRD,
+
+151
+00:25:06.370 --> 00:25:17.440
+Ankit Shukla: Which can be divided into user stories, you can also create personas, you can also share journey, to make sure that your team is able to go ahead and
+
+152
+00:25:18.750 --> 00:25:22.580
+Ankit Shukla: So that your team is able to go ahead and
+
+153
+00:25:23.170 --> 00:25:25.580
+Ankit Shukla: Bring everyone on the same page.
+
+154
+00:25:25.940 --> 00:25:36.309
+Ankit Shukla: Right? And they can also empathize with the users. Otherwise, if there is opaqueness in the product management process, it's very difficult to go ahead and get anything done.
+
+155
+00:25:38.080 --> 00:25:44.799
+Ankit Shukla: Right? So this is about clarity, and you need to give clarity, and that is also the purpose of a product roadmap.
+
+156
+00:25:44.920 --> 00:25:49.170
+Ankit Shukla: Right? So how do you create a product roadmap like this?
+
+157
+00:25:50.070 --> 00:25:54.449
+Ankit Shukla: How do you create a product roadmap? So, first of all, we have answered this.
+
+158
+00:25:58.450 --> 00:26:00.179
+Ankit Shukla: Why do we need a product roadmap?
+
+159
+00:26:00.680 --> 00:26:06.530
+Ankit Shukla: The first is… It will help you align the internal teams and plan resources.
+
+160
+00:26:07.690 --> 00:26:09.910
+Ankit Shukla: Right? So that they can plan well.
+
+161
+00:26:10.130 --> 00:26:15.699
+Ankit Shukla: Second is, it will ensure that the vision and strategy are executed in the right direction.
+
+162
+00:26:15.810 --> 00:26:22.320
+Ankit Shukla: So that you have the clarity for yourself that, boss, whatever was the goal of the company, whatever was the team goal.
+
+163
+00:26:22.430 --> 00:26:27.020
+Ankit Shukla: With these steps, we are going to move forward in the same, and these steps are feature development.
+
+164
+00:26:27.480 --> 00:26:32.630
+Ankit Shukla: Right? And the last part is to communicate to external stakeholders
+
+165
+00:26:33.260 --> 00:26:36.839
+Ankit Shukla: Which could be your customers, your investors, or anyone.
+
+166
+00:26:39.090 --> 00:26:41.159
+Ankit Shukla: Right? As in, what is about to come.
+
+167
+00:26:42.090 --> 00:26:48.139
+Ankit Shukla: So, product roadmaps are essential part of planning, and how do you create a product roadmap?
+
+168
+00:26:49.250 --> 00:26:51.020
+Ankit Shukla: Although this is simple.
+
+169
+00:26:52.130 --> 00:27:00.970
+Ankit Shukla: But understand, there is a lot of work that goes into researching, discovery, in order to build a solid product roadmap.
+
+170
+00:27:02.270 --> 00:27:03.040
+Ankit Shukla: Right?
+
+171
+00:27:03.790 --> 00:27:07.380
+Ankit Shukla: Steps to create a product roadmap. Number one.
+
+172
+00:27:07.520 --> 00:27:15.269
+Ankit Shukla: Start with the goals. So, in the strategy, you might have gone some kind of goals. The goals could be, we need this kind of market share.
+
+173
+00:27:15.520 --> 00:27:22.220
+Ankit Shukla: Or, we need to get adoption for, maybe, from these many users. There could be any kind of goals.
+
+174
+00:27:22.490 --> 00:27:23.310
+Ankit Shukla: Right?
+
+175
+00:27:23.650 --> 00:27:25.060
+Ankit Shukla: The second part is.
+
+176
+00:27:25.560 --> 00:27:36.990
+Ankit Shukla: you have to plan initiatives. Now, how would you plan initiatives? Tell me in the chat, guys, how do you plan initiatives, like the multiple items that you are going to write in the roadmap, how would you plan them?
+
+177
+00:27:39.250 --> 00:27:45.160
+Ankit Shukla: We have already talked about this multiple times. Tell me, how would you plan the initiatives for your roadmap?
+
+178
+00:27:45.530 --> 00:27:49.690
+Ankit Shukla: We have already told you enough things. Going forward, there would be more interactions.
+
+179
+00:27:57.960 --> 00:28:01.980
+Ankit Shukla: Yeah, we are talking about planning the initiatives, guys, we are not talking about prioritizing right now.
+
+180
+00:28:02.110 --> 00:28:04.140
+Ankit Shukla: How would you get the ideas to build?
+
+181
+00:28:23.010 --> 00:28:27.330
+Ankit Shukla: Yes. So while you are creating this product strategy and doing the brainstorming.
+
+182
+00:28:27.690 --> 00:28:43.980
+Ankit Shukla: You people might have talked to the users, you have implemented MOM's test, you have gone ahead and understood their jobs to be done, you have done the quantitative analysis, you have looked at some data, primary or secondary, that is available, you have done the brainstorming with your team, and then you are ready with a list of ideas.
+
+183
+00:28:45.030 --> 00:28:52.379
+Ankit Shukla: Right? This planning initiative has to happen at your end, and every company would have different kinds of plans and initiatives that they want to move.
+
+184
+00:28:53.580 --> 00:28:54.410
+Ankit Shukla: Right?
+
+185
+00:28:54.710 --> 00:28:57.839
+Ankit Shukla: The third is prioritize and sequence.
+
+186
+00:28:58.710 --> 00:29:04.220
+Ankit Shukla: Prioritize and sequence means… Now, Remember that as a product manager.
+
+187
+00:29:04.460 --> 00:29:06.790
+Ankit Shukla: You cannot do everything at once.
+
+188
+00:29:06.980 --> 00:29:11.270
+Ankit Shukla: You can do anything if your team is good, but you cannot do everything.
+
+189
+00:29:11.610 --> 00:29:16.050
+Ankit Shukla: As a product manager, you need to make sure that you are able to
+
+190
+00:29:16.310 --> 00:29:21.690
+Ankit Shukla: As a product manager, you need to make sure that you are able to prioritize the right stuff.
+
+191
+00:29:22.470 --> 00:29:25.669
+Ankit Shukla: You don't have to build everything. Focus is the key.
+
+192
+00:29:26.900 --> 00:29:32.909
+Ankit Shukla: Right? So, you have to prioritize and sequence. How do you prioritize? There are multiple methods of prioritization.
+
+193
+00:29:33.140 --> 00:29:35.649
+Ankit Shukla: Okay, which I'm going to talk about in today's session.
+
+194
+00:29:36.070 --> 00:29:42.730
+Ankit Shukla: Right? And then you are going to sequence, as in… this is a prioritization based on this. This is the sequencing of items that we are going to go ahead and take.
+
+195
+00:29:44.290 --> 00:29:46.099
+Ankit Shukla: Right? After this.
+
+196
+00:29:46.570 --> 00:29:52.320
+Ankit Shukla: we are going to have some kind of guardrails. Guard rails as in, here we have started with some kind of goals.
+
+197
+00:29:54.080 --> 00:30:02.049
+Ankit Shukla: Right? We have started with a goal, that we will… Get to 1,000 users.
+
+198
+00:30:02.380 --> 00:30:04.229
+Ankit Shukla: for our SaaS,
+
+199
+00:30:08.750 --> 00:30:09.560
+Ankit Shukla: Right?
+
+200
+00:30:10.270 --> 00:30:14.189
+Ankit Shukla: Now we have got… if we want to get to 1,000 users for our SaaS app.
+
+201
+00:30:15.230 --> 00:30:17.110
+Ankit Shukla: The app is already created.
+
+202
+00:30:17.450 --> 00:30:24.760
+Ankit Shukla: The only feature, additional feature, that we are looking to make in order to grow this product to more than, like, 10… 1,000 users more.
+
+203
+00:30:24.880 --> 00:30:25.740
+Ankit Shukla: Is?
+
+204
+00:30:26.040 --> 00:30:29.099
+Ankit Shukla: We have created an initiative called as Referrals.
+
+205
+00:30:32.460 --> 00:30:35.450
+Ankit Shukla: Right? We have a… we are going to create…
+
+206
+00:30:35.830 --> 00:30:42.109
+Ankit Shukla: a feature called as referrals. We might have brainstormed multiple features, but eventually we have prioritized that referrals are going to be the good thing.
+
+207
+00:30:42.710 --> 00:30:45.399
+Ankit Shukla: Now that we have created referrals.
+
+208
+00:30:45.670 --> 00:30:49.019
+Ankit Shukla: How do we know if referrals are actually contributing to this?
+
+209
+00:30:51.210 --> 00:30:55.080
+Ankit Shukla: Right? So what we'll do is, we'll create a small user journey. That…
+
+210
+00:31:00.370 --> 00:31:04.069
+Ankit Shukla: So… A referral is the feature.
+
+211
+00:31:05.870 --> 00:31:12.680
+Ankit Shukla: The main goal is… Increase… Sign-ups.
+
+212
+00:31:14.060 --> 00:31:17.009
+Ankit Shukla: But… Increasing sign-up.
+
+213
+00:31:17.520 --> 00:31:18.480
+Ankit Shukla: Isa?
+
+214
+00:31:19.600 --> 00:31:20.870
+Ankit Shukla: Long-term goal.
+
+215
+00:31:21.120 --> 00:31:22.700
+Ankit Shukla: It is the ultimate goal.
+
+216
+00:31:23.100 --> 00:31:32.399
+Ankit Shukla: Right? In order to measure whether it is happening because of this feature or not, you are going to break down this feature. So whenever you create a referral, there are multiple screens
+
+217
+00:31:32.530 --> 00:31:34.350
+Ankit Shukla: That the user has to go through.
+
+218
+00:31:34.650 --> 00:31:36.270
+Ankit Shukla: Number one is screeners.
+
+219
+00:31:39.240 --> 00:31:45.660
+Ankit Shukla: Finding… referral… Plans.
+
+220
+00:31:46.270 --> 00:31:54.690
+Ankit Shukla: they need to find in the mobile, in their app, that there is a referral plan that this company gives. So, discovery of the referral plan.
+
+221
+00:31:55.370 --> 00:32:04.680
+Ankit Shukla: Second is… They need to… understand The referral plan?
+
+222
+00:32:06.340 --> 00:32:10.480
+Ankit Shukla: Third is… They need to participate.
+
+223
+00:32:12.110 --> 00:32:14.670
+Ankit Shukla: And invite people to the referral plan?
+
+224
+00:32:15.430 --> 00:32:22.460
+Ankit Shukla: And fourth is, the other person who's actually inviting people has to Accept invitations.
+
+225
+00:32:25.570 --> 00:32:29.889
+Ankit Shukla: Right? So these are the four screens that people might be going through at a high level.
+
+226
+00:32:30.530 --> 00:32:33.490
+Ankit Shukla: Now, what you will do is, you will measure
+
+227
+00:32:33.910 --> 00:32:37.249
+Ankit Shukla: The engagement of all of these screens.
+
+228
+00:32:37.800 --> 00:32:42.200
+Ankit Shukla: For example, You created a fantastic referral program.
+
+229
+00:32:43.080 --> 00:32:52.330
+Ankit Shukla: Right? But in that program, you observe that not a lot of people are actually signing up. You got maybe 5-10 sign-ups, but not a lot.
+
+230
+00:32:52.590 --> 00:32:55.739
+Ankit Shukla: So rather than calling your referral program a failure.
+
+231
+00:32:56.020 --> 00:33:11.530
+Ankit Shukla: What you will do is, you will observe carefully that are people not aware? It might be possible that you have created a wonderful referral program, but it is hidden somewhere in the user profile where it is written, that refer a friend, and then people are not able to find it, so people are not using it.
+
+232
+00:33:11.790 --> 00:33:14.210
+Ankit Shukla: Other could be that it is visible.
+
+233
+00:33:14.390 --> 00:33:18.100
+Ankit Shukla: But your language is so confusing that people are not able to understand.
+
+234
+00:33:19.090 --> 00:33:25.680
+Ankit Shukla: Right? Similarly, third could be that your incentives that you're offering for referrals are not good enough for the users.
+
+235
+00:33:26.500 --> 00:33:33.689
+Ankit Shukla: Right? So you are going to go through all of these, and for each of these screens, maybe you will measure engagement in the form of…
+
+236
+00:33:34.420 --> 00:33:36.010
+Ankit Shukla: Page views.
+
+237
+00:33:37.060 --> 00:33:38.970
+Ankit Shukla: So that you are able to understand
+
+238
+00:33:39.480 --> 00:33:41.999
+Ankit Shukla: what is happening over here? Page views?
+
+239
+00:33:42.360 --> 00:33:47.099
+Ankit Shukla: How many people are viewing this page, and the conversion rate from one page to other page.
+
+240
+00:33:48.560 --> 00:33:51.929
+Ankit Shukla: Right? A quick yes or no, everyone, if you're able to understand this.
+
+241
+00:33:52.600 --> 00:33:56.899
+Ankit Shukla: This is how we have taken a problem, and we have break it down into small parts.
+
+242
+00:34:06.590 --> 00:34:07.420
+Ankit Shukla: Yes.
+
+243
+00:34:07.930 --> 00:34:12.790
+Ankit Shukla: And then, for every, like, in this fourth step, we will have these kind of
+
+244
+00:34:12.929 --> 00:34:24.169
+Ankit Shukla: measurement, that how much traffic is coming on every website, what is the bounce rate, what is the conversion rate to going to the next page, right? Then you will understand that, yes, whether these pages are working or not.
+
+245
+00:34:24.909 --> 00:34:32.409
+Ankit Shukla: Right? And then, you are going to put the timelines. Whenever you prioritize everything, you have the guardrails and measurement and everything.
+
+246
+00:34:32.530 --> 00:34:35.730
+Ankit Shukla: Then you are going to put timelines and communicate it to the team.
+
+247
+00:34:35.989 --> 00:34:46.270
+Ankit Shukla: Putting timeline means you are going to put it together either in a spreadsheet or a sophisticated software, where you will write the deadline or estimated deadline, and then you are going to write your initiatives.
+
+248
+00:34:47.670 --> 00:34:51.020
+Ankit Shukla: Right? And then, you are going to communicate this to the team.
+
+249
+00:34:51.199 --> 00:34:53.409
+Ankit Shukla: A very, very important part, everyone.
+
+250
+00:34:54.750 --> 00:34:56.229
+Ankit Shukla: This is…
+
+251
+00:34:57.960 --> 00:35:08.819
+Ankit Shukla: a team initiative. Do not think that as a product manager, I will sit in a room, and then I'm going to do these things by myself.
+
+252
+00:35:09.660 --> 00:35:15.229
+Ankit Shukla: Structuring everything is the purpose of a… like, structuring everything, putting everything on the…
+
+253
+00:35:16.640 --> 00:35:19.500
+Ankit Shukla: On the same page can be done by the product manager.
+
+254
+00:35:20.060 --> 00:35:24.039
+Ankit Shukla: But… Goals have to be aligned with the leadership.
+
+255
+00:35:24.410 --> 00:35:27.750
+Ankit Shukla: Initiatives have to be aligned with the leadership and your team.
+
+256
+00:35:27.960 --> 00:35:42.450
+Ankit Shukla: Prioritization and sequencing will take major input from the marketing, sales, legal, and the tech team as well, and design team as well. Okay, for guardrail and measuring, you need to have conversation with your data team to understand whether it can happen or not, similarly with the engineering team.
+
+257
+00:35:43.600 --> 00:35:48.309
+Ankit Shukla: Right? And also, if something is not working, your copywriting team, marketing team will also work.
+
+258
+00:35:48.840 --> 00:36:00.829
+Ankit Shukla: Right? So please understand that this is a team initiative, and in the end of the session, maybe today or maybe on the Saturday, I'm also going to give you some advice on working as
+
+259
+00:36:00.970 --> 00:36:03.379
+Ankit Shukla: Working with various kind of stakeholders.
+
+260
+00:36:04.440 --> 00:36:09.080
+Ankit Shukla: Right? So this is… How do you create a product roadmap?
+
+261
+00:36:09.570 --> 00:36:15.139
+Ankit Shukla: Now, one thing… The question has also been asked by Bajuri in the chat.
+
+262
+00:36:15.700 --> 00:36:17.499
+Ankit Shukla: Now, guys, always understand.
+
+263
+00:36:18.890 --> 00:36:22.930
+Ankit Shukla: roadmaps… Change.
+
+264
+00:36:23.890 --> 00:36:28.229
+Ankit Shukla: Don't think that if you have planned so much, you have to stick to this roadmap.
+
+265
+00:36:29.030 --> 00:36:33.780
+Ankit Shukla: Right? The purpose of the roadmap is to deliver value to the customer.
+
+266
+00:36:34.400 --> 00:36:38.660
+Ankit Shukla: And with time, The definition of this value changes.
+
+267
+00:36:39.950 --> 00:36:40.800
+Ankit Shukla: Right?
+
+268
+00:36:41.020 --> 00:36:42.260
+Ankit Shukla: Imagine this.
+
+269
+00:36:42.680 --> 00:36:47.240
+Ankit Shukla: If… you use ChatGPT in 2022,
+
+270
+00:36:47.980 --> 00:36:50.820
+Ankit Shukla: And if you ask it to write a piece of code.
+
+271
+00:36:51.170 --> 00:36:57.850
+Ankit Shukla: And if it is able to write maybe 40% good, like, good kind of code for you, you are so happy.
+
+272
+00:36:58.580 --> 00:37:12.239
+Ankit Shukla: But now, you want ChatGPT, or any other AI tool, to take a prompt, like a simple one-line prompt, and create the whole website, deploy the website, and also tell you how to get the traffic from the same. And still, you might not be happy.
+
+273
+00:37:12.360 --> 00:37:20.990
+Ankit Shukla: Right? So user expectations changes, and that is why you have to be agile in your roadmap, and also the market conditions changes.
+
+274
+00:37:22.670 --> 00:37:31.100
+Ankit Shukla: Right? The market conditions changes. For example, Amazon and Flipkart were fighting in India, for…
+
+275
+00:37:32.510 --> 00:37:51.740
+Ankit Shukla: the Tier 1 audience that they are focusing on. They thought that every business follows a certain kind of trend that initially Tier 1 will adopt, and slowly, slowly, when the education becomes more prominent, when people get more debit and credit cards, people get more online accounts, then eventually people will go ahead and maybe become
+
+276
+00:37:52.460 --> 00:38:04.769
+Ankit Shukla: the Tier 2, 3 cities people are also going to go ahead and adopt Amazon and Flipkart. But then a new startup called as Michio came, and it was able to take the whole market share from these companies from Tier 2 and Tier 3.
+
+277
+00:38:05.200 --> 00:38:10.209
+Ankit Shukla: Right? So understand, things change. You have to be agile in your roadmap. Now.
+
+278
+00:38:10.320 --> 00:38:21.540
+Ankit Shukla: Amazon is launching something for the Tier 1, Tier 2 cities, and Flipkart is also going ahead and doing something called as ShopO or something in order to capture that audience, right? So all the roadmaps change.
+
+279
+00:38:21.730 --> 00:38:23.300
+Ankit Shukla: Always remember, guys.
+
+280
+00:38:27.870 --> 00:38:29.900
+Ankit Shukla: Always remember that
+
+281
+00:38:34.700 --> 00:38:43.140
+Ankit Shukla: plan, Planning is more… Important than the plan.
+
+282
+00:38:44.970 --> 00:38:45.750
+Ankit Shukla: Right?
+
+283
+00:38:46.000 --> 00:38:49.200
+Ankit Shukla: Planning is more important, because when you are doing the planning.
+
+284
+00:38:49.580 --> 00:38:51.909
+Ankit Shukla: You bring everyone on the same page.
+
+285
+00:38:52.260 --> 00:39:01.520
+Ankit Shukla: Then you try to understand, then you try to think critically from their perspective, from customer perspective, from business perspective, so that you are not blindsided.
+
+286
+00:39:01.740 --> 00:39:05.569
+Ankit Shukla: Right? Planning is more important than plans.
+
+287
+00:39:06.860 --> 00:39:09.959
+Ankit Shukla: If you fail to plan, you are planning to fail.
+
+288
+00:39:10.530 --> 00:39:14.059
+Ankit Shukla: Planning is a super important part of a product manager's job.
+
+289
+00:39:16.260 --> 00:39:21.420
+Ankit Shukla: Right? So, roadmaps… Roadmaps?
+
+290
+00:39:21.780 --> 00:39:23.050
+Ankit Shukla: can change.
+
+291
+00:39:23.460 --> 00:39:29.419
+Ankit Shukla: But whenever you are changing the roadmap, just don't communicate to your team that now we are changing the roadmap.
+
+292
+00:39:29.660 --> 00:39:32.880
+Ankit Shukla: You have to tell them that we are changing the roadmap.
+
+293
+00:39:33.180 --> 00:39:45.259
+Ankit Shukla: And this is the reason why we are changing the roadmap. Or you can tell them in a different way that this is the new things that we have been able to find in the market, what are your thoughts on the same? At least with the leaders, and then suggest
+
+294
+00:39:45.410 --> 00:39:50.220
+Ankit Shukla: What could be the change in roadmap in order to address these new inputs?
+
+295
+00:39:51.000 --> 00:39:51.820
+Ankit Shukla: Right?
+
+296
+00:39:54.540 --> 00:39:56.550
+Ankit Shukla: A quick yes or no in the chat.
+
+297
+00:39:57.220 --> 00:40:00.959
+Ankit Shukla: If you are able to understand this. The agility of a roadmap, this is super important.
+
+298
+00:40:12.470 --> 00:40:13.300
+Ankit Shukla: Yes.
+
+299
+00:40:15.450 --> 00:40:18.670
+Ankit Shukla: Now, after doing all of these things, like prioritization and every stuff.
+
+300
+00:40:19.440 --> 00:40:24.729
+Ankit Shukla: You will eventually have a list of items that you can do, and that might be called as your
+
+301
+00:40:27.320 --> 00:40:28.490
+Ankit Shukla: roadmaps.
+
+302
+00:40:28.910 --> 00:40:29.760
+Ankit Shukla: Right.
+
+303
+00:40:30.560 --> 00:40:33.610
+Ankit Shukla: Now… No.
+
+304
+00:40:36.070 --> 00:40:38.280
+Ankit Shukla: A common situation that happens is.
+
+305
+00:40:38.770 --> 00:40:47.090
+Ankit Shukla: And listen to this carefully, just a very common situation, it is also asked in interviews, and you will face it n number of times in your job as a product manager, okay?
+
+306
+00:40:47.400 --> 00:40:56.750
+Ankit Shukla: The situation is… The salesperson comes to you, And they tell you.
+
+307
+00:40:57.660 --> 00:41:03.200
+Ankit Shukla: Sales, or you can consider any other stakeholders, where the requirement comes at the last moment.
+
+308
+00:41:04.670 --> 00:41:08.769
+Ankit Shukla: What they tell you is, that we have a customer see.
+
+309
+00:41:11.620 --> 00:41:15.470
+Ankit Shukla: And this customer is demanding this feature.
+
+310
+00:41:21.090 --> 00:41:23.109
+Ankit Shukla: And the customer's demanding this feature.
+
+311
+00:41:24.400 --> 00:41:26.950
+Ankit Shukla: What should you do in this scenario?
+
+312
+00:41:29.210 --> 00:41:39.450
+Ankit Shukla: Right? Everyone, think about this situation for a moment, that there is a salesperson who's telling you that there is a customer who needs this particular feature.
+
+313
+00:41:39.940 --> 00:41:41.689
+Ankit Shukla: And you already have a roadmap.
+
+314
+00:41:42.190 --> 00:41:45.090
+Ankit Shukla: What would you do as a product manager?
+
+315
+00:41:45.740 --> 00:41:49.040
+Ankit Shukla: Think about this and tell me in the chat. Take 2 minutes, that's okay.
+
+316
+00:41:49.460 --> 00:41:53.029
+Ankit Shukla: I'll give you 2 minutes to think about this, and then articulate it in the chat.
+
+317
+00:43:56.970 --> 00:43:58.760
+Ankit Shukla: Yes. Interesting.
+
+318
+00:43:59.180 --> 00:44:04.000
+Ankit Shukla: So many of you have came up with some really good insights and pointers.
+
+319
+00:44:05.210 --> 00:44:07.540
+Ankit Shukla: First of all, before I could give you the answer.
+
+320
+00:44:07.650 --> 00:44:09.989
+Ankit Shukla: Let me… before I could give you the right answer.
+
+321
+00:44:10.400 --> 00:44:16.499
+Ankit Shukla: Let me give you the wrong answer. What is the absolutely wrong piece of thing that you can say in this particular scene?
+
+322
+00:44:17.710 --> 00:44:20.390
+Ankit Shukla: What happens is, and unfortunately this happens
+
+323
+00:44:20.820 --> 00:44:23.290
+Ankit Shukla: More often than people give the right answers.
+
+324
+00:44:24.370 --> 00:44:26.740
+Ankit Shukla: The situation is that a salesperson
+
+325
+00:44:26.870 --> 00:44:31.450
+Ankit Shukla: Tells you that a customer needs this feature, and we need to get this built, right?
+
+326
+00:44:32.310 --> 00:44:37.160
+Ankit Shukla: The worst answer is… You will go ahead and check the team bandwidth.
+
+327
+00:44:42.920 --> 00:44:43.780
+Ankit Shukla: Right?
+
+328
+00:44:44.180 --> 00:44:48.930
+Ankit Shukla: If the team is available, You will say yes.
+
+329
+00:44:49.420 --> 00:44:51.249
+Ankit Shukla: If the team is not available.
+
+330
+00:44:52.110 --> 00:44:58.390
+Ankit Shukla: you will say no. That's it. And unfortunately, this happens in more scenarios than we can imagine.
+
+331
+00:44:59.020 --> 00:45:04.180
+Ankit Shukla: This typically is called as… a project?
+
+332
+00:45:06.250 --> 00:45:09.380
+Ankit Shukla: manager, mindset.
+
+333
+00:45:10.050 --> 00:45:14.780
+Ankit Shukla: Why? Because the purpose of a project manager is to manage the resources.
+
+334
+00:45:14.970 --> 00:45:16.650
+Ankit Shukla: People are resources for them.
+
+335
+00:45:17.500 --> 00:45:20.900
+Ankit Shukla: Right? So they will take every call on the basis of
+
+336
+00:45:21.110 --> 00:45:23.620
+Ankit Shukla: whether I have people or not to do this.
+
+337
+00:45:24.080 --> 00:45:26.850
+Ankit Shukla: They do not care about the impact or anything else.
+
+338
+00:45:28.640 --> 00:45:33.779
+Ankit Shukla: Right? But you are not a project manager. You are a product manager.
+
+339
+00:45:34.360 --> 00:45:43.150
+Ankit Shukla: So what you can do is… First is… If there is a salesperson, Who's asking the customers?
+
+340
+00:45:43.550 --> 00:45:49.709
+Ankit Shukla: for… was… taken a feature request from the customer. What you should do is, number one step is.
+
+341
+00:45:50.390 --> 00:45:56.459
+Ankit Shukla: Understand, always when someone is talking about features, Future generally means a solution.
+
+342
+00:45:59.990 --> 00:46:07.930
+Ankit Shukla: Right? And I've told you multiple times that customers are not the best person to tell you about the solutions. They are the best people to tell you about the problems.
+
+343
+00:46:08.120 --> 00:46:14.019
+Ankit Shukla: Okay, so then you try to have a conversation either directly with the customers, Or with the salesperson.
+
+344
+00:46:14.240 --> 00:46:19.580
+Ankit Shukla: In order to understand what is the problem behind this solution.
+
+345
+00:46:22.520 --> 00:46:27.900
+Ankit Shukla: What is the… Problem behind this solution.
+
+346
+00:46:28.700 --> 00:46:34.750
+Ankit Shukla: Right? Once you've understood that, yes, there is a problem, or set of problems, you have to understand
+
+347
+00:46:36.790 --> 00:46:41.600
+Ankit Shukla: The importance of this problem Not only for this user.
+
+348
+00:46:41.820 --> 00:46:43.840
+Ankit Shukla: But also for other users.
+
+349
+00:46:44.140 --> 00:46:54.299
+Ankit Shukla: If you are a service-based company, where a client gives you the requirements and you have to do it, then you have no options, you have to build it, right? But if you are a product-based company.
+
+350
+00:46:54.460 --> 00:47:05.050
+Ankit Shukla: Where you focus less on customization and more on standardization, so that you are able to create a scalable product, then you have to make sure that this problem is being faced by N number of people.
+
+351
+00:47:05.740 --> 00:47:19.089
+Ankit Shukla: Right? So then you have understood the importance of the problem, the scale of the problem, how many people might be affected with this problem now or in the future. And it might be possible that you could have gone ahead and got an interesting
+
+352
+00:47:19.340 --> 00:47:28.140
+Ankit Shukla: problem. So you should thank the user that, yes, you were able to get a very interesting problem that your team might not… was not able to think of, right? So you'll understand the importance.
+
+353
+00:47:28.430 --> 00:47:32.840
+Ankit Shukla: Now, after understanding the importance, You will go ahead and look at
+
+354
+00:47:35.130 --> 00:47:42.640
+Ankit Shukla: what could be the other solution? So, he has, like, this person has given you one solution, but now what you will do is…
+
+355
+00:47:45.370 --> 00:47:47.840
+Ankit Shukla: But now what you will do is, you will try to figure out.
+
+356
+00:47:47.950 --> 00:47:50.810
+Ankit Shukla: What could be the other solutions for this?
+
+357
+00:47:51.330 --> 00:47:57.070
+Ankit Shukla: What are better optimized for your company, for the users, for the resources, and everything? So you will do the brainstorming.
+
+358
+00:47:59.180 --> 00:48:07.110
+Ankit Shukla: Right? So, problem intensity frequency is something that you can look at here, right? So now, you have a problem and a solution.
+
+359
+00:48:07.670 --> 00:48:09.929
+Ankit Shukla: Which is very, very clearly defined.
+
+360
+00:48:10.190 --> 00:48:18.110
+Ankit Shukla: that this is what we are going to do. Now, still now also, you are not going to develop it. What you will do is, this is the most important part.
+
+361
+00:48:21.870 --> 00:48:23.509
+Ankit Shukla: You have your roadmap.
+
+362
+00:48:24.960 --> 00:48:32.150
+Ankit Shukla: Point number 1, point number two, point number three, point number four, point number five in the roadmap. You are going to take this new initiative called SX,
+
+363
+00:48:32.950 --> 00:48:36.170
+Ankit Shukla: You are going to compare it with all of the things that are out there.
+
+364
+00:48:37.510 --> 00:48:46.310
+Ankit Shukla: And then you are going to find a place for this feature in this. It might be possible that you have done a great job, like, your customer has actually told you a good, interesting feature.
+
+365
+00:48:46.830 --> 00:48:50.219
+Ankit Shukla: But this thing does not fit in the roadmap.
+
+366
+00:48:50.550 --> 00:48:54.450
+Ankit Shukla: Because it is impactful, but less impactful
+
+367
+00:48:54.790 --> 00:48:57.310
+Ankit Shukla: Then, other items that are already in the roadmap.
+
+368
+00:49:00.230 --> 00:49:06.679
+Ankit Shukla: Right? So understand, Whether you should do this in the… like, whether you should implement this or not.
+
+369
+00:49:07.960 --> 00:49:16.159
+Ankit Shukla: It depends on the context of the company. If the company's already working on some major stuff, then you might not take it, you will park it for later.
+
+370
+00:49:16.340 --> 00:49:21.770
+Ankit Shukla: But if the company thinks that, yes, this is a good enough initiative, then you are going to fit it in the roadmap.
+
+371
+00:49:23.410 --> 00:49:26.880
+Ankit Shukla: Right? Then you are going to go ahead and fit this in the roadmap.
+
+372
+00:49:28.210 --> 00:49:30.130
+Ankit Shukla: Right? Sometimes what happens?
+
+373
+00:49:30.940 --> 00:49:33.780
+Ankit Shukla: If the customer is very important for you.
+
+374
+00:49:33.980 --> 00:49:36.830
+Ankit Shukla: And you cannot do this, then you have to take a difficult call.
+
+375
+00:49:36.940 --> 00:49:39.749
+Ankit Shukla: Of either telling the customer that we cannot do this.
+
+376
+00:49:40.180 --> 00:49:49.739
+Ankit Shukla: Or you have to give an intermediate solution to the customer. That this is how, this is, like, a small thing that you can do in order to work around this problem, in the meanwhile.
+
+377
+00:49:50.810 --> 00:50:01.469
+Ankit Shukla: Right? The most important part here is not this, because understand, I'm sure you guys have learned enough right now that you'll be able to always focus on the problem than the solution. The important part is this.
+
+378
+00:50:02.030 --> 00:50:06.579
+Ankit Shukla: You have to always keep the roadmaps image in your mind.
+
+379
+00:50:07.070 --> 00:50:10.080
+Ankit Shukla: So that you are able to take a better strategic call.
+
+380
+00:50:11.640 --> 00:50:12.420
+Ankit Shukla: Right?
+
+381
+00:50:12.580 --> 00:50:18.310
+Ankit Shukla: A very big mistake that people make is they consider every problem and solution in silo.
+
+382
+00:50:18.520 --> 00:50:20.910
+Ankit Shukla: And then, whenever a new idea comes to them.
+
+383
+00:50:21.070 --> 00:50:31.319
+Ankit Shukla: They go ahead and suffer from something called as the shiny… Object syndrome.
+
+384
+00:50:32.080 --> 00:50:34.990
+Ankit Shukla: Can anyone tell me in the chat what is a shiny object syndrome?
+
+385
+00:50:44.460 --> 00:50:52.479
+Ankit Shukla: Yes, the destruction of the next new thing, right? So going beyond something that looks very interesting, and forgetting about the bigger picture, and what do you need to do.
+
+386
+00:50:52.710 --> 00:50:57.400
+Ankit Shukla: Right? So having this image of product roadmap is going to help you prioritize better.
+
+387
+00:50:58.350 --> 00:51:01.629
+Ankit Shukla: Right? A quick yes on everyone, if how would you solve this problem?
+
+388
+00:51:03.100 --> 00:51:06.189
+Ankit Shukla: Yes, one advice is understand, guys.
+
+389
+00:51:06.580 --> 00:51:09.080
+Ankit Shukla: If your salesperson or your CEO comes to you.
+
+390
+00:51:09.600 --> 00:51:12.400
+Ankit Shukla: But if you're taking a lot of time in order to do this.
+
+391
+00:51:13.900 --> 00:51:25.280
+Ankit Shukla: And if you're also coming with the same insight that we should build this, then they might not be happy. That I was already telling you this, and now you have told me the same thing after a couple of weeks, right? So what is important for you is
+
+392
+00:51:25.890 --> 00:51:27.789
+Ankit Shukla: What is important for you is.
+
+393
+00:51:28.340 --> 00:51:32.689
+Ankit Shukla: Make sure that you can do all of this process quickly.
+
+394
+00:51:34.970 --> 00:51:43.039
+Ankit Shukla: And that is why you need to invest a lot of time in user research, market research, so that you are able to build a mindset of how your users think.
+
+395
+00:51:43.810 --> 00:51:47.019
+Ankit Shukla: Right? So, as you spend more and more time with your users.
+
+396
+00:51:47.320 --> 00:51:52.760
+Ankit Shukla: Your ability to understand them and take decisions for them very, very quickly will improve.
+
+397
+00:51:53.520 --> 00:51:59.480
+Ankit Shukla: Initially, it might take some time, but eventually, you are going to build that mindset and knowledge on the top of your user base.
+
+398
+00:52:03.680 --> 00:52:13.070
+Ankit Shukla: Right? How do you communicate to people? You can just go ahead and get them on a call, or you can just go ahead and send them an email that… or you can tell them on Jira that this is how we are going to do this.
+
+399
+00:52:13.350 --> 00:52:24.070
+Ankit Shukla: Just have logic. Don't just tell people that this is what you need to do, because I have told you to do so. You have to give them the right kind of logic. You have to show them respect for their initial work.
+
+400
+00:52:28.860 --> 00:52:29.620
+Ankit Shukla: Kuni.
+
+401
+00:52:30.920 --> 00:52:34.680
+Ankit Shukla: Now, talking about some more important parts.
+
+402
+00:52:39.960 --> 00:52:44.889
+Ankit Shukla: Yeah, so I'll cover prioritization in just a moment. Before that, let me cover an important thing.
+
+403
+00:52:45.100 --> 00:52:47.590
+Ankit Shukla: Which is called as OKRs.
+
+404
+00:52:48.550 --> 00:52:53.180
+Ankit Shukla: So… How do you capture the business goals?
+
+405
+00:52:53.750 --> 00:52:55.820
+Ankit Shukla: How do you capture the user goals?
+
+406
+00:52:56.700 --> 00:53:00.149
+Ankit Shukla: Many companies are not able to do what they want to do.
+
+407
+00:53:00.740 --> 00:53:03.879
+Ankit Shukla: Because they do not have the clarity on the goal.
+
+408
+00:53:04.830 --> 00:53:08.879
+Ankit Shukla: They do not have the clarity on the goal.
+
+409
+00:53:09.180 --> 00:53:10.020
+Ankit Shukla: Right?
+
+410
+00:53:11.410 --> 00:53:12.290
+Ankit Shukla: Nope.
+
+411
+00:53:15.270 --> 00:53:17.699
+Ankit Shukla: OKR, or objective or Key Results.
+
+412
+00:53:19.040 --> 00:53:30.140
+Ankit Shukla: Is one of the most popular Goal setting… And alignment frameworks.
+
+413
+00:53:32.340 --> 00:53:34.770
+Ankit Shukla: It is impl… it was started at Intel.
+
+414
+00:53:35.190 --> 00:53:40.880
+Ankit Shukla: And now, it is very common at Google and many other top companies of the world.
+
+415
+00:53:41.100 --> 00:53:48.140
+Ankit Shukla: There are dedicated consulting agencies, which help the companies implement OKRs in their process of goal setting.
+
+416
+00:53:48.930 --> 00:53:55.889
+Ankit Shukla: Right? So OKR is an important part. Most probably, if you are working in a startup, or maybe any modern company, they will give you some kind of OKRs to follow.
+
+417
+00:53:56.170 --> 00:54:00.100
+Ankit Shukla: Right? So what is OKR? OKR is… Objective.
+
+418
+00:54:00.810 --> 00:54:02.320
+Ankit Shukla: and key results.
+
+419
+00:54:03.500 --> 00:54:10.510
+Ankit Shukla: Objectives, and key results. So, OKR is a goal-setting framework
+
+420
+00:54:10.830 --> 00:54:14.250
+Ankit Shukla: To define the ambitious objectives and how to measure them.
+
+421
+00:54:14.660 --> 00:54:16.569
+Ankit Shukla: There are some characteristics.
+
+422
+00:54:17.050 --> 00:54:19.529
+Ankit Shukla: for which we are going to use OKRs.
+
+423
+00:54:19.640 --> 00:54:26.040
+Ankit Shukla: Okay, so Okiaza, They provide a structured way of defining what needs to be done.
+
+424
+00:54:26.570 --> 00:54:30.349
+Ankit Shukla: They provide a structured way of defining what needs to be done, like, in terms of goals.
+
+425
+00:54:30.760 --> 00:54:37.029
+Ankit Shukla: They will mandate objective measurement of the achievement, so that you are not going with solution bias.
+
+426
+00:54:37.150 --> 00:54:40.289
+Ankit Shukla: Right? You will be very objective about your numbers.
+
+427
+00:54:40.750 --> 00:54:49.399
+Ankit Shukla: Then, it enables alignment across teams and avoid conflicts. I'm going to show you how. And then, they enable better collaboration.
+
+428
+00:54:51.130 --> 00:54:53.520
+Ankit Shukla: Right? What do OKFs look like?
+
+429
+00:54:55.080 --> 00:54:57.170
+Ankit Shukla: So, OKR looks like this.
+
+430
+00:54:57.320 --> 00:54:58.110
+Ankit Shukla: Okay.
+
+431
+00:54:58.460 --> 00:55:01.259
+Ankit Shukla: So… Look at this, OKR.
+
+432
+00:55:02.140 --> 00:55:06.549
+Ankit Shukla: At a high level, a company has one objective. The objective is
+
+433
+00:55:07.580 --> 00:55:10.830
+Ankit Shukla: launch our offer in the European market.
+
+434
+00:55:11.270 --> 00:55:15.779
+Ankit Shukla: Which is, we should do the entry in the objective in the European market.
+
+435
+00:55:16.020 --> 00:55:18.400
+Ankit Shukla: Right? Now, this is a bigger objective.
+
+436
+00:55:19.020 --> 00:55:36.149
+Ankit Shukla: How do we achieve this objective? What are the smaller goals that need to be achieved in order to get to the bigger objective? So this is called as an objective O part of the OKR, and what needs to be done in order to achieve this objective is called as key results.
+
+437
+00:55:38.300 --> 00:55:41.050
+Ankit Shukla: What should happen so that this is achieved?
+
+438
+00:55:42.040 --> 00:55:43.479
+Ankit Shukla: So now what we'll do is…
+
+439
+00:55:43.700 --> 00:55:46.270
+Ankit Shukla: there are KR… KRA number one is…
+
+440
+00:55:46.410 --> 00:55:50.529
+Ankit Shukla: 30% of new sales come from Europe.
+
+441
+00:55:51.590 --> 00:55:55.959
+Ankit Shukla: Right? And 50% of our press coverage should be from Europe.
+
+442
+00:55:57.110 --> 00:56:01.710
+Ankit Shukla: Like, so this is… Sales goal, this is the marketing goal.
+
+443
+00:56:02.360 --> 00:56:09.070
+Ankit Shukla: Now, This sales goal Is going to become… is going to be given to the sales team.
+
+444
+00:56:10.020 --> 00:56:12.200
+Ankit Shukla: this KR, this key result.
+
+445
+00:56:12.810 --> 00:56:20.180
+Ankit Shukla: This key result of sales will become the objective of the sales team, and then the sales team will divide
+
+446
+00:56:20.360 --> 00:56:27.219
+Ankit Shukla: the chaos among themselves. So this will become the objective for the sales team, though KR… the KR of the above team.
+
+447
+00:56:27.740 --> 00:56:32.370
+Ankit Shukla: Of the top team will become the objective of the lower team, and then
+
+448
+00:56:32.830 --> 00:56:39.050
+Ankit Shukla: they are also going to define their chaos. So, if a salesperson, if a sales team want to
+
+449
+00:56:39.360 --> 00:56:42.540
+Ankit Shukla: make sure that 30% of the new sales come from Euro.
+
+450
+00:56:43.060 --> 00:56:48.240
+Ankit Shukla: they need to do two things. They first need to recruit three sales associates in Europe.
+
+451
+00:56:48.770 --> 00:56:54.230
+Ankit Shukla: And then they need to get 50% of new sales-qualified lead from Europe.
+
+452
+00:56:54.960 --> 00:56:59.890
+Ankit Shukla: Similarly, the other goal of Similarly, the other goal of…
+
+453
+00:57:00.790 --> 00:57:03.459
+Ankit Shukla: 50% of our press coverage is from Europe.
+
+454
+00:57:05.270 --> 00:57:06.110
+Ankit Shukla: Right?
+
+455
+00:57:06.630 --> 00:57:11.190
+Ankit Shukla: 50% of her press coverage from Europe, this…
+
+456
+00:57:11.570 --> 00:57:13.900
+Ankit Shukla: And these are the other goals.
+
+457
+00:57:16.580 --> 00:57:22.580
+Ankit Shukla: Right? So this is an example of OKR. You can also add timelines in order to make them more concrete.
+
+458
+00:57:23.410 --> 00:57:26.490
+Ankit Shukla: Right? A quick yes or no, everyone, if you're able to understand this.
+
+459
+00:57:41.810 --> 00:57:42.590
+Ankit Shukla: Yes.
+
+460
+00:57:42.910 --> 00:57:51.929
+Ankit Shukla: So… Objectives, Are the high-level goals that you need to achieve.
+
+461
+00:57:53.050 --> 00:57:58.160
+Ankit Shukla: And then… Objectives are divided into steps.
+
+462
+00:57:58.320 --> 00:58:00.089
+Ankit Shukla: Which have their own numbers.
+
+463
+00:58:00.360 --> 00:58:04.370
+Ankit Shukla: to make sure that that objective will be achieved once these KRs are achieved.
+
+464
+00:58:04.810 --> 00:58:16.439
+Ankit Shukla: Right? And then these KRs are divided across the teams, and teams can take their autonomous decisions in order to create their own OKRs for the objective they have been given.
+
+465
+00:58:18.610 --> 00:58:19.530
+Ankit Shukla: Right?
+
+466
+00:58:19.840 --> 00:58:20.840
+Ankit Shukla: No.
+
+467
+00:58:21.640 --> 00:58:26.130
+Ankit Shukla: There are some characteristics that objectives and key results follow.
+
+468
+00:58:26.700 --> 00:58:31.380
+Ankit Shukla: There are some characteristics that objectives and key results follow, right?
+
+469
+00:58:32.230 --> 00:58:37.870
+Ankit Shukla: The characteristics are, the objective should be aligned to the company vision and aligned across the teams.
+
+470
+00:58:38.180 --> 00:58:41.259
+Ankit Shukla: Team should be aware about what their objectives are, right?
+
+471
+00:58:41.820 --> 00:58:45.059
+Ankit Shukla: They should be ambition-inspiring. Now, always remember.
+
+472
+00:58:46.660 --> 00:58:52.090
+Ankit Shukla: That if you are achieving your objectives, every quarter.
+
+473
+00:58:52.270 --> 00:58:56.369
+Ankit Shukla: It means that you are not ambitious enough when you are setting them.
+
+474
+00:58:56.510 --> 00:59:01.640
+Ankit Shukla: So, a general thumb of rule is… rule of thumb is that 70%
+
+475
+00:59:02.960 --> 00:59:06.729
+Ankit Shukla: If your 70% of OKRs are achieved, then you have done a great job.
+
+476
+00:59:07.350 --> 00:59:10.999
+Ankit Shukla: If 70% of your OKRs are achieved, then you have done a great job.
+
+477
+00:59:11.720 --> 00:59:14.519
+Ankit Shukla: Right? And then they need to be specific.
+
+478
+00:59:15.040 --> 00:59:19.080
+Ankit Shukla: They need to be specific. Just entering a new market is not specific.
+
+479
+00:59:19.210 --> 00:59:26.229
+Ankit Shukla: Entering the European market, or even in the European… Europe, we are going to enter this particular country in this period of time, is more specific.
+
+480
+00:59:27.430 --> 00:59:33.889
+Ankit Shukla: Right? So, this will help you in removing the vagueness from the system, and being ambitious at the same time.
+
+481
+00:59:35.230 --> 00:59:36.050
+Ankit Shukla: Right?
+
+482
+00:59:36.300 --> 00:59:39.530
+Ankit Shukla: The second part is, Key results.
+
+483
+00:59:41.750 --> 00:59:44.819
+Ankit Shukla: Now, what could be the key results? The key results here are…
+
+484
+00:59:45.310 --> 00:59:52.820
+Ankit Shukla: The character of key results are, they should be measurable, so that people who are working on them have a sense of progress. They are objective about it.
+
+485
+00:59:53.170 --> 01:00:00.929
+Ankit Shukla: they should be time-bound. In this, you can see that we have not mentioned any kind of timeline, so they are not completely correct.
+
+486
+01:00:01.760 --> 01:00:07.000
+Ankit Shukla: Right? So there should be some kind of time bound. And also, again, they also need to be specific.
+
+487
+01:00:07.150 --> 01:00:08.679
+Ankit Shukla: As the objectives.
+
+488
+01:00:11.390 --> 01:00:17.060
+Ankit Shukla: Right? So, these are the characteristics of OKR. Now, the biggest benefit of OKR is…
+
+489
+01:00:17.690 --> 01:00:19.700
+Ankit Shukla: Biggest benefit of who care, understand.
+
+490
+01:00:20.150 --> 01:00:24.869
+Ankit Shukla: That… these are similar kind of characteristics that almost all the goal-setting frameworks follow.
+
+491
+01:00:25.990 --> 01:00:28.620
+Ankit Shukla: The big part of OKR is…
+
+492
+01:00:29.160 --> 01:00:33.840
+Ankit Shukla: The cascading of OKR, cascading means… That…
+
+493
+01:00:34.060 --> 01:00:37.190
+Ankit Shukla: a major… so, a major problem that teams face is
+
+494
+01:00:37.440 --> 01:00:39.489
+Ankit Shukla: The goals are decided at the top.
+
+495
+01:00:40.280 --> 01:00:43.369
+Ankit Shukla: And then, what happens is, if…
+
+496
+01:00:44.080 --> 01:00:58.020
+Ankit Shukla: A team has to go ahead and set the objective and goals for themselves. They have no framework for the same. The team will… like, the business will tell that we need this kind of revenue, and the teams are going to figure out how they are going to do this, and the goals are generally becoming top-down.
+
+497
+01:00:58.140 --> 01:01:02.460
+Ankit Shukla: Right? So teams do not feel that kind of…
+
+498
+01:01:03.170 --> 01:01:05.449
+Ankit Shukla: That kind of ownership in the process.
+
+499
+01:01:05.920 --> 01:01:10.790
+Ankit Shukla: Right? Because they are not setting the goals for themselves, and they are just following what other people are doing.
+
+500
+01:01:10.900 --> 01:01:11.800
+Ankit Shukla: Right?
+
+501
+01:01:12.210 --> 01:01:15.540
+Ankit Shukla: The second part is, The second part is.
+
+502
+01:01:16.000 --> 01:01:19.389
+Ankit Shukla: If you do not set the goals from the top.
+
+503
+01:01:19.500 --> 01:01:23.679
+Ankit Shukla: If you allow all the teams to set the goals by themselves, then there would be chaos.
+
+504
+01:01:25.180 --> 01:01:40.469
+Ankit Shukla: Right? So, you have to make sure that you are coming somewhere in between. Between authority and chaos, you have to find a middle ground. That is where the cascading comes. So, in cascading, what happens is, the bigger team, like the leadership team is going to set up some kind of OKRs.
+
+505
+01:01:41.100 --> 01:01:44.290
+Ankit Shukla: And then they will give their OKRs to different kind of teams.
+
+506
+01:01:45.000 --> 01:01:52.259
+Ankit Shukla: And then these teams will take the KRs from the company OKRs, and then they are going to create their own KRs from the same.
+
+507
+01:01:52.500 --> 01:01:55.300
+Ankit Shukla: this gives… Authority?
+
+508
+01:01:56.380 --> 01:02:05.189
+Ankit Shukla: Plus, it also gives autonomy to the teams, and it gives them, like, if team is setting the goals for themselves, they feel more inclusive in the process.
+
+509
+01:02:06.210 --> 01:02:11.649
+Ankit Shukla: Right? So this is not only a goal-setting framework, but also a fantastic stakeholder management framework as well.
+
+510
+01:02:12.590 --> 01:02:15.480
+Ankit Shukla: Right? A quick yes or no, everyone, if you're able to understand this.
+
+511
+01:02:19.070 --> 01:02:26.280
+Ankit Shukla: Yes. Wonderful question, Prithvish. So, Prithvish asked a question that whether strategy creates…
+
+512
+01:02:26.540 --> 01:02:33.369
+Ankit Shukla: whether the OKRs are created after the strategy, or a strategy is created as a result of OKRs. Okay, so what happens is…
+
+513
+01:02:33.830 --> 01:02:38.099
+Ankit Shukla: It's an interesting question, because understand this is… How it is implemented.
+
+514
+01:02:38.380 --> 01:02:41.099
+Ankit Shukla: The business would have some kind of goals for itself.
+
+515
+01:02:41.750 --> 01:02:52.629
+Ankit Shukla: Right? The business would have some kind of goals for itself that we are going to launch in the Euro. So in Europe, we need to get sales, plus we need to build some features in the product, which are going to
+
+516
+01:02:52.750 --> 01:02:57.139
+Ankit Shukla: help the users get their problems solved in the European market, right?
+
+517
+01:02:57.460 --> 01:03:01.460
+Ankit Shukla: So, the business will give you some kind of objective and key results.
+
+518
+01:03:01.980 --> 01:03:10.660
+Ankit Shukla: Then you will take the key result as a product team, and then you will frame your product strategy based on the same. So your goal will become the CRA that is given to you by the business team.
+
+519
+01:03:11.330 --> 01:03:18.880
+Ankit Shukla: Right? And then the whole product strategy will be defined from the same, and as you are defining the product strategy, for the whole product team, the KRs would be defined.
+
+520
+01:03:20.030 --> 01:03:21.420
+Ankit Shukla: So, objective?
+
+521
+01:03:26.480 --> 01:03:33.220
+Ankit Shukla: So, your business team, will define the objective?
+
+522
+01:03:33.450 --> 01:03:36.060
+Ankit Shukla: And it will define the key results.
+
+523
+01:03:37.080 --> 01:03:39.600
+Ankit Shukla: Your product team will take the KR that is
+
+524
+01:03:40.270 --> 01:03:45.130
+Ankit Shukla: for the product team, that is responsibility for the product team. You will take this
+
+525
+01:03:45.610 --> 01:03:48.320
+Ankit Shukla: You will form the product strategy.
+
+526
+01:03:48.880 --> 01:03:53.380
+Ankit Shukla: And in order to measure the efficiency of a product strategy, you will again have your OKRs.
+
+527
+01:03:53.560 --> 01:03:57.640
+Ankit Shukla: the O will be this KR, and other KRs would be defined from here.
+
+528
+01:03:59.790 --> 01:04:05.779
+Ankit Shukla: Right? So this is what… Okay, ask, look like. Okay, let's do a quick exercise right now.
+
+529
+01:04:08.800 --> 01:04:10.420
+Ankit Shukla: Look at this carefully, guys.
+
+530
+01:04:11.440 --> 01:04:17.510
+Ankit Shukla: I'm showing you three OKRs. First is becoming operationally profitable in North Region without degrowth.
+
+531
+01:04:17.840 --> 01:04:21.140
+Ankit Shukla: Revenue per order, cost per order should be greater than zero.
+
+532
+01:04:21.420 --> 01:04:25.560
+Ankit Shukla: Revenue per order minus cost per order should be greater than zero, which means we should be profitable.
+
+533
+01:04:25.730 --> 01:04:28.180
+Ankit Shukla: Maintain an average, month on month.
+
+534
+01:04:29.530 --> 01:04:33.250
+Ankit Shukla: Growth rate of 5% in April 2022… 2021.
+
+535
+01:04:33.740 --> 01:04:38.099
+Ankit Shukla: Second is objective, accelerate new user growth through Tier 3 and 4 cities.
+
+536
+01:04:38.370 --> 01:04:42.949
+Ankit Shukla: New users from this, and increase the total new users transaction from this to this.
+
+537
+01:04:43.190 --> 01:04:49.980
+Ankit Shukla: Right? And the third OKR is become the best player in the ecosystem, attain GMVO for USD 300M, launch a new business line.
+
+538
+01:04:50.580 --> 01:04:51.420
+Ankit Shukla: Right?
+
+539
+01:04:51.890 --> 01:04:52.870
+Ankit Shukla: No!
+
+540
+01:04:58.970 --> 01:05:00.709
+Ankit Shukla: Yes. Guys!
+
+541
+01:05:03.250 --> 01:05:05.709
+Ankit Shukla: Tell me which one is the wrong one.
+
+542
+01:05:12.760 --> 01:05:17.249
+Ankit Shukla: Yes, very simple, right? It should be very simple for you guys, right? Because…
+
+543
+01:05:17.950 --> 01:05:25.860
+Ankit Shukla: What do you mean by the best player in the ecosystem? How do you measure that? That is not given. Similarly, launch a new business line. What business line? Where?
+
+544
+01:05:26.970 --> 01:05:29.209
+Ankit Shukla: Right? It doesn't mean anything.
+
+545
+01:05:29.820 --> 01:05:31.010
+Ankit Shukla: So it is vague.
+
+546
+01:05:35.620 --> 01:05:36.390
+Ankit Shukla: Cool.
+
+547
+01:05:37.280 --> 01:05:39.910
+Ankit Shukla: Yes. So we have talked about OKRs.
+
+548
+01:05:40.850 --> 01:05:43.940
+Ankit Shukla: We have talked about a product roadmap.
+
+549
+01:05:45.090 --> 01:05:50.149
+Ankit Shukla: In the next part of today's call, we will talk about prioritization.
+
+550
+01:05:51.280 --> 01:05:52.130
+Ankit Shukla: Okay.
+
+551
+01:05:53.570 --> 01:05:57.120
+Ankit Shukla: Now what we'll do is, we'll take a quick break of 5 minutes.
+
+552
+01:05:57.560 --> 01:06:05.350
+Ankit Shukla: go ahead, get some water, do some stretches, get up from your chair, and come back, then we'll discuss this. Okay, it is not…
+
+553
+01:06:07.410 --> 01:06:26.469
+Ankit Shukla: Yeah, so we'll answer these questions in a while, okay? Understand OKRs are a collaborative process, multiple teams are involved, and it is not a rule that you should have these many KRAs only. There could be any number of KRAs, but more than 5 are going to distract you, and one is generally very little, right? But it depends on the context of the company.
+
+554
+01:06:27.400 --> 01:06:30.490
+Ankit Shukla: Starting a quick break of 5 minutes, guys, and then we will.
+
+555
+01:06:31.130 --> 01:06:32.359
+Ankit Shukla: Resume the session.
+
+556
+01:11:32.790 --> 01:11:36.959
+Ankit Shukla: Hello everyone, welcome back. Please write, I am back in the chat if you are back.
+
+557
+01:11:53.340 --> 01:11:54.060
+Ankit Shukla: Cool.
+
+558
+01:11:59.880 --> 01:12:00.800
+Ankit Shukla: industrial.
+
+559
+01:12:04.050 --> 01:12:05.679
+Ankit Shukla: So, we have talked about the roadmap.
+
+560
+01:12:06.190 --> 01:12:09.829
+Ankit Shukla: We have talked about setting the goals, OKRs, okay?
+
+561
+01:12:10.890 --> 01:12:18.549
+Ankit Shukla: Understand, your roadmap will also be defined by your OKRs, right? So, what are your goals, what are you trying… what are you trying to achieve?
+
+562
+01:12:18.920 --> 01:12:23.129
+Ankit Shukla: That is an integral part of Roadmap, and that comes from the OKRs, right?
+
+563
+01:12:23.320 --> 01:12:24.150
+Ankit Shukla: Now?
+
+564
+01:12:25.100 --> 01:12:27.580
+Ankit Shukla: Always remember that, as a product manager.
+
+565
+01:12:28.010 --> 01:12:35.030
+Ankit Shukla: You are always fighting against times, time resources, And…
+
+566
+01:12:35.230 --> 01:12:45.269
+Ankit Shukla: you have to give the value to the customers and business as soon as possible, right? And for that, you need to make sure that you are very good with prioritization.
+
+567
+01:12:46.050 --> 01:12:47.889
+Ankit Shukla: You are very good with prioritization.
+
+568
+01:12:48.490 --> 01:12:51.550
+Ankit Shukla: So, why is prioritization important? Because…
+
+569
+01:12:52.610 --> 01:12:59.110
+Ankit Shukla: There is always going to be a situation where there are less resources and more ideas.
+
+570
+01:13:00.020 --> 01:13:00.830
+Ankit Shukla: Right.
+
+571
+01:13:00.960 --> 01:13:02.200
+Ankit Shukla: Second is…
+
+572
+01:13:02.950 --> 01:13:09.819
+Ankit Shukla: You have to make sure that you have to maximize the impact in the minimum time, so that team is able to get the most value.
+
+573
+01:13:10.170 --> 01:13:17.800
+Ankit Shukla: And then… Prioritization is important because it will combine objective reasonings and PM's intuition and judgment.
+
+574
+01:13:18.430 --> 01:13:28.490
+Ankit Shukla: Right? If you do not have a framework for prioritization, if you're not logically prioritizing, what will happen is that anyone or yourself will give yourself an idea, and then what will happen?
+
+575
+01:13:28.940 --> 01:13:37.700
+Ankit Shukla: Then what will happen? You will just go ahead and try to implement everything that comes down your way, rather than thinking objectively about the same.
+
+576
+01:13:38.530 --> 01:13:41.190
+Ankit Shukla: Right? So this is why prioritization is important.
+
+577
+01:13:41.320 --> 01:13:43.969
+Ankit Shukla: There are multiple kind of prioritization methods.
+
+578
+01:13:44.320 --> 01:13:47.359
+Ankit Shukla: One is ICE, Impact, Confidence, and Efforts.
+
+579
+01:13:47.940 --> 01:14:01.730
+Ankit Shukla: There is another called as KNO. There are other also which are Moscow, time value, like, the cost value of time, and there are multiple other things as well. I'll include notes about the others in the LMS, which you want to read.
+
+580
+01:14:02.140 --> 01:14:05.669
+Ankit Shukla: But today, I'm going to cover two in a bit of detail.
+
+581
+01:14:05.770 --> 01:14:06.560
+Ankit Shukla: Right?
+
+582
+01:14:06.760 --> 01:14:13.680
+Ankit Shukla: The first one… is the… KNO model. Kano model means…
+
+583
+01:14:14.520 --> 01:14:17.579
+Ankit Shukla: That if you have some set of features.
+
+584
+01:14:18.130 --> 01:14:26.740
+Ankit Shukla: And if you're not able to decide what to do now, what to do next, then this is a simple framework that you can use. So in Kano, we go ahead and create a graph.
+
+585
+01:14:26.860 --> 01:14:28.570
+Ankit Shukla: Okay, if you look at this graph.
+
+586
+01:14:32.590 --> 01:14:33.400
+Ankit Shukla: Yes.
+
+587
+01:14:33.850 --> 01:14:35.459
+Ankit Shukla: So, in Keno, what we do is…
+
+588
+01:14:35.670 --> 01:14:37.969
+Ankit Shukla: We create a simple graph, the graphices.
+
+589
+01:14:38.340 --> 01:14:39.910
+Ankit Shukla: We create two levels.
+
+590
+01:14:40.700 --> 01:14:42.999
+Ankit Shukla: One, on the x-axis, we say.
+
+591
+01:14:43.160 --> 01:14:46.449
+Ankit Shukla: That what is the implementation level of this feature?
+
+592
+01:14:47.850 --> 01:14:52.869
+Ankit Shukla: Whether this feature is fully implemented, or it is partially implemented, right?
+
+593
+01:14:54.530 --> 01:14:59.819
+Ankit Shukla: Second accesses… What is the satisfaction of the customers?
+
+594
+01:15:02.270 --> 01:15:03.130
+Ankit Shukla: Right.
+
+595
+01:15:03.330 --> 01:15:05.760
+Ankit Shukla: Now, here, we are measuring multiple things.
+
+596
+01:15:06.190 --> 01:15:08.209
+Ankit Shukla: There are going to be some features.
+
+597
+01:15:08.510 --> 01:15:12.659
+Ankit Shukla: If these features are absent, absent means these are not implemented well.
+
+598
+01:15:13.330 --> 01:15:17.619
+Ankit Shukla: Then, users would be very sad about your product, because this is it.
+
+599
+01:15:20.870 --> 01:15:21.710
+Ankit Shukla: Right?
+
+600
+01:15:23.760 --> 01:15:26.980
+Ankit Shukla: But if these features are really well implemented.
+
+601
+01:15:27.590 --> 01:15:34.960
+Ankit Shukla: For example, sign up and auth. If sign-up and login is not there on your website, then how would it actually work?
+
+602
+01:15:35.740 --> 01:15:43.139
+Ankit Shukla: Right? So if sign-up and login and other forgot password, these kind of things, are absent from your system.
+
+603
+01:15:43.470 --> 01:15:45.719
+Ankit Shukla: Then people would not use your product.
+
+604
+01:15:46.140 --> 01:15:48.100
+Ankit Shukla: But even if they are present.
+
+605
+01:15:48.650 --> 01:15:55.369
+Ankit Shukla: they would not be very happy. It is just another thing for them, because that is their expectations.
+
+606
+01:15:57.080 --> 01:15:57.920
+Ankit Shukla: Right?
+
+607
+01:15:58.130 --> 01:16:01.530
+Ankit Shukla: Similarly, Other kind of features are…
+
+608
+01:16:01.810 --> 01:16:06.650
+Ankit Shukla: That if you keep on improving these features, if you keep on improving these features.
+
+609
+01:16:08.360 --> 01:16:10.979
+Ankit Shukla: The customer satisfaction level will improve.
+
+610
+01:16:11.670 --> 01:16:15.990
+Ankit Shukla: For example, The speed of the website.
+
+611
+01:16:16.310 --> 01:16:18.419
+Ankit Shukla: or the latency of ChatGPT.
+
+612
+01:16:18.540 --> 01:16:34.340
+Ankit Shukla: On ChatGPT, if you are able to get, let's say, answer in 1 second, then you are happy. If the answer is given to you in 0.25 seconds, you are more happy. And if the answer is given to you almost instantaneously, then you are more happy. So as the latency reduces.
+
+613
+01:16:34.660 --> 01:16:38.809
+Ankit Shukla: Your happiness with the product increases, your satisfaction increases.
+
+614
+01:16:39.600 --> 01:16:42.120
+Ankit Shukla: Right? And the third part is…
+
+615
+01:16:43.190 --> 01:16:48.350
+Ankit Shukla: The third kind of access that is, like, the third kind of possibility is that there are features
+
+616
+01:16:49.180 --> 01:16:52.930
+Ankit Shukla: Even if they are not present, your customers would not be unhappy.
+
+617
+01:16:53.400 --> 01:16:58.460
+Ankit Shukla: Even if they are not present, the customer would not be unhappy. But if you are improving these features.
+
+618
+01:17:00.010 --> 01:17:04.869
+Ankit Shukla: If they are implemented really well, customers will become super, super happy.
+
+619
+01:17:06.300 --> 01:17:12.190
+Ankit Shukla: Right? And we categorize these features into this. First is, must-haves.
+
+620
+01:17:12.660 --> 01:17:18.259
+Ankit Shukla: Which is, the product won't work without these features, which is the disk carc.
+
+621
+01:17:18.870 --> 01:17:20.290
+Ankit Shukla: this particular arc.
+
+622
+01:17:20.850 --> 01:17:27.889
+Ankit Shukla: The second is performance features, which is satisfaction features, where the satisfaction increases
+
+623
+01:17:28.500 --> 01:17:31.059
+Ankit Shukla: With the investment on this feature.
+
+624
+01:17:31.280 --> 01:17:36.219
+Ankit Shukla: Better the feature is, more happy the users are, right? This is the performance features.
+
+625
+01:17:36.370 --> 01:17:39.080
+Ankit Shukla: Satisfaction increases with increase in investment.
+
+626
+01:17:39.610 --> 01:17:42.249
+Ankit Shukla: And then there are delighters. Delighters are features
+
+627
+01:17:42.570 --> 01:17:49.609
+Ankit Shukla: Which are good to have, but if they are there, then customers feel more aligned, more happy with the product as you improve the
+
+628
+01:17:49.970 --> 01:17:51.429
+Ankit Shukla: Quality of the features.
+
+629
+01:17:53.010 --> 01:17:59.500
+Ankit Shukla: Right? So this is what the Kato model is. As a product manager, how you should use this, you will go ahead.
+
+630
+01:17:59.980 --> 01:18:04.589
+Ankit Shukla: Take the product, You will go ahead and take the product.
+
+631
+01:18:05.980 --> 01:18:12.189
+Ankit Shukla: And then, whatever feature that you are thinking in your MVP or in your product, you are going to categorize them.
+
+632
+01:18:12.570 --> 01:18:14.670
+Ankit Shukla: That this is 1, this is 2, this is 3.
+
+633
+01:18:15.430 --> 01:18:17.480
+Ankit Shukla: And then you are going to go ahead and
+
+634
+01:18:19.560 --> 01:18:26.759
+Ankit Shukla: Put them in the right buckets, and then you will see that, yes, if you are operating in a market where there is not a lot of competition.
+
+635
+01:18:26.940 --> 01:18:30.769
+Ankit Shukla: Then, you can also launch with must-haves and some performance features.
+
+636
+01:18:32.130 --> 01:18:39.289
+Ankit Shukla: Right? But if you're operating in a market which is too competitive, and if you want to create a differentiation, then you have to build the delighter features.
+
+637
+01:18:44.330 --> 01:18:47.840
+Ankit Shukla: Right? A quick yes or no, everyone, if you're able to understand this.
+
+638
+01:18:57.280 --> 01:18:58.140
+Ankit Shukla: Yes.
+
+639
+01:19:06.090 --> 01:19:06.900
+Ankit Shukla: Yes.
+
+640
+01:19:07.730 --> 01:19:09.839
+Ankit Shukla: Let me go ahead and show you some examples.
+
+641
+01:19:21.400 --> 01:19:22.130
+Ankit Shukla: Night.
+
+642
+01:19:23.230 --> 01:19:26.200
+Ankit Shukla: So… Let us consider example of…
+
+643
+01:19:29.700 --> 01:19:33.829
+Ankit Shukla: Instagram, When it was launched.
+
+644
+01:19:34.330 --> 01:19:35.210
+Ankit Shukla: Okay.
+
+645
+01:19:41.630 --> 01:19:42.510
+Ankit Shukla: Right?
+
+646
+01:19:42.950 --> 01:19:44.850
+Ankit Shukla: Now, here, what we have is, we have…
+
+647
+01:19:48.840 --> 01:19:51.500
+Ankit Shukla: this axis… Is?
+
+648
+01:19:58.820 --> 01:20:05.070
+Ankit Shukla: Implementation level, as in, is it implemented really, really well? You have made the good amount of investment or not?
+
+649
+01:20:05.720 --> 01:20:07.330
+Ankit Shukla: And second, this is…
+
+650
+01:20:10.620 --> 01:20:12.260
+Ankit Shukla: customer satisfaction.
+
+651
+01:20:15.120 --> 01:20:15.960
+Ankit Shukla: Right?
+
+652
+01:20:16.950 --> 01:20:18.350
+Ankit Shukla: Now, understand.
+
+653
+01:20:19.440 --> 01:20:20.890
+Ankit Shukla: Here we have what?
+
+654
+01:20:25.200 --> 01:20:26.979
+Ankit Shukla: These are must-have features.
+
+655
+01:20:28.560 --> 01:20:30.569
+Ankit Shukla: These are performance features.
+
+656
+01:20:31.340 --> 01:20:36.060
+Ankit Shukla: And these are… Delight us.
+
+657
+01:20:37.170 --> 01:20:46.270
+Ankit Shukla: So when Instagram was launched, There were some features which were expected from almost every… product.
+
+658
+01:20:46.790 --> 01:20:47.580
+Ankit Shukla: Right?
+
+659
+01:20:47.830 --> 01:20:59.779
+Ankit Shukla: For example, The first part is… The first part is, For Instagram, View should have the ability
+
+660
+01:21:00.290 --> 01:21:02.380
+Ankit Shukla: to upload photos.
+
+661
+01:21:05.050 --> 01:21:08.950
+Ankit Shukla: This is a bare minimum capability. This has to be a part of your MVP.
+
+662
+01:21:09.100 --> 01:21:15.960
+Ankit Shukla: Right? So, upload photos is something that you are going to do over here, right? Which is a bare minimum facility.
+
+663
+01:21:16.920 --> 01:21:18.260
+Ankit Shukla: The second is…
+
+664
+01:21:21.780 --> 01:21:30.220
+Ankit Shukla: You should go ahead and build How, in how much time, The photo will get uploaded.
+
+665
+01:21:30.630 --> 01:21:32.240
+Ankit Shukla: Or what is the latency?
+
+666
+01:21:32.580 --> 01:21:36.229
+Ankit Shukla: So, if there are, let's say, multiple apps at that period of time.
+
+667
+01:21:36.410 --> 01:21:38.869
+Ankit Shukla: For example, there was something called as Flickr.
+
+668
+01:21:39.090 --> 01:21:42.179
+Ankit Shukla: Where it might take some time in order to upload the photo.
+
+669
+01:21:42.320 --> 01:21:43.120
+Ankit Shukla: So?
+
+670
+01:21:43.440 --> 01:21:49.020
+Ankit Shukla: they understood, That uploading the photo is actually a very performance-driven feature.
+
+671
+01:21:49.300 --> 01:22:00.139
+Ankit Shukla: If we do it better, users are going to like the experience. So they did multiple engineering advancements in order to make sure that they are able to create a system that uploads really, really well.
+
+672
+01:22:01.820 --> 01:22:10.780
+Ankit Shukla: Right? So… In performance, what will… what will happen is… the upload time of photos.
+
+673
+01:22:13.230 --> 01:22:14.459
+Ankit Shukla: This will be here.
+
+674
+01:22:17.600 --> 01:22:21.410
+Ankit Shukla: Right? And for Delight, what they did was… No?
+
+675
+01:22:21.510 --> 01:22:23.710
+Ankit Shukla: Because at that point of time.
+
+676
+01:22:24.670 --> 01:22:30.879
+Ankit Shukla: These photo networks were quite common. Everyone was trying to build the next social network.
+
+677
+01:22:31.280 --> 01:22:34.600
+Ankit Shukla: They understood that these things are actually bare minimum.
+
+678
+01:22:35.490 --> 01:22:38.199
+Ankit Shukla: We need to come up with something much stronger.
+
+679
+01:22:38.790 --> 01:22:44.669
+Ankit Shukla: So, for the Delight feature, they came up with a product called as… they came up with a feature called as…
+
+680
+01:22:46.230 --> 01:22:47.270
+Ankit Shukla: filters.
+
+681
+01:22:49.450 --> 01:22:54.190
+Ankit Shukla: they came up with a product called as Filters. In filters, you can just take an image, so before…
+
+682
+01:22:54.800 --> 01:22:57.170
+Ankit Shukla: Before this particular product called Instagram.
+
+683
+01:22:58.040 --> 01:23:00.070
+Ankit Shukla: If you want to edit a photo.
+
+684
+01:23:00.220 --> 01:23:03.210
+Ankit Shukla: You have to use a semi-complex software.
+
+685
+01:23:03.440 --> 01:23:14.739
+Ankit Shukla: Where they will go ahead and give you some kind of nozzles to go ahead and maybe move hair and there, such as brightness and this and that, and then it will go ahead and add filters to your photo, make it better.
+
+686
+01:23:14.880 --> 01:23:32.839
+Ankit Shukla: But Instagram has cut all the crap. It will just give you pre-made filters. If you click this, your photo will transform into this. So they created a delighter movement called as the filters. And with more and more filters, people will get more and more happy with the quality of the filters and the quantity of the filters.
+
+687
+01:23:35.140 --> 01:23:41.809
+Ankit Shukla: Right? So this… is an example. Now, understand, guys, At this point of time.
+
+688
+01:23:41.950 --> 01:23:46.559
+Ankit Shukla: they might have also thought of other features. We are only talking about features that were implemented.
+
+689
+01:23:46.850 --> 01:23:53.479
+Ankit Shukla: Right? They might have also thought of other features that People's… so all the…
+
+690
+01:23:54.310 --> 01:24:01.090
+Ankit Shukla: platforms before Instagram will talk about that you can restore 10GB worth of photos.
+
+691
+01:24:01.420 --> 01:24:08.109
+Ankit Shukla: You can restore 20GB worth of photo. In the free account, you will get 300MB, these kind of things. But they did not talk about the sales.
+
+692
+01:24:09.030 --> 01:24:22.030
+Ankit Shukla: One thing that was a bare minimum feature for everyone, which is the storage that you get for Flickr and everyone, they did not talk about it, because they understood that we have to focus. We cannot build every kind of bare minimum feature. We are not going to play that game.
+
+693
+01:24:22.890 --> 01:24:34.059
+Ankit Shukla: Right? So, these three features that we are seeing are at the top of the prioritization list, and they are, let's say, categorized well, but there could be some other features as well that Instagram team has not implemented.
+
+694
+01:24:34.780 --> 01:24:42.770
+Ankit Shukla: Initially, they might have not even implemented follow, or friends, or reels, or anything else. Why? Because they understood that this is what?
+
+695
+01:24:43.480 --> 01:24:45.580
+Ankit Shukla: A minimum viable product looks like.
+
+696
+01:24:48.720 --> 01:24:52.500
+Ankit Shukla: Right? A quick yes or no, everyone, if you're able to understand this differentiation.
+
+697
+01:25:01.530 --> 01:25:05.950
+Ankit Shukla: Right? Even if you understand, In ChatGPT.
+
+698
+01:25:06.360 --> 01:25:10.620
+Ankit Shukla: When ChatGPT was launched, right now, if you use ChatGPT,
+
+699
+01:25:11.840 --> 01:25:30.779
+Ankit Shukla: They have something called as Canvas, where you can see the code. They have something called as artifacts, where you can see the documents populated nicely. You can see a share button. You can choose between the models. But when the MVP was launched, they only focused on the main feature. Their basic minimum feature was actually also a delight feature.
+
+700
+01:25:32.430 --> 01:25:35.949
+Ankit Shukla: Right? But as… but understand that with time.
+
+701
+01:25:36.190 --> 01:25:38.740
+Ankit Shukla: The expectations of the users changes.
+
+702
+01:25:38.990 --> 01:25:41.760
+Ankit Shukla: What is delight for them can become.
+
+703
+01:25:41.940 --> 01:25:44.490
+Ankit Shukla: What is delight for them can become.
+
+704
+01:25:45.270 --> 01:25:46.200
+Ankit Shukla: Oh!
+
+705
+01:25:48.370 --> 01:25:56.300
+Ankit Shukla: A must-have in the long run. What is delight for them today can become a must-have in the long run because the expectations is spoiled.
+
+706
+01:25:56.750 --> 01:26:00.499
+Ankit Shukla: Right? People are spoiled for choices, and bare minimum these days.
+
+707
+01:26:02.000 --> 01:26:09.860
+Ankit Shukla: Right? MVP stands for… Minimum… viable product.
+
+708
+01:26:12.880 --> 01:26:20.560
+Ankit Shukla: Right? And understand, guys, Kano is not an objective, prioritization framework.
+
+709
+01:26:21.110 --> 01:26:26.999
+Ankit Shukla: KNO is not an objective prioritization framework. It is a strategic prioritization framework.
+
+710
+01:26:28.150 --> 01:26:35.620
+Ankit Shukla: There are no numbers that you've found here, right? I have mentioned no numbers. Because it is a high-level, strategic framework.
+
+711
+01:26:35.920 --> 01:26:44.080
+Ankit Shukla: Which will just help you understand, it will help you think critically from a lens, so that you are able to take better decisions. It will not take the decision for you.
+
+712
+01:26:44.210 --> 01:26:52.220
+Ankit Shukla: But it will give you some kind of, let's say, some kind of thinking parameters, some kind of lens, so that you can take a better decision.
+
+713
+01:26:54.010 --> 01:27:01.689
+Ankit Shukla: Right? If you are just copying, many people make a mistake, that they just go ahead and copy the features of the competitor that they believe that we are going to win.
+
+714
+01:27:01.980 --> 01:27:11.760
+Ankit Shukla: If it is a highly competitive market, then people need some kind of differentiation, so delighter feature has to be there. But if you're working in a situation where your product itself is very noble.
+
+715
+01:27:12.020 --> 01:27:17.179
+Ankit Shukla: Right? You're not thinking about competition. ChatGPT has no competition, like, no direct competition when it launched.
+
+716
+01:27:17.300 --> 01:27:18.719
+Ankit Shukla: The competition was Google.
+
+717
+01:27:18.900 --> 01:27:19.840
+Ankit Shukla: Right?
+
+718
+01:27:19.990 --> 01:27:25.500
+Ankit Shukla: That is why they were able to focus on the core features initially, without adding all the rings and bells that they have added right now.
+
+719
+01:27:26.650 --> 01:27:27.440
+Ankit Shukla: Right?
+
+720
+01:27:27.610 --> 01:27:33.300
+Ankit Shukla: So, as RT has mentioned, it is a compass who gets a directional sense of alignment to our business and products.
+
+721
+01:27:34.560 --> 01:27:35.370
+Ankit Shukla: Right?
+
+722
+01:27:35.800 --> 01:27:36.780
+Ankit Shukla: Nope!
+
+723
+01:27:37.020 --> 01:27:40.200
+Ankit Shukla: After Keno, we can be getting more objective.
+
+724
+01:27:40.950 --> 01:27:45.370
+Ankit Shukla: Right? We can be getting more objective. So, if we talk about an objective framework.
+
+725
+01:27:46.050 --> 01:27:48.210
+Ankit Shukla: Then we have something called as ice.
+
+726
+01:27:48.330 --> 01:27:53.800
+Ankit Shukla: Okay, so there are two variations of this. One is ice, and the other is rice.
+
+727
+01:27:53.910 --> 01:27:57.270
+Ankit Shukla: I'm going to tell you when to use ice and when to use rice. Okay.
+
+728
+01:27:57.420 --> 01:28:00.829
+Ankit Shukla: So, eyes, understand, guys, Before I could tell you about
+
+729
+01:28:02.060 --> 01:28:05.779
+Ankit Shukla: ICE or any of these objective frameworks, which are number-oriented, understand.
+
+730
+01:28:07.990 --> 01:28:14.000
+Ankit Shukla: These frameworks The purpose is not to get the right estimate.
+
+731
+01:28:15.820 --> 01:28:18.020
+Ankit Shukla: The purpose is not to get the right estimate.
+
+732
+01:28:18.640 --> 01:28:33.359
+Ankit Shukla: The purpose is to bring objectivity to the table, so that you are able to think very critically about the future. Don't think that if you implement rice, ICE, or any objective framework or number-oriented framework, then your numbers would be correct, or you need to give them exact right numbers.
+
+733
+01:28:33.520 --> 01:28:39.840
+Ankit Shukla: You cannot predict the future. You cannot predict with 100% clarity that this would be the impact. There is always risk.
+
+734
+01:28:41.250 --> 01:28:43.119
+Ankit Shukla: Right? There is always weakness.
+
+735
+01:28:44.050 --> 01:28:48.609
+Ankit Shukla: Right? So, always remember, That the purpose of these frameworks
+
+736
+01:28:48.880 --> 01:28:51.410
+Ankit Shukla: Is not to bring 100% clarity.
+
+737
+01:28:51.940 --> 01:28:55.510
+Ankit Shukla: It is to bring objectivity so that you are able to think clearly.
+
+738
+01:28:56.360 --> 01:29:03.429
+Ankit Shukla: Right? So, don't ask that, how do I make sure that my impact is always correct? Your impact would never be correct.
+
+739
+01:29:04.710 --> 01:29:09.570
+Ankit Shukla: If there is one thing that humans absolutely can do, is the forecasting of the future.
+
+740
+01:29:12.260 --> 01:29:19.319
+Ankit Shukla: Right? Your impact would always be less than what you assume, and your effort will always be more than what your team skills you.
+
+741
+01:29:21.550 --> 01:29:25.909
+Ankit Shukla: Right? So, prioritization with ICE. What is a prioritization?
+
+742
+01:29:29.560 --> 01:29:35.240
+Ankit Shukla: In prioritization with ICE, We take all the features, whatever are competing with each other.
+
+743
+01:29:35.660 --> 01:29:39.449
+Ankit Shukla: And then we give them a scoring on the basis of 3 parameters.
+
+744
+01:29:40.300 --> 01:29:44.080
+Ankit Shukla: Right? The three parameters are… Impact.
+
+745
+01:29:44.510 --> 01:29:46.579
+Ankit Shukla: confidence, and effort.
+
+746
+01:29:47.500 --> 01:29:52.139
+Ankit Shukla: Right? Impact, you can measure from, let's say, 1 to 5.
+
+747
+01:29:52.640 --> 01:29:53.470
+Ankit Shukla: Right?
+
+748
+01:29:53.960 --> 01:29:57.540
+Ankit Shukla: Confidence, you can measure between 1 to 5.
+
+749
+01:29:58.080 --> 01:30:01.549
+Ankit Shukla: Confidence means? Confidence in your assessment.
+
+750
+01:30:01.690 --> 01:30:04.550
+Ankit Shukla: Which is, how confident are you in your impact analysis?
+
+751
+01:30:04.860 --> 01:30:06.670
+Ankit Shukla: Right? And then…
+
+752
+01:30:06.850 --> 01:30:12.999
+Ankit Shukla: there is efforts. Efforts means how much time or cost or money your team is going to take.
+
+753
+01:30:15.640 --> 01:30:16.470
+Ankit Shukla: Right?
+
+754
+01:30:16.840 --> 01:30:20.899
+Ankit Shukla: Now, by the definition of this framework, who has given this definition?
+
+755
+01:30:21.140 --> 01:30:25.760
+Ankit Shukla: They have only mentioned The user impact in terms of impact.
+
+756
+01:30:26.120 --> 01:30:27.690
+Ankit Shukla: The user impact means?
+
+757
+01:30:28.590 --> 01:30:29.470
+Ankit Shukla: That…
+
+758
+01:30:30.420 --> 01:30:37.769
+Ankit Shukla: Users are going to get happy with this product, or they are going to solve the product, like, the problem with this particular solution, on this extent.
+
+759
+01:30:38.130 --> 01:30:42.990
+Ankit Shukla: But for practical reasons, you always have to include the business impact as well.
+
+760
+01:30:44.260 --> 01:30:51.539
+Ankit Shukla: Right, so impact is now a metric of two things, which is the user impact and the business impact.
+
+761
+01:30:52.890 --> 01:30:55.160
+Ankit Shukla: Right? Now, how do we do this?
+
+762
+01:30:55.940 --> 01:30:59.359
+Ankit Shukla: There is impact, there is confidence, and there is effort.
+
+763
+01:30:59.590 --> 01:31:04.939
+Ankit Shukla: Impact calculation is the guesstimation from past learnings and experiments.
+
+764
+01:31:05.840 --> 01:31:14.309
+Ankit Shukla: It is… The calculation which is done from past learning experimentations, and sometimes your own gut feeling.
+
+765
+01:31:14.970 --> 01:31:24.459
+Ankit Shukla: Right? Second is confidence. It is a value between 1 to 5. It is a subjective metric. It gorges how strong your intuition is.
+
+766
+01:31:24.710 --> 01:31:26.829
+Ankit Shukla: And then, you give it a score.
+
+767
+01:31:27.140 --> 01:31:35.200
+Ankit Shukla: If this is just your gut, then 1. If it is validated in other markets, two. If it is validated with our persona on other markets, then…
+
+768
+01:31:35.390 --> 01:31:47.189
+Ankit Shukla: Then there is 3. If it is validated via user persona, search experiment with your own current base, this is this. And then, if you have already built a product with your current user base, and if they are using it, then it is more confident.
+
+769
+01:31:47.540 --> 01:31:57.230
+Ankit Shukla: Right? So you can use this simple rubric in order to give your confidence score. If you're confident, very confident in your approach, then give it a 5. If you're not, then give it a 1.
+
+770
+01:31:58.160 --> 01:32:01.619
+Ankit Shukla: Right? And the last part is, Effort. Effort means…
+
+771
+01:32:01.740 --> 01:32:08.350
+Ankit Shukla: What is the time that will take for development, operations, and then you give it a score of 125.
+
+772
+01:32:09.390 --> 01:32:11.430
+Ankit Shukla: Right? And also understand, guys.
+
+773
+01:32:11.580 --> 01:32:17.980
+Ankit Shukla: I'm again telling you, the purpose of this framework is not to be 100% true with your data.
+
+774
+01:32:18.090 --> 01:32:24.869
+Ankit Shukla: You can never be. That is a delusional goal. You will just waste your time if you're trying to get too much confident in the data. It will never happen.
+
+775
+01:32:25.350 --> 01:32:34.029
+Ankit Shukla: Right? And if you are too confident, you will always observe that features where you are very much confident with data, they're actually, most of the time very mediocre features.
+
+776
+01:32:34.700 --> 01:32:38.740
+Ankit Shukla: Right? Because then you will not take a gut, you will not go ahead and build on the intuition.
+
+777
+01:32:39.360 --> 01:32:42.669
+Ankit Shukla: Right? This is just to make sure that your gut intuition
+
+778
+01:32:43.110 --> 01:32:51.789
+Ankit Shukla: also has some kind of objectivity. And whenever you are talking with the stakeholders, you have some kind of framework so that you are able to be objective in your decisions.
+
+779
+01:32:52.800 --> 01:32:56.359
+Ankit Shukla: Right? So the purpose of this prioritization framework
+
+780
+01:32:56.650 --> 01:32:59.010
+Ankit Shukla: Is not to be 100% correct.
+
+781
+01:32:59.460 --> 01:33:02.380
+Ankit Shukla: But to set the direction right.
+
+782
+01:33:04.860 --> 01:33:12.950
+Ankit Shukla: Okay, a quick yes one, everyone, if you're able to understand this. Because many people focus too much on these numbers and all, and then they lose the bigger picture.
+
+783
+01:33:24.280 --> 01:33:25.000
+Ankit Shukla: Yes.
+
+784
+01:33:30.680 --> 01:33:32.420
+Ankit Shukla: Now, to give you an example.
+
+785
+01:33:36.260 --> 01:33:37.400
+Ankit Shukla: Let's say…
+
+786
+01:33:41.900 --> 01:33:49.630
+Ankit Shukla: Let's say we are building… a social… media product.
+
+787
+01:33:52.680 --> 01:33:54.709
+Ankit Shukla: Right? We are building a social media product.
+
+788
+01:33:55.760 --> 01:34:01.780
+Ankit Shukla: Now, in this, your goal is engagement.
+
+789
+01:34:05.440 --> 01:34:08.720
+Ankit Shukla: Which is measured by daily active users.
+
+790
+01:34:09.640 --> 01:34:11.430
+Ankit Shukla: How many people are coming to the website?
+
+791
+01:34:11.950 --> 01:34:13.130
+Ankit Shukla: Right? Or the app.
+
+792
+01:34:14.050 --> 01:34:16.049
+Ankit Shukla: Now, you have to do this.
+
+793
+01:34:16.690 --> 01:34:18.540
+Ankit Shukla: Now your team have came across.
+
+794
+01:34:18.870 --> 01:34:24.679
+Ankit Shukla: multiple initiatives. So you have done the brainstorming, customer research, market research, all the parts of product discovery you have done.
+
+795
+01:34:24.970 --> 01:34:29.379
+Ankit Shukla: And after doing the aggressive product discovery, you have came up with few features.
+
+796
+01:34:29.660 --> 01:34:34.210
+Ankit Shukla: Feature number one is… So, we are going to create this table feature.
+
+797
+01:34:37.500 --> 01:34:38.510
+Ankit Shukla: impact.
+
+798
+01:34:42.590 --> 01:34:43.810
+Ankit Shukla: confidence.
+
+799
+01:34:47.060 --> 01:34:48.190
+Ankit Shukla: and effort.
+
+800
+01:34:48.970 --> 01:34:49.860
+Ankit Shukla: Right?
+
+801
+01:34:51.770 --> 01:34:56.180
+Ankit Shukla: And then, eventually, we'll have the… school.
+
+802
+01:34:56.560 --> 01:34:57.410
+Ankit Shukla: Right?
+
+803
+01:35:03.810 --> 01:35:11.289
+Ankit Shukla: So, feature number one that our team has thought of from the discovery cycle is, That we should create.
+
+804
+01:35:12.020 --> 01:35:17.380
+Ankit Shukla: a P2P, messaging?
+
+805
+01:35:18.950 --> 01:35:23.199
+Ankit Shukla: feature. B2B messaging means On our social network.
+
+806
+01:35:23.870 --> 01:35:26.839
+Ankit Shukla: People should be able to talk to each other.
+
+807
+01:35:27.480 --> 01:35:34.860
+Ankit Shukla: And if they are able to talk to each other, they are more likely to stay on the platform, because they have started a messaging thread with someone.
+
+808
+01:35:35.890 --> 01:35:36.640
+Ankit Shukla: Nate?
+
+809
+01:35:37.760 --> 01:35:42.050
+Ankit Shukla: The second feature is… People should be able to.
+
+810
+01:35:42.670 --> 01:35:49.640
+Ankit Shukla: post… Emoticons… and images.
+
+811
+01:35:50.970 --> 01:35:54.059
+Ankit Shukla: in comments. So, for example, if I want to
+
+812
+01:35:54.830 --> 01:35:58.039
+Ankit Shukla: Appreciate your work, the push that you have done.
+
+813
+01:35:58.160 --> 01:36:02.770
+Ankit Shukla: I can show, I can give some emotion, I can give some image.
+
+814
+01:36:02.910 --> 01:36:04.020
+Ankit Shukla: Very quickly.
+
+815
+01:36:04.310 --> 01:36:10.689
+Ankit Shukla: That will increase the engagement, and then when people see more engagement on their comments, on their post.
+
+816
+01:36:10.790 --> 01:36:24.240
+Ankit Shukla: they are more likely to post more. That will now increase the engagement once again. So number of comments will increase, and because of number of comments, people will get more appreciation, and then the number of posts will also go ahead and increase, and then the cycle will go on.
+
+817
+01:36:24.480 --> 01:36:25.260
+Ankit Shukla: Late?
+
+818
+01:36:26.520 --> 01:36:31.570
+Ankit Shukla: The third feature that we are discussing about right now is We should launch.
+
+819
+01:36:34.540 --> 01:36:39.899
+Ankit Shukla: Video posts. People should be able to post videos, short videos on the platform.
+
+820
+01:36:40.850 --> 01:36:47.689
+Ankit Shukla: Right? So, P2B messaging, emotional images, emoticons or emojis in the comments, and then video post.
+
+821
+01:36:48.540 --> 01:36:52.189
+Ankit Shukla: Right? A quick yes one, everyone, if you're able to understand these three features.
+
+822
+01:36:52.470 --> 01:37:05.530
+Ankit Shukla: In the ideal life, you will go ahead and maybe talk to your stakeholders, do the market research, user research, data analysis, look at the competition, look at the ecosystem in order to come up with the features. Right now, to help you understand, I keep it very simple.
+
+823
+01:37:08.670 --> 01:37:09.460
+Ankit Shukla: Yes.
+
+824
+01:37:09.910 --> 01:37:17.609
+Ankit Shukla: Now… It is emoticons and images, not emotional images. It is emoticons and images.
+
+825
+01:37:17.900 --> 01:37:18.740
+Ankit Shukla: Right?
+
+826
+01:37:21.220 --> 01:37:22.010
+Ankit Shukla: Cool.
+
+827
+01:37:22.580 --> 01:37:25.270
+Ankit Shukla: Now, let us understand the impact.
+
+828
+01:37:25.400 --> 01:37:28.210
+Ankit Shukla: Okay, impact is something on a scale of 1 to 5.
+
+829
+01:37:28.530 --> 01:37:32.700
+Ankit Shukla: So here we have seen that P2P messaging service.
+
+830
+01:37:34.160 --> 01:37:40.220
+Ankit Shukla: Can have an impact of… Let's say 2.
+
+831
+01:37:40.380 --> 01:37:47.200
+Ankit Shukla: On a scale of 1 to 5. Okay. Then you talk to your team, Some people told you, that…
+
+832
+01:37:48.310 --> 01:37:55.860
+Ankit Shukla: This particular feature It's actually going to be very good, because… you people.
+
+833
+01:37:56.130 --> 01:37:59.400
+Ankit Shukla: Are going to, let's say… is going to be very good because
+
+834
+01:38:00.450 --> 01:38:04.069
+Ankit Shukla: People will come back again and again in order to message someone.
+
+835
+01:38:04.540 --> 01:38:12.239
+Ankit Shukla: So whenever we try to contact with someone, we are generally talking to them once in a week, or once in a day, so that people have a reason to come back to the platform, right?
+
+836
+01:38:13.230 --> 01:38:14.130
+Ankit Shukla: And…
+
+837
+01:38:14.590 --> 01:38:19.040
+Ankit Shukla: On the other side, there are people who are telling you that if you build a P2B messaging feature.
+
+838
+01:38:19.160 --> 01:38:26.879
+Ankit Shukla: People will just exchange their WhatsApp numbers, or their email IDs, and then they are going to talk over there, and then they are going to leave the platform for all.
+
+839
+01:38:28.280 --> 01:38:34.840
+Ankit Shukla: Right? So some people are saying yes, some people are saying no, you are not also confident. So you have given it a confidence rating of, let's say.
+
+840
+01:38:35.560 --> 01:38:36.300
+Ankit Shukla: 2.
+
+841
+01:38:38.020 --> 01:38:42.090
+Ankit Shukla: Okay? You can also give it one. Understand this is objective, okay?
+
+842
+01:38:42.760 --> 01:38:45.390
+Ankit Shukla: Then, in terms of effort, you have talked to your team.
+
+843
+01:38:46.000 --> 01:38:49.610
+Ankit Shukla: And the team has told you that you have to create the real-time
+
+844
+01:38:49.760 --> 01:38:57.979
+Ankit Shukla: messaging between the people, and there are… will be some privacy considerations as well. If you are creating the messaging platform, you also have to create
+
+845
+01:38:58.100 --> 01:39:15.140
+Ankit Shukla: some blocking features that people are able to block each other, right? And also, eventually, you have to also create some video chat, and you have to create some audio chat, and these kind of things, okay? So, although it looks like a small feature right now, it can go ahead and expand into a bigger feature. So, they will take some time. So, they have told you the efforts are going to be maybe
+
+846
+01:39:15.900 --> 01:39:16.630
+Ankit Shukla: Titty.
+
+847
+01:39:17.920 --> 01:39:20.680
+Ankit Shukla: Okay, understand, guys, all of this is subjective.
+
+848
+01:39:20.850 --> 01:39:26.029
+Ankit Shukla: All of this… Will come from beta, but still you have to do some kind of guesstimates.
+
+849
+01:39:26.310 --> 01:39:27.110
+Ankit Shukla: Right?
+
+850
+01:39:28.680 --> 01:39:33.729
+Ankit Shukla: One piece of advice is, Whenever you are, Measuring the impact.
+
+851
+01:39:34.400 --> 01:39:39.980
+Ankit Shukla: Please include your engineering operations, or any team that is going to exactly put these efforts.
+
+852
+01:39:40.710 --> 01:39:43.169
+Ankit Shukla: Right? If you do it by yourself, then…
+
+853
+01:39:43.310 --> 01:39:45.070
+Ankit Shukla: It might be possible that you are
+
+854
+01:39:45.380 --> 01:39:50.689
+Ankit Shukla: On a different level altogether. Because you don't know what efforts are going to go, right?
+
+855
+01:39:51.600 --> 01:40:05.819
+Ankit Shukla: Never think that if in your old company, people used to ship the features in this particular timeline, the new companies is going to also follow the same. It is very subjective, right? So please don't do that in order to burn the bridges with your developers.
+
+856
+01:40:07.080 --> 01:40:14.430
+Ankit Shukla: The second part is emotional images in the emotion… emoticons, or images in the comments, right?
+
+857
+01:40:15.040 --> 01:40:18.569
+Ankit Shukla: Here, it is going to be a good feature because people are going to create more.
+
+858
+01:40:18.690 --> 01:40:22.340
+Ankit Shukla: Okay, and let's say we have given an impact score of 3.
+
+859
+01:40:23.700 --> 01:40:24.510
+Ankit Shukla: Late.
+
+860
+01:40:24.840 --> 01:40:27.330
+Ankit Shukla: But here, you have an issue. The issue is.
+
+861
+01:40:28.120 --> 01:40:32.039
+Ankit Shukla: You're talking about images and emoticons in comments.
+
+862
+01:40:33.170 --> 01:40:36.699
+Ankit Shukla: But the platform is not getting enough number of ports right now.
+
+863
+01:40:36.920 --> 01:40:39.749
+Ankit Shukla: So if there is no number of posts, less number of posts.
+
+864
+01:40:39.920 --> 01:40:44.720
+Ankit Shukla: then there would be even less number of comments. Even if you go ahead and improve them, what is the level that it can take?
+
+865
+01:40:45.150 --> 01:40:45.940
+Ankit Shukla: So…
+
+866
+01:40:46.040 --> 01:40:55.709
+Ankit Shukla: Some people are telling that, yes, it can increase the number of comments, but you are not sure because the number of posts are not that much, so how would increasing the number of comments help?
+
+867
+01:40:55.910 --> 01:40:59.189
+Ankit Shukla: Right? So here, also, you'll give it maybe a confidence score.
+
+868
+01:40:59.530 --> 01:41:00.990
+Ankit Shukla: Of maybe slightly.
+
+869
+01:41:03.720 --> 01:41:04.530
+Ankit Shukla: Right?
+
+870
+01:41:04.810 --> 01:41:06.550
+Ankit Shukla: And then, in terms of efforts.
+
+871
+01:41:06.980 --> 01:41:09.270
+Ankit Shukla: It might not take a lot of efforts.
+
+872
+01:41:09.440 --> 01:41:12.569
+Ankit Shukla: Why? Because in this particular part.
+
+873
+01:41:12.970 --> 01:41:20.719
+Ankit Shukla: Because in this particular part, you just have to make sure that at every comment, you are just auto-populating some kind of images or some kind of comments.
+
+874
+01:41:21.040 --> 01:41:29.809
+Ankit Shukla: Right? The comment structure is already built, you just have to put some data, files, and emotions into the same, emoticons onto the same. So maybe the effort is going to be two.
+
+875
+01:41:30.950 --> 01:41:33.860
+Ankit Shukla: Right? And the last part is video post.
+
+876
+01:41:34.590 --> 01:41:38.049
+Ankit Shukla: Now, video post is something that you have done a lot of study in.
+
+877
+01:41:38.420 --> 01:41:47.430
+Ankit Shukla: And then you are able to understand that all the great products of the… all the popular products of today's world, whether it is LinkedIn, it is Twitter, it is anyone.
+
+878
+01:41:47.830 --> 01:41:51.709
+Ankit Shukla: And also, all the major creators of the world.
+
+879
+01:41:51.830 --> 01:41:54.069
+Ankit Shukla: They are actually building videos only.
+
+880
+01:41:55.180 --> 01:42:00.210
+Ankit Shukla: Right? So what we have thought is that by doing our impact analysis.
+
+881
+01:42:00.470 --> 01:42:04.590
+Ankit Shukla: We have found that the impact of this particular feature
+
+882
+01:42:04.720 --> 01:42:09.249
+Ankit Shukla: can actually be very much. We can either give it a 4, or we can give it a 5. Let us give it a 5 right now.
+
+883
+01:42:09.930 --> 01:42:12.450
+Ankit Shukla: Okay. How much confident we are?
+
+884
+01:42:13.050 --> 01:42:17.410
+Ankit Shukla: We are confident because this has worked out in other places. For example.
+
+885
+01:42:17.640 --> 01:42:20.470
+Ankit Shukla: What are the problems that people faced in posting the content?
+
+886
+01:42:20.650 --> 01:42:22.150
+Ankit Shukla: They do not have the content.
+
+887
+01:42:22.500 --> 01:42:33.260
+Ankit Shukla: But if someone is already… someone is already a creator, and they've already created content for other platforms, they can also push the same content here. But all other platforms are also having, let's say, videos and all.
+
+888
+01:42:33.800 --> 01:42:38.610
+Ankit Shukla: Right? So… By based… based on our research.
+
+889
+01:42:38.810 --> 01:42:47.210
+Ankit Shukla: based on understanding other social platforms, we were able to understand that if everything is right on the platform, and if you are giving Lexi some video post.
+
+890
+01:42:47.330 --> 01:42:49.910
+Ankit Shukla: There could be much more engagement.
+
+891
+01:42:51.340 --> 01:42:56.660
+Ankit Shukla: Right? So what we'll do is, we will give it a confidence score of maybe, Food.
+
+892
+01:42:57.760 --> 01:43:00.450
+Ankit Shukla: And then… the effort?
+
+893
+01:43:00.570 --> 01:43:02.160
+Ankit Shukla: Video will take time.
+
+894
+01:43:02.480 --> 01:43:11.360
+Ankit Shukla: video will take a lot of efforts to build, because you have to take care of a lot many things. However, it will not take as much time as it used to take in 2015-16.
+
+895
+01:43:11.580 --> 01:43:18.339
+Ankit Shukla: Right now, all of these companies, such as TikTok, Instagrams of the world, they have created enough open source libraries
+
+896
+01:43:18.460 --> 01:43:31.000
+Ankit Shukla: to help you build the video streaming features and video uploading features at ease. And even the cloud providers, such as Amazon Web Services, are giving you out-of-box services to implement these features.
+
+897
+01:43:31.330 --> 01:43:34.079
+Ankit Shukla: Right? So then, we'll give it a score of 4.
+
+898
+01:43:36.750 --> 01:43:42.089
+Ankit Shukla: Right? A quick yes from everyone, if you're able to understand this. I have taken a very exam… simple.
+
+899
+01:43:42.650 --> 01:43:46.680
+Ankit Shukla: A rhetoric example to help you understand how this happens.
+
+900
+01:43:47.360 --> 01:43:54.130
+Ankit Shukla: Okay, but understand, guys, This framework means nothing if you have not done the research.
+
+901
+01:43:54.700 --> 01:43:57.690
+Ankit Shukla: This framework is just a reflection of your research.
+
+902
+01:43:58.900 --> 01:43:59.730
+Ankit Shukla: Right?
+
+903
+01:43:59.990 --> 01:44:03.339
+Ankit Shukla: Now, Let us calculate the score. The score is…
+
+904
+01:44:03.590 --> 01:44:10.480
+Ankit Shukla: This multiplied by this and divided by this. This multiplied by this and divided by this. This multiplied by this and divided by this.
+
+905
+01:44:11.470 --> 01:44:14.739
+Ankit Shukla: So this would be… 4 by 3.
+
+906
+01:44:15.600 --> 01:44:19.989
+Ankit Shukla: This would be 3, because this will cut this, and then this would be 5.
+
+907
+01:44:22.960 --> 01:44:26.269
+Ankit Shukla: So this would be something around 1.33.
+
+908
+01:44:26.390 --> 01:44:27.720
+Ankit Shukla: 3 and 5.
+
+909
+01:44:30.560 --> 01:44:31.530
+Ankit Shukla: Nope!
+
+910
+01:44:33.430 --> 01:44:36.300
+Ankit Shukla: You are going to talk about this to the stakeholders.
+
+911
+01:44:36.470 --> 01:44:39.999
+Ankit Shukla: They can also question this, as in, what is the reason for this impact?
+
+912
+01:44:40.230 --> 01:44:51.000
+Ankit Shukla: What is the reason for this confidence? What is the reason for this effort? So you will create it at one level, then you will brainstorm with your stakeholders in order to improve, if you can go ahead and improve the numbers. But what happens is.
+
+913
+01:44:51.130 --> 01:45:00.169
+Ankit Shukla: With this kind of framework in mind, so understand, this framework is not bulletproof, this is not a silver bullet, right? But what happens is, when you show this to people.
+
+914
+01:45:00.500 --> 01:45:08.329
+Ankit Shukla: They now start thinking from the impact and confidence and effort angle, rather than just trying to pursue and push their own agenda or their own idea.
+
+915
+01:45:08.830 --> 01:45:12.230
+Ankit Shukla: Right? So that is the purpose of every prioritization framework.
+
+916
+01:45:14.880 --> 01:45:19.040
+Ankit Shukla: Right? So this is… No?
+
+917
+01:45:19.210 --> 01:45:23.799
+Ankit Shukla: You can add one more column where you can mention what is the logic of all of these things.
+
+918
+01:45:24.560 --> 01:45:37.119
+Ankit Shukla: Why do you think it is more impact? Why do you think it is more confidence? Why do you think it is going to take more efforts? Right? So that if you are sending this someone on a deck, or an email, or an assignment, person should be able to know what was your logic.
+
+919
+01:45:38.260 --> 01:45:39.550
+Ankit Shukla: Right? Now.
+
+920
+01:45:44.970 --> 01:45:51.590
+Ankit Shukla: In many companies, We add one more part in… There is one more
+
+921
+01:45:51.700 --> 01:45:55.280
+Ankit Shukla: format of this particular framework, which is called as RISE.
+
+922
+01:45:55.910 --> 01:45:57.930
+Ankit Shukla: So, the ice remains the same.
+
+923
+01:45:58.780 --> 01:46:00.629
+Ankit Shukla: R becomes the reach.
+
+924
+01:46:00.940 --> 01:46:04.780
+Ankit Shukla: That how many people is this feature expected to reach?
+
+925
+01:46:06.210 --> 01:46:13.480
+Ankit Shukla: Right? How many people is this product expected to reach, or this feature expected to reach? But understand, reach can only come
+
+926
+01:46:13.670 --> 01:46:18.519
+Ankit Shukla: Once you have a product that is launched, or you are very sure about how many people are going to use it.
+
+927
+01:46:19.720 --> 01:46:27.860
+Ankit Shukla: Right? So if you're… if you have a product, which is already launched, which has some kind of users, and you are building some features for the same, then you can have the estimation of reach.
+
+928
+01:46:29.730 --> 01:46:33.680
+Ankit Shukla: Right, for example, If this product was already there.
+
+929
+01:46:35.040 --> 01:46:37.999
+Ankit Shukla: Right? So, in the home page, they can see video post.
+
+930
+01:46:38.210 --> 01:46:49.030
+Ankit Shukla: But for comment, they have to go in the post, they have to go to the comment in order to go ahead and make a comment, right? So understand that reach for video post will always be greater than the reach for this particular feature.
+
+931
+01:46:49.270 --> 01:46:55.500
+Ankit Shukla: So, reach means how many people are going to be exposed, how many people are going to be benefited. But this only makes sense
+
+932
+01:46:55.600 --> 01:47:02.700
+Ankit Shukla: When you already have some idea about how many people it is going to reach, which is your product is already existing, or you have a solid marketing plan.
+
+933
+01:47:03.230 --> 01:47:11.820
+Ankit Shukla: And it does not make a lot of sense for B2B products. So if you're building a customized B2B products, then every customer is paying you different kind of money.
+
+934
+01:47:12.090 --> 01:47:17.600
+Ankit Shukla: Then, rather than only reach, The revenue that you get from that is also important.
+
+935
+01:47:18.300 --> 01:47:23.609
+Ankit Shukla: So, for a B2C product such as Instagram, such as Facebook, reach is important.
+
+936
+01:47:23.900 --> 01:47:31.459
+Ankit Shukla: But for a product such as Salesforce, where every client is going to pay a different kind of fees, then revenue is also important, then only reach.
+
+937
+01:47:33.300 --> 01:47:34.940
+Ankit Shukla: Right? So this is…
+
+938
+01:47:35.080 --> 01:47:43.600
+Ankit Shukla: The KNO and the, and the ICE and the rice model, I've also told you the nuances. Just a simple thing that when you are just building the product for the first time.
+
+939
+01:47:43.750 --> 01:47:45.770
+Ankit Shukla: When you're building product for the first time.
+
+940
+01:47:47.250 --> 01:47:53.149
+Ankit Shukla: You should do this, okay? So, I'll give you the analogy. So, you are building the product, 0 to 1 stage.
+
+941
+01:47:54.190 --> 01:47:55.530
+Ankit Shukla: A new product.
+
+942
+01:47:55.670 --> 01:47:58.350
+Ankit Shukla: then you should do just two things. First is.
+
+943
+01:48:02.800 --> 01:48:06.999
+Ankit Shukla: do the Keno prioritization. And if in Keno you are getting, let's say.
+
+944
+01:48:07.180 --> 01:48:21.160
+Ankit Shukla: lot of delighters, you are getting a lot of must-have features, lot of performance features. Then, after doing the Kano prioritization, after you have done, let's say, a model of Kano, then you can go ahead and do the simple on impact.
+
+945
+01:48:22.790 --> 01:48:24.699
+Ankit Shukla: Versus effort prioritization.
+
+946
+01:48:24.860 --> 01:48:27.780
+Ankit Shukla: You can also include Confidence, if you want.
+
+947
+01:48:28.230 --> 01:48:29.080
+Ankit Shukla: Right?
+
+948
+01:48:29.350 --> 01:48:31.920
+Ankit Shukla: However, when you are building a bigger feature.
+
+949
+01:48:32.060 --> 01:48:37.389
+Ankit Shukla: Let's say one-to-one, when the product is already created. Then what you should do is.
+
+950
+01:48:38.310 --> 01:48:41.590
+Ankit Shukla: Then what you should do is, because…
+
+951
+01:48:42.630 --> 01:48:46.340
+Ankit Shukla: you need to have some Delighter features as well. You can go ahead and
+
+952
+01:48:46.700 --> 01:49:01.369
+Ankit Shukla: include RISE, because REACH is also there, and then you can go ahead and implement Keno. So you can implement Keno before also, after also, but generally, Kano is for high-level prioritization, it is a strategic framework, while RISE and ICE are
+
+953
+01:49:02.010 --> 01:49:06.869
+Ankit Shukla: more technical frameworks. You have to use both of them in combination.
+
+954
+01:49:09.080 --> 01:49:13.389
+Ankit Shukla: Right? A quick yes from everyone, if you're able to understand the prioritization part.
+
+955
+01:49:24.140 --> 01:49:24.840
+Ankit Shukla: food.
+
+956
+01:49:26.690 --> 01:49:27.730
+Ankit Shukla: Interesting.
+
+957
+01:49:28.040 --> 01:49:28.594
+Ankit Shukla: No?
+
+958
+01:49:29.650 --> 01:49:30.710
+Ankit Shukla: What has happened?
+
+959
+01:49:32.400 --> 01:49:34.170
+Ankit Shukla: Let's repeat everything once again.
+
+960
+01:49:36.000 --> 01:49:42.110
+Ankit Shukla: So, we started with… This whole product development cycle.
+
+961
+01:49:42.320 --> 01:49:46.950
+Ankit Shukla: In this product development cycle, We divide things into…
+
+962
+01:49:50.500 --> 01:49:52.400
+Ankit Shukla: We divide things into discovery.
+
+963
+01:49:58.510 --> 01:50:03.510
+Ankit Shukla: Delivery, and… Distribution.
+
+964
+01:50:04.640 --> 01:50:07.760
+Ankit Shukla: After… Getting the ideas.
+
+965
+01:50:08.030 --> 01:50:21.780
+Ankit Shukla: by brainstorming with, by understanding, by researching with business teams, partners, internal stakeholders, data, users, you go ahead and do some validation and research. I've already told you the framework, right? And then.
+
+966
+01:50:23.120 --> 01:50:24.710
+Ankit Shukla: You do the prioritization.
+
+967
+01:50:25.090 --> 01:50:30.140
+Ankit Shukla: As an outcome of latitization, you will end up with having a… Roadmap.
+
+968
+01:50:30.730 --> 01:50:34.419
+Ankit Shukla: And how do you prioritization? Ice, rice, whatever you want to implement.
+
+969
+01:50:34.580 --> 01:50:38.899
+Ankit Shukla: Right? And then we are going to talk about… the delivery part.
+
+970
+01:50:39.520 --> 01:50:48.180
+Ankit Shukla: Right? So, we talk about the product vision, which is a higher level goal that your product has to achieve. This is what the product looks like in its ultimate form.
+
+971
+01:50:48.430 --> 01:50:53.999
+Ankit Shukla: Then we talk about product strategy. Product strategy has four major components. Customer, competition.
+
+972
+01:50:54.140 --> 01:51:07.549
+Ankit Shukla: your product and the company, right? Then we talk about creating a roadmap today. So we talked about what our roadmap looks like. We also talk about the process. So, we start with goals. So, the company would give you some kind of objectives.
+
+973
+01:51:08.250 --> 01:51:20.059
+Ankit Shukla: So, chaos from the top level will be coming your objectives, right? Then you will go ahead and create the strategy, you will understand the users, products, market, understand this part is important.
+
+974
+01:51:20.840 --> 01:51:24.079
+Ankit Shukla: These frameworks, such as objectives and key results.
+
+975
+01:51:24.200 --> 01:51:29.249
+Ankit Shukla: Such as, creating a roadmap, creating a PID, these are not important.
+
+976
+01:51:30.090 --> 01:51:34.830
+Ankit Shukla: What is most important is you're able to understand what do users want and how you are going to build it.
+
+977
+01:51:35.590 --> 01:51:45.720
+Ankit Shukla: Right? Then, you are going to prioritize and sequence. I've also given you some idea about metrics today, I'm going to cover it in the next week. And then, you put 5 timelines, and then you communicate.
+
+978
+01:51:46.030 --> 01:51:50.400
+Ankit Shukla: Right? And eventually, you will have something like this.
+
+979
+01:51:52.360 --> 01:51:54.769
+Ankit Shukla: Right? That this is your product roadmap.
+
+980
+01:51:55.160 --> 01:51:59.599
+Ankit Shukla: This is what we are driving. This is the key metric, as mentioned.
+
+981
+01:52:00.850 --> 01:52:04.870
+Ankit Shukla: As mentioned in the product roadmap, in the key results.
+
+982
+01:52:05.070 --> 01:52:07.590
+Ankit Shukla: And then, this is what we are going to do.
+
+983
+01:52:07.950 --> 01:52:11.210
+Ankit Shukla: And this is… The continuous part.
+
+984
+01:52:11.440 --> 01:52:19.250
+Ankit Shukla: Always understand, you do not choke up, you do not choke up, Your complete bandwidth in this?
+
+985
+01:52:19.640 --> 01:52:25.360
+Ankit Shukla: You always give, based on the maturity of the product, you give about 20-40% things.
+
+986
+01:52:25.460 --> 01:52:28.309
+Ankit Shukla: For timeline for bug fixing.
+
+987
+01:52:28.610 --> 01:52:34.850
+Ankit Shukla: For making sure that if there are any new unplanned ideas that are coming, whether you should be able to accommodate them or not.
+
+988
+01:52:35.320 --> 01:52:37.040
+Ankit Shukla: That will help you become agile.
+
+989
+01:52:38.160 --> 01:52:39.020
+Ankit Shukla: Right?
+
+990
+01:52:39.190 --> 01:52:43.229
+Ankit Shukla: Everyone on a scale of 1 to 5, you're able to understand product strategy, roadmap, and prioritization.
+
+991
+01:52:43.570 --> 01:52:44.639
+Ankit Shukla: Everyone, please.
+
+992
+01:53:18.230 --> 01:53:18.960
+Ankit Shukla: Good.
+
+993
+01:53:22.620 --> 01:53:24.390
+Ankit Shukla: Very good. Yes.
+
+994
+01:53:24.750 --> 01:53:38.369
+Ankit Shukla: Now, in the next session… okay, so in the next session, we will go ahead and talk about executing this. Understand, execution part, I don't think, is something that you need to learn from me, although I'll go ahead and help you understand that.
+
+995
+01:53:39.000 --> 01:53:53.550
+Ankit Shukla: But execution… generally, I believe that you guys have intelligence to go ahead and figure out the execution by yourself, because execution is important, but it is not something that you need to go ahead and learn from other people. That can also come with practice, but I'll give you the right kind of frameworks in the next class.
+
+996
+01:53:53.980 --> 01:53:59.599
+Ankit Shukla: For today, I'll give you one more thing, okay? So, how many of you have used Figma in the past?
+
+997
+01:54:05.730 --> 01:54:06.500
+Ankit Shukla: Great.
+
+998
+01:54:06.640 --> 01:54:12.540
+Ankit Shukla: So, for the next assignment, the next part of the assignment, You need to create wireframes.
+
+999
+01:54:13.170 --> 01:54:18.569
+Ankit Shukla: Okay, so today I'm going to give you an overview of how to create wireflips. Okay.
+
+1000
+01:54:18.860 --> 01:54:28.830
+Ankit Shukla: I'll also send a video in the WhatsApp group, so that you guys are able to go ahead and go through that in order to create better wireframes. Okay, so we have this tool called as Figma.
+
+1001
+01:54:30.940 --> 01:54:33.280
+Ankit Shukla: Where you can just go ahead and click on.
+
+1002
+01:54:35.810 --> 01:54:36.830
+Ankit Shukla: Design?
+
+1003
+01:54:39.560 --> 01:54:46.829
+Ankit Shukla: Right? You can click on design, and then you can start creating your wireframes. Right? But what is a wireframe? Let me show you.
+
+1004
+01:54:52.880 --> 01:54:59.059
+Ankit Shukla: This is what a wireframe looks like. So what happens is, let's say you have some kind of idea that you need to implement.
+
+1005
+01:54:59.540 --> 01:55:03.640
+Ankit Shukla: But you are not sure How to communicate it to people.
+
+1006
+01:55:03.770 --> 01:55:09.929
+Ankit Shukla: For example, your designer, I have told you that… yeah, so I have told you that product management is a team sport.
+
+1007
+01:55:10.240 --> 01:55:12.290
+Ankit Shukla: You need to bring everyone on the same page.
+
+1008
+01:55:12.390 --> 01:55:21.390
+Ankit Shukla: But if you're communicating your ideas through words, it might be possible that people might not be able to understand, or they might not be on the same page, because visual communication is important.
+
+1009
+01:55:21.800 --> 01:55:24.549
+Ankit Shukla: So, wireframes comes into the picture.
+
+1010
+01:55:24.990 --> 01:55:31.370
+Ankit Shukla: They show your team What is the high-level idea in your mind about the product and the flow?
+
+1011
+01:55:31.690 --> 01:55:34.800
+Ankit Shukla: Right? And they are very basic.
+
+1012
+01:55:35.110 --> 01:55:40.769
+Ankit Shukla: Because here, you are trying to figure out the solution. You have not confirmed the solution, you are trying to figure out.
+
+1013
+01:55:40.940 --> 01:55:48.219
+Ankit Shukla: Right? So, wireframes are brainstorming and visual communication tools. So when you show these kind of wireframes to your team.
+
+1014
+01:55:48.400 --> 01:56:00.829
+Ankit Shukla: The team will give you some kind of input that this… this is how it could happen, this is how it could happen, and then you will keep on iterating the wireframes, unless you have something very solid, and then you will hand it over to the designer, and then designer will go ahead and create the full-fledged design.
+
+1015
+01:56:01.670 --> 01:56:07.330
+Ankit Shukla: Right? Here, we use wireframes to make sure that first we give the clarity to the team.
+
+1016
+01:56:07.740 --> 01:56:23.849
+Ankit Shukla: And second is, we are able to make sure that the iteration is easier. If you would have created, like, a full-fledged diagram with all the colors and all the UI elements, then changing them will take some time. That is why we create a very rare minimum kind of wireframes.
+
+1017
+01:56:25.040 --> 01:56:30.270
+Ankit Shukla: Right? Now, in wireframes, If you want to create wireframes, there are multiple methods.
+
+1018
+01:56:30.390 --> 01:56:38.669
+Ankit Shukla: A very simple method, which is applicable across the companies, and no company has a problem with the same, is creating your wireframes on pen and paper.
+
+1019
+01:56:39.630 --> 01:56:53.300
+Ankit Shukla: Right? You can just take a pen and paper, and then you can create the wireframes on the same to show to other people. But because these days we are in an online environment, there are remote teams, and there are people who are working from across the globe, and then you need to also create a record of what you have done.
+
+1020
+01:56:53.610 --> 01:56:56.799
+Ankit Shukla: There are some tools that are used for wireframing.
+
+1021
+01:56:57.280 --> 01:57:00.270
+Ankit Shukla: The simplest tool to create a wireframe is balsamic.
+
+1022
+01:57:01.400 --> 01:57:03.880
+Ankit Shukla: The name of the tool I will write here.
+
+1023
+01:57:06.750 --> 01:57:09.810
+Ankit Shukla: is… balsamic?
+
+1024
+01:57:11.810 --> 01:57:16.349
+Ankit Shukla: Right? It is very simple to use, but the tool that I'm going to tell you today is Figma.
+
+1025
+01:57:16.750 --> 01:57:24.160
+Ankit Shukla: Okay, so in Figma, you can go ahead and create any kind of wireframes that you want. So how do you create a wireframe? It's very simple. Wireframe only contains
+
+1026
+01:57:25.630 --> 01:57:29.269
+Ankit Shukla: three things. There are only three components that you need for wireframe.
+
+1027
+01:57:30.450 --> 01:57:35.070
+Ankit Shukla: One is… Your canvas, or your screen.
+
+1028
+01:57:36.020 --> 01:57:45.770
+Ankit Shukla: Second is… the elements… elements could be… Rectangle… or a square.
+
+1029
+01:57:45.980 --> 01:57:48.940
+Ankit Shukla: Or circle, or triangles, and text.
+
+1030
+01:57:51.050 --> 01:57:51.910
+Ankit Shukla: Right?
+
+1031
+01:57:52.530 --> 01:58:00.080
+Ankit Shukla: And then you need some kind of commentary to help people understand what this is. And all of these things are possible in Figma.
+
+1032
+01:58:00.750 --> 01:58:03.740
+Ankit Shukla: Let me show you how. Okay, so we are in Figma.
+
+1033
+01:58:04.000 --> 01:58:08.940
+Ankit Shukla: Here, I can put the name of the file, let's say the name of the file is… wireframe.
+
+1034
+01:58:12.240 --> 01:58:13.140
+Ankit Shukla: Plus?
+
+1035
+01:58:13.940 --> 01:58:20.810
+Ankit Shukla: This is your canvas, this is page. You can keep on adding the sheets to this page, okay? So, in this page.
+
+1036
+01:58:21.050 --> 01:58:23.960
+Ankit Shukla: I am going to create a screen. So these are some tools.
+
+1037
+01:58:26.610 --> 01:58:29.650
+Ankit Shukla: Let me show you what this tool got, just give me a moment.
+
+1038
+01:58:35.220 --> 01:58:36.050
+Ankit Shukla: Yes.
+
+1039
+01:58:36.640 --> 01:58:39.519
+Ankit Shukla: So… This particular tool.
+
+1040
+01:58:40.080 --> 01:58:46.989
+Ankit Shukla: is for moving items around. If you want to move a rectangle or a screen from here to there, then this is used for moving.
+
+1041
+01:58:47.550 --> 01:58:48.910
+Ankit Shukla: This is a frame.
+
+1042
+01:58:49.810 --> 01:58:52.149
+Ankit Shukla: Frame is almost like a screen.
+
+1043
+01:58:52.370 --> 01:58:56.809
+Ankit Shukla: Like, one screen on which things are going to look like in your app. I'm going to show you in just a moment.
+
+1044
+01:58:57.710 --> 01:58:59.279
+Ankit Shukla: You guys are not able to see?
+
+1045
+01:59:03.300 --> 01:59:04.080
+Ankit Shukla: Okay.
+
+1046
+01:59:04.320 --> 01:59:05.619
+Ankit Shukla: can see, okay, so…
+
+1047
+01:59:08.630 --> 01:59:10.829
+Ankit Shukla: Cool, cool, cool. Okay, cool.
+
+1048
+01:59:12.120 --> 01:59:17.510
+Ankit Shukla: Yes, these are shapes where you can add triangles, rectangles, anything that I've told you.
+
+1049
+01:59:18.230 --> 01:59:19.260
+Ankit Shukla: This is…
+
+1050
+01:59:19.640 --> 01:59:26.109
+Ankit Shukla: what you are going to use for 90% of the time. And there is one more thing, which is T, text. You should be able to add text.
+
+1051
+01:59:27.660 --> 01:59:33.219
+Ankit Shukla: Right? If you want to draw your own shapes, although you never have to do it as a product manager, then you can use this pen tool.
+
+1052
+01:59:34.410 --> 01:59:41.139
+Ankit Shukla: There are other features, but not purposeful for you right now. We will talk about this when we discuss Figmine detail. Right now, we are only focusing on
+
+1053
+01:59:41.540 --> 01:59:48.649
+Ankit Shukla: the wireframes. So, how do you create a wireframe? First of all, Never start wireframe.
+
+1054
+01:59:48.880 --> 01:59:50.290
+Ankit Shukla: Just in Figma.
+
+1055
+01:59:50.760 --> 02:00:03.499
+Ankit Shukla: try to have some clarity in your mind in some document or something, so that you are able to go ahead and put right thoughts on Figma. Okay, so let's say I have to create Quora's wireframe. So what I'll do is I'll just click on this screen frame button.
+
+1056
+02:00:04.880 --> 02:00:10.329
+Ankit Shukla: And then it will give me an option in here, in this pane. So when I click on this, it will give me an option here.
+
+1057
+02:00:10.800 --> 02:00:16.080
+Ankit Shukla: that what is the kind of screen that you're trying to develop. So, I am developing it for phone.
+
+1058
+02:00:16.700 --> 02:00:23.749
+Ankit Shukla: And I will take Android iPhone 16 Pro. So I'll click on this, and then I have this blank screen.
+
+1059
+02:00:24.630 --> 02:00:25.950
+Ankit Shukla: I'll repeat this again.
+
+1060
+02:00:26.570 --> 02:00:28.140
+Ankit Shukla: I will go to Figma.
+
+1061
+02:00:31.170 --> 02:00:32.730
+Ankit Shukla: I will go to Figma.
+
+1062
+02:00:33.730 --> 02:00:37.070
+Ankit Shukla: I will click on… new design.
+
+1063
+02:00:37.840 --> 02:00:40.560
+Ankit Shukla: And then I will be getting on this page.
+
+1064
+02:00:41.250 --> 02:00:44.740
+Ankit Shukla: On this page, I will click on this frame icon.
+
+1065
+02:00:44.940 --> 02:00:52.230
+Ankit Shukla: When I click on this, something will happen here, so I will see all the list of devices available. I will choose the phone, and I will choose
+
+1066
+02:00:52.960 --> 02:00:57.769
+Ankit Shukla: iPhone 16 Pro Max. They have already… they already have all the presets on their screen sizes.
+
+1067
+02:00:57.980 --> 02:00:59.359
+Ankit Shukla: So I'll click on this.
+
+1068
+02:00:59.500 --> 02:01:00.849
+Ankit Shukla: Now I have this.
+
+1069
+02:01:02.080 --> 02:01:04.990
+Ankit Shukla: Right? Now I need to put items here.
+
+1070
+02:01:05.400 --> 02:01:11.589
+Ankit Shukla: So what I'll do is, first is, every website has a top menu bar. So I will take…
+
+1071
+02:01:13.210 --> 02:01:16.960
+Ankit Shukla: this rectangle, I will come here.
+
+1072
+02:01:17.680 --> 02:01:21.130
+Ankit Shukla: And then the crosshair, I will… I'm going to go ahead and expand this.
+
+1073
+02:01:23.940 --> 02:01:27.379
+Ankit Shukla: So now this is the… menu item.
+
+1074
+02:01:28.360 --> 02:01:33.260
+Ankit Shukla: Right? Now, in the menu item, in the responsive case, there is also some kind of logo.
+
+1075
+02:01:33.420 --> 02:01:35.659
+Ankit Shukla: So I can just go ahead and take the text button.
+
+1076
+02:01:35.850 --> 02:01:40.050
+Ankit Shukla: I can click here, I can write, Quora.
+
+1077
+02:01:40.160 --> 02:01:48.309
+Ankit Shukla: If I want to increase the size, if I want to play anything with this, what I can do is I can look at this panel. So when I click on this.
+
+1078
+02:01:48.810 --> 02:01:50.470
+Ankit Shukla: This particular rectangle.
+
+1079
+02:01:50.620 --> 02:02:04.330
+Ankit Shukla: Then, the right pane shows me the property of that. For example, what should be the color, what should be the size, and these kind of things. When I click on another element, it shows me the property and allows me to change the property of that element. For example, I want to increase the font size of Pura.
+
+1080
+02:02:04.440 --> 02:02:06.660
+Ankit Shukla: So I can go ahead and maybe increase this.
+
+1081
+02:02:08.200 --> 02:02:12.459
+Ankit Shukla: So now, remember, it is observed this is increases from 18, 19, 20.
+
+1082
+02:02:13.460 --> 02:02:16.650
+Ankit Shukla: Right? I can also go ahead and maybe make it bolder.
+
+1083
+02:02:17.960 --> 02:02:19.440
+Ankit Shukla: Now I have this.
+
+1084
+02:02:19.600 --> 02:02:21.339
+Ankit Shukla: So, Quora logo is at the top.
+
+1085
+02:02:23.120 --> 02:02:28.899
+Ankit Shukla: Now, what do we have on Quora? What else do we have on Quora? On the top of Quora, there are multiple links.
+
+1086
+02:02:29.870 --> 02:02:32.260
+Ankit Shukla: There are multiple topics that are mentioned.
+
+1087
+02:02:34.040 --> 02:02:41.430
+Ankit Shukla: So these are the representations of the topic. For example, you want to discuss about entrepreneurship, product management, design.
+
+1088
+02:02:48.790 --> 02:02:49.600
+Ankit Shukla: Right?
+
+1089
+02:02:54.130 --> 02:02:57.799
+Ankit Shukla: Right? And then… There are going to be questions and answers.
+
+1090
+02:03:00.440 --> 02:03:06.950
+Ankit Shukla: To give this more clarity, I can mention some topics. So let's say… This is topic one.
+
+1091
+02:03:07.240 --> 02:03:12.150
+Ankit Shukla: But this is too large to fit, so what I'll do is… I will reduce this.
+
+1092
+02:03:14.240 --> 02:03:15.919
+Ankit Shukla: Yeah, so this is topic one.
+
+1093
+02:03:17.110 --> 02:03:18.589
+Ankit Shukla: This is topic 2.
+
+1094
+02:03:19.570 --> 02:03:21.049
+Ankit Shukla: This is topic 3.
+
+1095
+02:03:21.690 --> 02:03:22.979
+Ankit Shukla: And this is topic four.
+
+1096
+02:03:23.420 --> 02:03:29.459
+Ankit Shukla: Right? And Quora obviously contains question and answer, so I can create one more block. I will take New Rectangle.
+
+1097
+02:03:30.340 --> 02:03:32.680
+Ankit Shukla: And I can create a question and answer block.
+
+1098
+02:03:34.140 --> 02:03:38.610
+Ankit Shukla: Right? In this block, what do I have is… I am going to write.
+
+1099
+02:03:39.200 --> 02:03:40.250
+Ankit Shukla: Question?
+
+1100
+02:03:40.610 --> 02:03:43.900
+Ankit Shukla: This is… For question 1?
+
+1101
+02:03:44.050 --> 02:03:45.670
+Ankit Shukla: And then I can write A.
+
+1102
+02:03:47.090 --> 02:03:49.250
+Ankit Shukla: This is answer one.
+
+1103
+02:03:54.430 --> 02:03:56.590
+Ankit Shukla: Right? And I can go ahead and show.
+
+1104
+02:03:58.390 --> 02:04:04.980
+Ankit Shukla: upvotes and downvotes. So for upvotes and downvotes, what I can do is, I can just take a polygon.
+
+1105
+02:04:05.140 --> 02:04:11.680
+Ankit Shukla: Look at here, in the shapes, I can take a polygon. I will take… a triangle.
+
+1106
+02:04:12.080 --> 02:04:17.649
+Ankit Shukla: Which is for upvote. I can change the color of this so that it does not gel with the background. I'll take…
+
+1107
+02:04:18.290 --> 02:04:19.990
+Ankit Shukla: A darker shade of black.
+
+1108
+02:04:22.380 --> 02:04:24.070
+Ankit Shukla: And then I have put an upvote.
+
+1109
+02:04:25.160 --> 02:04:26.429
+Ankit Shukla: A bit smaller.
+
+1110
+02:04:28.130 --> 02:04:32.160
+Ankit Shukla: And then I can rotate this, If I hover onto this.
+
+1111
+02:04:33.290 --> 02:04:35.429
+Ankit Shukla: I can just go ahead and rotate this.
+
+1112
+02:04:38.510 --> 02:04:43.530
+Ankit Shukla: This is downvote, and you can also mention the numbers, as in how many upvotes and downvotes are there. After that.
+
+1113
+02:04:43.930 --> 02:04:45.419
+Ankit Shukla: You can just go ahead.
+
+1114
+02:04:48.620 --> 02:04:51.300
+Ankit Shukla: Copy this, Ctrl-C, Ctrl-V.
+
+1115
+02:04:51.490 --> 02:04:53.559
+Ankit Shukla: And then you can add this anywhere.
+
+1116
+02:04:58.360 --> 02:05:01.110
+Ankit Shukla: Right? And at the bottom, you can add one more bar.
+
+1117
+02:05:04.190 --> 02:05:08.129
+Ankit Shukla: Right? And here you can measure, you can also put a circle for menu.
+
+1118
+02:05:11.970 --> 02:05:16.209
+Ankit Shukla: You can also put a circle for some kind of menu, or some kind of other action.
+
+1119
+02:05:16.400 --> 02:05:19.889
+Ankit Shukla: Right? So, whatever you are doing on paper.
+
+1120
+02:05:20.110 --> 02:05:23.880
+Ankit Shukla: Now, with these simple tools, such as rectangle, text.
+
+1121
+02:05:24.060 --> 02:05:28.179
+Ankit Shukla: screens, you should be able to replicate this exactly on Figma.
+
+1122
+02:05:28.290 --> 02:05:29.260
+Ankit Shukla: And now?
+
+1123
+02:05:29.810 --> 02:05:37.399
+Ankit Shukla: The benefit is that because it is digital, it is very easy to go ahead and change things, it is very easy to share things, plus
+
+1124
+02:05:38.320 --> 02:05:44.010
+Ankit Shukla: Figma also has This comment option, okay? So you can also go ahead and add comments.
+
+1125
+02:05:44.150 --> 02:05:52.380
+Ankit Shukla: So, you are showing this to the designer, and designer can say that, Here, I think… We need to…
+
+1126
+02:05:52.770 --> 02:05:54.170
+Ankit Shukla: differentiate.
+
+1127
+02:05:54.910 --> 02:05:58.049
+Ankit Shukla: Between question and answer.
+
+1128
+02:05:58.420 --> 02:06:00.319
+Ankit Shukla: Because both of them are same fault.
+
+1129
+02:06:00.460 --> 02:06:06.370
+Ankit Shukla: Right? And then you have posted this, and then designer can read this, and then they can make the updates.
+
+1130
+02:06:07.490 --> 02:06:15.549
+Ankit Shukla: Right? So this is the bare minimum of wireframes. You do not need anything extra in order to build better wireframes. Right? Sometimes.
+
+1131
+02:06:15.950 --> 02:06:20.649
+Ankit Shukla: you want to, let's say, paste some kind of icons or images. So, simple thing that you can do is.
+
+1132
+02:06:20.830 --> 02:06:23.309
+Ankit Shukla: Go to this website called as Icons8,
+
+1133
+02:06:24.200 --> 02:06:26.470
+Ankit Shukla: Or you can go to any ICANN website in the world.
+
+1134
+02:06:26.690 --> 02:06:28.390
+Ankit Shukla: And then just copy this.
+
+1135
+02:06:29.030 --> 02:06:32.469
+Ankit Shukla: Go to… so, you can search for any kind of icons.
+
+1136
+02:06:34.010 --> 02:06:37.510
+Ankit Shukla: right-click, Copy image.
+
+1137
+02:06:38.400 --> 02:06:43.410
+Ankit Shukla: go to Figma, And then, paste, Ctrl-C, Ctrl-V.
+
+1138
+02:06:47.260 --> 02:06:48.120
+Ankit Shukla: Yes.
+
+1139
+02:06:48.560 --> 02:06:51.320
+Ankit Shukla: I'll just put CTRL-V. Now I have this.
+
+1140
+02:06:52.030 --> 02:06:55.529
+Ankit Shukla: I can go ahead and put it anywhere. Anywhere that I want to.
+
+1141
+02:06:57.180 --> 02:07:02.070
+Ankit Shukla: Right? So you can use all the interactive elements here as well. Okay. Now, one more thing that understand.
+
+1142
+02:07:03.170 --> 02:07:07.649
+Ankit Shukla: This is bare minimum, and right now, you have to limit yourself to bare minimum.
+
+1143
+02:07:08.990 --> 02:07:21.300
+Ankit Shukla: These days, people can also build prototypes with Figma, Lavable, and other apps that we are going to teach you later, but right now, please focus on the basics. Don't try to create high-fidelity wireframes with all the colors and all.
+
+1144
+02:07:22.030 --> 02:07:31.509
+Ankit Shukla: Why? Because once you do this, you are getting in direct conflict with the designers. Imagine the scenario that a designer is already someone who's working on this.
+
+1145
+02:07:31.900 --> 02:07:34.790
+Ankit Shukla: You started creating high-felty wireframes.
+
+1146
+02:07:34.960 --> 02:07:44.640
+Ankit Shukla: And then what happens? When they are giving you the feedback, they will start giving feedback on colors, size, position, branding, rather than the real flow.
+
+1147
+02:07:45.000 --> 02:07:57.020
+Ankit Shukla: So wireframes are there to give you the idea of the flow, rather than the colors and the aesthetics. Okay, so it is good to go ahead and limit yourself to bare minimum right now. Okay, now if you want to go to one more level advanced.
+
+1148
+02:07:57.160 --> 02:08:01.359
+Ankit Shukla: There is an interesting piece of Figma which is called as Figma Community.
+
+1149
+02:08:04.960 --> 02:08:06.829
+Ankit Shukla: Figma.com slash community.
+
+1150
+02:08:07.470 --> 02:08:11.479
+Ankit Shukla: In Figma Community, what you can do is, you can search for wireframes.
+
+1151
+02:08:12.740 --> 02:08:18.419
+Ankit Shukla: So if you're looking for some… I have only told you rectangles and all. If you're looking for some more sophisticated items.
+
+1152
+02:08:18.580 --> 02:08:26.040
+Ankit Shukla: Just click on… This… Click on any of these files, for example.
+
+1153
+02:08:27.080 --> 02:08:29.560
+Ankit Shukla: This is Wireframing UI Kit, which is for free.
+
+1154
+02:08:30.920 --> 02:08:34.589
+Ankit Shukla: Okay, it will give you all the components that you need. So what you should do is…
+
+1155
+02:08:34.750 --> 02:08:36.130
+Ankit Shukla: open in Figma.
+
+1156
+02:08:43.850 --> 02:08:47.919
+Ankit Shukla: This is completely free. Figma.com slash community, and search for anything that you want to.
+
+1157
+02:08:49.980 --> 02:08:55.299
+Ankit Shukla: And then… These are the different pages in the files, and then we can go to…
+
+1158
+02:09:02.050 --> 02:09:03.430
+Ankit Shukla: all the layers.
+
+1159
+02:09:11.680 --> 02:09:14.119
+Ankit Shukla: Change log, getting started.
+
+1160
+02:09:15.670 --> 02:09:20.940
+Ankit Shukla: Resources, yes. So these are the resources that they have gone ahead and given you.
+
+1161
+02:09:21.810 --> 02:09:24.290
+Ankit Shukla: I'm not sure where they have mentioned the file.
+
+1162
+02:09:45.620 --> 02:09:49.540
+Ankit Shukla: Yes, so we have not mentioned the file here, but it is rare to see in this way.
+
+1163
+02:09:57.980 --> 02:10:00.889
+Ankit Shukla: Yeah, so they have created this in assets. Thank you, Akshay.
+
+1164
+02:10:02.820 --> 02:10:08.069
+Ankit Shukla: Yeah, so you can go ahead, copy all of these assets that you want, and then you can put it in your files.
+
+1165
+02:10:11.460 --> 02:10:14.980
+Ankit Shukla: You can just copy them, and then they should be inserted in your wireframes.
+
+1166
+02:10:16.890 --> 02:10:23.110
+Ankit Shukla: Right? Generally, other files, what they'll do is they give you everything in the file to make sure that it is easy for you to find and copy-paste.
+
+1167
+02:10:23.500 --> 02:10:25.780
+Ankit Shukla: Right? And now this is one fine.
+
+1168
+02:10:25.970 --> 02:10:32.439
+Ankit Shukla: If you go ahead and observe the whole Figma community, not only you'll be able to find on wireframes, but a lot more other ideas as well.
+
+1169
+02:10:36.910 --> 02:10:43.490
+Ankit Shukla: Okay, so this is 101 on Figma. This I've given you today because in your next part of assignment, you need to create wireframes.
+
+1170
+02:10:44.110 --> 02:10:49.019
+Ankit Shukla: Okay, so that's it from today, guys. Before I could take any questions.
+
+1171
+02:10:49.450 --> 02:10:54.459
+Ankit Shukla: Please go ahead and fill up this feedback form. Just give me a moment.
+
+1172
+02:11:03.880 --> 02:11:13.649
+Ankit Shukla: Yeah, so I've shared the feedback form in the chat. Everyone, please go ahead, fill the feedback form, and write down in the chat before I could take questions. Raise your hand if you have questions, I'll answer the questions in a couple of minutes.
+
+1173
+02:11:21.990 --> 02:11:26.060
+Ankit Shukla: Write that in the chat, once you're done with the questions. Once you're done with the feedback.
+
+1174
+02:12:55.490 --> 02:12:57.150
+Ankit Shukla: Let's start with the questions.
+
+1175
+02:12:57.630 --> 02:12:59.030
+Ankit Shukla: JM, you want to go ahead?
+
+1176
+02:13:01.760 --> 02:13:17.759
+jm: Hi, Ankit, thank you for the session. I need to internalize a lot of information from today's session. It takes a little while. There is… I'm sure you have read a lot of books, did a lot of homework to share as this frame works, and where to use what.
+
+1177
+02:13:18.150 --> 02:13:32.269
+jm: I'm understanding under prioritization frameworks that we spoke CANO, RISE, ICE, there are more frameworks available that are decided, or by various study… studies that are already available.
+
+1178
+02:13:32.590 --> 02:13:37.110
+jm: And when we are making a prioritization, we should take a combination of
+
+1179
+02:13:37.780 --> 02:13:41.199
+jm: Two or more? Is that the takeaway?
+
+1180
+02:13:41.660 --> 02:13:46.180
+Ankit Shukla: Okay, so although there are hundreds of frameworks on prioritization.
+
+1181
+02:13:46.620 --> 02:13:52.350
+Ankit Shukla: But that is not important for you to learn about everything, because if you cross-question every other framework.
+
+1182
+02:13:52.550 --> 02:13:55.629
+Ankit Shukla: You will eventually understand that, yes, it is a method of
+
+1183
+02:13:55.960 --> 02:14:08.860
+Ankit Shukla: what impact it is creating in users' lives, whether it is a delight, it is less impact, more impact. You can count it in terms of user impact or business impact. And the second part is how much effort it is going for you to take, right?
+
+1184
+02:14:09.030 --> 02:14:13.229
+Ankit Shukla: So, in the base, every framework is going to converge at one point.
+
+1185
+02:14:13.850 --> 02:14:32.489
+Ankit Shukla: But if you try to read each and every framework, you are going to overwhelm yourself, you are going to focus the, let's say, your learning apart from the users and then to these frameworks and processes, which do not matter in the long run. So what you need to do is, right now, forget about every other framework, just remember ICE and Kano, and apply them in combination. That's it.
+
+1186
+02:14:35.470 --> 02:14:37.390
+jm: Got it. Thank you.
+
+1187
+02:14:38.550 --> 02:14:40.000
+Ankit Shukla: Anshul, you want to go ahead?
+
+1188
+02:14:44.480 --> 02:15:03.859
+Anshul Jain: Yeah. So, Ankit, I have a small query. I mean, like, probably we are just out of that assignment thing, and, kind of, I mean, like, it has a huge impact on me. I really feel I'm always, I'm, like, course-correcting it. I mean, like, even during submission, I felt like I could improve it. So, is it, is it an ongoing process?
+
+1189
+02:15:04.030 --> 02:15:13.980
+Anshul Jain: that we will keep asking the queries from the cohort, and we'll keep iterating it, because it may be that I'm working on one of the products.
+
+1190
+02:15:13.980 --> 02:15:27.930
+Anshul Jain: But if I select some second product and try to improvise it, I really think it is developing the muscles. But is my understanding correct that course correction is the ongoing process, that I will continue on this cohort?
+
+1191
+02:15:28.220 --> 02:15:33.299
+Ankit Shukla: Definitely, Anshun. Great question, and I'm sure this question would be in many people's minds as well.
+
+1192
+02:15:33.410 --> 02:15:35.830
+Ankit Shukla: So understand, we have designed the course in such a way
+
+1193
+02:15:36.190 --> 02:15:38.719
+Ankit Shukla: That you are bound to make mistakes.
+
+1194
+02:15:38.850 --> 02:15:46.790
+Ankit Shukla: you are bound to do some reflections, and then you are going to iterate. For example, the assignment one, all the five parts, the four or five parts that we have given you.
+
+1195
+02:15:47.270 --> 02:15:52.110
+Ankit Shukla: We will exactly repeat this assignment as your assignment 2, but with a different product.
+
+1196
+02:15:52.160 --> 02:16:01.539
+Ankit Shukla: So that whatever mistake that you're making out here, once you do it again, then you will develop the mental muscle, then the course correction will happen. Then you'll get the feedback, then it will improve, and then eventually.
+
+1197
+02:16:01.590 --> 02:16:14.480
+Ankit Shukla: Once you understand how to go ahead and think, how to work amidst these chaos and all of these ambiguous situations, then you are going to learn. So course correction is the only way. We are just a platform that is enabling that course correction. That's it.
+
+1198
+02:16:14.830 --> 02:16:15.490
+Anshul Jain: Okay.
+
+1199
+02:16:16.720 --> 02:16:26.459
+Anshul Jain: So, do we have any sample, like, kind of a… I mean, like, something that we can refer to, okay? This is how the other people have solved it?
+
+1200
+02:16:26.730 --> 02:16:37.389
+Ankit Shukla: Not right now, but once your assignment, like, once your cohort submits the assignment, so although we have included some relevant examples in the LMS already, like, what you can do in that particular part.
+
+1201
+02:16:37.400 --> 02:16:53.960
+Ankit Shukla: But the real assignments you'll only get once people have completed the assignments, all of these assignments would be published in the LMS, so that you can see what other people have done, how they have done good, how they have done better, you can learn from them, and when you understand that it's very difficult to reflect on yourself, but you look at other people's work.
+
+1202
+02:16:53.959 --> 02:17:03.220
+Ankit Shukla: you'll be able to go ahead and do a more critical analysis. So that will happen. And it will happen for every assignment. Every assignment will be made available to other people in the LMS, so that everyone can learn from each other.
+
+1203
+02:17:03.510 --> 02:17:04.789
+Anshul Jain: Thank you, thank you.
+
+1204
+02:17:06.150 --> 02:17:07.530
+Ankit Shukla: Cool. Ashish, do you have a question?
+
+1205
+02:17:07.980 --> 02:17:09.359
+Ashish: Hi, I'm Kit, am I audible?
+
+1206
+02:17:09.360 --> 02:17:10.699
+Ankit Shukla: Yes, yes, your audible, Ashes, please go ahead.
+
+1207
+02:17:10.709 --> 02:17:16.859
+Ashish: I'm gonna have two questions. You mentioned, to use Kano, at 0 to 1.
+
+1208
+02:17:16.999 --> 02:17:27.529
+Ashish: So, I didn't get that. So, here, we have not even launched the product, so how can we, you know, measure them on these scales, basically, whether it is play lighters, or basics, or performance?
+
+1209
+02:17:27.719 --> 02:17:39.839
+Ankit Shukla: That is the estimate, Gashesh. You are going to estimate that whether this is going to… so, you do not do prioritization after launching the feature. You do prioritization before launching the feature. That is the purpose of launch, right? Just that in…
+
+1210
+02:17:40.059 --> 02:17:49.039
+Ankit Shukla: One-to-end, we generally use RISE, because reach is a parameter that can only be get once you have some product that is already available, and you know how many people are coming to the product.
+
+1211
+02:17:49.940 --> 02:17:50.639
+Ashish: Okay.
+
+1212
+02:17:50.770 --> 02:17:56.299
+Ashish: Okay, also, second question, OKRs come under which category of product roadmap?
+
+1213
+02:17:56.570 --> 02:18:01.899
+Ashish: If… actually, I missed that. Does it come under initiated? OPR do not start from the product roadmap.
+
+1214
+02:18:02.169 --> 02:18:06.099
+Ankit Shukla: OKR is an ongoing thing. OKR starts from the leadership team.
+
+1215
+02:18:06.359 --> 02:18:10.099
+Ankit Shukla: They would have some kind of objectives, and they would have some kind of chaos.
+
+1216
+02:18:10.389 --> 02:18:20.439
+Ankit Shukla: They will give you your own KR. They would have created KR for every team, and then they will give you your KR, and that KR will become your objective when you create a product roadmap and product strategy.
+
+1217
+02:18:21.010 --> 02:18:21.780
+Ashish: Okay.
+
+1218
+02:18:22.209 --> 02:18:29.209
+Ankit Shukla: And then you create a product roadmap, every feature would have its own kind of substance metrics, and then they might become your KR.
+
+1219
+02:18:29.779 --> 02:18:30.779
+Ashish: Okay, okay.
+
+1220
+02:18:31.539 --> 02:18:33.629
+Ankit Shukla: Yes, cool. Sally, you want to go ahead?
+
+1221
+02:18:35.190 --> 02:18:35.940
+Sayli Karanjkar: Hi, Al.
+
+1222
+02:18:36.270 --> 02:18:40.810
+Sayli Karanjkar: So, my question is more on, estimates and planning.
+
+1223
+02:18:40.820 --> 02:18:56.679
+Sayli Karanjkar: Like, in my current organization also, what we do is we have a collaborate discussion between the engineering and the product group for getting estimates, and then we start the planning. But many times what happens is whatever estimates that engineering has given are on the higher side.
+
+1224
+02:18:56.820 --> 02:19:05.260
+Sayli Karanjkar: And what we expect is, not as per what they have given, okay? Because of that, our plan gets, a bit off.
+
+1225
+02:19:05.330 --> 02:19:18.569
+Sayli Karanjkar: So, how do you tackle that? And because I come from engineering background, I was into engineering transition to product, I also know why those estimates come in, okay? Because of some technical issues, because of some blockers.
+
+1226
+02:19:18.570 --> 02:19:26.440
+Sayli Karanjkar: So, how do I justify my urgency as a product person that we need to cover it up earlier?
+
+1227
+02:19:26.709 --> 02:19:30.360
+Sayli Karanjkar: And how do we, you know, come to a middle ground here?
+
+1228
+02:19:30.530 --> 02:19:36.330
+Ankit Shukla: That's an important question, Saili. Okay, I'll not be able to answer it right now, because we have planned exactly the out content for the next session.
+
+1229
+02:19:36.330 --> 02:19:46.390
+Sayli Karanjkar: Okay, in the next session, we'll talk about how to limit these kind of best surprises, how to work with engineers, how to have a good collaboration with engineering manager, how to work around estimates, and what to do when.
+
+1230
+02:19:46.389 --> 02:19:51.870
+Ankit Shukla: things do not work as per the deadline, and how to make sure that that does not happen. So we'll talk about this in the next session.
+
+1231
+02:19:51.870 --> 02:19:53.379
+Sayli Karanjkar: Okay, thank you.
+
+1232
+02:19:54.360 --> 02:19:55.660
+Ankit Shukla: Paol, do you have a question?
+
+1233
+02:19:58.870 --> 02:19:59.690
+Parul: Yeah, good.
+
+1234
+02:19:59.850 --> 02:20:14.870
+Parul: Again, I was going through the product strategy, the one which you have shared in the PPT file, for the LinkedIn and YouTube G2, right? Yeah. What you have taught us, it's like, we have to go with the, CCs or 5.
+
+1235
+02:20:14.960 --> 02:20:21.480
+Parul: four-piece approach, right? But there, I just couldn't find the company
+
+1236
+02:20:22.140 --> 02:20:27.640
+Parul: company or the… the user's pain area. So, is it like…
+
+1237
+02:20:28.130 --> 02:20:34.990
+Parul: I mean, it was, like, a short product strategy which you have given us to go through it, or is it a detailed one?
+
+1238
+02:20:35.090 --> 02:20:35.870
+Parul: Can you follow?
+
+1239
+02:20:35.870 --> 02:20:39.760
+Ankit Shukla: It was not a sh… I would say, a very long product strategy.
+
+1240
+02:20:39.920 --> 02:20:49.229
+Ankit Shukla: It was a shot to help you understand what the product strategy looks like. Understand, although it is not written that this is a company part, this is a user part, this is a customer part.
+
+1241
+02:20:49.230 --> 02:20:52.199
+Parul: But there are some keywords that are mentioning the same. So understand.
+
+1242
+02:20:52.930 --> 02:20:54.889
+Ankit Shukla: Whenever, let's say, I mentioned that.
+
+1243
+02:20:55.040 --> 02:21:07.240
+Ankit Shukla: In a product strategy, you are going to have these four components. It does not mean that all of these four things would be explicitly written. For example, when I talk about stakeholders, timelines, and what are the risks, that means they are catered from the company angle.
+
+1244
+02:21:07.440 --> 02:21:27.150
+Ankit Shukla: Right? Talk about, let's say, the pain points of the users, what problem are we solving? That is from the customer's angle. So, you have to find these clues. There would not be verbatima strategy that every strategy will have these four components, and that will happen, but this is the basic. You will start from here, and then you will have multiple trees and branches that will come from your customers, your products, and other things.
+
+1245
+02:21:28.950 --> 02:21:38.280
+Parul: And another question in the same line is, right, when we are doing the sort analysis for a product or a company, what if a company has one product, like LinkedIn?
+
+1246
+02:21:38.690 --> 02:21:44.220
+Parul: Right? It's a company. So, and also a product. So, it's kind of a merge, right?
+
+1247
+02:21:45.150 --> 02:21:51.370
+Ankit Shukla: Yeah, so then you can… yeah, so in that case, the product SWOT analysis for the company is equal to the SWOT analysis for the product.
+
+1248
+02:21:52.210 --> 02:22:07.059
+Parul: Okay, one last question. I was just going through Minim's first case study. I just asked ChatGPT to give me one case study, and it was a simple… for them, it might be a simple one, that, there's a store, the profit has declined.
+
+1249
+02:22:07.060 --> 02:22:17.659
+Parul: Right? The labor cost has increased by this much, 8% and all that, and they have to, go back to the profit minimum in 18 months, you have to work on it, right?
+
+1250
+02:22:18.400 --> 02:22:26.869
+Parul: So, then I asked for a sample or a modern answer, right? So, it means I asked for the issue 3 and all that stuff.
+
+1251
+02:22:27.020 --> 02:22:30.639
+Parul: Created it nicely. But when it was,
+
+1252
+02:22:31.090 --> 02:22:37.840
+Parul: Giving the solutions, right? Implementing. So what did… assume that there is a 60% labor cost.
+
+1253
+02:22:38.530 --> 02:22:48.979
+Parul: So, that kind of a exclamation means, is it right? Because nowhere or anywhere is there mentioned, right? So, how we can refer… infer that it's okay?
+
+1254
+02:22:49.240 --> 02:23:07.620
+Parul: means 8% was an increase in the labor cost that is mentioned in the problem, but when it started solving it, it just says that it has 60% of labor cost, means whatever the cost we have, right? I think 60% is a labor cost. So from there, it started the calculation, and everything falls and pictures.
+
+1255
+02:23:07.660 --> 02:23:12.240
+Parul: So my question is, that 60% labor cost, how…
+
+1256
+02:23:12.410 --> 02:23:19.589
+Parul: accurate, I mean, it's a guesstimate only, but is it the right way to go ahead, or what is the best…
+
+1257
+02:23:19.590 --> 02:23:22.669
+Ankit Shukla: to do is parallel, because I do not have the context about the problem and everything.
+
+1258
+02:23:22.830 --> 02:23:42.640
+Ankit Shukla: If ChatGPT… so, in the interview, it will also happen that you will assume some things, or interview will… interviewer will tell you to assume something, but whenever you assume, you have to have it backed by some logic. So your purpose… what you have to do is ask ChatGPT that why you have taken this 60% description, like, this 60% description, and then it will go ahead and tell you, that's it.
+
+1259
+02:23:43.270 --> 02:23:45.500
+Parul: Okay, okay, okay, thank you.
+
+1260
+02:23:46.730 --> 02:23:47.879
+Ankit Shukla: Anika, do you want to go ahead?
+
+1261
+02:23:48.780 --> 02:23:50.119
+aniket Chalke: Okay, hi, I'm good.
+
+1262
+02:23:50.120 --> 02:23:50.500
+Ankit Shukla: Hallelujah.
+
+1263
+02:23:50.500 --> 02:24:03.349
+aniket Chalke: session, hi. I have a very basic question regarding the assignment. So, the wireframe that we have to do is for the product that we have chosen, right? For Assignment 1, Phase 2, and based on the problem that we have identified.
+
+1264
+02:24:04.570 --> 02:24:05.670
+aniket Chalke: Right?
+
+1265
+02:24:08.170 --> 02:24:09.929
+Ankit Shukla: Can you come again? Was the question completed?
+
+1266
+02:24:10.110 --> 02:24:14.200
+aniket Chalke: Yes, my question was completed. Was I audible to you?
+
+1267
+02:24:14.200 --> 02:24:17.330
+Ankit Shukla: Yeah, please go ahead. Tell me again, Anikit, I think I missed it.
+
+1268
+02:24:17.690 --> 02:24:27.609
+aniket Chalke: Okay, alright. So my question is that the wire from that we have to design, right? It has to be based on the product that we have selected for our assignment, and the problem statement that we have identified in the Phase 2.
+
+1269
+02:24:28.170 --> 02:24:29.229
+Ankit Shukla: Yes, yes, correct.
+
+1270
+02:24:29.580 --> 02:24:36.929
+aniket Chalke: Right? Okay, alright. And, Ankit, like, are we going to continue the same product throughout the course, or we are going to select another product, like, how is it going to work?
+
+1271
+02:24:36.930 --> 02:24:45.270
+Ankit Shukla: No, no, for this assignment, you will continue with the same product, unless there is some problem that you have found and you have to change the product from scratch. For the coming assignment, there will be different products.
+
+1272
+02:24:46.040 --> 02:24:51.469
+Ankit Shukla: Okay, and that would be chosen by us, or how is it? That will tell you based on the results of the first session. First things.
+
+1273
+02:24:51.470 --> 02:24:53.819
+aniket Chalke: Okay, alright. Thanks, Ankit.
+
+1274
+02:24:54.140 --> 02:24:55.419
+Ankit Shukla: Arjun, you want to go ahead?
+
+1275
+02:24:56.110 --> 02:25:10.690
+Arjun: Yeah, hiking. My question is related to OKRs. So, you showed us how you set the OKRs, and I would like to understand whether… is there a specific frequency for setting the OKRs? Is it quarterly? How does it work in the real life?
+
+1276
+02:25:10.690 --> 02:25:12.719
+Ankit Shukla: Yes. Also, depends from company to company.
+
+1277
+02:25:12.830 --> 02:25:20.990
+Ankit Shukla: But generally, most of the companies that I have worked with, I have consulted with, and we have seen case studies of, they do quarterly OKR settings.
+
+1278
+02:25:22.670 --> 02:25:30.069
+Arjun: Also, yeah, thank you, thank you for that. Also, does it change? I mean, if you set a quarterly OKS, can it change during the same quarter?
+
+1279
+02:25:30.390 --> 02:25:48.040
+Ankit Shukla: It can, depending upon, yeah, so it can, depending upon what is the reason for the change. Understand, quarter is too less for a strategy to change, or for OKRs to change. So generally, they don't change, but if there is something that is very urgent, then you might have, maybe, some new strategy where you are going to go ahead and act upon, and that would have new kind of OKRs.
+
+1280
+02:25:49.280 --> 02:25:50.000
+Arjun: Got it. Thanks.
+
+1281
+02:25:50.000 --> 02:25:57.839
+Ankit Shukla: And also, you have to ask yourself whether I need to change the objective, or just add some more KRs, or tweak some KRs. So, that will depend on case basis.
+
+1282
+02:25:58.960 --> 02:26:00.329
+Arjun: Love it. Thank you so much.
+
+1283
+02:26:01.160 --> 02:26:02.399
+Ankit Shukla: Ginsu, you have a question?
+
+1284
+02:26:03.310 --> 02:26:06.580
+Jincy Shibu: Hi Ankit, thank you for the session. Am I audible?
+
+1285
+02:26:06.580 --> 02:26:08.150
+Ankit Shukla: Yes, yes, your audible agency. Please go ahead.
+
+1286
+02:26:08.500 --> 02:26:21.440
+Jincy Shibu: So my question is regarding OKRs, and it's about cascading of the OKRs. So, as I'm thinking through this, I'm not really clear how it can cascade, because
+
+1287
+02:26:21.450 --> 02:26:38.340
+Jincy Shibu: If I really go down the level, after a certain point, it's like I'm doing my job, for example, if it come to developer. What does that OKR mean for a developer? He just writing his code. And the other reason why I have this
+
+1288
+02:26:38.370 --> 02:26:47.279
+Jincy Shibu: conflict is because, now, if I take an OKR, as a product manager, you have an OKR for your product.
+
+1289
+02:26:47.390 --> 02:26:52.010
+Jincy Shibu: Now, some of these teams that are… that you are working with.
+
+1290
+02:26:52.170 --> 02:26:56.570
+Jincy Shibu: I is not dedicated to that product. You are dedicated to that product.
+
+1291
+02:26:56.790 --> 02:27:03.849
+Jincy Shibu: Those other teams are not focused on your product, they may be central teams that are working across products.
+
+1292
+02:27:03.980 --> 02:27:20.149
+Jincy Shibu: So, what does cascading really mean to that low level? Leadership, it makes sense, OKRs, because, you know, at a certain leadership level, you have to drive those goals.
+
+1293
+02:27:20.150 --> 02:27:32.980
+Jincy Shibu: So, there it makes sense, but I'm not clear what does this cascading… it's like shoehorning, and then it can be conflicting also. What does OKR mean to a developer?
+
+1294
+02:27:33.790 --> 02:27:47.650
+Ankit Shukla: So, you can see, that is the whole purpose of OKRs. Because leaders are so entitled that they believe that, no, the people who are lower in the funnel, they don't even need these kind of goals, and they should just execute whatever we are telling them, right? That was the thinking
+
+1295
+02:27:47.990 --> 02:27:57.600
+Ankit Shukla: which needs to be challenged, so that people involved, people get more involved in the discussions, and they are more involved, let's say they find the purpose in the work that they are doing.
+
+1296
+02:27:57.600 --> 02:27:58.949
+Jincy Shibu: So what happens is…
+
+1297
+02:27:59.260 --> 02:28:09.630
+Ankit Shukla: For a development team, let's say you told the development team that we should be able to build this feature in 2 days, or 3 days, or 4 days, the manager of the development team can go ahead and take that KR,
+
+1298
+02:28:09.840 --> 02:28:14.119
+Ankit Shukla: Because they have understanding of what, let's say, a junior developer is working.
+
+1299
+02:28:14.120 --> 02:28:18.279
+Jincy Shibu: It is their responsibility to convert it so that it becomes, like, a good goal for them.
+
+1300
+02:28:18.400 --> 02:28:23.850
+Ankit Shukla: The goal could be very simple, that today you should go ahead and write this particular feature, or tomorrow you should write this particular feature.
+
+1301
+02:28:24.380 --> 02:28:31.549
+Ankit Shukla: Right? So, that is a real thing that we are challenging, because when the leaders believe that the junior should only do their job.
+
+1302
+02:28:31.720 --> 02:28:34.549
+Ankit Shukla: Then what happens? They are only looking… so understand.
+
+1303
+02:28:36.530 --> 02:28:45.150
+Ankit Shukla: For a product manager, a product is, let's say, something that achieves the goals, earns money, helps solve users' problems.
+
+1304
+02:28:45.390 --> 02:28:55.100
+Ankit Shukla: But if you say that for a developer, the product is only a piece of code that they are writing, then there is a mismatch of the expectations. Okay, so that is why it is the manager's responsibility
+
+1305
+02:28:55.340 --> 02:28:58.470
+Ankit Shukla: To understand the KRs that are being given to them.
+
+1306
+02:28:58.620 --> 02:29:13.679
+Ankit Shukla: convert them into good objectives and key results, and give it to the team. Yes, it is difficult, it is challenging, but that is when the stakeholder management comes, right? And for the conflicting teams, let's say you have a central team that is a development team.
+
+1307
+02:29:13.850 --> 02:29:32.610
+Ankit Shukla: Now this team is working for you as a product manager for one product, and they're also working for the marketing team in order to go ahead and develop some small features for them. So this team would have shared OKRs. It is not true that one team will only have one OKR, so they will get some one or two OKRs from your team, and one or two OKRs from their team. So there is also a concept of shared OKRs.
+
+1308
+02:29:33.560 --> 02:29:35.129
+Jincy Shibu: Okay, thank you.
+
+1309
+02:29:35.880 --> 02:29:36.650
+Ankit Shukla: Yes. Okay.
+
+1310
+02:29:38.240 --> 02:29:41.499
+Ankit Shukla: Cool, akshay, you want to go ahead?
+
+1311
+02:29:43.360 --> 02:29:53.439
+Akshay Gambhir: Yes, I am here. So this is somewhat, a continuation of the previous question, Ginsi asked. So,
+
+1312
+02:29:53.440 --> 02:30:07.049
+Akshay Gambhir: in… when the OKR is set, the OKRs are set by the higher management, and let's say the PM team also gets some OKRs. And usually, PMs are dependent upon other teams.
+
+1313
+02:30:07.390 --> 02:30:12.799
+Akshay Gambhir: For the execution part. So, is the PM involved in,
+
+1314
+02:30:13.210 --> 02:30:15.750
+Akshay Gambhir: like, aligning the other team's OKRs.
+
+1315
+02:30:15.750 --> 02:30:18.730
+Ankit Shukla: Yeah, so understand, every company, when they create an OKR,
+
+1316
+02:30:18.830 --> 02:30:23.790
+Ankit Shukla: During the creation of an OKR, you are given maybe 1 or 2 weeks in order to align all the teams.
+
+1317
+02:30:23.870 --> 02:30:31.329
+Ankit Shukla: Right? So you'll be given the objectives, load the KRs, and then you have to define your own OKRs from that particular KR that is trickle-down.
+
+1318
+02:30:31.330 --> 02:30:44.099
+Ankit Shukla: At that point of time, you need to understand what are going to be the dependencies. You need to talk to the managers of these teams to understand that what is the dependability on your team, their team, and whether… what is the best way to go ahead and work forward.
+
+1319
+02:30:44.660 --> 02:30:56.709
+Ankit Shukla: Right? So, yes, there has to be a collaboration. A product manager has to be involved if that team is important for you to deliver your KRs. And it is a very common practice that OKRs are going to be shared across the teams.
+
+1320
+02:30:57.230 --> 02:30:59.929
+Akshay Gambhir: Right, correct, understood. Thanks.
+
+1321
+02:31:01.180 --> 02:31:01.820
+Ankit Shukla: Yes.
+
+1322
+02:31:02.970 --> 02:31:04.919
+Ankit Shukla: Cool. Bos, you have a question?
+
+1323
+02:31:04.920 --> 02:31:20.419
+Bose: Yeah, Panket, so when we were having all this, 3D or all 6D framework, right, so we were having the OKArts, but at one… at what point, so we are, like, justifying, like, okay, so.
+
+1324
+02:31:20.420 --> 02:31:35.729
+Bose: we are meeting these, OKRs or something like that. So you said, like, ideally the best approach would be, like, every quarter we will revisit that OKRs can be eligible or not, right? But in which phase, considering the 60 framework, so…
+
+1325
+02:31:35.740 --> 02:31:39.100
+Bose: when we were trying to evaluate these OKAs.
+
+1326
+02:31:39.710 --> 02:31:48.040
+Ankit Shukla: In the last phase, Moshi. So, you start with a goal in mind, right? So you discover, define, develop, deliver, do everything.
+
+1327
+02:31:48.220 --> 02:31:56.339
+Ankit Shukla: The last phase, when we talk about the debrief part, or the… after the distribution is done, then you are going to see whether you are going in the, let's say, after launching the feature.
+
+1328
+02:31:56.510 --> 02:31:57.480
+Ankit Shukla: feather…
+
+1329
+02:31:57.790 --> 02:32:02.719
+Ankit Shukla: This is helping you achieve your goal or not. And then you learn from this, and then you use it for the next quarter.
+
+1330
+02:32:03.240 --> 02:32:21.019
+Bose: Yeah, and sometimes we used to do, to justify the user behavior, A-B testing also we used to do, right? So, in that case also, are we going to consider any OKRs, or else it's just for user engagement, and which one is going to be a more reliable solution that we will take? What would be the outcome?
+
+1331
+02:32:21.020 --> 02:32:24.650
+Ankit Shukla: What happens is, OKRs and A-B testing.
+
+1332
+02:32:25.490 --> 02:32:36.539
+Ankit Shukla: are not directly related, okay, but the relation is that, let's say you set an OKR that we should increase the engagement, right? And in the engagement, you have came upon an idea that we should introduce
+
+1333
+02:32:37.530 --> 02:32:53.680
+Ankit Shukla: a new like button, maybe with X kind of color, maybe with red color, or maybe with blue color. Some of the team members told that if we need to increase the engagement with likes, the color should be blue, because that is what everyone is used to. And then some of the team members, or your own assumption, was that maybe red color will work better.
+
+1334
+02:32:53.770 --> 02:33:00.250
+Ankit Shukla: So you do an A-B testing of blue and red. Whatever works is going to help you achieve your engagement.
+
+1335
+02:33:00.360 --> 02:33:04.710
+Ankit Shukla: That is going to be floated across the users, and then it will help you achieve your OKRs.
+
+1336
+02:33:05.490 --> 02:33:08.360
+Bose: Got it, yeah. Thank you, thank you for the exam.
+
+1337
+02:33:08.360 --> 02:33:12.400
+Ankit Shukla: Yes, cool. I think we have answered all the questions.
+
+1338
+02:33:14.810 --> 02:33:21.229
+Ankit Shukla: Yes, cool. Yes, for the… okay, so guys, for all the assignments, you will get guidelines from us.
+
+1339
+02:33:21.620 --> 02:33:38.529
+Ankit Shukla: They are mentioned in the LMS. If you have any questions, you are already a part of that WhatsApp group. You have the help button on the LMS. You can always connect to us. Okay, make sure that you complete the assignment. For any questions, feel free to reach out. I'll also add some more learning material to the LMS and in the WhatsApp group, so that we are able to discuss about the same. Cool?
+
+1340
+02:33:38.640 --> 02:33:40.709
+Ankit Shukla: Thank you, everyone. Take care. Bye.
+
+1341
+02:33:41.590 --> 02:33:43.340
+Ankit Shukla: Thank you all. Thank you.
+
+1342
+02:33:43.340 --> 02:33:43.930
+Somesh: I'm good.
+
+1343
+02:33:43.930 --> 02:33:46.170
+Archana: And before we close,
+
+1344
+02:33:46.510 --> 02:33:52.990
+Archana: the links that you had presented yesterday, can we get the, URLs? What links?
+
+1345
+02:33:52.990 --> 02:33:53.930
+Ankit Shukla: The product strategy part?
+
+1346
+02:33:53.930 --> 02:33:54.940
+Archana: Yes.
+
+1347
+02:33:54.940 --> 02:34:06.460
+Ankit Shukla: Yes, sir, that would be available. In case that is not available right now, you can just click on the slide deck that is mentioned in the LMS. On the slide, the link is mentioned, but I'll also ask Deepak to go ahead and put it explicitly as well.
+
+1348
+02:34:06.740 --> 02:34:08.210
+Archana: Sure, thank you.
+
+1349
+02:34:08.210 --> 02:34:09.539
+Ankit Shukla: Thank you guys, take care. Bye.

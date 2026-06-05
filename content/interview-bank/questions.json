@@ -1,0 +1,86 @@
+[
+  {
+    "id": "int-01",
+    "topicIds": ["problem-validation"],
+    "question": "How would you validate that a problem is worth solving before building a solution?",
+    "rubric": "Cover: problem statement, user interviews (past behavior), assumption mapping, evidence of pain (workarounds, frequency), opportunity sizing. Avoid jumping to solutions.",
+    "modelAnswer": "I'd start with a clear problem statement for a specific segment. Map assumptions by importance and uncertainty, then run discovery interviews focused on past behavior — what workarounds exist, how often the pain occurs, and what they've tried. I'd look for active workarounds as proof of real pain, then size the opportunity bottom-up before committing to build."
+  },
+  {
+    "id": "int-02",
+    "topicIds": ["jtbd"],
+    "question": "Explain the JTBD Four Forces and when a customer switches.",
+    "rubric": "Name all four forces (push, pull, anxiety, habit). State switch equation. Give a concrete example. Mention switch interviews.",
+    "modelAnswer": "Push is pain with the status quo, pull is attraction to the new solution, anxiety is fear of switching, and habit is inertia keeping them on the current solution. A customer switches when push plus pull exceeds anxiety plus habit. For example, a PM might switch to a new study tool when interview prep pain (push) and structured recall features (pull) outweigh fear of learning a new app (anxiety) and comfort with existing notes (habit). I'd validate forces through switch interviews about past adoption decisions."
+  },
+  {
+    "id": "int-03",
+    "topicIds": ["user-research"],
+    "question": "When would you use qualitative vs quantitative research?",
+    "rubric": "Qual for why/how/discovery; quant for how many/validation. Give examples of each. Mention mixed methods.",
+    "modelAnswer": "Qualitative research — interviews, observation — answers why and how. I use it in early discovery to uncover problems and motivations. Quantitative — surveys, analytics — answers how many and how often. I use it to validate patterns found in qual and size behaviors. Often I start qual to generate hypotheses, then quant to validate at scale."
+  },
+  {
+    "id": "int-04",
+    "topicIds": ["rice-prioritization"],
+    "question": "Walk me through how you'd prioritize three feature requests using RICE.",
+    "rubric": "Define each factor. Show scoring process. Emphasize confidence needs evidence. Note RICE informs but doesn't decide.",
+    "modelAnswer": "I'd list the three features and score each on Reach (users affected per quarter), Impact (0.25-3 on the goal), Confidence (50-100% based on evidence), and Effort (person-months). RICE = (R×I×C)/E. I'd flag low-confidence items for discovery first. The score ranks candidates, but I'd discuss strategic fit and dependencies before finalizing — RICE is input to the conversation, not the verdict."
+  },
+  {
+    "id": "int-05",
+    "topicIds": ["ost"],
+    "question": "Draw and explain an Opportunity Solution Tree for a product you know.",
+    "rubric": "Outcome at top (measurable). Opportunities from research. Multiple solutions per opportunity. Experiments at leaves. Mention continuous discovery.",
+    "modelAnswer": "At the root I'd put a measurable outcome, e.g. 'increase weekly active learners.' Opportunities come from research — e.g. 'can't retain concepts' and 'don't know what to study next.' Under each opportunity, multiple solutions like spaced repetition flashcards or gap analysis dashboard. Under each solution, small experiments — e.g. test if 10 flashcards/day improves retention in a 2-week cohort. This connects weekly interviews to experiments on the tree."
+  },
+  {
+    "id": "int-06",
+    "topicIds": ["experimentation"],
+    "question": "Design an MVP experiment to test a new feature hypothesis.",
+    "rubric": "Hypothesis format. Metric and threshold. MVP type choice. Time box. Decision rule.",
+    "modelAnswer": "Hypothesis: 'We believe [segment] will [behavior] because [reason].' I'd pick the riskiest assumption and match MVP type — landing page for demand, concierge for workflow, wizard of oz for AI. Define one primary metric and success threshold upfront. Time box to 1-2 weeks. Pre-commit: if metric hits threshold, persevere; if not, pivot or kill. No moving goalposts after results."
+  },
+  {
+    "id": "int-07",
+    "topicIds": ["opportunity-sizing"],
+    "question": "How would you size a new market opportunity bottom-up?",
+    "rubric": "Customers × price × frequency. SAM/SOM narrowing. Sanity check. Acknowledge uncertainty.",
+    "modelAnswer": "Bottom-up: count addressable customers in my segment, estimate conversion rate based on discovery evidence, multiply by ARPU or deal size and purchase frequency. That gives SAM. SOM is realistic share in 1-3 years based on GTM capacity. I'd sanity-check against a top-down industry number. I care about order of magnitude — is this $1M or $100M — not false precision."
+  },
+  {
+    "id": "int-08",
+    "topicIds": ["ai-discovery"],
+    "question": "How is AI product discovery different from traditional product discovery?",
+    "rubric": "Non-deterministic outputs, eval criteria, golden datasets, human-in-the-loop, cost/latency, AI fit question.",
+    "modelAnswer": "AI adds non-deterministic outputs, so you must define eval criteria and golden datasets before shipping. You need regression testing on every model or prompt change. Ask if AI is even the right solution — rules or search may suffice. Design human-in-the-loop for high-stakes outputs. Factor in latency and cost per inference. Traditional discovery asks 'do users want this'; AI discovery also asks 'can we hit the quality bar reliably.'"
+  },
+  {
+    "id": "int-09",
+    "topicIds": ["prd-writing"],
+    "question": "What belongs in a PRD and what doesn't?",
+    "rubric": "Problem with evidence, goals/non-goals, stories, requirements, metrics. NOT implementation details or no discovery link.",
+    "modelAnswer": "A PRD includes: problem statement backed by discovery evidence, goals and explicit non-goals, user stories with acceptance criteria, functional and non-functional requirements, success metrics, and risks/open questions. It does not include implementation details (that's eng's domain) or requirements without traceability to validated user needs. Every requirement should link to a discovery insight."
+  },
+  {
+    "id": "int-11",
+    "topicIds": ["pm-fundamentals"],
+    "question": "Explain the product management lifecycle: discovery, delivery, and distribution.",
+    "rubric": "Name all three Ds. Say where PM leverage is highest (discovery). Split delivery into clarity vs build. Mention distribution/GTM. Full-stack PM mindset.",
+    "modelAnswer": "Discovery is finding what users value and what to build — interviews, research, validation. Delivery is turning that into shipped product — roadmap, PRD, backlog, agile execution; PM owns clarity of what to do, eng/design own building. Distribution is getting the product to users — growth, adoption, GTM. PMs have the biggest leverage in discovery because the right problems make everything else easier. A strong PM understands all three even if their role skews toward delivery."
+  },
+  {
+    "id": "int-12",
+    "topicIds": ["user-research"],
+    "question": "How would you run discovery interviews for an AI app builder like Lovable?",
+    "rubric": "Past behavior not hypotheticals. Mom Test. Jobs to be done. Good wrap-up question. Artifacts after synthesis.",
+    "modelAnswer": "I'd recruit builders who shipped something in the last 90 days. Questions: How did you build your last app? What tools? What was hardest? What almost made you quit? I'd avoid 'Would you use AI to build?' — instead explore last project behavior. After 8 interviews I'd affinity-map themes, draft personas and a journey map, and list opportunities for the OST. Wrap with: what question did you expect that I didn't ask?"
+  },
+  {
+    "id": "int-10",
+    "topicIds": ["personas"],
+    "question": "How do personas and JTBD work together?",
+    "rubric": "Personas = who (behavioral). JTBD = why/progress. Don't confuse demographics with motivation. Use both.",
+    "modelAnswer": "Personas humanize who you're building for — goals, pains, context — ideally behavioral not just demographic. JTBD explains why they act — what progress they seek in a circumstance. Personas without jobs become stereotypes; jobs without personas lack empathy. I use personas for team alignment and JTBD for motivation and messaging. Both should come from research, not assumptions."
+  }
+]

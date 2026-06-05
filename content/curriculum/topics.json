@@ -1,0 +1,185 @@
+{
+  "phases": [
+    {
+      "id": "problem-discovery",
+      "title": "Problem Discovery",
+      "description": "Validate that the problem is real, painful, and worth solving."
+    },
+    {
+      "id": "solution-discovery",
+      "title": "Solution Discovery",
+      "description": "Explore, prototype, and test solutions before committing to build."
+    },
+    {
+      "id": "prioritization-strategy",
+      "title": "Prioritization & Strategy",
+      "description": "Choose what to build and align stakeholders on tradeoffs."
+    },
+    {
+      "id": "discovery-artifacts",
+      "title": "Discovery Artifacts",
+      "description": "Documents and outputs that communicate discovery findings."
+    },
+    {
+      "id": "ai-pm",
+      "title": "AI PM (helloPM)",
+      "description": "Discovery patterns specific to AI-powered products."
+    }
+  ],
+  "topics": [
+    {
+      "id": "pm-fundamentals",
+      "title": "PM Fundamentals & Lifecycle",
+      "phase": "problem-discovery",
+      "description": "helloPM index module: 3Ds lifecycle, product sense, user centricity, backlog structure.",
+      "moduleIds": ["00-pm-fundamentals"],
+      "conceptIds": ["three-ds-lifecycle", "product-sense", "user-centricity", "ambiguity-to-clarity", "product-backlog-structure"],
+      "frameworkIds": [],
+      "prerequisites": [],
+      "interviewTags": ["fundamentals", "lifecycle"]
+    },
+    {
+      "id": "problem-validation",
+      "title": "Problem Validation",
+      "phase": "problem-discovery",
+      "description": "Confirm the problem is real, painful, and worth solving before building.",
+      "moduleIds": ["01-problem-discovery"],
+      "conceptIds": ["problem-statement", "assumption-mapping", "problem-solution-fit"],
+      "frameworkIds": ["lean-canvas"],
+      "prerequisites": [],
+      "interviewTags": ["discovery", "validation"]
+    },
+    {
+      "id": "user-research",
+      "title": "User Research Methods",
+      "phase": "problem-discovery",
+      "description": "Choose and run the right research methods for your discovery questions.",
+      "moduleIds": ["03-user-research"],
+      "conceptIds": ["qual-vs-quant", "interview-techniques", "mom-test", "research-synthesis"],
+      "frameworkIds": ["double-diamond"],
+      "prerequisites": ["pm-fundamentals", "problem-validation"],
+      "interviewTags": ["discovery", "research"]
+    },
+    {
+      "id": "jtbd",
+      "title": "Jobs to Be Done",
+      "phase": "problem-discovery",
+      "description": "Understand what progress customers are trying to make in their lives.",
+      "moduleIds": ["02-jobs-to-be-done"],
+      "conceptIds": ["jtbd-forces", "job-statement", "switch-interview"],
+      "frameworkIds": ["jtbd-four-forces"],
+      "prerequisites": ["problem-validation"],
+      "interviewTags": ["discovery", "jtbd", "interview-heavy"]
+    },
+    {
+      "id": "personas",
+      "title": "Personas & Segments",
+      "phase": "problem-discovery",
+      "description": "Define who you are building for and their distinct needs.",
+      "moduleIds": ["04-personas"],
+      "conceptIds": ["proto-persona", "behavioral-segmentation", "anti-persona"],
+      "frameworkIds": [],
+      "prerequisites": ["user-research"],
+      "interviewTags": ["discovery", "personas"]
+    },
+    {
+      "id": "opportunity-sizing",
+      "title": "Opportunity Sizing",
+      "phase": "problem-discovery",
+      "description": "Estimate whether an opportunity is large enough to pursue.",
+      "moduleIds": ["05-opportunity-sizing"],
+      "conceptIds": ["tam-sam-som", "opportunity-assessment", "market-sizing"],
+      "frameworkIds": [],
+      "prerequisites": ["problem-validation"],
+      "interviewTags": ["strategy", "sizing"]
+    },
+    {
+      "id": "ideation-prototyping",
+      "title": "Ideation & Prototyping",
+      "phase": "solution-discovery",
+      "description": "Generate solution ideas and make them tangible for testing.",
+      "moduleIds": ["06-solution-discovery"],
+      "conceptIds": ["solution-brainstorm", "prototype-fidelity", "concept-testing"],
+      "frameworkIds": ["double-diamond"],
+      "prerequisites": ["jtbd", "user-research"],
+      "interviewTags": ["solution", "prototyping"]
+    },
+    {
+      "id": "experimentation",
+      "title": "Experimentation & MVP",
+      "phase": "solution-discovery",
+      "description": "Design experiments to validate solutions with minimal investment.",
+      "moduleIds": ["07-experimentation"],
+      "conceptIds": ["hypothesis-driven", "mvp-types", "experiment-design"],
+      "frameworkIds": [],
+      "prerequisites": ["ideation-prototyping"],
+      "interviewTags": ["experimentation", "mvp"]
+    },
+    {
+      "id": "rice-prioritization",
+      "title": "RICE Prioritization",
+      "phase": "prioritization-strategy",
+      "description": "Score and rank initiatives using Reach, Impact, Confidence, Effort.",
+      "moduleIds": ["09-prioritization"],
+      "conceptIds": ["three-c-plus-p", "rice-scoring", "prioritization-tradeoffs", "roadmap-communication"],
+      "frameworkIds": ["rice"],
+      "prerequisites": ["opportunity-sizing"],
+      "interviewTags": ["prioritization", "interview-heavy"]
+    },
+    {
+      "id": "ost",
+      "title": "Opportunity Solution Tree",
+      "phase": "prioritization-strategy",
+      "description": "Connect outcomes, opportunities, solutions, and experiments.",
+      "moduleIds": ["09-prioritization"],
+      "conceptIds": ["ost-structure", "outcome-vs-output", "continuous-discovery"],
+      "frameworkIds": ["ost"],
+      "prerequisites": ["problem-validation", "experimentation"],
+      "interviewTags": ["discovery", "ost", "interview-heavy"]
+    },
+    {
+      "id": "prd-writing",
+      "title": "PRD & Requirements",
+      "phase": "discovery-artifacts",
+      "description": "Translate discovery insights into clear product requirements.",
+      "moduleIds": ["08-prd-writing"],
+      "conceptIds": ["prd-structure", "user-stories", "acceptance-criteria"],
+      "frameworkIds": [],
+      "prerequisites": ["problem-validation", "experimentation"],
+      "interviewTags": ["artifacts", "prd"]
+    },
+    {
+      "id": "discovery-artifacts",
+      "title": "Discovery Briefs & Interview Guides",
+      "phase": "discovery-artifacts",
+      "description": "Create artifacts that enable team alignment and research execution.",
+      "moduleIds": ["01-problem-discovery", "03-user-research"],
+      "conceptIds": ["discovery-brief", "interview-guide", "assumption-mapping"],
+      "frameworkIds": ["lean-canvas"],
+      "prerequisites": [],
+      "interviewTags": ["artifacts"]
+    },
+    {
+      "id": "ai-discovery",
+      "title": "AI Product Discovery",
+      "phase": "ai-pm",
+      "description": "Discovery patterns for AI features: evals, data, and prompt loops.",
+      "moduleIds": ["10-ai-pm-discovery"],
+      "conceptIds": ["ai-problem-framing", "eval-criteria", "human-in-the-loop"],
+      "frameworkIds": [],
+      "prerequisites": ["problem-validation", "experimentation"],
+      "interviewTags": ["ai", "discovery"]
+    },
+    {
+      "id": "ai-evals",
+      "title": "AI Evals & Quality Bars",
+      "phase": "ai-pm",
+      "description": "Define how you measure AI output quality before shipping.",
+      "moduleIds": ["10-ai-pm-discovery"],
+      "conceptIds": ["eval-criteria", "golden-datasets", "regression-testing-ai"],
+      "frameworkIds": [],
+      "prerequisites": ["ai-discovery"],
+      "interviewTags": ["ai", "experimentation"]
+    }
+  ]
+}

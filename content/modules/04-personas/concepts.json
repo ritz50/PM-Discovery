@@ -1,0 +1,41 @@
+[
+  {
+    "id": "proto-persona",
+    "title": "Proto-Persona",
+    "module": "04-personas",
+    "topicIds": ["personas"],
+    "definition": "A hypothesis-driven persona created before research to align the team on assumed user types.",
+    "whenToUse": "Sprint zero or when you need quick alignment before interviews.",
+    "frameworkSteps": ["List assumed user types", "Draft goals and pains", "Validate in research", "Refine or discard"],
+    "interviewPrompts": [],
+    "officeUse": "Kickoff workshops and stakeholder alignment.",
+    "relatedConcepts": ["behavioral-segmentation"],
+    "sources": ["helloPM-mod-4"]
+  },
+  {
+    "id": "behavioral-segmentation",
+    "title": "Behavioral Segmentation",
+    "module": "04-personas",
+    "topicIds": ["personas"],
+    "definition": "Grouping users by what they do, not who they are demographically.",
+    "whenToUse": "Prioritizing which user segment to serve first.",
+    "frameworkSteps": ["Identify behavioral patterns from research", "Define segments", "Size and prioritize segments"],
+    "interviewPrompts": ["How often do you do X?", "What triggers you to use Y?"],
+    "officeUse": "Roadmap prioritization and GTM targeting.",
+    "relatedConcepts": ["proto-persona", "job-statement"],
+    "sources": ["helloPM-mod-4"]
+  },
+  {
+    "id": "anti-persona",
+    "title": "Anti-Persona",
+    "module": "04-personas",
+    "topicIds": ["personas"],
+    "definition": "A user type you explicitly choose not to serve, preventing feature creep.",
+    "whenToUse": "When stakeholders push features for edge users.",
+    "frameworkSteps": ["Define core target", "Identify misfit users", "Document why not serving them", "Use in prioritization debates"],
+    "interviewPrompts": [],
+    "officeUse": "Scope management and saying no with evidence.",
+    "relatedConcepts": ["behavioral-segmentation"],
+    "sources": ["helloPM-mod-4"]
+  }
+]

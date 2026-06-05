@@ -1,0 +1,4997 @@
+Ankit Shukla: Hello, everyone.
+
+5
+00:10:36.670 --> 00:10:39.460
+Ankit Shukla: A quick yes or no in the chat if I'm audible and visible.
+
+6
+00:10:48.200 --> 00:10:49.070
+Ankit Shukla: Wonderful.
+
+7
+00:10:58.870 --> 00:11:02.590
+Ankit Shukla: Amazing. Yes, yes, yes. Good morning, everyone.
+
+8
+00:11:03.260 --> 00:11:05.139
+Ankit Shukla: So people are joining slowly.
+
+9
+00:11:16.280 --> 00:11:20.539
+Ankit Shukla: Yes. In the meanwhile, can you guys tell me how many of you have
+
+10
+00:11:24.890 --> 00:11:29.030
+Ankit Shukla: As of right now, I do not have that set up, I'm at a different place.
+
+11
+00:11:29.170 --> 00:11:33.750
+Ankit Shukla: I hope this voice is also clear for everyone, right? There are not too much problems with this voice, right?
+
+12
+00:11:37.370 --> 00:11:38.710
+Ankit Shukla: Thank you, thank you.
+
+13
+00:11:39.690 --> 00:11:40.660
+Ankit Shukla: Yes.
+
+14
+00:11:41.250 --> 00:11:48.570
+Ankit Shukla: Cool. Can you guys tell me yes or no in the chat, if you have read all the four links that we have told you to? The onboarding links that we have shared in the…
+
+15
+00:11:49.170 --> 00:11:50.150
+Ankit Shukla: LMS?
+
+16
+00:11:52.060 --> 00:11:56.210
+Ankit Shukla: You can tell me 1, 2, 3, or 4, based on how many links you have already read.
+
+17
+00:12:07.940 --> 00:12:10.140
+Ankit Shukla: So… Yes.
+
+18
+00:12:10.550 --> 00:12:14.870
+Ankit Shukla: Although, It is not mandatory for you to read all of that.
+
+19
+00:12:15.280 --> 00:12:21.800
+Ankit Shukla: But it is a request that, by next week, you should be able to read all of these, or go through all of these four readings.
+
+20
+00:12:21.930 --> 00:12:27.299
+Ankit Shukla: That will help you understand some basics as well, okay? But that has no relation with what we are going to discuss today.
+
+21
+00:12:27.400 --> 00:12:33.790
+Ankit Shukla: And tomorrow. Okay, so be at peace if you have missed it out, but please try to not miss things in the future.
+
+22
+00:12:34.040 --> 00:12:41.670
+Ankit Shukla: Okay. Yes, with that being said, I think we are right on time. It is STEM001, so I will go ahead and start the session.
+
+23
+00:12:43.430 --> 00:12:44.300
+Ankit Shukla: Yes.
+
+24
+00:12:44.860 --> 00:12:50.299
+Ankit Shukla: One more thing I'll do is, because there are many folks in the chat, I'll mute you people.
+
+25
+00:12:50.580 --> 00:12:53.519
+Ankit Shukla: At any point of time, anyone has to ask any question.
+
+26
+00:12:53.650 --> 00:13:03.319
+Ankit Shukla: you can simply raise your hand, or you can put it in the chat. Okay, that is to make sure that, incidentally, if someone… accidentally, if someone goes ahead and turns on their mic.
+
+27
+00:13:03.660 --> 00:13:07.199
+Ankit Shukla: the speaker gets disturbed. Okay, I'll let other people.
+
+28
+00:13:07.710 --> 00:13:10.950
+Ankit Shukla: So, with that being said, let me just go ahead and start the session today.
+
+29
+00:13:32.980 --> 00:13:33.660
+Ankit Shukla: Oops.
+
+30
+00:13:34.300 --> 00:13:35.350
+Ankit Shukla: Hello, everyone!
+
+31
+00:13:35.890 --> 00:13:40.279
+Ankit Shukla: Welcome to the first learning session in this Hello PM cohort.
+
+32
+00:13:41.750 --> 00:13:49.270
+Ankit Shukla: In today's session, we are going to talk about the fundamentals or foundations of product management.
+
+33
+00:13:50.240 --> 00:13:51.030
+Ankit Shukla: Right?
+
+34
+00:13:51.280 --> 00:13:53.100
+Ankit Shukla: And, no matter.
+
+35
+00:13:53.490 --> 00:14:08.549
+Ankit Shukla: which kind of company you work as a product manager. You work at a B2B company, B2C company, a big company, a small startup, a mid-sized company, a bootstrap company, a well-funded company. No matter what kind of company that you work for.
+
+36
+00:14:09.330 --> 00:14:14.279
+Ankit Shukla: This is the similar process that is followed at almost all kind of company.
+
+37
+00:14:14.590 --> 00:14:31.470
+Ankit Shukla: I'm going to give you some customizations that happen, but generally, this is the general process that is being followed at most of the companies. So whether you are aspiring for a B2B company, B2C company, you have 2 years of experience, 20 years of experience, this is something that you have to closely observe and listen to for them.
+
+38
+00:14:32.400 --> 00:14:40.749
+Ankit Shukla: Right? And this is how this session is going to look like, okay? I'm sure most of you might have read a lot of books in your life.
+
+39
+00:14:41.580 --> 00:14:43.150
+Ankit Shukla: And when you read a book.
+
+40
+00:14:43.330 --> 00:14:47.790
+Ankit Shukla: You see that the first page of the book, or second page of the book, or the third page of the book.
+
+41
+00:14:48.120 --> 00:14:50.409
+Ankit Shukla: Is always the index of the book.
+
+42
+00:14:50.910 --> 00:15:01.319
+Ankit Shukla: Right? The index is that this is a chapter, this is what we are going to learn. This is a chapter, and this is what we are going to learn. Okay, this first module is exactly like the index of the book.
+
+43
+00:15:01.710 --> 00:15:04.600
+Ankit Shukla: Where I'm going to tell you the whole structure.
+
+44
+00:15:05.180 --> 00:15:08.329
+Ankit Shukla: I will be touching upon some important keywords.
+
+45
+00:15:08.670 --> 00:15:15.409
+Ankit Shukla: And it might be possible that when you are reading this index, you might feel clueless or overwhelmed.
+
+46
+00:15:15.590 --> 00:15:20.990
+Ankit Shukla: Why? Because when you read the index, you are just getting introduced to the topic.
+
+47
+00:15:21.480 --> 00:15:25.200
+Ankit Shukla: Eventually, the real part will eventually come somewhere in the book.
+
+48
+00:15:26.520 --> 00:15:30.810
+Ankit Shukla: Right? So, this is how the structure has been of this particular module.
+
+49
+00:15:31.020 --> 00:15:33.660
+Ankit Shukla: That in this program, there are multiple modules.
+
+50
+00:15:34.010 --> 00:15:35.669
+Ankit Shukla: There are multiple modules.
+
+51
+00:15:35.960 --> 00:15:38.329
+Ankit Shukla: Consider this particular module.
+
+52
+00:15:39.010 --> 00:15:52.899
+Ankit Shukla: as the index of the whole program, so I will throw a lot of keywords at you, I will try to help you understand, but even if you don't understand, trust us that all of these things are going to be covered in a bit more detail in the coming modules.
+
+53
+00:15:54.750 --> 00:16:11.049
+Ankit Shukla: Okay, so it is okay to get confused, overwhelmed in this session, because that is the purpose of this particular session. To make sure that we are able to give you the first, the canvas, so that when we go ahead and discuss some topics, you always know how does it connect to the bigger picture.
+
+54
+00:16:12.390 --> 00:16:13.250
+Ankit Shukla: Right?
+
+55
+00:16:13.710 --> 00:16:17.250
+Ankit Shukla: Yes. Now, some quick ground rules before we can start.
+
+56
+00:16:18.210 --> 00:16:21.470
+Ankit Shukla: The ground rules are, everyone, First is.
+
+57
+00:16:21.840 --> 00:16:24.900
+Ankit Shukla: Please try to open your videos.
+
+58
+00:16:25.930 --> 00:16:28.329
+Ankit Shukla: Now, when you open your videos, two things happen.
+
+59
+00:16:28.510 --> 00:16:32.630
+Ankit Shukla: First is, you are able to consciously focus in the session.
+
+60
+00:16:34.050 --> 00:16:37.110
+Ankit Shukla: Second is, I am able to absorb people.
+
+61
+00:16:37.220 --> 00:16:48.699
+Ankit Shukla: And if I'm able to observe you, I'll be feeling more, I would say, interactive in the session, and I should be able to go ahead and make sure that if I see on your face that you're not able to understand something, I should be able to follow up with you.
+
+62
+00:16:49.170 --> 00:16:54.079
+Ankit Shukla: Okay, so please, it is my request to everyone that take E.
+
+63
+00:16:56.730 --> 00:17:04.310
+Ankit Shukla: take one minute, and then try to go ahead and open your videos. It's okay if you don't have a good background, that's okay.
+
+64
+00:17:05.010 --> 00:17:07.090
+Ankit Shukla: Okay, so that is the first thing.
+
+65
+00:17:07.390 --> 00:17:10.779
+Ankit Shukla: The second thing is, this will be an interactive session.
+
+66
+00:17:11.430 --> 00:17:15.280
+Ankit Shukla: So even if you're not opening your camera, do not think that I'll not call your name.
+
+67
+00:17:15.400 --> 00:17:17.410
+Ankit Shukla: So please focus in the session.
+
+68
+00:17:17.619 --> 00:17:20.059
+Ankit Shukla: I will call names when I have to ask questions.
+
+69
+00:17:20.710 --> 00:17:26.299
+Ankit Shukla: Okay, and after some period of time, after every 10-15 minutes, I am going to ask you
+
+70
+00:17:26.500 --> 00:17:31.190
+Ankit Shukla: How well have you understood this topic? And everyone has to respond in the chat.
+
+71
+00:17:32.760 --> 00:17:35.030
+Ankit Shukla: Okay? And the third part is.
+
+72
+00:17:35.930 --> 00:17:40.009
+Ankit Shukla: I will be taking weekly breaks in between to answer your question. Okay, so understand.
+
+73
+00:17:40.400 --> 00:17:42.690
+Ankit Shukla: This is going to be an interactive class.
+
+74
+00:17:43.240 --> 00:17:46.549
+Ankit Shukla: I want to make sure that we are answering each and every question.
+
+75
+00:17:47.040 --> 00:17:57.570
+Ankit Shukla: But understand, because there are more than 100 people in the class, we cannot take questions randomly. It is going to disturb the whole flow, and you'll also not be able to understand. Okay, so it is…
+
+76
+00:17:57.730 --> 00:18:00.719
+Ankit Shukla: Our promise, it is my promise to everyone.
+
+77
+00:18:01.090 --> 00:18:04.590
+Ankit Shukla: That we will be answering each and every question.
+
+78
+00:18:04.900 --> 00:18:08.179
+Ankit Shukla: No matter how long that is, no matter how short that is.
+
+79
+00:18:08.340 --> 00:18:16.579
+Ankit Shukla: Okay, but we are going to follow a timeline or a guideline to make sure that every question is being answered in the best possible way, without disturbing the flow for others.
+
+80
+00:18:16.750 --> 00:18:19.959
+Ankit Shukla: So what we'll do is, if a question is very quick.
+
+81
+00:18:20.160 --> 00:18:27.959
+Ankit Shukla: And if it can be answered just after the topic, or very quickly, I'll be able to answer the question then and there. You just have to raise your hands or put the question in the chat.
+
+82
+00:18:28.880 --> 00:18:35.010
+Ankit Shukla: The second kind of question is, question which is related, but it will demand more attention, focus, and longer answer from me.
+
+83
+00:18:35.410 --> 00:18:38.100
+Ankit Shukla: So I'll be taking those kind of questions at the end of the session.
+
+84
+00:18:38.680 --> 00:18:40.690
+Ankit Shukla: But if there are some questions which will
+
+85
+00:18:41.110 --> 00:18:55.119
+Ankit Shukla: take some more time, or maybe they're not related to the topic, then I'll be patiently asking you this to call these kind of questions in the office hours. Office hours happen 7AM Thursday and 9pm Thursday.
+
+86
+00:18:55.920 --> 00:19:03.489
+Ankit Shukla: Right? So, but it is our guarantee that we'll be answering each and every question, no matter how many folks are raising their hands.
+
+87
+00:19:04.630 --> 00:19:11.720
+Ankit Shukla: Okay, so with that being said, everyone tell me on a scale of 1 to 5 if you have understood all the three instructions. Open your videos.
+
+88
+00:19:12.150 --> 00:19:17.990
+Ankit Shukla: make sure that you are able to go ahead, be focused on the session, because I'm going to call the names. And third is.
+
+89
+00:19:18.750 --> 00:19:20.010
+Ankit Shukla: About the question.
+
+90
+00:19:23.880 --> 00:19:30.970
+Ankit Shukla: Yes. For office hours and everything, everything would be available in your learning dashboard notice board. Plus, we will also be sending you a message on the WhatsApp group.
+
+91
+00:19:32.380 --> 00:19:35.240
+Ankit Shukla: Yes. Now, one more important thing.
+
+92
+00:19:36.480 --> 00:19:46.789
+Ankit Shukla: If you really want to get the value from these sessions, understand every one of you joining the session, but you understand that not everyone would be able to squeeze the most value.
+
+93
+00:19:47.400 --> 00:19:51.190
+Ankit Shukla: If you want to squeeze the most value, I have one simple recommendation for you.
+
+94
+00:19:51.300 --> 00:19:52.140
+Ankit Shukla: Okay.
+
+95
+00:19:52.370 --> 00:19:55.189
+Ankit Shukla: There is a methodology called as active recall.
+
+96
+00:19:55.470 --> 00:20:01.349
+Ankit Shukla: Active recall means… When you are doing the sessions, you just take some small, small notes.
+
+97
+00:20:02.170 --> 00:20:04.009
+Ankit Shukla: After the session has ended.
+
+98
+00:20:04.170 --> 00:20:09.609
+Ankit Shukla: You should try to expand these notes as much as possible by actively recalling what has happened in the session.
+
+99
+00:20:11.030 --> 00:20:15.559
+Ankit Shukla: Right? In that way, you'll be able to concrete the concepts in your own mind.
+
+100
+00:20:16.260 --> 00:20:25.070
+Ankit Shukla: Plus, in the mid of the session, I'm going to give you one more extraordinary tip that will make sure that you are able to go ahead and get the most value from the session.
+
+101
+00:20:25.220 --> 00:20:32.230
+Ankit Shukla: Okay, so please take a notebook or notepad along with you, so that you are able to do active recalling. Active recalling means you've understood everything.
+
+102
+00:20:32.500 --> 00:20:43.530
+Ankit Shukla: But now you shut down the book, shut down the session, and then you recall everything from your own mind. When you do this active recalling, it is more likely that you are going to remember the concept for a longer period of time.
+
+103
+00:20:45.280 --> 00:20:50.109
+Ankit Shukla: Right? So with that being said, we have set up the context for 10 minutes.
+
+104
+00:20:50.350 --> 00:20:54.260
+Ankit Shukla: Now, we will go ahead and start with the session.
+
+105
+00:20:54.460 --> 00:21:01.380
+Ankit Shukla: Okay, so today we are going to talk about The product management lifecycle.
+
+106
+00:21:02.030 --> 00:21:05.110
+Ankit Shukla: What does a product manager do in our company?
+
+107
+00:21:06.660 --> 00:21:10.819
+Ankit Shukla: Right? Everyone, please write focus in the chat if you are focusing on the session.
+
+108
+00:21:11.390 --> 00:21:13.310
+Ankit Shukla: Right Focus FOC US.
+
+109
+00:21:26.100 --> 00:21:28.290
+Ankit Shukla: Very good. Let's go ahead.
+
+110
+00:21:32.220 --> 00:21:33.100
+Ankit Shukla: Yes.
+
+111
+00:21:33.470 --> 00:21:35.529
+Ankit Shukla: Let me start with a very basic one.
+
+112
+00:21:35.790 --> 00:21:36.780
+Ankit Shukla: Okay.
+
+113
+00:21:37.840 --> 00:21:42.240
+Ankit Shukla: What are the first principles of product management? Which is.
+
+114
+00:21:42.540 --> 00:21:45.310
+Ankit Shukla: What is the core job of a product manager?
+
+115
+00:21:45.600 --> 00:21:51.890
+Ankit Shukla: No matter what kind of company, what kind of situation, what kind of race that you are working in, in what kind of geography that you are working in.
+
+116
+00:21:53.320 --> 00:21:59.429
+Ankit Shukla: This truth never changes. Everything else that I'm going to change, tell you in the cohort, that can change.
+
+117
+00:21:59.860 --> 00:22:10.430
+Ankit Shukla: But… I'm never… What is the truth? The truth is… as a PM, You have two purposes.
+
+118
+00:22:11.920 --> 00:22:15.229
+Ankit Shukla: The number one purposes, the number one purposes, two.
+
+119
+00:22:18.320 --> 00:22:24.030
+Ankit Shukla: solves… user… problems.
+
+120
+00:22:24.150 --> 00:22:26.530
+Ankit Shukla: I hope everyone is able to see their screen, right?
+
+121
+00:22:28.030 --> 00:22:31.680
+Ankit Shukla: Yeah, school. Patrick, you can prior rejoining. That can work.
+
+122
+00:22:33.970 --> 00:22:35.910
+Ankit Shukla: You can try rejoining, that will be helpful.
+
+123
+00:22:36.070 --> 00:22:36.810
+Ankit Shukla: Yes.
+
+124
+00:22:37.440 --> 00:22:42.380
+Ankit Shukla: So, the first purpose of a PM's job is, Solve user problems.
+
+125
+00:22:44.660 --> 00:22:47.749
+Ankit Shukla: Right? And the second purpose of a PM struggle is
+
+126
+00:22:50.940 --> 00:22:56.759
+Ankit Shukla: to achieve… business outcomes. Because in the end.
+
+127
+00:22:56.980 --> 00:22:59.439
+Ankit Shukla: The business is going to give you the money.
+
+128
+00:23:01.420 --> 00:23:05.810
+Ankit Shukla: Right? So this is the fundamental truth of product management.
+
+129
+00:23:06.230 --> 00:23:10.189
+Ankit Shukla: No matter where you are working, this truth always prevails.
+
+130
+00:23:10.840 --> 00:23:16.679
+Ankit Shukla: In some companies, as a product manager, you need to make sure that you are coordinating better with the engineers.
+
+131
+00:23:16.820 --> 00:23:19.970
+Ankit Shukla: You have to focus 80% of your time in working with engineers.
+
+132
+00:23:20.100 --> 00:23:22.819
+Ankit Shukla: But in some companies, even 10% of time is enough.
+
+133
+00:23:23.510 --> 00:23:28.010
+Ankit Shukla: Some companies ask you to create very detailed product requirement documents.
+
+134
+00:23:28.430 --> 00:23:31.709
+Ankit Shukla: But some companies are okay if you just send that feature request.
+
+135
+00:23:32.020 --> 00:23:34.300
+Ankit Shukla: as a Slack or an email.
+
+136
+00:23:35.000 --> 00:23:47.279
+Ankit Shukla: Right? So everything else is tactics. It can change. It can depend upon the dynamics of your company, dynamics of your team. But this truth never changes. As a PM, you exist to solve user problems.
+
+137
+00:23:47.430 --> 00:23:49.860
+Ankit Shukla: And you exist to achieve business outcomes.
+
+138
+00:23:50.310 --> 00:23:54.800
+Ankit Shukla: This is how you define your job. Everything else just follows.
+
+139
+00:23:56.730 --> 00:24:02.559
+Ankit Shukla: Now, with that being said, We can further break down these things into multiple parts.
+
+140
+00:24:02.670 --> 00:24:06.689
+Ankit Shukla: For example… In order to solve user problems.
+
+141
+00:24:08.580 --> 00:24:10.790
+Ankit Shukla: In order to solve user problems.
+
+142
+00:24:11.270 --> 00:24:14.040
+Ankit Shukla: You need to first understand the problem.
+
+143
+00:24:14.710 --> 00:24:25.900
+Ankit Shukla: How would you understand the problem? You will do the user research, market research, look at the data, talk to your partners, talk to your stakeholders, in order to understand the problem.
+
+144
+00:24:26.820 --> 00:24:29.930
+Ankit Shukla: Second is, you have to solve the problems.
+
+145
+00:24:30.460 --> 00:24:35.579
+Ankit Shukla: And problem is solved by creativity, technology, design.
+
+146
+00:24:35.860 --> 00:24:41.019
+Ankit Shukla: So now, from these two fundamentals, you are able to get all the skills that you need as a product manager.
+
+147
+00:24:42.080 --> 00:24:54.620
+Ankit Shukla: Similarly, if you want to achieve business outcomes, you need to make sure that you have a good understanding of how to communicate with people, which is your stakeholders. You should have a strong business sense.
+
+148
+00:24:55.830 --> 00:24:58.029
+Ankit Shukla: You should have a strong data sense.
+
+149
+00:24:58.390 --> 00:25:03.800
+Ankit Shukla: And you should be able to create strategies. Strategy is something that will connect to this.
+
+150
+00:25:04.110 --> 00:25:07.760
+Ankit Shukla: That will connect that when you solve a user problem.
+
+151
+00:25:08.360 --> 00:25:12.509
+Ankit Shukla: How can you go ahead and use it to make more money for the business?
+
+152
+00:25:13.830 --> 00:25:17.649
+Ankit Shukla: Right? So these two things are also connected.
+
+153
+00:25:17.880 --> 00:25:23.889
+Ankit Shukla: Right? So, Ginsi has captured this out very quickly, that these two things are connected, connected.
+
+154
+00:25:24.160 --> 00:25:26.040
+Ankit Shukla: When you solve user problems.
+
+155
+00:25:26.420 --> 00:25:33.750
+Ankit Shukla: The user understands the value of that problem, of that solution, and then they give you money, or they give you some kind of incentive.
+
+156
+00:25:35.160 --> 00:25:43.990
+Ankit Shukla: Right? So this is the job of a PR. Solve user problems and achieve user outcomes. Every other skill or tactic you can derive from these two points.
+
+157
+00:25:46.100 --> 00:25:53.250
+Ankit Shukla: Right? Now, with that being said, this being said, at any point of time, your confusion, your job, ask your two questions.
+
+158
+00:25:53.790 --> 00:25:56.740
+Ankit Shukla: Does it help the user? Does it help the business? That's it.
+
+159
+00:25:57.610 --> 00:25:59.380
+Ankit Shukla: Right? Now.
+
+160
+00:26:01.290 --> 00:26:06.679
+Ankit Shukla: Let me go ahead and tell you how the product management cycle works. Okay. In a typical business.
+
+161
+00:26:08.200 --> 00:26:12.499
+Ankit Shukla: In a typical business, the business is going to give you some kind of goals.
+
+162
+00:26:14.510 --> 00:26:17.229
+Ankit Shukla: Or some kind of challenges, or some kind of problems.
+
+163
+00:26:17.730 --> 00:26:19.420
+Ankit Shukla: That we need to.
+
+164
+00:26:19.640 --> 00:26:21.669
+Ankit Shukla: Launch in this particular city.
+
+165
+00:26:22.660 --> 00:26:31.630
+Ankit Shukla: Or, they need to… Or, we need to make sure that we are able to achieve the revenue targets.
+
+166
+00:26:31.820 --> 00:26:33.689
+Ankit Shukla: Or the retention targets.
+
+167
+00:26:33.800 --> 00:26:34.900
+Ankit Shukla: Awesome!
+
+168
+00:26:36.150 --> 00:26:38.769
+Ankit Shukla: In this particular quarter, on this particular year.
+
+169
+00:26:38.900 --> 00:26:41.199
+Ankit Shukla: Right? So that is called as business growth.
+
+170
+00:26:43.440 --> 00:26:48.039
+Ankit Shukla: Second is, After the business goal.
+
+171
+00:26:48.260 --> 00:26:50.909
+Ankit Shukla: You also do a lot of market research.
+
+172
+00:26:54.530 --> 00:26:57.509
+Ankit Shukla: Just give me one moment, just give me one moment. Let me see what has happened.
+
+173
+00:26:58.750 --> 00:26:59.919
+Ankit Shukla: Just give me one moment.
+
+174
+00:27:27.680 --> 00:27:28.650
+Ankit Shukla: Oops.
+
+175
+00:27:29.910 --> 00:27:31.600
+Ankit Shukla: I hope I'm audible now, right?
+
+176
+00:27:34.170 --> 00:27:35.520
+Ankit Shukla: Yes, cool.
+
+177
+00:27:35.780 --> 00:27:36.960
+Ankit Shukla: Let me repeat.
+
+178
+00:27:46.370 --> 00:27:47.070
+Ankit Shukla: Yes.
+
+179
+00:27:47.690 --> 00:27:49.160
+Ankit Shukla: Let me repeat, okay?
+
+180
+00:27:50.550 --> 00:27:55.549
+Ankit Shukla: So… Whenever you are working as a product manager in a business.
+
+181
+00:27:57.100 --> 00:28:01.469
+Ankit Shukla: The company will be giving you a business strategy.
+
+182
+00:28:01.880 --> 00:28:03.569
+Ankit Shukla: Or a business goal.
+
+183
+00:28:04.020 --> 00:28:04.900
+Ankit Shukla: Dad?
+
+184
+00:28:05.220 --> 00:28:06.590
+Ankit Shukla: from your product.
+
+185
+00:28:06.930 --> 00:28:12.859
+Ankit Shukla: In the next 6 months, we should be able to get this much revenue, or this much users.
+
+186
+00:28:14.350 --> 00:28:21.670
+Ankit Shukla: This much revenue, or these many users, or this much retention or engagement, or anything in general, any goal.
+
+187
+00:28:22.470 --> 00:28:23.320
+Ankit Shukla: Bye.
+
+188
+00:28:23.740 --> 00:28:26.720
+Ankit Shukla: Now, you understand the schools.
+
+189
+00:28:27.590 --> 00:28:32.539
+Ankit Shukla: And then you try to have some ideas through which you can achieve these goals.
+
+190
+00:28:32.880 --> 00:28:37.170
+Ankit Shukla: For example, if you are a product manager at Amazon.
+
+191
+00:28:37.850 --> 00:28:41.900
+Ankit Shukla: And the CEO tells you that we need to make sure that we are able to get
+
+192
+00:28:42.230 --> 00:28:44.299
+Ankit Shukla: Twice their revenue in the next year.
+
+193
+00:28:45.230 --> 00:28:49.570
+Ankit Shukla: So what you will do, you will understand what are the more items that I can sell.
+
+194
+00:28:49.950 --> 00:29:02.990
+Ankit Shukla: Can I increase the pricing? Can I increase my commission? Can I expand into more countries? Right? You are going to understand all of these things in order to get these business goals done. So, based on these business goals.
+
+195
+00:29:04.190 --> 00:29:09.250
+Ankit Shukla: You will have some kind of… ideas.
+
+196
+00:29:11.680 --> 00:29:15.490
+Ankit Shukla: Right? But business goal is not the only source.
+
+197
+00:29:16.990 --> 00:29:23.180
+Ankit Shukla: Another source is… You are going to do market research.
+
+198
+00:29:25.440 --> 00:29:28.170
+Ankit Shukla: Right? In market research, first of all.
+
+199
+00:29:28.340 --> 00:29:32.990
+Ankit Shukla: You will understand the ecosystem. Ecosystem is what is happening in your market.
+
+200
+00:29:33.560 --> 00:29:39.230
+Ankit Shukla: For example, in India recently, the GST rates have reduced for some of the items.
+
+201
+00:29:39.800 --> 00:29:45.249
+Ankit Shukla: Now, these computers… New products so that they are able to…
+
+202
+00:29:45.890 --> 00:29:48.439
+Ankit Shukla: Attract more people, because the rates have reduced.
+
+203
+00:29:48.840 --> 00:29:52.380
+Ankit Shukla: Okay, so now something that is happening in the ecosystem
+
+204
+00:29:52.920 --> 00:29:54.910
+Ankit Shukla: I'm not sure, guys, what is happening.
+
+205
+00:29:59.450 --> 00:30:01.380
+Ankit Shukla: Okay, what was the last thing that you heard?
+
+206
+00:30:07.410 --> 00:30:09.410
+Ankit Shukla: Just give me one second, let me see what I can do.
+
+207
+00:30:36.690 --> 00:30:38.280
+Ankit Shukla: Yes. Is it better now?
+
+208
+00:30:42.060 --> 00:30:43.300
+Ankit Shukla: Cool. Thank you.
+
+209
+00:30:47.540 --> 00:30:48.270
+Ankit Shukla: Yes.
+
+210
+00:30:48.640 --> 00:30:53.409
+Ankit Shukla: So now what happens is… We have to do.
+
+211
+00:30:53.840 --> 00:30:58.970
+Ankit Shukla: So understand that business goal is not the only thing that will direct your ideation.
+
+212
+00:31:00.140 --> 00:31:02.690
+Ankit Shukla: Another thing is market research.
+
+213
+00:31:03.560 --> 00:31:11.200
+Ankit Shukla: As a product manager, you will do the market research, or you will take help of a market research team or the user research team in order to
+
+214
+00:31:11.650 --> 00:31:15.969
+Ankit Shukla: do the… Research on the ecosystem, as in what is happening in the industry.
+
+215
+00:31:16.800 --> 00:31:18.859
+Ankit Shukla: Right? And the second thing is.
+
+216
+00:31:19.270 --> 00:31:22.790
+Ankit Shukla: You will also do the market research on your competition.
+
+217
+00:31:27.740 --> 00:31:31.120
+Ankit Shukla: Right? And in terms of competition, understand there are a lot of ways.
+
+218
+00:31:31.300 --> 00:31:34.320
+Ankit Shukla: How? You first have to identify your competition.
+
+219
+00:31:35.030 --> 00:31:38.079
+Ankit Shukla: After that, you will look at their reviews.
+
+220
+00:31:38.250 --> 00:31:45.000
+Ankit Shukla: their, what people are telling about them on social media, on different kind of websites, okay? For example.
+
+221
+00:31:45.890 --> 00:31:49.550
+Ankit Shukla: When you have to look at the reviews of your competitor, if it's an e-commerce product.
+
+222
+00:31:49.850 --> 00:31:52.140
+Ankit Shukla: Then maybe you can look for reviews.
+
+223
+00:31:53.410 --> 00:31:59.330
+Ankit Shukla: on… Amazon, on Reddit.
+
+224
+00:32:01.120 --> 00:32:05.289
+Ankit Shukla: on Quora, Or, you can also go ahead.
+
+225
+00:32:06.100 --> 00:32:10.310
+Ankit Shukla: And use this website called as… G2.com.
+
+226
+00:32:11.180 --> 00:32:23.340
+Ankit Shukla: So, if you are creating any B2B company, then G2.com is something that can help you out. Similarly, there is also a website where… which can help you discover your competitors and their reviews, which is called as Product Hunt.
+
+227
+00:32:25.640 --> 00:32:27.299
+Ankit Shukla: So, there are multiple sources.
+
+228
+00:32:27.640 --> 00:32:33.959
+Ankit Shukla: In the coming weeks, when we are going to go in details of user research and market research, I will give you all of these sources.
+
+229
+00:32:34.530 --> 00:32:35.380
+Ankit Shukla: Okay.
+
+230
+00:32:35.850 --> 00:32:43.309
+Ankit Shukla: Now we have understood the competition. So now, after understanding the competition, after understanding the ecosystem, we will have more ideas.
+
+231
+00:32:43.590 --> 00:32:49.559
+Ankit Shukla: That we can do this, we can do this, in order to achieve business goals, in order to help our users solve their problems.
+
+232
+00:32:49.660 --> 00:32:50.460
+Ankit Shukla: Okay.
+
+233
+00:32:51.150 --> 00:32:52.799
+Ankit Shukla: Then we have more angles.
+
+234
+00:32:54.650 --> 00:32:58.010
+Ankit Shukla: Now, apart from the business goals and market research, understand.
+
+235
+00:32:58.520 --> 00:33:04.569
+Ankit Shukla: You are also connected with some pretty intelligent people who have some kind of domain matter expertise.
+
+236
+00:33:04.980 --> 00:33:11.480
+Ankit Shukla: Right? So now you are going to connect with your Stakeholders.
+
+237
+00:33:12.760 --> 00:33:15.340
+Ankit Shukla: And the stakeholders can be of two types.
+
+238
+00:33:15.780 --> 00:33:19.380
+Ankit Shukla: The number one stakeholder is the internal stakeholders.
+
+239
+00:33:20.400 --> 00:33:22.530
+Ankit Shukla: Who are the internal stakeholders? Understand.
+
+240
+00:33:22.700 --> 00:33:26.120
+Ankit Shukla: you have… People in sales?
+
+241
+00:33:26.820 --> 00:33:30.190
+Ankit Shukla: in marketing, in support.
+
+242
+00:33:31.220 --> 00:33:33.780
+Ankit Shukla: And you also have people in design.
+
+243
+00:33:34.600 --> 00:33:39.800
+Ankit Shukla: in development. Sales, marketing, support, design, development, legal, all of these kind of people.
+
+244
+00:33:40.200 --> 00:33:47.489
+Ankit Shukla: Now, sales, marketing, and support These are people who are connected to the customers.
+
+245
+00:33:48.110 --> 00:33:55.260
+Ankit Shukla: So they are your best source or inspiration to understand who the customers are, and what do they want, and what are their
+
+246
+00:33:55.410 --> 00:33:56.600
+Ankit Shukla: Pain points.
+
+247
+00:33:57.430 --> 00:34:00.609
+Ankit Shukla: Right? And the second part is designers and developers.
+
+248
+00:34:00.850 --> 00:34:06.190
+Ankit Shukla: Now, designers and developers are very good with solutions, so they can help you come up with creative ideas as well.
+
+249
+00:34:07.350 --> 00:34:15.610
+Ankit Shukla: Right? So, internal stakeholders are these, which will help you get more of your ideas bucket filled.
+
+250
+00:34:17.949 --> 00:34:21.739
+Ankit Shukla: Right? And the second kind of stakeholders are external stakeholders.
+
+251
+00:34:25.710 --> 00:34:30.180
+Ankit Shukla: Sometimes external stakeholders demand, and sometimes they suggest.
+
+252
+00:34:31.820 --> 00:34:35.629
+Ankit Shukla: For example, When you talk about
+
+253
+00:34:35.900 --> 00:34:47.480
+Ankit Shukla: the United Payments Interface, or UPI in India, which is, let's say, a globally most recognized… globally most recognized payment interface in the world.
+
+254
+00:34:47.909 --> 00:34:54.980
+Ankit Shukla: Here in UPI, there are multiple partners, or multiple external stakeholders, such as all the banks of the world.
+
+255
+00:34:55.139 --> 00:34:59.069
+Ankit Shukla: all the banks of India, are the partners in UPI.
+
+256
+00:34:59.630 --> 00:35:05.139
+Ankit Shukla: And whenever they think that there is some innovation that can be done, they suggest that to the
+
+257
+00:35:06.250 --> 00:35:16.539
+Ankit Shukla: They suggest that to the RBI, or whoever the… whoever is the player, called as National Payment Corporations of India, which is the body that created UPI, and then it gives them the feedback.
+
+258
+00:35:19.720 --> 00:35:23.570
+Ankit Shukla: Right? So external stakeholders are also going to be there.
+
+259
+00:35:24.190 --> 00:35:25.959
+Ankit Shukla: And then, apart from this.
+
+260
+00:35:27.010 --> 00:35:35.319
+Ankit Shukla: Now we have taken business goals, we have taken market research, we have taken internal stakeholders, external stakeholders. Now we have a bunch of ideas.
+
+261
+00:35:37.100 --> 00:35:37.890
+Ankit Shukla: Okay.
+
+262
+00:35:38.050 --> 00:35:39.679
+Ankit Shukla: I will repeat this part again.
+
+263
+00:35:40.370 --> 00:35:42.950
+Ankit Shukla: National Payment Corporations of India.
+
+264
+00:35:43.970 --> 00:35:48.789
+Ankit Shukla: has created a product called as UPI, United Payments Interface.
+
+265
+00:35:49.310 --> 00:36:02.520
+Ankit Shukla: Now, in UPI, what happens is you should be able to exchange money with each other with the help of just your mobile number, or a very simple virtual address. You don't have to enter your bank account, IFSC code, or something, and it can be done instantly.
+
+266
+00:36:03.560 --> 00:36:06.420
+Ankit Shukla: Right? Now, when this UPI was created.
+
+267
+00:36:06.820 --> 00:36:14.440
+Ankit Shukla: Apart from the users, there are other multiple partners, such as all the banks that are onboarded, Right? So…
+
+268
+00:36:14.570 --> 00:36:25.399
+Ankit Shukla: These partners also give their suggestions, their ideas, their demands to the National Payment Corporation to make sure that they are able to get the best experience from the product.
+
+269
+00:36:26.460 --> 00:36:29.390
+Ankit Shukla: Right? So that is it No!
+
+270
+00:36:30.270 --> 00:36:32.120
+Ankit Shukla: We have collected all the ideas.
+
+271
+00:36:33.020 --> 00:36:37.100
+Ankit Shukla: Apart from this, You, as a product manager.
+
+272
+00:36:41.910 --> 00:36:50.470
+Ankit Shukla: You, as a product manager, Are also going to go ahead and have some ideas on your own.
+
+273
+00:36:50.820 --> 00:36:58.580
+Ankit Shukla: Because you have the domain matter expertise, you are knowing people, plus you will also involve some more subject matter experts. SME means subject matter experts.
+
+274
+00:36:59.140 --> 00:37:02.230
+Ankit Shukla: Okay, and then you have the… Ideas.
+
+275
+00:37:04.190 --> 00:37:08.930
+Ankit Shukla: So, when you are working at highly regulated industries, such as healthcare.
+
+276
+00:37:09.100 --> 00:37:14.040
+Ankit Shukla: Such as fintech, such as BFSI, There.
+
+277
+00:37:14.360 --> 00:37:21.860
+Ankit Shukla: Understand that no matter how you want, how much you want, it is very difficult to become, like, a very strong subject matter expert.
+
+278
+00:37:22.270 --> 00:37:25.990
+Ankit Shukla: So what you do is, you bring your product management skills.
+
+279
+00:37:26.180 --> 00:37:29.500
+Ankit Shukla: And then you onboard someone who is a very good domain meta expert.
+
+280
+00:37:29.960 --> 00:37:33.790
+Ankit Shukla: And then you work with them in order to solve the problems and understand the problems.
+
+281
+00:37:34.960 --> 00:37:39.869
+Ankit Shukla: Okay, so now we have… Ideas collected from all the places.
+
+282
+00:37:44.200 --> 00:37:49.589
+Ankit Shukla: Right? So what we have done is, we have collected all the ideas, Okay. Understand, everyone.
+
+283
+00:37:50.030 --> 00:37:53.269
+Ankit Shukla: In every product, not everything is important.
+
+284
+00:37:54.400 --> 00:38:03.469
+Ankit Shukla: In every product, not everything is important, but it is the judgment of the product manager to understand what is and what is not important based on the industry, based on the product, and everything.
+
+285
+00:38:04.910 --> 00:38:06.520
+Ankit Shukla: Right? Now.
+
+286
+00:38:10.460 --> 00:38:13.930
+Ankit Shukla: Apart from this, We also have data.
+
+287
+00:38:17.010 --> 00:38:22.029
+Ankit Shukla: So, once you launch your product, or even before you go ahead and launch the product.
+
+288
+00:38:22.490 --> 00:38:25.020
+Ankit Shukla: You are going to collect some data from the industry.
+
+289
+00:38:25.570 --> 00:38:29.200
+Ankit Shukla: You will conduct interviews, you will conduct surveys.
+
+290
+00:38:29.450 --> 00:38:33.040
+Ankit Shukla: When the users start using your product, you will have their feedbacks.
+
+291
+00:38:34.690 --> 00:38:39.779
+Ankit Shukla: Right? So now, With this data also, you are going to get a lot of ideas.
+
+292
+00:38:42.620 --> 00:38:44.430
+Ankit Shukla: Right? Now understand.
+
+293
+00:38:45.300 --> 00:38:54.109
+Ankit Shukla: I have taken you so much time in order to help you understand that these are the sources of the ideas. Okay. Now, if you have one learning from this, that learning should be
+
+294
+00:38:54.690 --> 00:38:57.499
+Ankit Shukla: As a product manager, you have to keep your eyes
+
+295
+00:38:57.880 --> 00:39:00.600
+Ankit Shukla: And your ears open all the time.
+
+296
+00:39:01.960 --> 00:39:06.520
+Ankit Shukla: Okay, and always understand that you do not have to jump to solutions.
+
+297
+00:39:06.820 --> 00:39:10.649
+Ankit Shukla: Many people, what they do is, they do not look at the whole spectrum.
+
+298
+00:39:10.960 --> 00:39:14.740
+Ankit Shukla: If they have an idea, They try to execute it.
+
+299
+00:39:15.090 --> 00:39:21.340
+Ankit Shukla: They put some time over there, and then they find that this is not working. And they do not consider the other point of views.
+
+300
+00:39:23.420 --> 00:39:37.579
+Ankit Shukla: Right? So always remember, As a product manager, PM is… not a… Creator of Ideas.
+
+301
+00:39:39.310 --> 00:39:46.900
+Ankit Shukla: A PM is a… curator of… ideas.
+
+302
+00:39:49.720 --> 00:39:53.050
+Ankit Shukla: Right? A quick yes on everyone, if you're able to understand this.
+
+303
+00:40:03.480 --> 00:40:07.340
+Ankit Shukla: Cool. Yes. Guys, we'll be taking questions in a moment, so hold your horses.
+
+304
+00:40:07.800 --> 00:40:08.560
+Ankit Shukla: Yes.
+
+305
+00:40:12.380 --> 00:40:13.170
+Ankit Shukla: Wonderful.
+
+306
+00:40:13.520 --> 00:40:20.640
+Ankit Shukla: Now… After this, We have the ideas.
+
+307
+00:40:21.580 --> 00:40:28.259
+Ankit Shukla: But… Ideas are not the only important things that you need to consider.
+
+308
+00:40:28.460 --> 00:40:29.900
+Ankit Shukla: This is half the stool.
+
+309
+00:40:30.930 --> 00:40:36.720
+Ankit Shukla: Many people think that because they have the ideas, now they can go ahead and become good product managers, but no.
+
+310
+00:40:37.060 --> 00:40:39.410
+Ankit Shukla: Your team does not have enough time.
+
+311
+00:40:39.730 --> 00:40:41.800
+Ankit Shukla: It does not have enough resources.
+
+312
+00:40:42.020 --> 00:40:47.220
+Ankit Shukla: And your customers do not have enough patience in the world for you to wait to execute every idea.
+
+313
+00:40:47.960 --> 00:40:51.970
+Ankit Shukla: So what you need to do is, you need to make sure that you are able to
+
+314
+00:40:56.590 --> 00:40:58.389
+Ankit Shukla: research and…
+
+315
+00:41:01.440 --> 00:41:03.080
+Ankit Shukla: Validate ideas.
+
+316
+00:41:05.960 --> 00:41:07.770
+Ankit Shukla: Not every idea is good enough.
+
+317
+00:41:08.660 --> 00:41:13.740
+Ankit Shukla: there could be a fantastic idea that will help the users that I can reduce the price by half.
+
+318
+00:41:14.070 --> 00:41:16.420
+Ankit Shukla: But you understand that is going to harm the business.
+
+319
+00:41:18.340 --> 00:41:29.559
+Ankit Shukla: Right? You can go ahead and copy the competitors, but then it is going to ethically create a dilemma in front of your customers, right? So you, as a product manager have to apply your judgment.
+
+320
+00:41:30.030 --> 00:41:32.789
+Ankit Shukla: In order to research and validate the ideas.
+
+321
+00:41:33.660 --> 00:41:41.090
+Ankit Shukla: So, in order to research and validate the ideas, the number one thing that you have to do is, and this is the most important part of a product manager's job.
+
+322
+00:41:41.690 --> 00:41:45.780
+Ankit Shukla: Is to understand that ideas do not matter.
+
+323
+00:41:46.680 --> 00:41:51.640
+Ankit Shukla: What matters is the what is the problem, That the idea is solving.
+
+324
+00:41:51.750 --> 00:41:55.260
+Ankit Shukla: So, every idea Is actually two parts.
+
+325
+00:41:56.250 --> 00:41:59.670
+Ankit Shukla: One is… the problem?
+
+326
+00:42:01.570 --> 00:42:04.929
+Ankit Shukla: Second is, the solution.
+
+327
+00:42:06.680 --> 00:42:13.309
+Ankit Shukla: So, consider one idea, okay? So, this cohort-based course Is actually an idea.
+
+328
+00:42:13.960 --> 00:42:20.400
+Ankit Shukla: Okay, cohort-based course is an idea that if you want a cohort-based course to understand product management, then I'm offering the same.
+
+329
+00:42:20.950 --> 00:42:29.980
+Ankit Shukla: But this is an idea. Ideas do not matter. No one cares about product management courses or something, right? But what people care about is, what is the problem that it solves for you?
+
+330
+00:42:30.590 --> 00:42:37.270
+Ankit Shukla: So, why do people join in cohort-based courses? First, they want to achieve something in their life, they want to get a job.
+
+331
+00:42:37.460 --> 00:42:42.550
+Ankit Shukla: Why do they want to get a job? Maybe because they are too much inspired by product management.
+
+332
+00:42:42.870 --> 00:42:47.200
+Ankit Shukla: Or they want to make more money. Or they feel stuck in their current job.
+
+333
+00:42:48.610 --> 00:43:04.959
+Ankit Shukla: Right? Similarly, there are other things. So, if that was a problem, I can also go ahead and join maybe an offline campus or something else. Why am I joining a cohort-based class? So, I'm joining a cohort-based class, as Jinsi has mentioned, that I'm doing it for accountability, community, and common goals.
+
+334
+00:43:05.740 --> 00:43:09.320
+Ankit Shukla: And maybe it is much more cost-effective than an offline degree.
+
+335
+00:43:09.910 --> 00:43:16.560
+Ankit Shukla: And you are able to get, because no one has to come at a one place, you will be able to get the best mentors which are available to teach you.
+
+336
+00:43:17.270 --> 00:43:23.729
+Ankit Shukla: Right, so now what we have done is, now this cohort-based, like, a simple idea has been expanded into so many problems.
+
+337
+00:43:23.910 --> 00:43:26.209
+Ankit Shukla: And some good solutions.
+
+338
+00:43:26.970 --> 00:43:33.730
+Ankit Shukla: Right? So, number one responsibility that you have as a product manager Is to take the ideas.
+
+339
+00:43:34.210 --> 00:43:39.840
+Ankit Shukla: Understand them well, And break them down into problems and solutions.
+
+340
+00:43:41.700 --> 00:43:43.320
+Ankit Shukla: Okay, now…
+
+341
+00:43:46.600 --> 00:43:52.119
+Ankit Shukla: Once you have the problem… okay, one more thing, sorry to interrupt. One more thing, everyone.
+
+342
+00:43:53.240 --> 00:43:58.220
+Ankit Shukla: It is the natural human tendency To jump to solutions.
+
+343
+00:43:59.230 --> 00:44:02.369
+Ankit Shukla: It is a natural human tendency to jump to solutions.
+
+344
+00:44:02.620 --> 00:44:13.000
+Ankit Shukla: So no matter how much I tell you, no matter how much I give you practice, you will understand that always when I ask you a question, you will try to jump to the solution rather than understanding the question in detail.
+
+345
+00:44:13.360 --> 00:44:15.870
+Ankit Shukla: This is the human instinct. You cannot fight against it.
+
+346
+00:44:16.350 --> 00:44:20.449
+Ankit Shukla: But what you can do is you can understand it, you can acknowledge it, you can be aware about it.
+
+347
+00:44:20.760 --> 00:44:22.979
+Ankit Shukla: So, whenever you come to a solution.
+
+348
+00:44:23.600 --> 00:44:29.489
+Ankit Shukla: It is your number one responsibility to ask yourself, what is the problem that this solution solves?
+
+349
+00:44:30.130 --> 00:44:34.439
+Ankit Shukla: And is this problem important enough for my customers or for myself?
+
+350
+00:44:35.530 --> 00:44:40.519
+Ankit Shukla: Okay, so that is a filter that you should always take. Always ask, why am I doing this?
+
+351
+00:44:40.980 --> 00:44:42.749
+Ankit Shukla: What is the purpose of doing this?
+
+352
+00:44:43.320 --> 00:44:47.890
+Ankit Shukla: Right? So, we will break down the research and validate the ideas by
+
+353
+00:44:48.230 --> 00:44:51.160
+Ankit Shukla: Breaking down the idea into problem and solutions.
+
+354
+00:44:52.190 --> 00:44:55.280
+Ankit Shukla: Now, problem part is very important, because you will understand
+
+355
+00:44:55.640 --> 00:44:58.250
+Ankit Shukla: Is this problem important for our users?
+
+356
+00:44:59.020 --> 00:45:01.570
+Ankit Shukla: Is this problem important for our business?
+
+357
+00:45:02.320 --> 00:45:10.620
+Ankit Shukla: Then, only you will go ahead and solve. So how will you find this out? By talking to people, by researching, by surveying, by looking at data, by looking at patterns.
+
+358
+00:45:11.770 --> 00:45:17.940
+Ankit Shukla: Right? And the second part is solution. Now, solution… Has to be feasible.
+
+359
+00:45:20.710 --> 00:45:26.949
+Ankit Shukla: Feasible as if you're… Tech team or your design team should be able to actually create this.
+
+360
+00:45:28.340 --> 00:45:32.409
+Ankit Shukla: Right? So understand now, after research and… within research and validation.
+
+361
+00:45:32.670 --> 00:45:35.319
+Ankit Shukla: You will now involve your business teams.
+
+362
+00:45:35.580 --> 00:45:42.300
+Ankit Shukla: Your engineering teams, your design teams, and other teams, in order to understand whether these things are actually feasible or not.
+
+363
+00:45:44.570 --> 00:45:47.590
+Ankit Shukla: Right? And for solutioning, you also need creativity.
+
+364
+00:45:52.970 --> 00:45:57.850
+Ankit Shukla: Okay, so how many people think that they are creating? Okay, so on a scale of 1 to 5,
+
+365
+00:45:57.970 --> 00:46:03.859
+Ankit Shukla: Tell me, how much do you think you are creative? Creativity means coming up with new ideas.
+
+366
+00:46:04.420 --> 00:46:06.289
+Ankit Shukla: Tell me on a scale of 1 to 5, please.
+
+367
+00:46:07.520 --> 00:46:11.380
+Ankit Shukla: I will not take 3 for an answer, that is just you being modest.
+
+368
+00:46:15.480 --> 00:46:17.459
+Ankit Shukla: Someone is 7.
+
+369
+00:46:29.150 --> 00:46:29.910
+Ankit Shukla: Great.
+
+370
+00:46:31.120 --> 00:46:34.289
+Ankit Shukla: Cool. So… Towards the end of the session today.
+
+371
+00:46:34.780 --> 00:46:38.220
+Ankit Shukla: I'll give you, like, a simple framework that will help you become more creative.
+
+372
+00:46:38.630 --> 00:46:44.149
+Ankit Shukla: Okay, no matter you are 4 or 5 or 3 or 1, it will help you move at least one point forward.
+
+373
+00:46:44.900 --> 00:46:45.650
+Ankit Shukla: Right?
+
+374
+00:46:45.770 --> 00:46:47.370
+Ankit Shukla: So, now.
+
+375
+00:46:48.490 --> 00:46:57.090
+Ankit Shukla: You have users' business feasibility, and creativity. That will make sure that you are able to validate and research the ideas. Guys, validation simply means
+
+376
+00:46:57.310 --> 00:47:00.029
+Ankit Shukla: Does this problem exist in the life of the users or not?
+
+377
+00:47:00.170 --> 00:47:02.280
+Ankit Shukla: Is it important enough to solve or not?
+
+378
+00:47:03.460 --> 00:47:07.800
+Ankit Shukla: Do we capture a big business opportunity by solving this problem?
+
+379
+00:47:09.180 --> 00:47:13.440
+Ankit Shukla: Okay. Now, after this, We have validated the ideas.
+
+380
+00:47:13.750 --> 00:47:15.420
+Ankit Shukla: All the bad ideas.
+
+381
+00:47:32.240 --> 00:47:32.960
+Ankit Shukla: We're not.
+
+382
+00:48:45.710 --> 00:48:47.130
+Ankit Shukla: Welcome back, everyone!
+
+383
+00:48:55.880 --> 00:48:57.549
+Ankit Shukla: Cool. I hope I'm audible, right?
+
+384
+00:48:57.930 --> 00:48:58.590
+Ankit Shukla: food.
+
+385
+00:49:00.000 --> 00:49:05.320
+Ankit Shukla: So, sorry guys, I have to relocate to a new place for this weekend, I think that is where the issues are.
+
+386
+00:49:06.640 --> 00:49:10.989
+Ankit Shukla: But we'll make sure that we are able to catch up very soon. Yes, just give me a moment.
+
+387
+00:49:13.810 --> 00:49:14.570
+Ankit Shukla: Yes.
+
+388
+00:49:14.840 --> 00:49:17.939
+Ankit Shukla: So now, we have…
+
+389
+00:49:18.060 --> 00:49:24.049
+Ankit Shukla: Filtered the ideas which matter for the company and for the users, and that can be also feasibly done by the company.
+
+390
+00:49:25.130 --> 00:49:27.579
+Ankit Shukla: Right? Now, after this, what will happen?
+
+391
+00:49:30.940 --> 00:49:31.740
+Ankit Shukla: Yes.
+
+392
+00:49:31.960 --> 00:49:35.930
+Ankit Shukla: Now… Good ideas are going to move forward.
+
+393
+00:49:36.530 --> 00:49:41.950
+Ankit Shukla: And not-so-good ideas are going to go to something called as the recycle bin.
+
+394
+00:49:44.370 --> 00:49:53.019
+Ankit Shukla: Recycle bin. Why do I call it a recycle bin and not a dash bin? Because these ideas can be worked upon, and they can again enter the roadmap.
+
+395
+00:49:53.280 --> 00:49:55.939
+Ankit Shukla: In the future, if something changes in the industry.
+
+396
+00:49:56.100 --> 00:50:00.800
+Ankit Shukla: Maybe they will become more important for the users or something. You can go ahead and revisit them again.
+
+397
+00:50:01.730 --> 00:50:03.740
+Ankit Shukla: Right? Yes, very good indicators.
+
+398
+00:50:03.930 --> 00:50:05.879
+Ankit Shukla: So this is the NOPA.
+
+399
+00:50:06.090 --> 00:50:10.500
+Ankit Shukla: Now… Ideas which are winning.
+
+400
+00:50:10.760 --> 00:50:12.160
+Ankit Shukla: the yes ideas.
+
+401
+00:50:13.370 --> 00:50:17.359
+Ankit Shukla: Now, these ideas are also… They can be too many in numbers.
+
+402
+00:50:18.020 --> 00:50:22.130
+Ankit Shukla: So what you need to do is, Now you have to prioritize.
+
+403
+00:50:26.490 --> 00:50:28.100
+Ankit Shukla: Thritization means.
+
+404
+00:50:28.600 --> 00:50:32.990
+Ankit Shukla: In order to solve one problem, There are multiple solutions.
+
+405
+00:50:34.330 --> 00:50:36.280
+Ankit Shukla: But, you need to…
+
+406
+00:50:36.390 --> 00:50:50.199
+Ankit Shukla: make sure that you are following a particular order in order to implement them. You cannot put everything at once, because you don't have the bandwidth, everything is not important for the user set a time, so you need to prioritize ruthlessly as a product manager.
+
+407
+00:50:51.050 --> 00:50:53.390
+Ankit Shukla: Okay, so you need to do prioritization.
+
+408
+00:50:54.690 --> 00:50:57.750
+Ankit Shukla: You need to do prioritization, plus you need to do what?
+
+409
+00:50:58.900 --> 00:51:00.790
+Ankit Shukla: You need to make trade-offs.
+
+410
+00:51:01.030 --> 00:51:02.340
+Ankit Shukla: trade-off means?
+
+411
+00:51:02.650 --> 00:51:05.500
+Ankit Shukla: By choosing one thing, you have to say no to other things.
+
+412
+00:51:06.900 --> 00:51:12.709
+Ankit Shukla: Right? This is an important strategic thing that you'll have to do as a product manager. So.
+
+413
+00:51:12.820 --> 00:51:16.610
+Ankit Shukla: We have collected the ideas, we have…
+
+414
+00:51:17.090 --> 00:51:22.220
+Ankit Shukla: Rejected few ideas, or we have put them in the bottom of the bucket list, or the recycle bin.
+
+415
+00:51:22.500 --> 00:51:24.569
+Ankit Shukla: Some ideas we are going to take ahead.
+
+416
+00:51:24.810 --> 00:51:29.200
+Ankit Shukla: But in these ideas also, we have to further prioritize them and understand the trade-offs.
+
+417
+00:51:29.660 --> 00:51:33.590
+Ankit Shukla: Now, understand, In the next week, or next to next week.
+
+418
+00:51:34.110 --> 00:51:37.279
+Ankit Shukla: I'm going to give you details of how to do prioritization.
+
+419
+00:51:38.030 --> 00:51:41.120
+Ankit Shukla: Right? So there are multiple models of prioritization.
+
+420
+00:51:42.200 --> 00:51:45.380
+Ankit Shukla: The major models are, if you want to prioritize.
+
+421
+00:51:49.940 --> 00:51:55.629
+Ankit Shukla: For a prioritization, Prioritization means ranking your solutions
+
+422
+00:51:55.820 --> 00:51:57.390
+Ankit Shukla: In one way or the other.
+
+423
+00:51:57.700 --> 00:52:02.250
+Ankit Shukla: Ranking our solutions in one way or the other, so that you know what to do first, what to be later.
+
+424
+00:52:03.030 --> 00:52:03.890
+Ankit Shukla: Right?
+
+425
+00:52:04.170 --> 00:52:06.380
+Ankit Shukla: So, for prioritization, what you do is.
+
+426
+00:52:09.060 --> 00:52:15.320
+Ankit Shukla: Yes. So, for prioritization, what you'll do is, you will take Impact.
+
+427
+00:52:16.490 --> 00:52:17.790
+Ankit Shukla: and efforts.
+
+428
+00:52:19.470 --> 00:52:21.010
+Ankit Shukla: What is the impact?
+
+429
+00:52:21.210 --> 00:52:22.519
+Ankit Shukla: That you have.
+
+430
+00:52:22.670 --> 00:52:34.880
+Ankit Shukla: that you can have in the user's life, in the business life, by implementing this? And what will be the effort in terms of time, cost, money, engineering bandwidth, design bandwidth, these kind of things. Okay, this is one of the frameworks.
+
+431
+00:52:35.420 --> 00:52:39.739
+Ankit Shukla: Other frameworks are RISE, which we'll be talking about in the coming weeks.
+
+432
+00:52:40.410 --> 00:52:43.030
+Ankit Shukla: There is also a framework called a SCANO model.
+
+433
+00:52:44.380 --> 00:52:47.550
+Ankit Shukla: Right? And there is also a model called as the Moscow model.
+
+434
+00:52:48.140 --> 00:52:53.569
+Ankit Shukla: Which we are going to touch upon in the coming session. But right now, you only have to understand that we will just go ahead and prioritize.
+
+435
+00:52:53.720 --> 00:52:58.340
+Ankit Shukla: And understand, guys, impact versus effort is just like the cost-benefit analysis.
+
+436
+00:52:58.980 --> 00:53:09.999
+Ankit Shukla: When you people buy a phone, or a car, or something else for… in your life, then you always do a cost-benefit analysis. That this is a cost, and this is a benefit that I get.
+
+437
+00:53:10.140 --> 00:53:13.620
+Ankit Shukla: It is similar to the impact and effort analysis.
+
+438
+00:53:13.820 --> 00:53:18.589
+Ankit Shukla: Impact comes from the PM team, and efforts come from the operations or the tech team.
+
+439
+00:53:19.970 --> 00:53:20.770
+Ankit Shukla: Right?
+
+440
+00:53:23.030 --> 00:53:24.530
+Ankit Shukla: This is it. Okay.
+
+441
+00:53:25.410 --> 00:53:26.290
+Ankit Shukla: No!
+
+442
+00:53:26.600 --> 00:53:31.620
+Ankit Shukla: We have collected the good ideas, They have been prioritized.
+
+443
+00:53:32.310 --> 00:53:37.610
+Ankit Shukla: Now, after prioritization, discussing with everyone, You have something called as…
+
+444
+00:53:41.080 --> 00:53:45.390
+Ankit Shukla: a product, Roadmap.
+
+445
+00:53:49.240 --> 00:53:51.839
+Ankit Shukla: You have something called as a product roadmap.
+
+446
+00:53:52.640 --> 00:53:54.750
+Ankit Shukla: What is the product roadmap?
+
+447
+00:53:55.100 --> 00:53:56.819
+Ankit Shukla: Product roadmap is.
+
+448
+00:53:57.080 --> 00:53:59.699
+Ankit Shukla: A high-level strategic document
+
+449
+00:54:00.150 --> 00:54:04.830
+Ankit Shukla: That tells your stakeholders that… how the product is going to look like in the future.
+
+450
+00:54:05.520 --> 00:54:08.899
+Ankit Shukla: What are the features, initiatives that we are going to go ahead and launch?
+
+451
+00:54:09.410 --> 00:54:11.800
+Ankit Shukla: That is a product roadmap.
+
+452
+00:54:12.260 --> 00:54:14.089
+Ankit Shukla: Okay, let me show you an example.
+
+453
+00:54:21.300 --> 00:54:24.500
+Ankit Shukla: So, this is a simple example of a product roadmap.
+
+454
+00:54:25.080 --> 00:54:27.290
+Ankit Shukla: So, we have some important components.
+
+455
+00:54:27.840 --> 00:54:28.990
+Ankit Shukla: First is…
+
+456
+00:54:30.660 --> 00:54:36.830
+Ankit Shukla: the date or the time when we are going to launch this, it could be quarter, months, or years, based on the details of the company.
+
+457
+00:54:37.770 --> 00:54:41.950
+Ankit Shukla: The name of the initiative, why we are doing this initiative, goal.
+
+458
+00:54:42.380 --> 00:54:47.260
+Ankit Shukla: Features that we are going to mention, and metrics through which we will measure the success of the product.
+
+459
+00:54:48.180 --> 00:54:50.499
+Ankit Shukla: Or success of this initiative.
+
+460
+00:54:52.240 --> 00:54:58.340
+Ankit Shukla: Right? This is one of the templates, you can use any of the templates, but this is generally the most perfect template that we have seen.
+
+461
+00:54:59.060 --> 00:55:02.870
+Ankit Shukla: Okay, many people make a mistake that they only include these things.
+
+462
+00:55:03.480 --> 00:55:04.769
+Ankit Shukla: The date and the name.
+
+463
+00:55:05.960 --> 00:55:09.950
+Ankit Shukla: Now what happens? You only focus on the solutions, which is this.
+
+464
+00:55:10.190 --> 00:55:18.349
+Ankit Shukla: You do not understand why we are doing this, what are the details, what are the metrics that will tell you if you are moving in the right direction.
+
+465
+00:55:19.070 --> 00:55:21.510
+Ankit Shukla: Okay, so this is a simple roadmap.
+
+466
+00:55:21.660 --> 00:55:24.240
+Ankit Shukla: Of a car renting platform.
+
+467
+00:55:24.610 --> 00:55:28.609
+Ankit Shukla: So, in the first quarter, we will put a feature of renting a car.
+
+468
+00:55:30.330 --> 00:55:35.389
+Ankit Shukla: Okay, after that, we will help people to share a car on the platform. They can also go ahead and put their cars.
+
+469
+00:55:35.640 --> 00:55:44.969
+Ankit Shukla: After this, we will improve the process, we will smoothen the process, and then we will make sure that we are adding features to become the most genuine car renting company.
+
+470
+00:55:45.550 --> 00:55:54.710
+Ankit Shukla: Right? And based on that, we are going to have so many features. So these are the features. Visualize available cars, localize available cars, filter by size or price, book a car.
+
+471
+00:55:55.080 --> 00:55:57.210
+Ankit Shukla: Then other people can also leach the car.
+
+472
+00:55:57.430 --> 00:56:01.830
+Ankit Shukla: So we have taken this feature, and then we are breaking it down into multiple steps.
+
+473
+00:56:03.750 --> 00:56:07.560
+Ankit Shukla: Right? So this is what Our roadmap looks like.
+
+474
+00:56:07.810 --> 00:56:09.820
+Ankit Shukla: So we have collected the ideas.
+
+475
+00:56:10.110 --> 00:56:18.269
+Ankit Shukla: We have filtered the ideas, we have prioritized the ideas, we have understood the problems and the solutions, and now we are ready with our roadmap.
+
+476
+00:56:20.490 --> 00:56:25.280
+Ankit Shukla: Right? A quick yes or no, everyone, if you are able to understand this roadmap.
+
+477
+00:56:25.750 --> 00:56:32.940
+Ankit Shukla: I will also share this slide with you in the learning dashboard so that you guys can take a look, and if you have any follow-up questions, you can always reach out.
+
+478
+00:56:35.010 --> 00:56:35.730
+Ankit Shukla: Yes.
+
+479
+00:56:36.000 --> 00:56:43.240
+Ankit Shukla: Everyone, in the next 15 minutes, I'll just continue for 15 minutes. After that, we are going to take a break.
+
+480
+00:56:56.660 --> 00:56:57.430
+Ankit Shukla: Yes.
+
+481
+00:56:57.990 --> 00:57:01.180
+Ankit Shukla: Now, where are the problems mentioned? Generally.
+
+482
+00:57:01.350 --> 00:57:05.050
+Ankit Shukla: Problems are not clearly mentioned in the roadmap.
+
+483
+00:57:05.480 --> 00:57:10.939
+Ankit Shukla: Some companies have a policy that they will have a problem-centric roadmap, but this roadmap is not problem-centric.
+
+484
+00:57:11.180 --> 00:57:15.449
+Ankit Shukla: Here, if you want to modify it, you can write it in the quotes.
+
+485
+00:57:15.590 --> 00:57:24.649
+Ankit Shukla: So you can write two kinds of goals. One is the user-centric goals, what is the problem that it solves for them? And second is the company-centric goals. You can make some modifications in order to do that.
+
+486
+00:57:25.230 --> 00:57:30.059
+Ankit Shukla: Yes. Yes. It can work for multiple products, but then what will happen?
+
+487
+00:57:30.620 --> 00:57:37.950
+Ankit Shukla: You will create themes. That for web app, we are going to do this, for mobile app, we are going to do this, for this particular product, we are going to do this.
+
+488
+00:57:38.270 --> 00:57:44.270
+Ankit Shukla: So, you can further divide this in terms of multiple products, but it will become, let's say, more complex then.
+
+489
+00:57:45.490 --> 00:57:46.290
+Ankit Shukla: Yes.
+
+490
+00:57:46.560 --> 00:57:51.310
+Ankit Shukla: Now, understand, guys, For you as a product manager.
+
+491
+00:57:52.260 --> 00:57:54.169
+Ankit Shukla: You can understand all of these things.
+
+492
+00:57:54.810 --> 00:57:58.290
+Ankit Shukla: But… You cannot give this roadmap
+
+493
+00:57:59.090 --> 00:58:03.030
+Ankit Shukla: To a engineer, and expect them to build a feature.
+
+494
+00:58:03.900 --> 00:58:08.550
+Ankit Shukla: Right? You cannot give this roadmap to an engineer and expect them to build a feature.
+
+495
+00:58:09.260 --> 00:58:10.530
+Ankit Shukla: So, what will happen?
+
+496
+00:58:10.880 --> 00:58:13.240
+Ankit Shukla: Now you have to break down your roadmap.
+
+497
+00:58:13.580 --> 00:58:19.830
+Ankit Shukla: You have to make it more detailed. This is just a high-level thing. This is just a snapshot.
+
+498
+00:58:21.600 --> 00:58:26.279
+Ankit Shukla: Right? So now, you will further go ahead and detail this. How will it happen?
+
+499
+00:58:30.080 --> 00:58:31.270
+Ankit Shukla: How will it happen?
+
+500
+00:58:36.310 --> 00:58:38.040
+Ankit Shukla: Now, from the product roadmap.
+
+501
+00:58:38.980 --> 00:58:44.639
+Ankit Shukla: Yes. Now, from the product roadmap, You will build two things.
+
+502
+00:58:45.110 --> 00:58:50.370
+Ankit Shukla: One is, a detailed PRD.
+
+503
+00:58:51.490 --> 00:58:57.099
+Ankit Shukla: Now, if it is one feature, you can have one PRD for one feature, if it's a simple feature.
+
+504
+00:58:57.570 --> 00:59:06.329
+Ankit Shukla: If it's a whole product and there are multiple features that are there in your roadmap, you will create one PRD for… you can create separate PRDs for separate features.
+
+505
+00:59:07.000 --> 00:59:19.680
+Ankit Shukla: Okay, make sure that people are able to understand what you have written. Don't make it overcomplicated. If it is becoming too much, then you have to break it down into small things. Okay, I'll talk about what is a PRD, guys. I'll talk about it. Okay?
+
+506
+00:59:20.810 --> 00:59:21.710
+Ankit Shukla: So…
+
+507
+00:59:24.980 --> 00:59:29.950
+Ankit Shukla: What happens is, Just give me one moment.
+
+508
+00:59:45.790 --> 00:59:47.269
+Ankit Shukla: Just a moment, everyone.
+
+509
+00:59:59.720 --> 01:00:02.460
+Ankit Shukla: Yes. Look at this diagram carefully.
+
+510
+01:00:03.340 --> 01:00:05.600
+Ankit Shukla: And tell me in the chat, what did you understand?
+
+511
+01:00:11.840 --> 01:00:14.869
+Ankit Shukla: Look at the diagram carefully and tell me in the chat what did you understand.
+
+512
+01:00:32.220 --> 01:00:33.240
+Ankit Shukla: Very good.
+
+513
+01:00:35.200 --> 01:00:41.120
+Ankit Shukla: So, Some people who are kind and modest can tell that people have different perspectives.
+
+514
+01:00:41.890 --> 01:00:46.270
+Ankit Shukla: Some people who are more interested, they can tell that there is a lot of confusion in the team.
+
+515
+01:00:46.730 --> 01:00:51.580
+Ankit Shukla: Right. So… Understand.
+
+516
+01:00:53.750 --> 01:01:03.499
+Ankit Shukla: Always remember, That building product Or building any kind of software, At least so far.
+
+517
+01:01:04.820 --> 01:01:08.300
+Ankit Shukla: is a… Team sport.
+
+518
+01:01:11.070 --> 01:01:17.080
+Ankit Shukla: Building product, or building anything substantial, Is a team sport.
+
+519
+01:01:19.330 --> 01:01:25.080
+Ankit Shukla: Right? What it means is… It's not enough for you to play your game the best.
+
+520
+01:01:25.370 --> 01:01:32.790
+Ankit Shukla: But you need to make sure that everyone is also having the same understanding of the game. They are also playing their level best.
+
+521
+01:01:33.660 --> 01:01:44.660
+Ankit Shukla: Right? And for that, Product managers need to contribute one thing to their teams. And that thing is, clarity.
+
+522
+01:01:47.900 --> 01:01:52.520
+Ankit Shukla: You, as a product manager, Has to bring clarity to the team.
+
+523
+01:01:54.850 --> 01:01:57.160
+Ankit Shukla: Right? And how do you bring this clarity?
+
+524
+01:01:57.490 --> 01:01:58.870
+Ankit Shukla: This clarity
+
+525
+01:01:58.980 --> 01:02:06.659
+Ankit Shukla: Understand that it is very easy for anyone to look at your product and tell you that this is working, this is not working, you should improve this and everything.
+
+526
+01:02:06.840 --> 01:02:15.549
+Ankit Shukla: But it does not work in real life. There has to be someone who's able to collect the ideas, they are able to articulate the ideas, they are able to make sure that
+
+527
+01:02:15.640 --> 01:02:27.150
+Ankit Shukla: they are able to prioritize the ideas, put a good execution plan, and then take the idea to reality and make sure that users are using it. Okay, that looks, that looks,
+
+528
+01:02:29.040 --> 01:02:30.940
+Ankit Shukla: That looks like a lot of work.
+
+529
+01:02:31.050 --> 01:02:33.999
+Ankit Shukla: And that is what a product manager has to bring on the table.
+
+530
+01:02:34.300 --> 01:02:40.880
+Ankit Shukla: So, in order to bring clarity what the product manager does, product managers create a product roadmap.
+
+531
+01:02:41.670 --> 01:02:44.409
+Ankit Shukla: That is one tool for creating great clarity.
+
+532
+01:02:45.070 --> 01:02:50.070
+Ankit Shukla: Product managers also create an important document called as Products?
+
+533
+01:02:52.180 --> 01:02:53.530
+Ankit Shukla: requirement.
+
+534
+01:02:55.010 --> 01:02:56.030
+Ankit Shukla: document.
+
+535
+01:02:57.750 --> 01:03:06.589
+Ankit Shukla: Okay, product managers also break down these requirements in the form of tasks, Or a to-do list.
+
+536
+01:03:09.480 --> 01:03:14.299
+Ankit Shukla: Right? And product managers also decide some kind of metrics
+
+537
+01:03:15.030 --> 01:03:17.710
+Ankit Shukla: To make sure that they are able to observe.
+
+538
+01:03:17.900 --> 01:03:21.479
+Ankit Shukla: Are we going in the right direction or not?
+
+539
+01:03:25.180 --> 01:03:30.940
+Ankit Shukla: Okay, so as a product manager, you have to work on these documents to make sure that people are on the same page.
+
+540
+01:03:32.230 --> 01:03:36.219
+Ankit Shukla: Right? So what we do here is, in order to bring this clarity.
+
+541
+01:03:36.550 --> 01:03:40.929
+Ankit Shukla: you will create detailed product requirement documents. So, in the coming sessions.
+
+542
+01:03:41.190 --> 01:03:50.580
+Ankit Shukla: I will tell you what is a PRD, how do we create it, all of the… all of the things are going to get covered, but right now, you have to understand that it's a documentation of that particular feature.
+
+543
+01:03:51.880 --> 01:03:58.520
+Ankit Shukla: It is the documentation of that particular feature. In the coming sessions, I'm going to give you a detail of how to write your own PR.
+
+544
+01:03:58.680 --> 01:04:00.890
+Ankit Shukla: It is a very important skill for a product manager.
+
+545
+01:04:01.580 --> 01:04:02.540
+Ankit Shukla: Okay.
+
+546
+01:04:03.070 --> 01:04:05.029
+Ankit Shukla: After we have the PRD,
+
+547
+01:04:05.400 --> 01:04:16.990
+Ankit Shukla: What we'll also do is, we will break down the PRDs, we will collect the features. So, one PRD can have multiple tasks, other PRD can have multiple tasks. We are going to go ahead, take all the tasks.
+
+548
+01:04:17.480 --> 01:04:19.559
+Ankit Shukla: And then we are going to build
+
+549
+01:04:21.180 --> 01:04:22.879
+Ankit Shukla: Then we are going to build.
+
+550
+01:04:23.390 --> 01:04:26.070
+Ankit Shukla: Something called as product backlog.
+
+551
+01:04:27.120 --> 01:04:30.760
+Ankit Shukla: Yes. So now, a one common question is coming in the chat, which is…
+
+552
+01:04:31.030 --> 01:04:34.199
+Ankit Shukla: Do we create one PRD? Yes.
+
+553
+01:04:34.490 --> 01:04:38.060
+Ankit Shukla: For one feature, There is mostly one PRD.
+
+554
+01:04:38.640 --> 01:04:41.350
+Ankit Shukla: Which is used by all these stakeholders.
+
+555
+01:04:41.720 --> 01:04:44.649
+Ankit Shukla: In case someone wants more details.
+
+556
+01:04:44.900 --> 01:04:53.079
+Ankit Shukla: then they will ask you, you will add these details. They can also edit the PRD, plus other documents, such as engineering design.
+
+557
+01:04:53.310 --> 01:05:05.339
+Ankit Shukla: go-to-market strategy, all of these can also be added as parts to PRD or as links to PRD, but generally, for one feature, there is one PRD. Generally, like a… not a rule, but general good advice.
+
+558
+01:05:06.550 --> 01:05:07.350
+Ankit Shukla: Right?
+
+559
+01:05:09.800 --> 01:05:18.089
+Ankit Shukla: Detailed features, detailed PRD, then we create a product backlog. So, if I take this particular thing.
+
+560
+01:05:19.480 --> 01:05:21.599
+Ankit Shukla: I have shown you a roadmap just now, right?
+
+561
+01:05:26.570 --> 01:05:33.199
+Ankit Shukla: So if I have to create a product backlog from this particular roadmap, this is what it will look like. So what I've done is.
+
+562
+01:05:34.050 --> 01:05:37.270
+Ankit Shukla: At a high level, the high-level feature is called as an epic.
+
+563
+01:05:38.830 --> 01:05:53.650
+Ankit Shukla: The high-level feature is called as an epic. Then we break it down into user stories and tasks. Okay, so an epic is rent a car. Now, there are multiple features. Visualize available cars, this is the user story. Localize available cars, this is the user story.
+
+564
+01:05:55.770 --> 01:05:57.190
+Ankit Shukla: Right? So…
+
+565
+01:05:57.300 --> 01:06:02.519
+Ankit Shukla: A story is a unit of work. You can combine multiple of these stories in order to create a feature.
+
+566
+01:06:02.700 --> 01:06:07.599
+Ankit Shukla: For example, Let me give you a more relatable example. Let's say…
+
+567
+01:06:12.090 --> 01:06:14.100
+Ankit Shukla: Sign up and log in.
+
+568
+01:06:16.170 --> 01:06:20.150
+Ankit Shukla: is an epic, or it is a part of a PRD, big PRD.
+
+569
+01:06:21.910 --> 01:06:22.760
+Ankit Shukla: Right?
+
+570
+01:06:25.790 --> 01:06:31.119
+Ankit Shukla: Now… Sign-up and login is a very high-level feature.
+
+571
+01:06:32.990 --> 01:06:38.539
+Ankit Shukla: Right? So, we will break it down into multiple parts. So… People should be able to
+
+572
+01:06:39.930 --> 01:06:42.979
+Ankit Shukla: Enter email plus password.
+
+573
+01:06:44.330 --> 01:06:51.640
+Ankit Shukla: People should be able to… authenticate with Google or Facebook or mobile.
+
+574
+01:06:52.240 --> 01:06:58.200
+Ankit Shukla: People should be able to have an option of forgetting and retrieving the password. Sorry, retrieving the password.
+
+575
+01:07:00.870 --> 01:07:04.479
+Ankit Shukla: Right? So these are small, small features that are a part of this big feature.
+
+576
+01:07:04.830 --> 01:07:08.899
+Ankit Shukla: So one PRD can be created for sign-up and login, and then these could be
+
+577
+01:07:09.250 --> 01:07:10.970
+Ankit Shukla: the small parts of that period.
+
+578
+01:07:12.530 --> 01:07:15.399
+Ankit Shukla: Right? So, I will explain everything again.
+
+579
+01:07:17.540 --> 01:07:20.719
+Ankit Shukla: After doing all the prioritization and everything.
+
+580
+01:07:21.490 --> 01:07:26.820
+Ankit Shukla: We have something called as a product, Roadmap.
+
+581
+01:07:28.290 --> 01:07:33.659
+Ankit Shukla: But product roadmap is a high-level document. If you give it to every stakeholder, they will get confused.
+
+582
+01:07:34.830 --> 01:07:36.790
+Ankit Shukla: Right? So what we do is…
+
+583
+01:07:37.870 --> 01:07:42.710
+Ankit Shukla: We break down the product roadmap, into PRDs.
+
+584
+01:07:43.240 --> 01:07:44.600
+Ankit Shukla: What is a PRD?
+
+585
+01:07:46.750 --> 01:07:51.489
+Ankit Shukla: PRD is a product requirement document. You take all the related features in a particular part.
+
+586
+01:07:51.640 --> 01:07:53.219
+Ankit Shukla: And then you go ahead.
+
+587
+01:07:53.750 --> 01:08:02.670
+Ankit Shukla: Create PRDs. PRDs are to give clarity to the team that this is what this feature looks like, it is how it is going to shape up, this is why it is important, this is what the user flow is going to be.
+
+588
+01:08:03.330 --> 01:08:07.979
+Ankit Shukla: Okay? Once we have the PID, what we do is, we have multiple tasks in the PID.
+
+589
+01:08:08.330 --> 01:08:10.749
+Ankit Shukla: Okay, we collect all the tasks.
+
+590
+01:08:11.770 --> 01:08:19.789
+Ankit Shukla: into something called as a backlog. So what is the difference between a product roadmap and a backlog? A product roadmap is a high-level
+
+591
+01:08:20.750 --> 01:08:22.350
+Ankit Shukla: A strategic document.
+
+592
+01:08:24.100 --> 01:08:31.630
+Ankit Shukla: Right? And… a backlog, It's a low level, Plus, detailed document.
+
+593
+01:08:32.310 --> 01:08:34.829
+Ankit Shukla: This is made generally for the leadership.
+
+594
+01:08:35.590 --> 01:08:40.040
+Ankit Shukla: This is made for the developers, designers, and people who are going to actually work on the product.
+
+595
+01:08:40.560 --> 01:08:42.500
+Ankit Shukla: And this is for everyone's clarity.
+
+596
+01:08:46.450 --> 01:08:51.430
+Ankit Shukla: Right? Backlog and PRD are not the same banks. Okay? So…
+
+597
+01:08:52.920 --> 01:08:57.189
+Ankit Shukla: Everyone, now tell me, on a scale of 1 to 5, you are able to understand this differentiation.
+
+598
+01:09:05.790 --> 01:09:13.410
+Ankit Shukla: Good. So now… People who are not able to understand what we'll do is, okay, I would ask you.
+
+599
+01:09:13.680 --> 01:09:18.220
+Ankit Shukla: to go through the session. Once again, I think that's a matter of focus.
+
+600
+01:09:18.370 --> 01:09:22.570
+Ankit Shukla: Go through the session once again in the recording. If you have any questions, you can always go ahead and do a follow-up question.
+
+601
+01:09:23.580 --> 01:09:27.990
+Ankit Shukla: Okay, so this is… The product roadmap, a high-level plan.
+
+602
+01:09:28.580 --> 01:09:32.269
+Ankit Shukla: Then… you create a PRD to make sure that you're able to
+
+603
+01:09:32.569 --> 01:09:42.029
+Ankit Shukla: Explain the feature nicely, and then you go ahead and create a backlog by collecting all the features, so that you can give some action items to your developers.
+
+604
+01:09:42.189 --> 01:09:44.159
+Ankit Shukla: Or your designers, or any other tools.
+
+605
+01:09:44.970 --> 01:09:47.070
+Ankit Shukla: Okay, so now we are here.
+
+606
+01:09:49.740 --> 01:09:55.930
+Ankit Shukla: Guys, all of these documents that I've shared will be shared with you in the learning dashboard, so that you are able to
+
+607
+01:09:56.530 --> 01:09:59.850
+Ankit Shukla: So that you are able to go ahead and build this.
+
+608
+01:09:59.980 --> 01:10:01.439
+Ankit Shukla: Okay, understand it better.
+
+609
+01:10:02.250 --> 01:10:08.479
+Ankit Shukla: Okay, now… Cool, I think we have… we are going to stop till product backlog.
+
+610
+01:10:10.030 --> 01:10:14.340
+Ankit Shukla: After this, a couple of things are also going to come. So now what we'll do is…
+
+611
+01:10:14.570 --> 01:10:16.599
+Ankit Shukla: We will get into executions.
+
+612
+01:10:16.830 --> 01:10:19.469
+Ankit Shukla: Now we have to develop, we have done all the thinking and all.
+
+613
+01:10:19.600 --> 01:10:22.289
+Ankit Shukla: So now you will take the help of developers.
+
+614
+01:10:23.040 --> 01:10:28.180
+Ankit Shukla: And designers, if you are building an AI product, you are going to take and help off
+
+615
+01:10:29.340 --> 01:10:31.909
+Ankit Shukla: Data team, or the machine learning team.
+
+616
+01:10:32.170 --> 01:10:39.729
+Ankit Shukla: In order to pick up the ideas, or pick up the elements one by one, pick up the task and user stories one by one.
+
+617
+01:10:39.830 --> 01:10:43.139
+Ankit Shukla: And then convert them into real features.
+
+618
+01:10:43.400 --> 01:11:01.600
+Ankit Shukla: Okay, so we have the to-do list. Now these people will work on the to-do list. But how do they work? It is different. How do you make sure that people are not failing? How do you make sure that the project is not going beyond the timelines? This we are going to discuss in the next part of the session. So right now, we are taking a quick break of 5 minutes.
+
+619
+01:11:01.640 --> 01:11:03.979
+Ankit Shukla: We will come back when this timer ends.
+
+620
+01:11:04.360 --> 01:11:06.419
+Ankit Shukla: Okay, so I'm starting the timer.
+
+621
+01:11:06.680 --> 01:11:16.959
+Ankit Shukla: come back when this ends, go ahead, get her from your chair, drink some water, do some stretches, and come back. The next one hour is going to be more interesting.
+
+622
+01:16:08.060 --> 01:16:09.640
+Ankit Shukla: Welcome back, everyone!
+
+623
+01:16:10.120 --> 01:16:12.669
+Ankit Shukla: Tell me, I am back in the chat if you are back.
+
+624
+01:16:17.400 --> 01:16:18.930
+Ankit Shukla: Amazing. Cool, great.
+
+625
+01:16:19.900 --> 01:16:20.770
+Ankit Shukla: Sure.
+
+626
+01:16:21.000 --> 01:16:23.549
+Ankit Shukla: Now, an important observation.
+
+627
+01:16:24.490 --> 01:16:26.309
+Ankit Shukla: There is a lot of confusion.
+
+628
+01:16:26.530 --> 01:16:32.340
+Ankit Shukla: when it comes to what is a part, what is going to be the part of the PRD, And…
+
+629
+01:16:32.790 --> 01:16:40.869
+Ankit Shukla: Are product managers supposed to create user stories, tasks, and everything? Okay. Will the product manager focus on execution or the strategy?
+
+630
+01:16:41.330 --> 01:16:42.350
+Ankit Shukla: Understand?
+
+631
+01:16:43.080 --> 01:16:47.260
+Ankit Shukla: These questions will have highly contextual answers.
+
+632
+01:16:47.940 --> 01:16:48.740
+Ankit Shukla: Okay.
+
+633
+01:16:49.000 --> 01:16:52.960
+Ankit Shukla: And I'll try to go ahead and solve them at the end of the session.
+
+634
+01:16:53.060 --> 01:17:05.569
+Ankit Shukla: Okay? There is no rule that a product manager will never do project management, or they will always do product management. Okay, but there are certain guidelines and some context that I can give you that will help you, understand these situations.
+
+635
+01:17:05.950 --> 01:17:06.740
+Ankit Shukla: Okay.
+
+636
+01:17:08.610 --> 01:17:09.340
+Ankit Shukla: Short.
+
+637
+01:17:09.510 --> 01:17:10.580
+Ankit Shukla: Let's go ahead.
+
+638
+01:17:10.800 --> 01:17:12.109
+Ankit Shukla: So we are here.
+
+639
+01:17:13.940 --> 01:17:15.219
+Ankit Shukla: We are here, right?
+
+640
+01:17:16.500 --> 01:17:24.000
+Ankit Shukla: Cool. And also, guys, understand, this is the first session, so it's okay to be confused, to be overwhelmed. That is what I told you at the starting of the session.
+
+641
+01:17:24.130 --> 01:17:25.610
+Ankit Shukla: Okay, but…
+
+642
+01:17:25.990 --> 01:17:33.750
+Ankit Shukla: Before the program ends, you will have clarity on everything if you are focusing on paying some attention to the class.
+
+643
+01:17:33.850 --> 01:17:39.050
+Ankit Shukla: Okay, with that being said, let me just go ahead and try to do this. Okay, so now.
+
+644
+01:17:39.350 --> 01:17:40.969
+Ankit Shukla: We will be collaborating.
+
+645
+01:17:41.400 --> 01:17:43.539
+Ankit Shukla: How do we collaborate? What we'll do is…
+
+646
+01:17:48.740 --> 01:17:49.550
+Ankit Shukla: Yes.
+
+647
+01:17:50.210 --> 01:17:57.280
+Ankit Shukla: So, in terms of collaborating, What we do is, The product backlog
+
+648
+01:17:58.270 --> 01:18:02.079
+Ankit Shukla: Can be a very long list of features.
+
+649
+01:18:02.750 --> 01:18:13.019
+Ankit Shukla: A product backlog can be a very, very long list of features which can contain 100, 100, 500, 1,000, 10, 20, any number of features, or any number of tasks.
+
+650
+01:18:13.470 --> 01:18:20.100
+Ankit Shukla: But, you cannot… But, you cannot pick all the tasks at once.
+
+651
+01:18:20.960 --> 01:18:28.020
+Ankit Shukla: So what you will do is, you will pick a few items to do, and then you will take it to the next things. Let me tell you how it happens.
+
+652
+01:18:34.040 --> 01:18:35.469
+Ankit Shukla: Just one moment.
+
+653
+01:18:36.540 --> 01:18:37.310
+Ankit Shukla: Yes.
+
+654
+01:18:37.600 --> 01:18:39.050
+Ankit Shukla: So what we do is…
+
+655
+01:18:46.520 --> 01:18:49.010
+Ankit Shukla: Once we have all the tasks.
+
+656
+01:18:52.150 --> 01:18:55.849
+Ankit Shukla: All the tasks ready for developer, designers, and other people.
+
+657
+01:18:57.320 --> 01:19:02.170
+Ankit Shukla: We take the most important tasks, And what is more critical?
+
+658
+01:19:03.220 --> 01:19:09.200
+Ankit Shukla: And then we put them in a way that they can be done in the next couple of weeks or 3 weeks.
+
+659
+01:19:09.410 --> 01:19:18.080
+Ankit Shukla: So, generally, Most of the teams follow A pattern called as… Sprint.
+
+660
+01:19:20.980 --> 01:19:22.829
+Ankit Shukla: In Sprint, what happens?
+
+661
+01:19:23.250 --> 01:19:29.200
+Ankit Shukla: We generally ask, That what are the number of items That can be developed.
+
+662
+01:19:29.920 --> 01:19:35.420
+Ankit Shukla: In mostly 2 weeks. Some companies might have 3 weeks or 4 weeks, but generally it is 2 weeks.
+
+663
+01:19:36.050 --> 01:19:40.159
+Ankit Shukla: Why are we keeping it 2 weeks? So that… When you launch something.
+
+664
+01:19:40.380 --> 01:19:42.719
+Ankit Shukla: Then you get quick feedback from the users.
+
+665
+01:19:43.400 --> 01:19:52.090
+Ankit Shukla: When you launch something, your team becomes more and more motivated, because they can see that, yes, they are shipping actually something. And they are not stuck in that loop of perfection.
+
+666
+01:19:53.560 --> 01:19:55.130
+Ankit Shukla: Right? So?
+
+667
+01:19:55.940 --> 01:19:59.369
+Ankit Shukla: We go ahead and pick some features.
+
+668
+01:20:00.010 --> 01:20:05.919
+Ankit Shukla: We talked to a team to understand that, boss, these are the things that can be put in this particular sprint.
+
+669
+01:20:06.340 --> 01:20:09.750
+Ankit Shukla: Okay, so your whole product backlog could be of months.
+
+670
+01:20:10.360 --> 01:20:13.299
+Ankit Shukla: But here, you will only pick items for 2 weeks.
+
+671
+01:20:14.100 --> 01:20:16.379
+Ankit Shukla: Then, in these two weeks, what we'll do is…
+
+672
+01:20:19.000 --> 01:20:22.829
+Ankit Shukla: You will start working with your developers and designers in order to
+
+673
+01:20:23.420 --> 01:20:27.060
+Ankit Shukla: Complete these tasks, and test these tasks.
+
+674
+01:20:29.180 --> 01:20:33.949
+Ankit Shukla: Okay, complete these tasks and test these tasks. And now what happens here is.
+
+675
+01:20:35.420 --> 01:20:46.040
+Ankit Shukla: to make sure that people are not missing the timelines, and you are not able to get some unknown or unwanted surprises. So a surprise that happens in sprints is.
+
+676
+01:20:46.260 --> 01:20:52.030
+Ankit Shukla: That, in the end, the developers say that, boss, it is going to take a couple of more weeks. And now you're stuck.
+
+677
+01:20:52.470 --> 01:20:55.789
+Ankit Shukla: In the end moment, they say that, no, it is going to take more time.
+
+678
+01:20:56.040 --> 01:21:02.049
+Ankit Shukla: So what you do is, we have something in a sprint that every day in the morning or in the evening, based on how you do it.
+
+679
+01:21:02.330 --> 01:21:06.770
+Ankit Shukla: There is something called as… A stand-up call.
+
+680
+01:21:10.190 --> 01:21:15.180
+Ankit Shukla: In the stand-up call, what we do is… We ask 3 questions.
+
+681
+01:21:16.770 --> 01:21:22.399
+Ankit Shukla: And then, through these three questions, we tend to minimize these last-minute surprises.
+
+682
+01:21:22.680 --> 01:21:27.759
+Ankit Shukla: So, can anyone tell me in the chat what are the three questions that we asked in the stand-up call?
+
+683
+01:21:28.510 --> 01:21:29.620
+Ankit Shukla: Tell me, everyone.
+
+684
+01:21:30.520 --> 01:21:33.640
+Ankit Shukla: Some of you are already a part of Sprint meetings, I know.
+
+685
+01:21:34.840 --> 01:21:37.710
+Ankit Shukla: So, tell me, what are the three questions that you ask?
+
+686
+01:21:41.130 --> 01:21:41.970
+Ankit Shukla: Yes.
+
+687
+01:21:42.380 --> 01:21:46.350
+Ankit Shukla: So, some of you are part of stand-up, so you already know, but for people who don't know.
+
+688
+01:21:46.650 --> 01:21:54.210
+Ankit Shukla: In a stand-up meeting, we call all the developers who are… or all the people who are working on that particular feature, who are a part of that particular sprint.
+
+689
+01:21:54.880 --> 01:21:56.980
+Ankit Shukla: Then we ask them 3 questions.
+
+690
+01:21:57.570 --> 01:21:59.340
+Ankit Shukla: The three questions are why?
+
+691
+01:22:00.180 --> 01:22:02.430
+Ankit Shukla: B… and B.
+
+692
+01:22:03.250 --> 01:22:07.459
+Ankit Shukla: Why is… What did you do yesterday?
+
+693
+01:22:08.910 --> 01:22:10.600
+Ankit Shukla: What did you get done yesterday?
+
+694
+01:22:11.400 --> 01:22:13.730
+Ankit Shukla: What is your plan for today?
+
+695
+01:22:15.080 --> 01:22:19.230
+Ankit Shukla: And… Are there any blockers that are blocking you?
+
+696
+01:22:20.000 --> 01:22:23.879
+Ankit Shukla: So that they go ahead and they consciously understand that, yes.
+
+697
+01:22:24.290 --> 01:22:29.679
+Ankit Shukla: If there are any blockers, have to tell them as soon as possible, rather than at the last moment.
+
+698
+01:22:31.720 --> 01:22:36.280
+Ankit Shukla: Right? I will also tell you that even in this particular Coarse.
+
+699
+01:22:36.490 --> 01:22:37.920
+Ankit Shukla: You can follow this.
+
+700
+01:22:38.490 --> 01:22:40.479
+Ankit Shukla: You don't have to do this for every day.
+
+701
+01:22:40.590 --> 01:22:44.859
+Ankit Shukla: But at least for every week, every Monday or every Saturday.
+
+702
+01:22:45.110 --> 01:22:47.550
+Ankit Shukla: You can send yourself an email.
+
+703
+01:22:47.880 --> 01:22:52.319
+Ankit Shukla: You can send yourself an email, or you can also send it to me. My email is
+
+704
+01:22:52.930 --> 01:22:58.259
+Ankit Shukla: HelloPM.co, that will give you some accountability. So what you can do is.
+
+705
+01:22:58.550 --> 01:23:02.419
+Ankit Shukla: For learning product management, last week, these are the things that I have done.
+
+706
+01:23:03.510 --> 01:23:09.580
+Ankit Shukla: This week, I am planning these things, and these are the things that are blocking me, so can you please help me?
+
+707
+01:23:10.730 --> 01:23:12.320
+Ankit Shukla: If you do this, what will happen?
+
+708
+01:23:12.800 --> 01:23:14.450
+Ankit Shukla: You will be accountable.
+
+709
+01:23:17.060 --> 01:23:20.939
+Ankit Shukla: Plus, you will be more clear. Otherwise, procrastination will catch up.
+
+710
+01:23:23.090 --> 01:23:27.299
+Ankit Shukla: Okay, so this is a sprint, and after the sprint, the product is released.
+
+711
+01:23:27.550 --> 01:23:29.569
+Ankit Shukla: You are going to test the product.
+
+712
+01:23:32.060 --> 01:23:34.220
+Ankit Shukla: The testing of the product will be done.
+
+713
+01:23:34.740 --> 01:23:36.979
+Ankit Shukla: Okay, in the testing, what happens is.
+
+714
+01:23:38.620 --> 01:23:40.940
+Ankit Shukla: There is something called as alpha testing.
+
+715
+01:23:41.290 --> 01:23:43.350
+Ankit Shukla: There is something called as beta testing.
+
+716
+01:23:44.100 --> 01:23:48.250
+Ankit Shukla: In the alpha testing, The internal people are going to use the product.
+
+717
+01:23:49.560 --> 01:23:55.460
+Ankit Shukla: Right? In the beta testing, Your external people are going to use an external, but limited number of people.
+
+718
+01:23:55.900 --> 01:23:59.109
+Ankit Shukla: External, real users, but limited number of people.
+
+719
+01:24:00.240 --> 01:24:04.129
+Ankit Shukla: Okay, once the testing and everything is done, you think that, yes, it is good to go ahead.
+
+720
+01:24:04.390 --> 01:24:06.290
+Ankit Shukla: Then, you will go ahead and…
+
+721
+01:24:09.980 --> 01:24:15.050
+Ankit Shukla: Work on a very important thing, which is… GTM.
+
+722
+01:24:16.510 --> 01:24:21.160
+Ankit Shukla: GTM stands for… Go to market.
+
+723
+01:24:23.420 --> 01:24:26.640
+Ankit Shukla: Plus… You will work on adoption.
+
+724
+01:24:27.480 --> 01:24:33.499
+Ankit Shukla: Adoption means… What can you do to make sure that people are actually using your product?
+
+725
+01:24:33.810 --> 01:24:38.079
+Ankit Shukla: Understand, every day, thousands and hundreds of products are created.
+
+726
+01:24:38.700 --> 01:24:41.269
+Ankit Shukla: But not every product becomes successful.
+
+727
+01:24:42.340 --> 01:24:43.170
+Ankit Shukla: Why?
+
+728
+01:24:43.440 --> 01:24:44.670
+Ankit Shukla: Because…
+
+729
+01:24:44.910 --> 01:24:52.599
+Ankit Shukla: The team does not put enough efforts in getting the product adopted, making it simple to use, talking about the product.
+
+730
+01:24:53.980 --> 01:24:58.000
+Ankit Shukla: Right? So, this is GTM, and this is adoption.
+
+731
+01:25:05.570 --> 01:25:06.440
+Ankit Shukla: Right?
+
+732
+01:25:07.990 --> 01:25:15.399
+Ankit Shukla: Launch is a small part of GTM. GTM is a bigger strategy where you define everything. Launch is generally the channel that you are going to use.
+
+733
+01:25:21.200 --> 01:25:22.050
+Ankit Shukla: Right?
+
+734
+01:25:23.240 --> 01:25:23.970
+Ankit Shukla: Cool.
+
+735
+01:25:24.080 --> 01:25:32.199
+Ankit Shukla: Guys, beta and Pilot are same. It is for the internal set of users, like, external set of users, so that people can see what you have built and everything.
+
+736
+01:25:40.600 --> 01:25:43.660
+Ankit Shukla: Yes. Now, you have done the GTM,
+
+737
+01:25:43.810 --> 01:25:46.070
+Ankit Shukla: Now, here, GTM, what you do is…
+
+738
+01:25:48.420 --> 01:25:50.910
+Ankit Shukla: In GTM, what you do is, you connect with
+
+739
+01:25:51.560 --> 01:25:54.040
+Ankit Shukla: The sales team plus the marketing team.
+
+740
+01:25:54.830 --> 01:25:57.250
+Ankit Shukla: They are your important stakeholders here.
+
+741
+01:25:58.670 --> 01:26:03.970
+Ankit Shukla: Right? Now you have done sales and marketing, collaborated with them, now you have to understand
+
+742
+01:26:04.940 --> 01:26:07.340
+Ankit Shukla: That now your product will go to?
+
+743
+01:26:10.030 --> 01:26:11.230
+Ankit Shukla: the users.
+
+744
+01:26:11.560 --> 01:26:15.750
+Ankit Shukla: So now… After GTM and everything, your product is with the users?
+
+745
+01:26:21.000 --> 01:26:23.420
+Ankit Shukla: Your product is with the users.
+
+746
+01:26:24.270 --> 01:26:28.649
+Ankit Shukla: And now… The users will use the product.
+
+747
+01:26:32.360 --> 01:26:33.140
+Ankit Shukla: Yes.
+
+748
+01:26:33.430 --> 01:26:36.419
+Ankit Shukla: Now the users will use the product, and what they will do?
+
+749
+01:26:37.750 --> 01:26:39.639
+Ankit Shukla: They will generate data.
+
+750
+01:26:40.670 --> 01:26:43.549
+Ankit Shukla: They will generate data in the form of feedback.
+
+751
+01:26:45.360 --> 01:26:48.409
+Ankit Shukla: And they will also generate data in the form of raw data.
+
+752
+01:26:48.720 --> 01:26:53.319
+Ankit Shukla: So, understand, That, let's say you try to build a feature.
+
+753
+01:26:53.840 --> 01:26:56.840
+Ankit Shukla: But you are not sure whether this will work or not work.
+
+754
+01:26:57.690 --> 01:27:03.959
+Ankit Shukla: So rather than giving the feature to all the users, what you will do is, you will do something called as A-B testing.
+
+755
+01:27:04.510 --> 01:27:07.270
+Ankit Shukla: So, for some of the people, you are going to show that feature?
+
+756
+01:27:07.480 --> 01:27:11.680
+Ankit Shukla: For some of the people, you are not going to show that feature, or you will show that feature in a different format.
+
+757
+01:27:11.990 --> 01:27:17.409
+Ankit Shukla: And then, when they will use the product, you will understand whether A is behaving nicely, or B is behaving nicely.
+
+758
+01:27:18.220 --> 01:27:19.890
+Ankit Shukla: To give you a simple example.
+
+759
+01:27:23.010 --> 01:27:27.470
+Ankit Shukla: Let's say… I have the Hello PM website.
+
+760
+01:27:28.360 --> 01:27:31.840
+Ankit Shukla: On the Helopium website, We have a video.
+
+761
+01:27:34.270 --> 01:27:36.969
+Ankit Shukla: Right? And below that video, we have…
+
+762
+01:27:37.280 --> 01:27:39.620
+Ankit Shukla: A call to action, which is enroll.
+
+763
+01:27:42.630 --> 01:27:43.410
+Ankit Shukla: Right.
+
+764
+01:27:43.590 --> 01:27:50.519
+Ankit Shukla: Now, someone tells me that we do not have time to watch all the videos, so why you are wasting time with the videos? Why don't you just go ahead.
+
+765
+01:27:51.490 --> 01:27:55.929
+Ankit Shukla: write the pricing and everything, and then put a CTA below this.
+
+766
+01:27:56.410 --> 01:27:59.029
+Ankit Shukla: Now, this is version A, this is version B.
+
+767
+01:28:00.060 --> 01:28:03.500
+Ankit Shukla: Understand, they have given me an opinion.
+
+768
+01:28:04.460 --> 01:28:06.920
+Ankit Shukla: I do not know whether that opinion is correct or not.
+
+769
+01:28:07.800 --> 01:28:10.639
+Ankit Shukla: So what I'll do is, I will create this version.
+
+770
+01:28:10.940 --> 01:28:14.780
+Ankit Shukla: It is already there. I will create one more version with their suggestion.
+
+771
+01:28:15.860 --> 01:28:20.450
+Ankit Shukla: And then, I will send some traffic to this, and some traffic to this.
+
+772
+01:28:22.380 --> 01:28:28.550
+Ankit Shukla: And then I will understand on what traffic on A or B Are people clicking this mode?
+
+773
+01:28:30.700 --> 01:28:35.809
+Ankit Shukla: So whenever you create a A-B experiment, You first have to define
+
+774
+01:28:36.180 --> 01:28:38.780
+Ankit Shukla: What are going to be the versions?
+
+775
+01:28:39.070 --> 01:28:42.890
+Ankit Shukla: This is a version with video, this is a version without video.
+
+776
+01:28:43.380 --> 01:28:46.679
+Ankit Shukla: And then you have to decide a metric. This is super important.
+
+777
+01:28:46.850 --> 01:28:53.819
+Ankit Shukla: Metric means… click-through rate, or CTR, on CTA. CTA is click call to action.
+
+778
+01:28:54.140 --> 01:28:56.780
+Ankit Shukla: How many people are clicking here? How many people are clicking here?
+
+779
+01:28:57.170 --> 01:28:58.609
+Ankit Shukla: Based on the ratio.
+
+780
+01:28:58.880 --> 01:29:03.960
+Ankit Shukla: Whoever wins, is going to be something that I'm going to keep for a longer period of time.
+
+781
+01:29:04.230 --> 01:29:14.239
+Ankit Shukla: So this is simple A-B testing, and apart from A-B testing, there are multiple other metrics that you will measure that we'll talk about in the analytics section, and then you will get the data. Now, after getting the data, what will happen?
+
+782
+01:29:16.160 --> 01:29:18.270
+Ankit Shukla: Now, after getting the data, what will happen?
+
+783
+01:29:18.550 --> 01:29:24.260
+Ankit Shukla: We will, again, pick up more ideas. We will keep our eyes and ears open for everything.
+
+784
+01:29:24.410 --> 01:29:26.049
+Ankit Shukla: Again, we will validate.
+
+785
+01:29:26.340 --> 01:29:37.299
+Ankit Shukla: Put the problem, solution, understand the problem well, validate the problem, look at the solution's feasibility and creativity, then we will go to prioritize, understand the trade-offs, then we will create a product roadmap.
+
+786
+01:29:37.480 --> 01:29:43.640
+Ankit Shukla: detailed PRD, product backlog, and then the sprint, and then go to market, and then again.
+
+787
+01:29:43.820 --> 01:29:53.580
+Ankit Shukla: So this part will never stop. That is why it is called as continuous… product, development.
+
+788
+01:29:55.220 --> 01:29:57.270
+Ankit Shukla: It is not static, it will go on.
+
+789
+01:29:57.560 --> 01:30:02.200
+Ankit Shukla: And based on the feedback that you get from people, your roadmap will change.
+
+790
+01:30:02.670 --> 01:30:05.300
+Ankit Shukla: It's not… understand every roadmap changes.
+
+791
+01:30:07.320 --> 01:30:11.420
+Ankit Shukla: Right? But you should always have a logic of why you are changing the roadmap.
+
+792
+01:30:14.860 --> 01:30:22.209
+Ankit Shukla: Okay, everyone, tell me on a scale of 1 to 5, you're able to understand the whole PDLC, product development lifecycle, or product management lifecycle.
+
+793
+01:30:37.890 --> 01:30:42.280
+Ankit Shukla: Yes. End of cycle and everything, guys, we are going to talk about this, but later.
+
+794
+01:30:44.850 --> 01:30:45.740
+Ankit Shukla: Yes.
+
+795
+01:30:46.810 --> 01:30:47.780
+Ankit Shukla: No.
+
+796
+01:30:48.320 --> 01:30:49.590
+Ankit Shukla: We have this, okay?
+
+797
+01:30:50.520 --> 01:30:52.109
+Ankit Shukla: Now, what we also do is…
+
+798
+01:30:57.510 --> 01:30:58.260
+Ankit Shukla: Yes.
+
+799
+01:31:08.590 --> 01:31:09.470
+Ankit Shukla: No?
+
+800
+01:31:10.680 --> 01:31:19.899
+Ankit Shukla: There are some questions that I'm going to answer in a moment. I know you guys have questions, I'll answer them in a moment, but let me just go ahead and take 10 more minutes in order to cover some important points, okay?
+
+801
+01:31:20.200 --> 01:31:21.230
+Ankit Shukla: So now.
+
+802
+01:31:25.280 --> 01:31:29.010
+Ankit Shukla: This particular part, this part.
+
+803
+01:31:32.110 --> 01:31:35.429
+Ankit Shukla: Till where we are creating a product roadmap.
+
+804
+01:31:37.310 --> 01:31:39.350
+Ankit Shukla: This part is called as…
+
+805
+01:31:45.140 --> 01:31:49.290
+Ankit Shukla: This part is called as… Product discovery.
+
+806
+01:31:53.180 --> 01:31:55.120
+Ankit Shukla: This part is called as product discovery.
+
+807
+01:31:57.560 --> 01:31:59.060
+Ankit Shukla: The second part.
+
+808
+01:31:59.520 --> 01:32:10.309
+Ankit Shukla: Where you are working with the team in order to create the product, like creating the detailed documentation, backlog, working with designers, developers, and other executors.
+
+809
+01:32:10.450 --> 01:32:12.209
+Ankit Shukla: This part is called as…
+
+810
+01:32:17.700 --> 01:32:19.890
+Ankit Shukla: product, delivery.
+
+811
+01:32:23.350 --> 01:32:24.220
+Ankit Shukla: Right?
+
+812
+01:32:24.480 --> 01:32:26.119
+Ankit Shukla: And the third part.
+
+813
+01:32:31.370 --> 01:32:37.030
+Ankit Shukla: This third part, where you launch the product to the customers, It's called as…
+
+814
+01:32:43.030 --> 01:32:44.680
+Ankit Shukla: product distribution.
+
+815
+01:32:51.460 --> 01:32:54.460
+Ankit Shukla: So, product, discovery, delivery, distribution.
+
+816
+01:32:55.380 --> 01:33:00.940
+Ankit Shukla: Okay, now there is a big… I would say… Confusion in everyone, that
+
+817
+01:33:01.490 --> 01:33:03.930
+Ankit Shukla: Are the product managers supposed to do everything?
+
+818
+01:33:04.590 --> 01:33:09.989
+Ankit Shukla: Or do we only need to focus on few things? Okay, so now it depends upon
+
+819
+01:33:10.500 --> 01:33:14.979
+Ankit Shukla: It depends upon company to company and context to context. Okay.
+
+820
+01:33:15.090 --> 01:33:18.050
+Ankit Shukla: If you talk about me, like, ideally what happens is.
+
+821
+01:33:20.240 --> 01:33:24.219
+Ankit Shukla: Ideally, what happens is, this particular part of discovery
+
+822
+01:33:24.650 --> 01:33:29.869
+Ankit Shukla: Is the most important responsibility of our product managers.
+
+823
+01:33:31.680 --> 01:33:32.460
+Ankit Shukla: Night.
+
+824
+01:33:32.660 --> 01:33:40.000
+Ankit Shukla: If you want to understand that where you should spend time, where you have the biggest leverage, that is in understanding the product discovery.
+
+825
+01:33:40.410 --> 01:33:43.169
+Ankit Shukla: Which will be the focus of this particular course.
+
+826
+01:33:44.440 --> 01:33:53.549
+Ankit Shukla: Right? In many companies, The delivery part of prioritizing stuff, managing backlog, working with people.
+
+827
+01:33:53.790 --> 01:34:00.070
+Ankit Shukla: It is generally given to someone known as… a product owner.
+
+828
+01:34:00.230 --> 01:34:03.009
+Ankit Shukla: And sometimes also a project manager.
+
+829
+01:34:05.690 --> 01:34:12.960
+Ankit Shukla: But in many companies, you will still find that they don't have a product owner, so product manager is doing all this stuff. So it depends on company to company.
+
+830
+01:34:13.800 --> 01:34:14.590
+Ankit Shukla: Right?
+
+831
+01:34:14.830 --> 01:34:18.839
+Ankit Shukla: If you think you are getting overwhelmed with all of this work.
+
+832
+01:34:19.020 --> 01:34:22.560
+Ankit Shukla: You should always focus and prioritize your time on discovery.
+
+833
+01:34:23.500 --> 01:34:27.200
+Ankit Shukla: Right? If you find good features in discovery, then focus on their execution.
+
+834
+01:34:27.600 --> 01:34:29.350
+Ankit Shukla: And the third part is this.
+
+835
+01:34:29.680 --> 01:34:31.119
+Ankit Shukla: the product distribution.
+
+836
+01:34:31.520 --> 01:34:36.460
+Ankit Shukla: Ideally, a product manager should play an important role in product distribution, because this is important.
+
+837
+01:34:36.920 --> 01:34:40.039
+Ankit Shukla: Many product managers I have seen make this critical mistake.
+
+838
+01:34:40.160 --> 01:34:45.110
+Ankit Shukla: That… They do not focus on product distribution. They think that I have created the product.
+
+839
+01:34:45.270 --> 01:34:49.810
+Ankit Shukla: Now it is the responsibility of the sales and marketing team to take it in the market. No.
+
+840
+01:34:50.020 --> 01:34:55.520
+Ankit Shukla: You have the most understanding about the users. You should also play a role in helping them out.
+
+841
+01:34:56.030 --> 01:35:03.319
+Ankit Shukla: Right? And what happens in companies is… They have created dedicated teams Called as growth.
+
+842
+01:35:05.660 --> 01:35:08.540
+Ankit Shukla: Or product marketing teams.
+
+843
+01:35:10.130 --> 01:35:13.880
+Ankit Shukla: Growth or product marketing teams that take this particular thing.
+
+844
+01:35:14.190 --> 01:35:17.879
+Ankit Shukla: But understand, everyone, For this whole process.
+
+845
+01:35:18.610 --> 01:35:23.310
+Ankit Shukla: If you want to make your product successful and achieve the business outcomes, which is
+
+846
+01:35:24.780 --> 01:35:30.359
+Ankit Shukla: I've told you this first principle, like, that as a PM, you need to solve user problems and achieve business outcomes.
+
+847
+01:35:31.200 --> 01:35:40.839
+Ankit Shukla: This can never be done if you are not involving yourself in all the three things. Yes, you can delegate work, but in the end, you are responsible and accountable for the same.
+
+848
+01:35:42.330 --> 01:35:48.689
+Ankit Shukla: Okay, so if this is done, then everything is done, and it cannot be done without involving yourself at multiple places.
+
+849
+01:35:49.590 --> 01:35:56.490
+Ankit Shukla: Okay, so confusion between Product owner, project manager, and product manager, I think, is finished.
+
+850
+01:35:56.690 --> 01:36:02.529
+Ankit Shukla: That, as your job as a product manager, is to focus on building a successful product.
+
+851
+01:36:03.540 --> 01:36:09.059
+Ankit Shukla: Focus on discovery. Make sure that you are helping the right people during the delivery and the distribution phase.
+
+852
+01:36:09.530 --> 01:36:21.170
+Ankit Shukla: Okay, but generally, if you're a product owner, your major work is defined during the delivery phase. How do you get the requirements? How do you break them down into tasks? How do you go ahead and take it ahead?
+
+853
+01:36:23.760 --> 01:36:27.130
+Ankit Shukla: Right? A quick yes or no, everyone, if you're able to understand this.
+
+854
+01:36:33.630 --> 01:36:37.480
+Ankit Shukla: Yes. Now, there are some nuances that I've left in between.
+
+855
+01:36:37.980 --> 01:36:39.860
+Ankit Shukla: Okay, now look at this.
+
+856
+01:36:40.900 --> 01:36:52.240
+Ankit Shukla: Understand, All the research and validation All the research and validation, cannot happen.
+
+857
+01:36:53.410 --> 01:36:55.709
+Ankit Shukla: Just by talking to the users.
+
+858
+01:36:55.900 --> 01:37:01.040
+Ankit Shukla: Here, I have told you that you will look at the business goals, you will talk to the users, you will understand, you will do the market research.
+
+859
+01:37:01.320 --> 01:37:02.789
+Ankit Shukla: But it is not possible.
+
+860
+01:37:03.500 --> 01:37:08.190
+Ankit Shukla: Right? For simple ideas, you can test it by talking to the users conducting surveys.
+
+861
+01:37:08.380 --> 01:37:14.859
+Ankit Shukla: But for some ideas, You actually have to validate by launching a small feature.
+
+862
+01:37:16.820 --> 01:37:21.769
+Ankit Shukla: Right? So what we do is, we have to create something called as
+
+863
+01:37:23.160 --> 01:37:30.620
+Ankit Shukla: We have to create something called as… Experiments, or prototypes.
+
+864
+01:37:31.030 --> 01:37:33.030
+Ankit Shukla: So, experiment and prototypes.
+
+865
+01:37:33.260 --> 01:37:51.370
+Ankit Shukla: They will validate it quickly. You can create some simple features. They are not, let's say, very finished features, not very, I would say, very highly designed features, but they are created quickly to understand whether this problem exists or whether this idea is needed. So what you will do is you will create small feedback loops. So.
+
+866
+01:37:52.180 --> 01:37:53.680
+Ankit Shukla: Here, you will cut it.
+
+867
+01:37:54.130 --> 01:38:02.309
+Ankit Shukla: You will talk with few developers, or maybe you will use some AI tools by yourself, and then you will ship it to the users as soon as possible. Maybe to few set of users.
+
+868
+01:38:02.580 --> 01:38:07.129
+Ankit Shukla: Then you get the validation, then you can again make sure that this is validated.
+
+869
+01:38:08.160 --> 01:38:15.929
+Ankit Shukla: Right? So these kind of small loops are going to be created. You can call it an MVP, an experiment, a prototype, you can call it everything.
+
+870
+01:38:16.310 --> 01:38:19.649
+Ankit Shukla: But, understand the purpose. Now, one more important thing, guys.
+
+871
+01:38:21.040 --> 01:38:25.370
+Ankit Shukla: The… Terminology in product management can be confusing.
+
+872
+01:38:25.750 --> 01:38:32.309
+Ankit Shukla: somebody loves to call it MVP. Now, somebody wants to create their own, let's say,
+
+873
+01:38:32.620 --> 01:38:38.129
+Ankit Shukla: Somebody wants to create their own terminology, so they will call it, most lovable product or something.
+
+874
+01:38:38.520 --> 01:38:41.319
+Ankit Shukla: Please do not focus on terminology.
+
+875
+01:38:41.910 --> 01:38:51.830
+Ankit Shukla: focus on the purpose. The purpose of an MVP experiment or prototype is to make sure that you are able to validate, is this idea
+
+876
+01:38:52.020 --> 01:38:54.820
+Ankit Shukla: helpful for the users or not. That's it.
+
+877
+01:38:57.630 --> 01:39:02.460
+Ankit Shukla: Okay, so there are going to be multiple loops over here, and also understand.
+
+878
+01:39:03.110 --> 01:39:06.020
+Ankit Shukla: That, once you are creating the product roadmap.
+
+879
+01:39:07.000 --> 01:39:15.520
+Ankit Shukla: When you present the product roadmap to your stakeholders, such as engineers, designers, senior people, leadership, then also.
+
+880
+01:39:15.990 --> 01:39:18.149
+Ankit Shukla: They are also subject matter experts.
+
+881
+01:39:18.500 --> 01:39:23.640
+Ankit Shukla: So they can also give you some kind of feedback. So you should always be open to go back.
+
+882
+01:39:24.580 --> 01:39:27.289
+Ankit Shukla: do more research, and then come back. This will happen.
+
+883
+01:39:29.900 --> 01:39:33.060
+Ankit Shukla: Okay, understand, it's very difficult to do things
+
+884
+01:39:33.210 --> 01:39:37.710
+Ankit Shukla: After you have launched them. So try to make these loops as soon as possible.
+
+885
+01:39:44.720 --> 01:39:50.050
+Ankit Shukla: Okay? Yes, everyone, on a scale of 1 to 5, how were you able to understand everything so far?
+
+886
+01:39:55.650 --> 01:40:02.389
+Ankit Shukla: Yes. So, how do you choose people from whom to get the feedback? That will be covered next week when I talk about user research.
+
+887
+01:40:08.520 --> 01:40:09.260
+Ankit Shukla: Yes.
+
+888
+01:40:09.990 --> 01:40:15.159
+Ankit Shukla: So, guys, A-B testing… It's done with real users.
+
+889
+01:40:15.630 --> 01:40:21.250
+Ankit Shukla: Some users you send on A version, some users you send on B version. It is done in production.
+
+890
+01:40:22.640 --> 01:40:28.270
+Ankit Shukla: But alpha and beta testing is done with some set of users which you are already knowing of.
+
+891
+01:40:35.580 --> 01:40:43.149
+Ankit Shukla: Yes. So, Samia, you'll have to repeat the session, like, revise the session again in order to get this answer. We have given enough time to this.
+
+892
+01:40:44.120 --> 01:40:48.050
+Ankit Shukla: Yes, and guys, there is also one more important question, that whether
+
+893
+01:40:48.430 --> 01:40:52.079
+Ankit Shukla: A-B testing can be done in B2B scenarios, or only in B2C scenarios.
+
+894
+01:40:52.600 --> 01:40:54.610
+Ankit Shukla: That will be discussed in the next session.
+
+895
+01:40:54.770 --> 01:40:57.319
+Ankit Shukla: I'll go ahead and discuss it in detail, it's a very important question.
+
+896
+01:41:00.050 --> 01:41:00.920
+Ankit Shukla: Okay.
+
+897
+01:41:01.030 --> 01:41:06.450
+Ankit Shukla: So, this is it. This is the product development cycle.
+
+898
+01:41:06.800 --> 01:41:07.640
+Ankit Shukla: Okay.
+
+899
+01:41:09.050 --> 01:41:12.919
+Ankit Shukla: Yes, this is the product development cycle that we offer. Okay.
+
+900
+01:41:13.060 --> 01:41:13.960
+Ankit Shukla: Nope!
+
+901
+01:41:17.710 --> 01:41:19.120
+Ankit Shukla: What we'll do is…
+
+902
+01:41:26.860 --> 01:41:27.630
+Ankit Shukla: Yes.
+
+903
+01:41:33.490 --> 01:41:40.029
+Ankit Shukla: Now, let me give you… One small case study, then we will move forward with the question and answers.
+
+904
+01:41:40.270 --> 01:41:41.030
+Ankit Shukla: Okay.
+
+905
+01:41:47.500 --> 01:41:48.350
+Ankit Shukla: So…
+
+906
+01:41:49.520 --> 01:41:55.119
+Ankit Shukla: What was the last time when you people have used Facebook? Tell me in the chat, what was the last time when you have used Facebook?
+
+907
+01:42:00.250 --> 01:42:03.529
+Ankit Shukla: 2019, 5 years ago, 5 years ago, 2019.
+
+908
+01:42:04.270 --> 01:42:06.370
+Ankit Shukla: 4 years back, 2-3 years back, yes.
+
+909
+01:42:07.950 --> 01:42:11.130
+Ankit Shukla: Cool, we have a lot of diversity in this cohort, it looks like.
+
+910
+01:42:14.360 --> 01:42:21.300
+Ankit Shukla: Yes, guys, don't confuse yourself with UAT and these kind of things. We are going to cover them in detail later on. Don't confuse yourself.
+
+911
+01:42:22.580 --> 01:42:23.370
+Ankit Shukla: Yes.
+
+912
+01:42:26.600 --> 01:42:27.310
+Ankit Shukla: Cool.
+
+913
+01:42:28.800 --> 01:42:29.580
+Ankit Shukla: Yes.
+
+914
+01:42:29.920 --> 01:42:37.969
+Ankit Shukla: So, right now, Facebook has successfully moved away from Facebook to Instagram and WhatsApp and other platforms, okay?
+
+915
+01:42:39.550 --> 01:42:43.549
+Ankit Shukla: When Facebook was created, in 2004.
+
+916
+01:42:44.650 --> 01:42:48.300
+Ankit Shukla: They did really well. A lot of people are signing up, and it became a successful product.
+
+917
+01:42:48.480 --> 01:42:49.930
+Ankit Shukla: Almost instantly.
+
+918
+01:42:50.980 --> 01:42:59.680
+Ankit Shukla: But in around 2006, to 2010, They started facing a problem.
+
+919
+01:43:01.090 --> 01:43:04.000
+Ankit Shukla: The problem was, this…
+
+920
+01:43:18.840 --> 01:43:19.650
+Ankit Shukla: Okay.
+
+921
+01:43:19.780 --> 01:43:25.409
+Ankit Shukla: So, people will sign up on the platform. So, on day one, there will be a lot of people who have signed up.
+
+922
+01:43:25.780 --> 01:43:31.839
+Ankit Shukla: But as we go ahead, People will stop using the platform, and they will not come back.
+
+923
+01:43:32.760 --> 01:43:35.920
+Ankit Shukla: So, let's say… Today, 100 people have joined.
+
+924
+01:43:36.480 --> 01:43:39.160
+Ankit Shukla: Tomorrow, out of them, maybe only 80 will come.
+
+925
+01:43:39.440 --> 01:43:43.820
+Ankit Shukla: After that, 60 will come. After that, 20 will come, and then it will reduce.
+
+926
+01:43:47.090 --> 01:43:47.870
+Ankit Shukla: Right?
+
+927
+01:43:49.070 --> 01:43:53.670
+Ankit Shukla: So, retention… was poor.
+
+928
+01:43:57.600 --> 01:43:59.719
+Ankit Shukla: Right? So people were not coming back.
+
+929
+01:44:00.290 --> 01:44:06.120
+Ankit Shukla: And they tried to do a lot of things. They tried to, improve the platform, did more content, and…
+
+930
+01:44:06.630 --> 01:44:10.769
+Ankit Shukla: They started partnering with multiple people. They did a lot of stuff in order to do this stuff.
+
+931
+01:44:11.000 --> 01:44:12.100
+Ankit Shukla: Okay.
+
+932
+01:44:12.240 --> 01:44:18.289
+Ankit Shukla: So, they also manage all that product development lifecycle, they try to listen to everyone and everything that can happen.
+
+933
+01:44:18.800 --> 01:44:24.459
+Ankit Shukla: And eventually, One of their data person was able to find one insight.
+
+934
+01:44:26.100 --> 01:44:36.679
+Ankit Shukla: That insight was… That people who are able to get to 10 friends, In 7 days.
+
+935
+01:44:40.880 --> 01:44:46.020
+Ankit Shukla: have better… retention rates.
+
+936
+01:44:48.170 --> 01:44:49.300
+Ankit Shukla: So, people…
+
+937
+01:44:49.970 --> 01:44:57.539
+Ankit Shukla: Who are getting to 10 friends in 7 days, who are able to make 10 friends in 7 days, are able to get
+
+938
+01:44:57.960 --> 01:45:00.370
+Ankit Shukla: Are more likely to come to the platform.
+
+939
+01:45:01.610 --> 01:45:04.930
+Ankit Shukla: Right? So you are acquiring the users, that's very good.
+
+940
+01:45:05.800 --> 01:45:08.870
+Ankit Shukla: But you are not able to have retention of the moves.
+
+941
+01:45:10.380 --> 01:45:12.109
+Ankit Shukla: And the problem is happening?
+
+942
+01:45:13.600 --> 01:45:16.819
+Ankit Shukla: That you are not able to activate the users.
+
+943
+01:45:18.970 --> 01:45:20.729
+Ankit Shukla: Right? Activation means?
+
+944
+01:45:20.870 --> 01:45:36.729
+Ankit Shukla: Users are not actually doing the critical access on the product, which is adding the friends. Okay, so by doing that data analysis, they were able to find this particular data. Can you guys tell me, why is that the reason? Why are people who make more friends are more likely to come to the platform? Tell me in the chat, please.
+
+945
+01:45:51.700 --> 01:45:52.530
+Ankit Shukla: Yes.
+
+946
+01:45:53.050 --> 01:46:00.510
+Ankit Shukla: Very good, very good, everyone. So… once, You know that, yes, These are the people.
+
+947
+01:46:00.820 --> 01:46:02.350
+Ankit Shukla: whom I can connect with.
+
+948
+01:46:02.610 --> 01:46:14.489
+Ankit Shukla: now you have more resources to come back. You can chat, you can maybe stock their profiles, you can write on their walls, they can connect with you, you can comment, your post will have more likes, these kind of things.
+
+949
+01:46:14.920 --> 01:46:19.350
+Ankit Shukla: Right? So… More people bring more retention.
+
+950
+01:46:19.910 --> 01:46:21.459
+Ankit Shukla: So now what they did was…
+
+951
+01:46:21.940 --> 01:46:24.749
+Ankit Shukla: They understood that we have to do something from this.
+
+952
+01:46:25.210 --> 01:46:27.580
+Ankit Shukla: So they experimented with a lot of ideas.
+
+953
+01:46:28.300 --> 01:46:33.759
+Ankit Shukla: Okay, and eventually, they settled on an idea which is still live on Facebook today.
+
+954
+01:46:34.350 --> 01:46:41.700
+Ankit Shukla: That feature is… people… you… may know.
+
+955
+01:46:43.520 --> 01:46:44.919
+Ankit Shukla: So what they did was.
+
+956
+01:46:45.280 --> 01:46:48.869
+Ankit Shukla: When you sign up on Facebook, they will ask you of what was your college.
+
+957
+01:46:49.250 --> 01:46:52.589
+Ankit Shukla: And in which year have you completed your particular education?
+
+958
+01:46:53.170 --> 01:47:01.480
+Ankit Shukla: And based on that, they will understand who are your friends in college, in school, and then when you go to the Facebook platform, you will see suggestions.
+
+959
+01:47:01.670 --> 01:47:08.840
+Ankit Shukla: And these people will give you an instant moment of nostalgia, that I know all of these people, and then I can go ahead and connect with them.
+
+960
+01:47:09.290 --> 01:47:16.819
+Ankit Shukla: Okay, so they were able to generate data and convert into a very good behavioral insight, and then they were able to improve the platform.
+
+961
+01:47:19.320 --> 01:47:21.400
+Ankit Shukla: Right? So this is what they have done.
+
+962
+01:47:22.560 --> 01:47:23.869
+Ankit Shukla: Look at this graph.
+
+963
+01:47:24.120 --> 01:47:32.100
+Ankit Shukla: Initially, People who have less than 7 friends have this kind of graph, more downfall?
+
+964
+01:47:32.270 --> 01:47:37.169
+Ankit Shukla: But people who have more than 7 friends are more likely to stick to the platform. Look at this.
+
+965
+01:47:37.650 --> 01:47:39.069
+Ankit Shukla: Look at the distance.
+
+966
+01:47:40.500 --> 01:47:41.290
+Ankit Shukla: Right?
+
+967
+01:47:41.900 --> 01:47:42.780
+Ankit Shukla: Nope!
+
+968
+01:47:42.970 --> 01:47:44.330
+Ankit Shukla: This is the structure.
+
+969
+01:47:44.740 --> 01:47:47.510
+Ankit Shukla: They understood there is low activation and retention.
+
+970
+01:47:47.910 --> 01:47:52.899
+Ankit Shukla: They found in research that people with 7 friends in 10 days have more retention.
+
+971
+01:47:53.220 --> 01:47:55.219
+Ankit Shukla: Then they build a hypothesis.
+
+972
+01:47:55.440 --> 01:48:04.869
+Ankit Shukla: that people are not connecting because people are not connecting with enough people, and we need to get more relevant people to connect. Understand, you cannot connect people with random people.
+
+973
+01:48:05.120 --> 01:48:09.830
+Ankit Shukla: They will start having conversation for some time, but then they will not have this conversation.
+
+974
+01:48:10.470 --> 01:48:11.829
+Ankit Shukla: Right? And then…
+
+975
+01:48:12.390 --> 01:48:18.320
+Ankit Shukla: What are the solutions? They created two solutions. One is home feed. So, if you are connected to people, and if you are
+
+976
+01:48:18.520 --> 01:48:24.529
+Ankit Shukla: Logging into Facebook, right now, initially, what used to happen was, you have to go to their profile in order to check what they are doing.
+
+977
+01:48:24.800 --> 01:48:29.359
+Ankit Shukla: But then they created a home feed where everything would be connected, and then they can get everything on one platform.
+
+978
+01:48:30.100 --> 01:48:31.720
+Ankit Shukla: Okay, and then…
+
+979
+01:48:31.870 --> 01:48:39.540
+Ankit Shukla: people you may know, which is what I've already explained to you. Right now, they have expended people you may know to such an extent
+
+980
+01:48:40.370 --> 01:48:46.739
+Ankit Shukla: that… If… Someone, like a plumber or electrician, comes to your house.
+
+981
+01:48:46.960 --> 01:48:55.320
+Ankit Shukla: If they save your number, you save their number. That goes into your contact book, and next day, you are going to see that they are suggested to you as a friend on Facebook.
+
+982
+01:48:55.970 --> 01:49:05.910
+Ankit Shukla: So now they have penetrated into your social network in order to make sure, or your phone network, to make sure that you are adding more and more people on Facebook. So now they have gone beyond the colleges and everything.
+
+983
+01:49:07.740 --> 01:49:15.600
+Ankit Shukla: Right? So this is one simple example of… Discovery and converting the data into Insights.
+
+984
+01:49:16.470 --> 01:49:19.669
+Ankit Shukla: Right? There are more case studies, but we'll discuss them tomorrow.
+
+985
+01:49:19.890 --> 01:49:21.070
+Ankit Shukla: Right now.
+
+986
+01:49:21.400 --> 01:49:27.050
+Ankit Shukla: Everyone, if you have any kind of questions, you can raise your hands one by one, then I'll try to answer these questions one by one.
+
+987
+01:49:30.540 --> 01:49:33.049
+Ankit Shukla: One by one, you guys can go ahead, and I'll try to.
+
+988
+01:49:34.030 --> 01:49:34.920
+Ankit Shukla: I'm muted.
+
+989
+01:49:38.870 --> 01:49:43.509
+Ankit Shukla: Okay, if you guys have no questions, you can straight away write no in the chat, so that's also okay.
+
+990
+01:49:44.790 --> 01:49:54.469
+Ankit Shukla: Yes, you first have to raise your hands before you could ask the questions. We will not be taking straight questions. You first have to raise your hands so that we are able to manage the acronym of the class. Yes.
+
+991
+01:49:54.660 --> 01:49:56.360
+Ankit Shukla: Soapnell, do you have a question, please go ahead.
+
+992
+01:49:57.410 --> 01:50:14.100
+Swapnil M: Yes. So, there is a confusion, like, you know, whatever we discussed today, that why we are saying that product owner is more closer to the delivery, rather than the discovery, because delivery, as per my experience, delivery has been moreover with the engineering team and the
+
+993
+01:50:14.360 --> 01:50:26.920
+Swapnil M: product managers and the project managers, right? So, product owner… is it not that product owner is somewhere? He will be moreover into the discovery phase, and he will just assist the engineering team to get the work done?
+
+994
+01:50:27.520 --> 01:50:28.720
+Ankit Shukla: Yes, I'll tell you.
+
+995
+01:50:29.020 --> 01:50:32.090
+Ankit Shukla: That is what a product owner tells himself.
+
+996
+01:50:32.310 --> 01:50:44.530
+Ankit Shukla: Okay, so understand, when you look at the bigger picture, when you're connecting to the customers, when you're looking at the analytics, when you're talking to the business leaders, okay, that is real discovery. But understand, in the delivery part also, I can break it down into three parts.
+
+997
+01:50:44.700 --> 01:50:49.670
+Ankit Shukla: I can tell you that in delivery part also, there is some kind of discovery happens when you are prioritizing the roadmap.
+
+998
+01:50:49.790 --> 01:51:04.860
+Ankit Shukla: you are making sure that you are able to prioritize the backlog, you understand what to put, what not to put, okay? That simple part of discovery, I would say discovery or grooming the roadmap can also be considered as a part of the discovery, and then product owner can take. Okay, but the bigger discovery
+
+999
+01:51:05.010 --> 01:51:15.219
+Ankit Shukla: is generally not with the product owner. However, it is based on company context. I have seen many companies where product owner is actually doing the job of a product manager itself.
+
+1000
+01:51:16.050 --> 01:51:20.040
+Ankit Shukla: Okay, so I can go ahead and further divide delivery into two parts.
+
+1001
+01:51:20.150 --> 01:51:23.669
+Ankit Shukla: First is the delivery, where you bring clarity of what to do.
+
+1002
+01:51:23.770 --> 01:51:25.489
+Ankit Shukla: That can be done by product owner.
+
+1003
+01:51:25.730 --> 01:51:32.109
+Ankit Shukla: Second part of delivery is actually going ahead and coding and designing. That delivery is owned by the engineers and designers and other people.
+
+1004
+01:51:33.040 --> 01:51:34.470
+Ankit Shukla: I hope that makes sense, Ome.
+
+1005
+01:51:36.740 --> 01:51:38.420
+Swapnil M: Okay, yep. Thank you.
+
+1006
+01:51:38.760 --> 01:51:40.190
+Ankit Shukla: Yes. Cheers!
+
+1007
+01:51:40.490 --> 01:51:41.720
+Ankit Shukla: You want to go ahead?
+
+1008
+01:51:48.640 --> 01:51:50.760
+Shreyas: I have two questions, Ankit.
+
+1009
+01:51:50.760 --> 01:51:51.330
+Ankit Shukla: Exactly.
+
+1010
+01:51:51.330 --> 01:52:02.689
+Shreyas: So, I want to know exactly… there are two roles, basically. One is the traditional product manager, and there is a role that I interact with is called product management technical.
+
+1011
+01:52:02.820 --> 01:52:09.339
+Shreyas: So, like, why do we need these two roles, like, in case when the engineering teams are available?
+
+1012
+01:52:09.400 --> 01:52:23.319
+Shreyas: So this is the first question, and the second question is, you said in fintech, we generally need SMEs to get the product context more instead of doing the research more. So what was the idea behind that?
+
+1013
+01:52:23.470 --> 01:52:24.040
+Ankit Shukla: Okay.
+
+1014
+01:52:24.920 --> 01:52:30.590
+Ankit Shukla: To answer the first question, which is why there is a need for technical product manager. Okay, so understand.
+
+1015
+01:52:31.150 --> 01:52:32.730
+Ankit Shukla: There are some products.
+
+1016
+01:52:33.390 --> 01:52:40.409
+Ankit Shukla: where engineering plays a very critical role. For example, if you consider any technical products, such as Amazon Web Services.
+
+1017
+01:52:40.510 --> 01:52:42.699
+Ankit Shukla: Postman, OpenAI,
+
+1018
+01:52:43.040 --> 01:52:55.249
+Ankit Shukla: There, a product manager needs to have an hands-on understanding of our product managers, like, of the technology, right? Because it's overly complicated in terms of… overly complex in terms of technology.
+
+1019
+01:52:55.330 --> 01:53:10.200
+Ankit Shukla: So that is why, in those kind of companies, there is someone who interacts more with the engineering team, who will be called as a technical product manager, and for becoming a technical product manager, you need to have some hands-on understanding of how software is being developed and how architectures are created.
+
+1020
+01:53:10.470 --> 01:53:13.800
+Ankit Shukla: Now, in these kind of companies, we generally find a technical product manager.
+
+1021
+01:53:13.950 --> 01:53:20.550
+Ankit Shukla: And a business or a growth product manager. One, the business of the growth product manager takes care of the discovery and the distribution part.
+
+1022
+01:53:20.590 --> 01:53:37.490
+Ankit Shukla: While the technical product manager makes sure that he's able to translate all the good requirements into something that engineers can go ahead and solve. Okay. In many companies, they also don't have a technical product manager, they just have an engineering manager who brings the bridge between the engineering team and the product manager, but it depends from company to company.
+
+1023
+01:53:38.910 --> 01:53:46.589
+Ankit Shukla: Yes? To answer your second question, which is around the regulated sector, such as BFSI, healthcare.
+
+1024
+01:53:46.720 --> 01:53:50.120
+Ankit Shukla: There, what happens is, there are so many regulations.
+
+1025
+01:53:50.180 --> 01:54:09.710
+Ankit Shukla: Okay, and it's very difficult for a product manager to keep up with them, so what we do is, when I was working at this company called IND Money, which was very heavily regulated because we were selling US equities and Indian mutual funds and stocks, so what used to happen was we have a team of subject matter experts, which were CAs, lawyers, CS, and financial analysts.
+
+1026
+01:54:09.710 --> 01:54:23.269
+Ankit Shukla: Where, whenever we go ahead and launch any feature or do something, I'll go ahead and talk to them to understand whether we are in the guardrails of the regulations. So, in some fields where there are too many regulations and they are too important to follow, we tend to go ahead and take help from subject matter experts.
+
+1027
+01:54:25.930 --> 01:54:30.359
+Shreyas: Okay, thanks. No, it was enough. I got clarity, thank you.
+
+1028
+01:54:31.080 --> 01:54:33.099
+Ankit Shukla: Yes, Prasad, you have a question, please go ahead.
+
+1029
+01:54:38.710 --> 01:54:50.439
+Prasad Munaga | App Developer: Yeah, hi. Is there any specific framework which encompasses all these into together so that, we can see, predictability in our deliverables?
+
+1030
+01:54:51.570 --> 01:54:57.179
+Ankit Shukla: Okay, so the framework that I've given you, although there is no name to this framework, okay, but generally.
+
+1031
+01:54:59.310 --> 01:55:03.450
+Ankit Shukla: you can divide things into… so, I have given you a high-level framework.
+
+1032
+01:55:03.530 --> 01:55:04.670
+Prasad Munaga | App Developer: Okay, which is…
+
+1033
+01:55:05.050 --> 01:55:07.340
+Ankit Shukla: Discovery, delivery, and distribution.
+
+1034
+01:55:08.250 --> 01:55:27.819
+Ankit Shukla: In the coming parts, we are going to make sure that we are going into details of each and every part so that you understand it better, but at a high level, this is the framework. There is no proper naming to this framework, but this is the framework. People in other companies, such as people who have created Safe, Agile and everything, they have tried to do this, but understand what happens is, it becomes too complicated.
+
+1035
+01:55:28.040 --> 01:55:30.760
+Ankit Shukla: My suggestion is that always start simple.
+
+1036
+01:55:30.880 --> 01:55:34.050
+Ankit Shukla: Only 3Ds. Discovery, delivery, and distribution.
+
+1037
+01:55:34.560 --> 01:55:38.319
+Ankit Shukla: And then try to understand your point, and then try to expand as much as possible.
+
+1038
+01:55:38.480 --> 01:55:42.510
+Ankit Shukla: Okay, if you try to learn too many things at once, it becomes difficult, so there is…
+
+1039
+01:55:42.760 --> 01:55:50.280
+Ankit Shukla: No, I would say, a rigid framework that you need to follow. Understand the concept, and then, like, understand the context, and then adopt as per your own needs.
+
+1040
+01:55:51.090 --> 01:56:06.360
+Prasad Munaga | App Developer: Okay, that's one. Second question is, role of the PM if the GRC has, GDP, GDPR, DPDP coming into India picture, okay? What would be the possible role for the PM?
+
+1041
+01:56:06.690 --> 01:56:08.989
+Ankit Shukla: Yes. So, PM… so, to…
+
+1042
+01:56:09.100 --> 01:56:11.040
+Ankit Shukla: Set everyone on the same page.
+
+1043
+01:56:11.740 --> 01:56:22.539
+Ankit Shukla: GDPR and other kind of requirements or regulations that you need to follow in your product if you want to operate in a particular country, geography, or in a particular thing, right?
+
+1044
+01:56:23.130 --> 01:56:29.420
+Ankit Shukla: So here, what happens is… You need to make sure that you have some subject matter experts.
+
+1045
+01:56:29.780 --> 01:56:32.810
+Ankit Shukla: Who know about these things, or you have to get the knowledge by yourself?
+
+1046
+01:56:33.210 --> 01:56:36.659
+Ankit Shukla: Then you need to make sure that you are creating frameworks. So what happens is.
+
+1047
+01:56:37.460 --> 01:56:40.020
+Ankit Shukla: When I was working at this company called IND Marine.
+
+1048
+01:56:40.480 --> 01:56:41.250
+Prasad Munaga | App Developer: Hmm.
+
+1049
+01:56:41.250 --> 01:56:44.939
+Ankit Shukla: We were also starting to give personal loans to people.
+
+1050
+01:56:45.550 --> 01:56:45.930
+Prasad Munaga | App Developer: Okay.
+
+1051
+01:56:45.930 --> 01:56:51.410
+Ankit Shukla: Now, when you want to give personal loans, there is a set of criteria that you need to follow.
+
+1052
+01:56:51.600 --> 01:56:54.850
+Ankit Shukla: Before you update your app on the Play Store or the App Store.
+
+1053
+01:56:55.320 --> 01:56:59.219
+Ankit Shukla: And they have mentioned that you have to mention all your description in this particular way.
+
+1054
+01:56:59.590 --> 01:57:03.490
+Prasad Munaga | App Developer: So my responsibility was that I have to create this in the form of checklist.
+
+1055
+01:57:03.940 --> 01:57:09.390
+Ankit Shukla: Before anyone is making this live, I have to check the app whether they have followed these guidelines.
+
+1056
+01:57:09.500 --> 01:57:19.339
+Ankit Shukla: And then they are putting the description in this format, okay? Then it would be then audited by a legal member to make sure that everything is at the place. So, as a product manager, what you need to do is.
+
+1057
+01:57:19.470 --> 01:57:24.980
+Ankit Shukla: You need to first understand the guardrails, either you can do it by yourself, or you can take the help of something other expert.
+
+1058
+01:57:25.740 --> 01:57:32.619
+Ankit Shukla: Then you have to create it together in the form of a checklist, and then you have to put it together before the distribution of the product can happen.
+
+1059
+01:57:32.810 --> 01:57:48.159
+Ankit Shukla: Okay, and apart from this, you also have to put a guardrail that you have to put some email address or some form somewhere, so that if you find that someone has to complain, they should be able to complain to you directly, rather than straight away going to the regulatory body, so that you are able to go ahead and do the calling.
+
+1060
+01:57:48.160 --> 01:57:51.870
+Prasad Munaga | App Developer: Okay. Okay. Put the goggles and the system together so that everything can happen.
+
+1061
+01:57:52.420 --> 01:57:53.260
+Prasad Munaga | App Developer: Okay.
+
+1062
+01:57:54.160 --> 01:57:56.350
+Prasad Munaga | App Developer: Okay. Okay. Thank you.
+
+1063
+01:57:56.520 --> 01:57:58.479
+Ankit Shukla: Yes. Sudesh, you have something to add?
+
+1064
+01:58:00.910 --> 01:58:12.819
+Siddhesh Bhutki: Yeah, actually, hi, thank you. My question is a little basic, it comes in the discovery part only. We create a roadmap, right, at a high-level document. I'm audible?
+
+1065
+01:58:12.820 --> 01:58:14.019
+Ankit Shukla: Yes, you are audible citizens, please go ahead.
+
+1066
+01:58:14.020 --> 01:58:23.509
+Siddhesh Bhutki: we create a roadmap as a high-level document. Then, for the stakeholders to interact with us, and that we are on the same page, we will create a PRD, right?
+
+1067
+01:58:23.940 --> 01:58:24.540
+Ankit Shukla: Yes.
+
+1068
+01:58:25.150 --> 01:58:28.000
+Siddhesh Bhutki: But we also create a backlog, correct?
+
+1069
+01:58:30.240 --> 01:58:40.010
+Siddhesh Bhutki: So, which is… which is a more high-level, sorry, low-level document? Is the PRT the lowest level document that we have, or the backlog?
+
+1070
+01:58:40.200 --> 01:58:41.089
+Ankit Shukla: Okay, I'll tell you.
+
+1071
+01:58:41.430 --> 01:58:44.890
+Ankit Shukla: So understand, the low-level and high-level differentiation.
+
+1072
+01:58:44.890 --> 01:58:45.450
+Siddhesh Bhutki: Yeah.
+
+1073
+01:58:45.450 --> 01:58:51.180
+Ankit Shukla: is between a backlog and a PRD and a backlog, and a… product roadmap.
+
+1074
+01:58:51.440 --> 01:59:06.239
+Ankit Shukla: Product roadmap is high-level, and PRD and backlog both are low-level documents. Okay. In a backlog and PRD, the major difference is that PRD is a sort of a narration. Narration as in that this is one feature, and these are the details of all the features.
+
+1075
+01:59:06.580 --> 01:59:17.139
+Ankit Shukla: But a backlog will just take the tasks from that PRD or user stories from that PRD and put it together. Okay, so understand that, let's say, you want to go ahead and maybe
+
+1076
+01:59:17.360 --> 01:59:19.460
+Ankit Shukla: Build a particular feature.
+
+1077
+01:59:19.650 --> 01:59:30.500
+Ankit Shukla: whatever are the features of that, whatever the task of that feature, whatever are the user insights, whatever the research that you have done, whatever is the release plan, will be mentioned in the PRD.
+
+1078
+01:59:30.970 --> 01:59:34.940
+Ankit Shukla: However, the particular task with the deadlines are going to be
+
+1079
+01:59:35.040 --> 01:59:40.710
+Ankit Shukla: mentioned in the product backlog. So, although they might look like a similar kind of document, but the purpose is different.
+
+1080
+01:59:41.160 --> 01:59:48.610
+Ankit Shukla: Backlog acts more like a to-do list, while PRD serves more like a clarity document, so that everyone is on the same.
+
+1081
+01:59:50.070 --> 01:59:56.999
+Siddhesh Bhutki: So, for execution purposes, backlog is a more… a more important document, in terms of execution.
+
+1082
+01:59:57.000 --> 02:00:05.290
+Ankit Shukla: No, both are important. Without understanding, what will happen is, if you only consider product backlog, people will miss out where everything is connecting together.
+
+1083
+02:00:06.470 --> 02:00:07.979
+Ankit Shukla: Right, so both of one.
+
+1084
+02:00:07.980 --> 02:00:09.500
+Siddhesh Bhutki: Right? It's like a funnel.
+
+1085
+02:00:09.640 --> 02:00:10.569
+Ankit Shukla: Yes, yes, yes.
+
+1086
+02:00:10.570 --> 02:00:11.669
+Siddhesh Bhutki: But both are important.
+
+1087
+02:00:13.380 --> 02:00:15.060
+Siddhesh Bhutki: Right, got it. Thank you.
+
+1088
+02:00:15.060 --> 02:00:17.450
+Ankit Shukla: But first, you'll create a PRD, then you'll create a backlog.
+
+1089
+02:00:18.170 --> 02:00:20.749
+Siddhesh Bhutki: Backlog has more actionable steps, is it?
+
+1090
+02:00:20.750 --> 02:00:21.270
+Ankit Shukla: Correct.
+
+1091
+02:00:21.550 --> 02:00:22.150
+Siddhesh Bhutki: Okay.
+
+1092
+02:00:22.720 --> 02:00:23.560
+Siddhesh Bhutki: Thank you.
+
+1093
+02:00:24.570 --> 02:00:27.580
+Ankit Shukla: Cool. And also understand, guys, if it's a very simple product.
+
+1094
+02:00:27.750 --> 02:00:37.410
+Ankit Shukla: there is only one feature in your product. You might not even have to create a backlog. Why? Because in PRD, everything is mentioned, all the tasks are at one page, so you can just go ahead and start creating it. So when
+
+1095
+02:00:37.630 --> 02:00:48.579
+Ankit Shukla: You ask a startup founder with only 5-10 peoples in their room, they might not be even having a product backlog. They just have a PRD where they write everything, and people pick the task from there. So, things are highly contextual.
+
+1096
+02:00:49.630 --> 02:00:51.359
+Ankit Shukla: Yes. Aman, do you have a question?
+
+1097
+02:00:51.700 --> 02:00:57.029
+Aman Bhardwaj: Yeah, Ankit, I think you covered pretty much in the previous question. My question was very similar, that…
+
+1098
+02:00:57.080 --> 02:01:13.780
+Aman Bhardwaj: Typically, with time constraints, a lot of the times you'll not… somebody will… the teams are not building product backlog, and then you're also using product backlog as, like, the big list of features, right? So, like, in practical scenarios, it's still good to have.
+
+1099
+02:01:13.780 --> 02:01:25.059
+Ankit Shukla: just work with the PR Direct, and PRD could be… Correct, correct, correct, right. So, you don't have to overcomplicate things, because you know a new name now, right? Because you know product backlog, you don't have to create a product backlog, okay?
+
+1100
+02:01:25.230 --> 02:01:31.140
+Ankit Shukla: That is why I'm telling you, rather than focusing on terminology, understand the purpose behind the document.
+
+1101
+02:01:31.740 --> 02:01:34.320
+Ankit Shukla: Right? And then you will go ahead and go in the right direction.
+
+1102
+02:01:34.820 --> 02:01:37.560
+Ankit Shukla: Yes, and also one more thing, guys, okay, very important.
+
+1103
+02:01:38.630 --> 02:01:41.460
+Ankit Shukla: Don't skip backlog, because I told you to do so.
+
+1104
+02:01:41.690 --> 02:01:44.640
+Ankit Shukla: Don't escape backlog because you don't have time to create some, okay.
+
+1105
+02:01:44.840 --> 02:01:46.450
+Ankit Shukla: Talk with your engineers.
+
+1106
+02:01:46.850 --> 02:01:51.540
+Ankit Shukla: Ask them that, boss, is this PRD enough, or you want me to create another checklist as well?
+
+1107
+02:01:51.750 --> 02:01:55.460
+Ankit Shukla: Because it is who they have to go ahead and execute on the same. So.
+
+1108
+02:01:55.840 --> 02:02:00.289
+Ankit Shukla: Focus on the purpose, and then talk to your stakeholders, and then create your own processes.
+
+1109
+02:02:02.100 --> 02:02:07.789
+Ankit Shukla: Right? Don't try to put a hard process down their front. It will not turn out nicely.
+
+1110
+02:02:08.720 --> 02:02:11.109
+Ankit Shukla: Yes, cool. Achana, you have a question, please go ahead.
+
+1111
+02:02:11.110 --> 02:02:25.370
+Archana: Yes. Hello, Ankit. Ankat, now, there is a restructuring happening, because I had attended a, training by… conducted by Silicon Valley product group as well. So there is a…
+
+1112
+02:02:26.800 --> 02:02:44.579
+Archana: they are proposing that we don't need product owners going forward. It will be product manager, and product delivery can be done by the engineers, because they are self-organized, and they know what needs to be delivered, and product manager can have an oversight of that.
+
+1113
+02:02:44.580 --> 02:02:52.110
+Archana: And obviously, for product distribution, we will have a product manager. So, there will be only one role, product
+
+1114
+02:02:52.160 --> 02:02:57.320
+Archana: Manager and owner might be Removed.
+
+1115
+02:02:57.530 --> 02:02:59.940
+Archana: Eventually, going forward.
+
+1116
+02:03:02.550 --> 02:03:04.400
+Ankit Shukla: Okay, what's the question, Arsenal?
+
+1117
+02:03:04.510 --> 02:03:17.349
+Archana: So, is this, being followed, or it's, like, is there a possibility that, we will go do away with product owner, and product manager will be the sole person who will be…
+
+1118
+02:03:17.350 --> 02:03:19.129
+Ankit Shukla: So, Archana, I understand.
+
+1119
+02:03:19.930 --> 02:03:25.999
+Ankit Shukla: That this is, like, what you told, Is a solid view.
+
+1120
+02:03:26.390 --> 02:03:28.150
+Ankit Shukla: But it is an utopian.
+
+1121
+02:03:28.370 --> 02:03:30.600
+Ankit Shukla: That did not meet product owners.
+
+1122
+02:03:30.950 --> 02:03:33.270
+Ankit Shukla: All the work can be done by product managers.
+
+1123
+02:03:33.580 --> 02:03:36.250
+Ankit Shukla: But understand, as the product becomes complex.
+
+1124
+02:03:36.520 --> 02:03:43.170
+Ankit Shukla: Balancing the user research and the delivery and the distribution by one person, It gets too much overwhelming.
+
+1125
+02:03:43.620 --> 02:03:48.730
+Ankit Shukla: So understand, someone has to talk with people, collaborate with people, and get the work done.
+
+1126
+02:03:49.000 --> 02:03:52.839
+Ankit Shukla: Otherwise, what will happen if you focus too much onto discovery.
+
+1127
+02:03:52.950 --> 02:03:54.860
+Ankit Shukla: Then, who will do the execution?
+
+1128
+02:03:55.450 --> 02:04:01.550
+Ankit Shukla: And if you only rely on your engineers to be so good that they are able to go ahead and maybe follow everything.
+
+1129
+02:04:01.680 --> 02:04:16.929
+Ankit Shukla: then generally, you have to have engineers which are very self-motivated, are rock star engineers, where you can go ahead and pay them maybe 2x, 3x, 10x of the salaries out. Okay, so what Silicon Valley product groups put out there is a very valid thought.
+
+1130
+02:04:17.450 --> 02:04:35.880
+Ankit Shukla: But it is limited to particular geographies, which is maybe some selected companies in Bangalore, or some companies going ahead and maybe they are working, operating in the Silicon Valley. Okay, it is a good utopian, which is… it is not practically possible to go ahead and implement with all the kind of companies in the world.
+
+1131
+02:04:36.740 --> 02:04:53.280
+Archana: Yeah, this is happening with the introduction of AI, because what is the thought process behind it? Now, since generative AI is there, half of the work that product owner were doing will be taken care of by Agentic AI agents.
+
+1132
+02:04:53.300 --> 02:05:01.459
+Archana: And, things will be all in place. So this is the thought process they have. With that, they are moving ahead.
+
+1133
+02:05:01.900 --> 02:05:10.809
+Ankit Shukla: Yes. So, but that is a very futuristic point of view, okay? Understand that if someone's job is most affected or taken by AI, it's the developer's job.
+
+1134
+02:05:11.020 --> 02:05:28.069
+Ankit Shukla: Okay, because Karzan and everything is making more… more easier for people to go ahead and maybe do that work, okay? But now we are seeing that engineers are being paid more than ever, because now they are used to create these agentic workflows. Okay, we are going to talk about these nuances, but right now you have to understand that, at least for the near future.
+
+1135
+02:05:28.310 --> 02:05:33.839
+Ankit Shukla: These jobs are not going to go away, because companies will play… take some time to catch up.
+
+1136
+02:05:34.010 --> 02:05:44.629
+Ankit Shukla: But it is a good thought to have in your mind that as a product manager, you need to be a full-stack product manager, which is… who's understanding the discovery, the distribution, and the delivery part all at once.
+
+1137
+02:05:45.080 --> 02:05:46.670
+Archana: Thank you. Thanks, Ankit.
+
+1138
+02:05:46.970 --> 02:05:47.530
+Ankit Shukla: Yes.
+
+1139
+02:05:47.790 --> 02:05:50.489
+Ankit Shukla: Now we can take next question from Ankit. Ankit, you want to go ahead?
+
+1140
+02:05:50.490 --> 02:06:00.910
+Ankit Lohia: Yeah, yeah, very quickly, I think it is a terminology-based question, and we might be covering it later, as you mentioned, during the lecture, but very quickly.
+
+1141
+02:06:01.910 --> 02:06:09.269
+Ankit Lohia: I wanted to understand, you said A-B testing we do on the production, environment in the, like, with the real users.
+
+1142
+02:06:09.340 --> 02:06:10.240
+Ankit Shukla: Yeah. And…
+
+1143
+02:06:10.360 --> 02:06:18.139
+Ankit Lohia: Even beta testing is… It's tested with the external users, but whom we know. Is that correct?
+
+1144
+02:06:18.610 --> 02:06:20.910
+Ankit Shukla: Whom we know as in, you have access to these users.
+
+1145
+02:06:21.160 --> 02:06:27.470
+Ankit Shukla: And, maybe for all of the users, you are not going to do beta testing. You'll pick maybe 5, 10, 10%, 20%.
+
+1146
+02:06:27.960 --> 02:06:28.570
+Ankit Lohia: It'd be…
+
+1147
+02:06:28.570 --> 02:06:34.689
+Ankit Shukla: maybe a part of your beta users. Beta users are people who can go ahead and give you the direct feedback, or you can observe the feedback from these people.
+
+1148
+02:06:35.740 --> 02:06:36.150
+Ankit Lohia: focus.
+
+1149
+02:06:36.150 --> 02:06:38.739
+Disha Goyal: It could be friends and family, right, Ange?
+
+1150
+02:06:38.740 --> 02:06:40.210
+Ankit Shukla: It could be friends and family, yes.
+
+1151
+02:06:40.210 --> 02:06:40.800
+Disha Goyal: Okay.
+
+1152
+02:06:42.000 --> 02:06:48.469
+Ankit Lohia: Oh, okay, okay. So… so beta testing is not for the production environment, but for the UAT environment itself.
+
+1153
+02:06:48.470 --> 02:06:49.479
+Ankit Shukla: For most of them.
+
+1154
+02:06:49.730 --> 02:06:50.900
+Ankit Shukla: Wrong understanding.
+
+1155
+02:06:51.040 --> 02:06:55.899
+Ankit Shukla: Beta users are also your users who are doing it into production level.
+
+1156
+02:06:56.090 --> 02:06:58.920
+Ankit Shukla: Just that feature is not available for everyone.
+
+1157
+02:06:59.220 --> 02:07:04.249
+Ankit Shukla: Okay, for example, on a… when you go ahead and release a Google, like, app on the Play Store.
+
+1158
+02:07:04.640 --> 02:07:07.450
+Ankit Shukla: They give you an option that, do you want to
+
+1159
+02:07:07.580 --> 02:07:21.690
+Ankit Shukla: subscribe few people as beta users, then some people can choose that I want to be a beta user, so that they get first, let's say, first releases whenever they are launched, and then once you go ahead and take the product out of the beta, beta launch, everyone can go ahead and use that feature.
+
+1160
+02:07:22.720 --> 02:07:25.689
+Ankit Lohia: Understood. Understood. Now I got it. Thanks.
+
+1161
+02:07:25.860 --> 02:07:33.970
+Ankit Shukla: Now, guys, before I could take more questions, it is my request to everyone that police… Take 2 minutes.
+
+1162
+02:07:34.450 --> 02:07:36.460
+Ankit Shukla: In order to fill up this feedback form.
+
+1163
+02:07:36.590 --> 02:07:50.900
+Ankit Shukla: Okay, after that, I'll just give you 2 minutes break, so that we are able to take all the questions. So please go ahead. I've put a form in the chat. It is mandatory for everyone to fill the feedback form. Only with your feedback, we are able to understand how you are learning, so that we are able to improve.
+
+1164
+02:07:51.480 --> 02:07:57.489
+Ankit Shukla: Okay, everyone, please go ahead, take a couple of minutes in order to fill this feedback form. We'll join just in 2 minutes.
+
+1165
+02:09:56.200 --> 02:09:56.990
+Ankit Shukla: Yes.
+
+1166
+02:09:57.500 --> 02:10:00.599
+Ankit Shukla: I hope everyone has filled the feedback form.
+
+1167
+02:10:02.290 --> 02:10:03.180
+Ankit Shukla: Yes.
+
+1168
+02:10:07.850 --> 02:10:10.090
+Ankit Shukla: Let me take more questions, just give me a moment.
+
+1169
+02:10:15.300 --> 02:10:17.640
+Ankit Shukla: Yes. And then, in case guys understand.
+
+1170
+02:10:18.350 --> 02:10:21.500
+Ankit Shukla: Some of you will go through the session recordings.
+
+1171
+02:10:22.320 --> 02:10:25.670
+Ankit Shukla: Then, there are more number of doubts that are going to come.
+
+1172
+02:10:26.200 --> 02:10:41.619
+Ankit Shukla: So, next week, Thursday 7am and Thursday 9pm, we are going to conduct one more session on Q&A, where you can bring all of the questions that you might have. Okay, so even if you cannot ask questions in today's session because there is no question at the top of your mind, feel free to come in that session in order to ask your questions.
+
+1173
+02:10:41.880 --> 02:10:47.250
+Ankit Shukla: Okay, now with that being said, let me ask questions from Anshu. Anju, please go ahead, you have a question.
+
+1174
+02:10:47.690 --> 02:10:48.820
+Ankit Shukla: Anshu Sri Yassan.
+
+1175
+02:10:51.060 --> 02:10:57.549
+Anshu Srivastava: Yeah. So I majorly wanted to ask something around MVP. Am I audible?
+
+1176
+02:10:57.780 --> 02:10:58.989
+Ankit Shukla: Yes, yes, you're audible, Andrew, please go ahead.
+
+1177
+02:10:59.420 --> 02:11:12.970
+Anshu Srivastava: So, is there any specific criteria or a guideline, suppose, of what can be called as an MVP or an experiment? Why I ask this is because I've seen teams spending in, like, 8 to 9 months
+
+1178
+02:11:13.070 --> 02:11:20.299
+Anshu Srivastava: into MVP, like, and calling it an MVP. Though if you're putting in that long efforts, is it still an experiment?
+
+1179
+02:11:21.170 --> 02:11:22.219
+Ankit Shukla: Okay, understood.
+
+1180
+02:11:22.890 --> 02:11:29.730
+Ankit Shukla: Yes, there are certain criterias, which we are going to discuss about in the coming sessions, but one very important criteria is…
+
+1181
+02:11:31.320 --> 02:11:34.870
+Ankit Shukla: Most of the times, the MVP is created.
+
+1182
+02:11:35.320 --> 02:11:38.680
+Ankit Shukla: To validate whether this problem exists or not.
+
+1183
+02:11:38.960 --> 02:11:42.379
+Ankit Shukla: So, when you create a product, you take multiple assumptions.
+
+1184
+02:11:42.800 --> 02:11:47.749
+Ankit Shukla: That whether this particular problem occurs or not, or these kind of things.
+
+1185
+02:11:48.290 --> 02:11:54.219
+Ankit Shukla: So, a general definition of MVP is that it will help you test your most riskiest assumption.
+
+1186
+02:11:55.050 --> 02:11:57.370
+Ankit Shukla: To give you an example, when Airbnb created.
+
+1187
+02:11:57.730 --> 02:11:59.830
+Ankit Shukla: They did not have a payment
+
+1188
+02:12:00.350 --> 02:12:04.120
+Ankit Shukla: Thing to go ahead and conduct, 2…
+
+1189
+02:12:04.870 --> 02:12:07.629
+Ankit Shukla: Yes, they do not have a payment gateway to collect money.
+
+1190
+02:12:08.540 --> 02:12:17.609
+Ankit Shukla: They do not have a map section where you can go ahead and find things as per the map. They just have a simple page, where in New York, you should be able to find 4 or 5 properties with photos and all.
+
+1191
+02:12:17.950 --> 02:12:23.640
+Ankit Shukla: It was an MVP because they wanted to test whether are people okay to host other people at their homes or not.
+
+1192
+02:12:23.860 --> 02:12:30.980
+Ankit Shukla: And when other… while other people are also okay to remain in other people's place or not, for a fractional improvement in price.
+
+1193
+02:12:31.250 --> 02:12:33.139
+Ankit Shukla: Okay, that was an MVP.
+
+1194
+02:12:33.470 --> 02:12:35.350
+Ankit Shukla: They launched it, it worked.
+
+1195
+02:12:35.580 --> 02:12:47.679
+Ankit Shukla: Then they move on to other assumptions. They, again, did more experiments. Okay, so the ideal definition of MBP is anything that you can do quickly, and it helps you test your most riskier assumptions.
+
+1196
+02:12:48.000 --> 02:13:06.729
+Ankit Shukla: Okay. Now, experiment is a different thing. Some experiments are MVPs, but all experiments are not MVPs, because experiment can be used to test everything, whether you are testing the risk assumption, or you are testing a particular feature, or a particular idea. Experiment could be everything. Experiment is a very vague, or a very big, I would say, umbrella.
+
+1197
+02:13:06.990 --> 02:13:11.600
+Ankit Shukla: But some… all MVPs are experiments, but all experiments are not MVPs.
+
+1198
+02:13:11.970 --> 02:13:13.460
+Ankit Shukla: I hope that answers the question, Anju.
+
+1199
+02:13:14.440 --> 02:13:18.300
+Ankit Shukla: Yes? And we'll talk more about MVPs and experiments in the coming sessions.
+
+1200
+02:13:18.680 --> 02:13:20.180
+Anshu Srivastava: Okay, sure. Thanks, Ankit.
+
+1201
+02:13:21.230 --> 02:13:22.660
+Ankit Shukla: Ritu, you have a question?
+
+1202
+02:13:29.010 --> 02:13:29.820
+Ritu Maheshwari: Hello, boys?
+
+1203
+02:13:30.960 --> 02:13:32.360
+Ankit Shukla: Yeah, Ritun, go ahead.
+
+1204
+02:13:33.750 --> 02:13:35.479
+Ankit Shukla: I think you're not audible.
+
+1205
+02:13:37.250 --> 02:13:38.800
+Ritu Maheshwari: Hello, am I not audible?
+
+1206
+02:13:38.800 --> 02:13:40.379
+Ankit Shukla: Now you are audible, yes.
+
+1207
+02:13:41.650 --> 02:13:45.680
+Ritu Maheshwari: So, I have a question that you have mentioned. There are multiple PRDs.
+
+1208
+02:13:47.150 --> 02:14:04.079
+Ritu Maheshwari: So, when we say multiple PRDs, how are we bifurcating those features? Because before this session's understanding, I just had that we have just only one PRD. Now, when we say multiple PRD, what is the bifurcation, and up to which level the bifurcation happens?
+
+1209
+02:14:04.080 --> 02:14:05.879
+Ankit Shukla: Yes. So, understand itu.
+
+1210
+02:14:06.610 --> 02:14:09.310
+Ankit Shukla: The purpose of PRD is to give clarity to your team.
+
+1211
+02:14:09.540 --> 02:14:12.600
+Ankit Shukla: And that can… clarity can be at different levels, okay?
+
+1212
+02:14:12.910 --> 02:14:17.989
+Ankit Shukla: If you have a product, and that product has multiple features, for example, take Instagram.
+
+1213
+02:14:18.370 --> 02:14:20.549
+Ankit Shukla: On Instagram, we have a home feed.
+
+1214
+02:14:20.730 --> 02:14:22.219
+Ankit Shukla: We have a Reels field.
+
+1215
+02:14:22.270 --> 02:14:39.530
+Ankit Shukla: We have a search screen, we have a profile screen. We can consider them as different features, or maybe we can also consider, on profile, there is a bio section, there is a place where all of your content could be seen, there is also maybe a section where all the numbers are mentioned, how many people are following you and all, okay?
+
+1216
+02:14:39.560 --> 02:14:43.779
+Ankit Shukla: you can have PRDs for all of these features individually.
+
+1217
+02:14:44.530 --> 02:15:03.939
+Ankit Shukla: As long as it is not confusing your stakeholders. Okay, some people, if let's say, if it's a new product, day one on Facebook, they would have one PRD. That one PRD is containing everything. But now, as product evolves, they would have PRD for each and every UI element, or each and every experience or the feature in the product.
+
+1218
+02:15:06.160 --> 02:15:14.660
+Ankit Shukla: And how do you bifurcate it? Depends on the context. You should not make too long PRDs. When you think the PRD is becoming too long, you can break it down into parts.
+
+1219
+02:15:15.940 --> 02:15:30.230
+Ritu Maheshwari: So, in product roadmap, you have mentioned goal section, one of the examples which you have shown. So, when I say it has a goal, can I divide those PRDs? I mean, you know, the features over there, and then can I use it in PRDs?
+
+1220
+02:15:30.620 --> 02:15:31.460
+Ankit Shukla: No.
+
+1221
+02:15:31.600 --> 02:15:35.589
+Ankit Shukla: So, understand, There are multiple features that serve the same goal.
+
+1222
+02:15:35.860 --> 02:15:44.890
+Ankit Shukla: For example, if I want to increase the engagement on the platform, I can have, let's say, let's me take again an example of Instagram. If I want to increase the engagement on the platform, like.
+
+1223
+02:15:45.000 --> 02:15:50.180
+Ankit Shukla: people should spend more time, then there are multiple things that I can do in order to achieve the same goals.
+
+1224
+02:15:50.370 --> 02:15:54.410
+Ankit Shukla: So, a better way is to write your PRD at a feature level.
+
+1225
+02:15:56.560 --> 02:16:01.459
+Ankit Shukla: Rather than at a goal level. Multiple PRDs can have our same goal. Multiple features can have a same goal.
+
+1226
+02:16:03.030 --> 02:16:04.310
+Ritu Maheshwari: Okay, thank you.
+
+1227
+02:16:05.360 --> 02:16:06.890
+Ankit Shukla: Yes, Simran, you have a question?
+
+1228
+02:16:08.690 --> 02:16:21.370
+Simran Sharma: Hi, Ankit. I have a question related to MVP. When are those tested? Like, you said that A and B testing is done in the production. It is, like, all the work is done by the developers, but…
+
+1229
+02:16:21.410 --> 02:16:31.449
+Simran Sharma: prototypes are majorly, like, a rough sketch, or, like, a very raw idea of your product. So, when is that tested? Like, with better users, but how?
+
+1230
+02:16:31.860 --> 02:16:35.330
+Ankit Shukla: Okay, so, what happens is, all of the testing.
+
+1231
+02:16:35.900 --> 02:16:48.369
+Ankit Shukla: If you are just trying to understand whether your product works as desired or not, for example, when you press this button, this happens. When you press that button, that happens, okay? If you are doing that kind of testing, then internal people can test the product.
+
+1232
+02:16:48.990 --> 02:16:51.320
+Ankit Shukla: Okay, that is the job that esters do.
+
+1233
+02:16:51.430 --> 02:17:07.440
+Ankit Shukla: But whenever you are looking for insights, as in whether this feature is actually helping the people or not, whether they can use it or not, whether it solves the problem or not, then you have to get real users. So, for your prototypes, for your MVPs, you have to make sure that you are able to test them with real users.
+
+1234
+02:17:07.540 --> 02:17:11.740
+Ankit Shukla: When you need to test them is before you go ahead and commit a lot of resources.
+
+1235
+02:17:12.690 --> 02:17:19.630
+Ankit Shukla: Okay, before you decide to commit a lot of resources and put things permanently in your roadmap, you should go ahead and try to test your features.
+
+1236
+02:17:21.389 --> 02:17:23.230
+Simran Sharma: Okay, got it, thank you.
+
+1237
+02:17:24.070 --> 02:17:25.410
+Ankit Shukla: Mahipal, you want to go ahead?
+
+1238
+02:17:27.700 --> 02:17:29.160
+Mahipal Bhayal: Yeah, I'm good. Hi.
+
+1239
+02:17:29.360 --> 02:17:42.930
+Mahipal Bhayal: My question is, basically, after the post-launch of the product, so basically, if the bugs are being reported, is it a responsibility of product manager to get those, resolved, and, like, is it being added into the product backlog?
+
+1240
+02:17:43.459 --> 02:17:45.049
+Ankit Shukla: Yes. I'll do it.
+
+1241
+02:17:46.019 --> 02:17:52.939
+Ankit Shukla: So… It is the responsibility of a product manager
+
+1242
+02:17:53.369 --> 02:17:57.609
+Ankit Shukla: To make sure that product is in the best format possible.
+
+1243
+02:17:58.699 --> 02:17:59.529
+Ankit Shukla: So…
+
+1244
+02:17:59.859 --> 02:18:05.019
+Ankit Shukla: Indirectly, it is also a responsibility of product manager to look at all of these bugs and make sure that they are being resolved on time.
+
+1245
+02:18:05.299 --> 02:18:08.989
+Ankit Shukla: But understand a product manager might not have all the time to look at these things.
+
+1246
+02:18:09.209 --> 02:18:11.119
+Ankit Shukla: So what he or she can do is.
+
+1247
+02:18:11.229 --> 02:18:14.659
+Ankit Shukla: They can create a process that whenever some bug appears.
+
+1248
+02:18:14.779 --> 02:18:19.589
+Ankit Shukla: It has to be reported from the customer support team, or the sales team, or the marketing team, or the internal team.
+
+1249
+02:18:19.889 --> 02:18:35.269
+Ankit Shukla: or it would come from, let's say, any of the reviews out there. It will be placed at a particular place, and then testers or other people can go ahead and they can validate it, and then they can put in the product backlog. Okay, what is the priority that it should have? It can be decided by the product manager or the product owner.
+
+1250
+02:18:35.589 --> 02:18:50.109
+Ankit Shukla: In every team, in every sprint, what we do is, we keep some buffer for the bugs, because when you launch the product, initially, there are some bugs that are going to come. So, let's say you have 10 tasks that you can do, you can put buffer of 2-3 tasks, that will be only for the bugs that are reported.
+
+1251
+02:18:50.339 --> 02:18:51.889
+Ankit Shukla: So that is how it operates.
+
+1252
+02:18:54.100 --> 02:18:55.109
+Mahipal Bhayal: Okay, thank you.
+
+1253
+02:18:55.309 --> 02:18:55.869
+Ankit Shukla: Yes?

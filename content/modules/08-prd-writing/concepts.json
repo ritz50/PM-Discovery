@@ -1,0 +1,41 @@
+[
+  {
+    "id": "prd-structure",
+    "title": "PRD Structure",
+    "module": "08-prd-writing",
+    "topicIds": ["prd-writing"],
+    "definition": "Standard sections: problem, goals, stories, requirements, metrics, risks.",
+    "whenToUse": "Handing off discovery to engineering for build.",
+    "frameworkSteps": ["Problem with evidence", "Goals and non-goals", "User stories", "Requirements", "Metrics", "Risks"],
+    "interviewPrompts": ["Walk me through how you'd write a PRD for X."],
+    "officeUse": "Engineering kickoffs and stakeholder alignment.",
+    "relatedConcepts": ["user-stories", "acceptance-criteria"],
+    "sources": ["helloPM-mod-8"]
+  },
+  {
+    "id": "user-stories",
+    "title": "User Stories",
+    "module": "08-prd-writing",
+    "topicIds": ["prd-writing"],
+    "definition": "As a [user], I want [action], so that [outcome] — capturing user value in buildable units.",
+    "whenToUse": "Breaking features into sprint-sized work.",
+    "frameworkSteps": ["Identify user and job", "Write action and outcome", "Add acceptance criteria", "Prioritize in backlog"],
+    "interviewPrompts": [],
+    "officeUse": "Backlog grooming and sprint planning.",
+    "relatedConcepts": ["acceptance-criteria", "job-statement"],
+    "sources": ["helloPM-mod-8"]
+  },
+  {
+    "id": "acceptance-criteria",
+    "title": "Acceptance Criteria",
+    "module": "08-prd-writing",
+    "topicIds": ["prd-writing"],
+    "definition": "Testable conditions that define when a user story is complete.",
+    "whenToUse": "Every user story before development starts.",
+    "frameworkSteps": ["Given/When/Then format", "Cover happy path and edge cases", "Make testable by QA"],
+    "interviewPrompts": ["Write acceptance criteria for..."],
+    "officeUse": "Definition of done and QA test plans.",
+    "relatedConcepts": ["user-stories"],
+    "sources": ["helloPM-mod-8"]
+  }
+]

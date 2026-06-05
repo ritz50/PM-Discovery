@@ -1,0 +1,41 @@
+[
+  {
+    "id": "hypothesis-driven",
+    "title": "Hypothesis-Driven Development",
+    "module": "07-experimentation",
+    "topicIds": ["experimentation"],
+    "definition": "Stating testable beliefs and designing experiments with clear success criteria before building.",
+    "whenToUse": "Before any MVP or feature investment.",
+    "frameworkSteps": ["Write hypothesis", "Define metric and threshold", "Design experiment", "Run time-boxed test", "Decide persevere/pivot/kill"],
+    "interviewPrompts": ["How would you test this hypothesis?"],
+    "officeUse": "Sprint goals and experiment briefs.",
+    "relatedConcepts": ["experiment-design", "mvp-types"],
+    "sources": ["helloPM-mod-7"]
+  },
+  {
+    "id": "mvp-types",
+    "title": "MVP Types",
+    "module": "07-experimentation",
+    "topicIds": ["experimentation"],
+    "definition": "Different minimum viable forms — concierge, wizard of oz, landing page, feature stub — matched to assumptions.",
+    "whenToUse": "Scoping the smallest test for your riskiest unknown.",
+    "frameworkSteps": ["Identify assumption", "Match MVP type to assumption", "Build minimum", "Measure and learn"],
+    "interviewPrompts": ["What MVP would you use for X and why?"],
+    "officeUse": "Sprint scoping with engineering.",
+    "relatedConcepts": ["prototype-fidelity", "hypothesis-driven"],
+    "sources": ["helloPM-mod-7"]
+  },
+  {
+    "id": "experiment-design",
+    "title": "Experiment Design",
+    "module": "07-experimentation",
+    "topicIds": ["experimentation"],
+    "definition": "Structured plan: hypothesis, metric, threshold, method, duration, and decision rule.",
+    "whenToUse": "Any validation before full build.",
+    "frameworkSteps": ["Hypothesis", "Primary metric", "Success threshold", "Method and sample size", "Time box", "Decision rule"],
+    "interviewPrompts": ["Design an experiment to validate..."],
+    "officeUse": "Experiment docs and leadership updates.",
+    "relatedConcepts": ["hypothesis-driven", "ost-structure"],
+    "sources": ["helloPM-mod-7"]
+  }
+]

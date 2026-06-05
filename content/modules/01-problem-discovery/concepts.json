@@ -1,0 +1,104 @@
+[
+  {
+    "id": "problem-statement",
+    "title": "Problem Statement",
+    "module": "01-problem-discovery",
+    "topicIds": ["problem-validation"],
+    "definition": "A concise description of a user segment's struggle, root cause, and negative outcome — without prescribing a solution.",
+    "whenToUse": "At the start of any discovery initiative to align the team on what you are solving.",
+    "frameworkSteps": [
+      "Identify the user segment",
+      "Describe the job or task they struggle with",
+      "Articulate the root cause",
+      "State the negative outcome"
+    ],
+    "interviewPrompts": [
+      "Walk me through the last time you faced this problem.",
+      "What workarounds do you use today?"
+    ],
+    "officeUse": "Kick off discovery briefs, PRDs, and stakeholder alignment docs.",
+    "relatedConcepts": ["assumption-mapping", "problem-solution-fit"],
+    "sources": ["helloPM-mod-1"]
+  },
+  {
+    "id": "assumption-mapping",
+    "title": "Assumption Mapping",
+    "module": "01-problem-discovery",
+    "topicIds": ["problem-validation", "discovery-artifacts"],
+    "definition": "A technique to visualize and prioritize beliefs about users, problems, and solutions by importance and uncertainty.",
+    "whenToUse": "When you have many unknowns and need to decide what to validate first.",
+    "frameworkSteps": [
+      "List all assumptions about users, problem, and solution",
+      "Rate each on importance (1-5)",
+      "Rate each on uncertainty (1-5)",
+      "Prioritize high-importance, high-uncertainty items"
+    ],
+    "interviewPrompts": [
+      "What would have to be true for this product to succeed?",
+      "Which of these beliefs do we have the least evidence for?"
+    ],
+    "officeUse": "Discovery planning sessions and sprint zero workshops.",
+    "relatedConcepts": ["problem-statement", "hypothesis-driven"],
+    "sources": ["helloPM-mod-1"]
+  },
+  {
+    "id": "problem-solution-fit",
+    "title": "Problem-Solution Fit",
+    "module": "01-problem-discovery",
+    "topicIds": ["problem-validation"],
+    "definition": "The stage where you have evidence that a real problem exists and your proposed solution addresses it meaningfully.",
+    "whenToUse": "Before investing in building an MVP or scaling a feature.",
+    "frameworkSteps": [
+      "Validate problem exists with user evidence",
+      "Confirm pain is frequent and severe",
+      "Test solution concept with target users",
+      "Measure willingness to adopt or pay"
+    ],
+    "interviewPrompts": [
+      "How do you solve this today?",
+      "What would make you switch to a new solution?"
+    ],
+    "officeUse": "Go/no-go decisions and opportunity assessments.",
+    "relatedConcepts": ["problem-statement", "concept-testing"],
+    "sources": ["helloPM-mod-1"]
+  },
+  {
+    "id": "discovery-brief",
+    "title": "Discovery Brief",
+    "module": "01-problem-discovery",
+    "topicIds": ["discovery-artifacts"],
+    "definition": "A short document aligning the team on discovery goals, assumptions, research plan, and success criteria.",
+    "whenToUse": "Starting any discovery initiative with cross-functional stakeholders.",
+    "frameworkSteps": [
+      "State problem hypothesis and target user",
+      "List top 3-5 assumptions to test",
+      "Define research methods and timeline",
+      "Set success criteria for proceeding"
+    ],
+    "interviewPrompts": [],
+    "officeUse": "Share with engineering, design, and leadership before research sprints.",
+    "relatedConcepts": ["assumption-mapping", "interview-guide"],
+    "sources": ["helloPM-mod-1"]
+  },
+  {
+    "id": "interview-guide",
+    "title": "Interview Guide",
+    "module": "01-problem-discovery",
+    "topicIds": ["discovery-artifacts"],
+    "definition": "A structured script for user interviews with open-ended questions, probes, and success criteria.",
+    "whenToUse": "Before conducting any user discovery interview.",
+    "frameworkSteps": [
+      "Define research objective",
+      "Write warm-up and context questions",
+      "Draft core exploration questions (past behavior, not hypotheticals)",
+      "Add probes and wrap-up"
+    ],
+    "interviewPrompts": [
+      "Tell me about the last time you...",
+      "What happened next?"
+    ],
+    "officeUse": "Standardize interview quality across PM and UX team members.",
+    "relatedConcepts": ["interview-techniques", "switch-interview"],
+    "sources": ["helloPM-mod-1"]
+  }
+]

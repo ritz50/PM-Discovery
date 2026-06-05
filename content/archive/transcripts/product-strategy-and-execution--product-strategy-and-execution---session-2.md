@@ -1,0 +1,3642 @@
+00:17:51.400 --> 00:17:52.900
+Archana: Good day, everyone.
+
+2
+00:17:58.360 --> 00:17:59.080
+Siddhesh Bhutki: Good morning.
+
+3
+00:18:43.570 --> 00:18:45.120
+Ankit Shukla: Good morning, everyone!
+
+4
+00:18:46.210 --> 00:18:48.890
+Ankit Shukla: A quick yes or no in the chat if I'm audible and visible.
+
+5
+00:18:49.460 --> 00:18:50.300
+Ankit Shukla: Audible.
+
+6
+00:18:59.020 --> 00:18:59.860
+Ankit Shukla: Cool.
+
+7
+00:19:00.810 --> 00:19:01.670
+Ankit Shukla: Wonderful.
+
+8
+00:19:02.440 --> 00:19:03.250
+Ankit Shukla: Yes.
+
+9
+00:19:03.830 --> 00:19:07.259
+Ankit Shukla: So today, we are going to cover an extremely important topic.
+
+10
+00:19:07.500 --> 00:19:10.560
+Ankit Shukla: Which is… product strategy.
+
+11
+00:19:11.750 --> 00:19:14.000
+Ankit Shukla: Can you guys tell me in the chat?
+
+12
+00:19:14.940 --> 00:19:18.290
+Ankit Shukla: Are you on track with your assignment so far?
+
+13
+00:19:19.030 --> 00:19:21.329
+Ankit Shukla: Tell me yes or no in the chat, please.
+
+14
+00:19:29.250 --> 00:19:30.820
+Ankit Shukla: Very nice. Amazing.
+
+15
+00:19:31.810 --> 00:19:32.480
+Ankit Shukla: Moon.
+
+16
+00:19:36.810 --> 00:19:39.210
+Ankit Shukla: Let me start sharing my screen.
+
+17
+00:20:38.290 --> 00:20:39.630
+Ankit Shukla: Just one minute.
+
+18
+00:21:10.440 --> 00:21:11.260
+Ankit Shukla: Yes.
+
+19
+00:21:15.230 --> 00:21:15.910
+Ankit Shukla: Hmm.
+
+20
+00:21:46.490 --> 00:21:47.190
+Ankit Shukla: Yes.
+
+21
+00:21:48.650 --> 00:21:50.700
+Ankit Shukla: Everyone, a quick yes or no in the chat?
+
+22
+00:21:51.260 --> 00:21:54.500
+Ankit Shukla: if my… Screen is visible.
+
+23
+00:21:57.070 --> 00:21:57.840
+Ankit Shukla: Yes.
+
+24
+00:21:59.250 --> 00:22:00.090
+Ankit Shukla: Amazing.
+
+25
+00:22:08.130 --> 00:22:08.830
+Ankit Shukla: Hmm.
+
+26
+00:22:11.180 --> 00:22:14.790
+Ankit Shukla: So today's session is going to be… A very important one.
+
+27
+00:22:15.660 --> 00:22:22.790
+Ankit Shukla: And we'll be able to wrap up the session, somewhat earlier today, because there is a hard stop at 11.30 around.
+
+28
+00:22:23.270 --> 00:22:25.110
+Ankit Shukla: So, this is what…
+
+29
+00:22:26.060 --> 00:22:30.040
+Ankit Shukla: We have done in the last session, okay? I told you about the product roadmap and execution bar.
+
+30
+00:22:30.380 --> 00:22:31.479
+Ankit Shukla: And then I…
+
+31
+00:22:31.760 --> 00:22:37.040
+Ankit Shukla: Got your understanding, as in what do you expect us to deliver in this model, so that we are on the right page?
+
+32
+00:22:37.580 --> 00:22:38.910
+Ankit Shukla: And then eventually…
+
+33
+00:22:39.190 --> 00:22:54.989
+Ankit Shukla: I was able to give you, again, the product management flow that we have already talked about. We also talk about the product vision. Product vision is, in its ultimate form, what your product is going to look like, right? Vision which is the big picture that you have for your product in your mind.
+
+34
+00:22:56.230 --> 00:22:57.360
+Ankit Shukla: And generally.
+
+35
+00:22:58.110 --> 00:23:03.310
+Ankit Shukla: After that, we talk about a lot of things, about a lot of AI tools that you can use as a product manager for product discovery.
+
+36
+00:23:04.510 --> 00:23:08.240
+Ankit Shukla: Now, today we are going to talk about a very important part, which is…
+
+37
+00:23:11.300 --> 00:23:13.209
+Ankit Shukla: Which is product strategy.
+
+38
+00:23:14.280 --> 00:23:15.070
+Ankit Shukla: Right?
+
+39
+00:23:15.240 --> 00:23:18.670
+Ankit Shukla: Product strategy is one of the most misunderstood.
+
+40
+00:23:19.110 --> 00:23:22.160
+Ankit Shukla: Is one of the most complex things
+
+41
+00:23:22.400 --> 00:23:25.719
+Ankit Shukla: That you are going to come across as a product manager.
+
+42
+00:23:26.690 --> 00:23:36.190
+Ankit Shukla: But the key is that if you understand what are the universal components of any strategy, you should be able to understand any strategy, and you should be able to create your own strategy as well.
+
+43
+00:23:36.500 --> 00:23:39.180
+Ankit Shukla: Okay, so first of all, let us go ahead and talk about
+
+44
+00:23:39.420 --> 00:23:41.679
+Ankit Shukla: What strategy is, where does it?
+
+45
+00:23:42.900 --> 00:23:44.360
+Ankit Shukla: Fits in, okay?
+
+46
+00:23:44.520 --> 00:23:47.049
+Ankit Shukla: So, let me just go ahead and go through this.
+
+47
+00:23:49.860 --> 00:23:50.700
+Ankit Shukla: Okay.
+
+48
+00:23:51.100 --> 00:23:51.880
+Ankit Shukla: So…
+
+49
+00:23:55.010 --> 00:23:57.659
+Ankit Shukla: We are going to talk about product strategy.
+
+50
+00:23:58.350 --> 00:24:02.120
+Ankit Shukla: But before I can tell you what product strategy is and what it is not.
+
+51
+00:24:02.530 --> 00:24:04.829
+Ankit Shukla: Can you guys think about, for a moment.
+
+52
+00:24:05.180 --> 00:24:08.180
+Ankit Shukla: And tell me in the chat, what do you think is product strategy?
+
+53
+00:24:08.600 --> 00:24:12.290
+Ankit Shukla: Tell me in the chat, think about it, and tell me in the chat, what do you think is product strategy?
+
+54
+00:24:19.490 --> 00:24:23.149
+Ankit Shukla: plan to launch a product. That is a go-to-market strategy.
+
+55
+00:24:24.060 --> 00:24:25.270
+Ankit Shukla: high-level plan.
+
+56
+00:24:27.200 --> 00:24:30.770
+Ankit Shukla: How to place the product in the market, that is called as positioning a strategy.
+
+57
+00:24:32.870 --> 00:24:34.820
+Ankit Shukla: The steps to be taken to achieve?
+
+58
+00:24:35.840 --> 00:24:37.310
+Ankit Shukla: the business rules.
+
+59
+00:24:39.150 --> 00:24:41.499
+Ankit Shukla: Plan to guide the product development lifecycle.
+
+60
+00:24:42.080 --> 00:24:47.400
+Ankit Shukla: plan to features, step-by-step process to reach the product delivery and business goals. Interesting.
+
+61
+00:24:49.950 --> 00:24:52.650
+Ankit Shukla: Plan to guide product lifecycle, very good.
+
+62
+00:24:53.070 --> 00:24:56.840
+Ankit Shukla: How to achieve the vision? Very good, I think this is good, but a bit…
+
+63
+00:24:56.940 --> 00:24:58.259
+Ankit Shukla: High level, I would say.
+
+64
+00:24:58.380 --> 00:25:00.060
+Ankit Shukla: Where are we going, visually?
+
+65
+00:25:00.420 --> 00:25:02.389
+Ankit Shukla: Yeah, where are we going is a vision.
+
+66
+00:25:04.140 --> 00:25:07.489
+Ankit Shukla: Defining the steps for the lifecycle, approach to launch the product.
+
+67
+00:25:07.710 --> 00:25:10.050
+Ankit Shukla: What the product will solve and what it won't.
+
+68
+00:25:10.950 --> 00:25:15.119
+Ankit Shukla: Plan versus execution framework. Objective and to achieve from the product.
+
+69
+00:25:20.540 --> 00:25:21.450
+Ankit Shukla: Yes.
+
+70
+00:25:21.750 --> 00:25:28.610
+Ankit Shukla: So understand, first of all There is a lot of confusion between the product strategy.
+
+71
+00:25:28.940 --> 00:25:30.329
+Ankit Shukla: And the business strategy.
+
+72
+00:25:31.030 --> 00:25:31.800
+Ankit Shukla: Right?
+
+73
+00:25:32.630 --> 00:25:34.449
+Ankit Shukla: So there is something called S.
+
+74
+00:25:37.060 --> 00:25:39.760
+Ankit Shukla: There is something called as a business strategy.
+
+75
+00:25:46.570 --> 00:25:47.290
+Ankit Shukla: Right?
+
+76
+00:25:48.270 --> 00:25:52.869
+Ankit Shukla: Business strategy means… What is your plan to achieve the business goals?
+
+77
+00:25:53.060 --> 00:25:56.129
+Ankit Shukla: What is your plan to achieve the business goals?
+
+78
+00:25:56.440 --> 00:26:00.060
+Ankit Shukla: Right? What are you going to do, what you're not going to do, these kind of things.
+
+79
+00:26:00.710 --> 00:26:04.150
+Ankit Shukla: Now, business strategy is incomplete about a product strategy.
+
+80
+00:26:04.320 --> 00:26:06.310
+Ankit Shukla: Because if you're a product-based business.
+
+81
+00:26:06.690 --> 00:26:22.479
+Ankit Shukla: You will be able to achieve your goal if you have a product that solves the customer needs, and in return, the customers are willing to pay you money, right? So, product strategy is an integral part of business strategy, but it doesn't mean that only product strategy can make the business go forward.
+
+82
+00:26:22.810 --> 00:26:30.890
+Ankit Shukla: You also need A sales slash marketing strategy, You need some kind of…
+
+83
+00:26:31.140 --> 00:26:33.910
+Ankit Shukla: Hiring a strategy, and you need multiple other
+
+84
+00:26:35.320 --> 00:26:37.239
+Ankit Shukla: Different kind of components as well.
+
+85
+00:26:38.170 --> 00:26:48.980
+Ankit Shukla: Right? So understand, this is the strategy stack, where this is the ultimate strategy, but your product team is going to contribute to this to make sure that you are able to achieve your business strategy.
+
+86
+00:26:49.490 --> 00:26:55.009
+Ankit Shukla: The purpose of product… so, first of all, what is product strategy? Product strategy is a plan
+
+87
+00:26:56.160 --> 00:27:03.950
+Ankit Shukla: That will help you create a product that will solve the user problems, and it will achieve the business goals.
+
+88
+00:27:04.520 --> 00:27:12.859
+Ankit Shukla: Right? What is the plan that will help you create a product that will solve the business problems, and that will help users achieve their
+
+89
+00:27:13.170 --> 00:27:13.980
+Ankit Shukla: goods.
+
+90
+00:27:14.690 --> 00:27:16.080
+Ankit Shukla: Right? Now.
+
+91
+00:27:16.400 --> 00:27:24.700
+Ankit Shukla: Product strategy can also contain multiple parts, so whenever you create a product strategy, you have to take care of these four super important parts.
+
+92
+00:27:25.160 --> 00:27:27.649
+Ankit Shukla: Right? So the first part is.
+
+93
+00:27:33.120 --> 00:27:37.369
+Ankit Shukla: First part is, You have to understand.
+
+94
+00:27:39.790 --> 00:27:42.350
+Ankit Shukla: Who your customers are going to be.
+
+95
+00:27:43.540 --> 00:27:46.340
+Ankit Shukla: You have to understand who your customers are going to be.
+
+96
+00:27:46.480 --> 00:27:50.439
+Ankit Shukla: Customers, and their pain points, and all of these things.
+
+97
+00:27:50.560 --> 00:27:51.360
+Ankit Shukla: Great.
+
+98
+00:27:56.190 --> 00:27:58.900
+Ankit Shukla: what… Just a moment.
+
+99
+00:28:17.620 --> 00:28:19.740
+Ankit Shukla: Yes, I hope I'm clearly audible, right?
+
+100
+00:28:20.720 --> 00:28:25.970
+Ankit Shukla: Now, the second part is, Yes.
+
+101
+00:28:26.330 --> 00:28:31.069
+Ankit Shukla: The second part is after you have understood the customers, You have to understand.
+
+102
+00:28:34.690 --> 00:28:36.579
+Ankit Shukla: What is the competition?
+
+103
+00:28:40.070 --> 00:28:41.000
+Ankit Shukla: N.
+
+104
+00:28:43.020 --> 00:28:43.980
+Ankit Shukla: Bill…
+
+105
+00:28:48.450 --> 00:28:49.530
+Ankit Shukla: ecosystem.
+
+106
+00:28:50.300 --> 00:28:51.380
+Ankit Shukla: Customers?
+
+107
+00:28:52.100 --> 00:28:55.990
+Ankit Shukla: is the first part. Competition is the ecosystem, is the second part.
+
+108
+00:28:58.560 --> 00:29:00.219
+Ankit Shukla: The third part is.
+
+109
+00:29:04.610 --> 00:29:06.269
+Ankit Shukla: your own company.
+
+110
+00:29:06.530 --> 00:29:09.099
+Ankit Shukla: What are the strengths and weaknesses of your company?
+
+111
+00:29:09.230 --> 00:29:14.299
+Ankit Shukla: who are the people who are working in your company? That will also define what kind of strategy you can pursue.
+
+112
+00:29:15.950 --> 00:29:21.000
+Ankit Shukla: And the fourth part is, What is going to be your product?
+
+113
+00:29:22.370 --> 00:29:23.810
+Ankit Shukla: The definition of this product.
+
+114
+00:29:26.120 --> 00:29:29.700
+Ankit Shukla: Right? So… You understand the customers.
+
+115
+00:29:29.920 --> 00:29:38.129
+Ankit Shukla: You do the competitive analysis, you understand the ecosystem, you understand what is it that your company can do and cannot do, and then you go ahead and build.
+
+116
+00:29:39.600 --> 00:29:40.620
+Ankit Shukla: your product.
+
+117
+00:29:42.020 --> 00:29:44.939
+Ankit Shukla: Right? And if you have done these things really well.
+
+118
+00:29:45.850 --> 00:29:48.530
+Ankit Shukla: If you have understood customers and competition really well.
+
+119
+00:29:48.690 --> 00:29:54.430
+Ankit Shukla: You should have something called as a… value proposition.
+
+120
+00:29:57.310 --> 00:30:00.579
+Ankit Shukla: You should have something called as a value proposition.
+
+121
+00:30:01.390 --> 00:30:07.710
+Ankit Shukla: Right? And then… If you understand your company well, you will also understand what are the limitations.
+
+122
+00:30:08.200 --> 00:30:12.320
+Ankit Shukla: And some advantages that your company has over other people.
+
+123
+00:30:16.390 --> 00:30:22.779
+Ankit Shukla: Right? So Google is sitting on a lot of data. That is why there are certain kind of products that can only be created by Google.
+
+124
+00:30:25.670 --> 00:30:27.749
+Ankit Shukla: Right? So this is what…
+
+125
+00:30:27.970 --> 00:30:34.400
+Ankit Shukla: product strategy looks like. And then the last part is the product. Product means what are going to be the features.
+
+126
+00:30:34.800 --> 00:30:37.570
+Ankit Shukla: What is going to be the value prop of your product?
+
+127
+00:30:37.690 --> 00:30:40.800
+Ankit Shukla: What is going to be the prioritization, and these kind of things.
+
+128
+00:30:41.230 --> 00:30:42.610
+Ankit Shukla: So, always remember.
+
+129
+00:30:45.660 --> 00:30:49.010
+Ankit Shukla: You will start with… Customers?
+
+130
+00:30:49.730 --> 00:30:52.719
+Ankit Shukla: This is the… Base point?
+
+131
+00:30:53.660 --> 00:31:00.650
+Ankit Shukla: Then you will understand The competition and the ecosystem This is…
+
+132
+00:31:00.830 --> 00:31:06.830
+Ankit Shukla: another brick in the ecosystem in the part. Then you will understand what is your company
+
+133
+00:31:07.390 --> 00:31:15.989
+Ankit Shukla: Able to do better. And then, based on these three things, we will have… A strong enough product.
+
+134
+00:31:17.770 --> 00:31:24.020
+Ankit Shukla: This is the only thing that you need to know in order to understand what is a… product strategy.
+
+135
+00:31:24.370 --> 00:31:31.200
+Ankit Shukla: Now… Here is… Now, here is a… Important part.
+
+136
+00:31:32.500 --> 00:31:33.790
+Ankit Shukla: Always understand.
+
+137
+00:31:34.970 --> 00:31:39.870
+Ankit Shukla: that… Just building product.
+
+138
+00:31:40.280 --> 00:31:41.400
+Ankit Shukla: is not enough.
+
+139
+00:31:42.230 --> 00:31:51.289
+Ankit Shukla: Just building product is not enough. You have to make sure that the product is going out in the market, it is selling, it has a good, solid go-to-market strategy out there.
+
+140
+00:31:51.770 --> 00:31:58.730
+Ankit Shukla: So, some companies, Include the go-to marketing part, or the product marketing part, or the growth part.
+
+141
+00:32:00.540 --> 00:32:05.109
+Ankit Shukla: As a part of… product strategy only. So that can also be added.
+
+142
+00:32:05.820 --> 00:32:18.819
+Ankit Shukla: Right? Well, some companies, what they do is, they go ahead and take a product that is already… they go ahead and create silos in their companies that this person is, like, this individual department is
+
+143
+00:32:19.200 --> 00:32:22.850
+Ankit Shukla: responsible for the marketing and the growth and GTM strategy.
+
+144
+00:32:23.050 --> 00:32:25.789
+Ankit Shukla: While the product team is responsible for this.
+
+145
+00:32:26.680 --> 00:32:33.980
+Ankit Shukla: And in these cases, you need to be very good with collaboration. Understand collaboration is super important for a product manager to do.
+
+146
+00:32:35.860 --> 00:32:38.880
+Ankit Shukla: Right? A quick yes or no, everyone, if you're able to understand this.
+
+147
+00:32:45.110 --> 00:32:52.679
+Ankit Shukla: Yes. So what do we mean by ecosystem is very simple. Ecosystem is, what are the forces in the market that you should be aware of?
+
+148
+00:32:52.820 --> 00:33:02.349
+Ankit Shukla: For example, if you are creating any fintech product in the world, or any fintech product, like finance technology product in India, then you have to take care of that
+
+149
+00:33:02.960 --> 00:33:06.259
+Ankit Shukla: what is it that RBI is doing these days?
+
+150
+00:33:06.480 --> 00:33:09.319
+Ankit Shukla: What are the different kinds of products that are already working in the market?
+
+151
+00:33:09.610 --> 00:33:16.819
+Ankit Shukla: Right? These kind of things. Similarly, if you are looking to create a crypto kind of product, then what are the regulations that are already there in the market?
+
+152
+00:33:16.920 --> 00:33:21.540
+Ankit Shukla: Right? Because you are going to… Develop around these regulations only.
+
+153
+00:33:22.110 --> 00:33:24.089
+Ankit Shukla: Right? For example, in India.
+
+154
+00:33:24.270 --> 00:33:34.420
+Ankit Shukla: after 2017, we have seen a lot of, let's say, these fintech companies are coming, right? Why? Because India has launched something called as India Stack.
+
+155
+00:33:34.580 --> 00:33:41.409
+Ankit Shukla: That makes it easier for people to create their new accounts, authenticate themselves with the help of Aadhaar and Pan Online.
+
+156
+00:33:41.600 --> 00:33:47.869
+Ankit Shukla: Similarly, there is something called as UPI, United Payments Interface, that has been able to help people
+
+157
+00:33:47.970 --> 00:33:57.500
+Ankit Shukla: exchange money within few seconds, right? Without going ahead and filling the OTPs, having the cards, because digital card and bank account penetration in India was very, very low.
+
+158
+00:33:57.880 --> 00:34:05.009
+Ankit Shukla: Right? So, and based on that particular trend, there are a lot of startups that have came, and they have been thriving in the market right now.
+
+159
+00:34:05.380 --> 00:34:11.580
+Ankit Shukla: Okay, so this is… what the product strategy is. Okay, so you have to remember four components.
+
+160
+00:34:12.070 --> 00:34:18.269
+Ankit Shukla: First, the customers, then the competition, then the company. 3C and P. P is the product.
+
+161
+00:34:18.449 --> 00:34:27.170
+Ankit Shukla: Right? If you talk about the traditional companies, which do not silo these departments, they do it one, then what they do is they create the strategy in a different form.
+
+162
+00:34:27.560 --> 00:34:31.459
+Ankit Shukla: So, right now, I've told you the 3C and the P approach.
+
+163
+00:34:33.659 --> 00:34:34.449
+Ankit Shukla: Right?
+
+164
+00:34:35.360 --> 00:34:39.020
+Ankit Shukla: In some companies, they follow the full 3C4P approach.
+
+165
+00:34:42.070 --> 00:34:44.779
+Ankit Shukla: 3C4PS, 3C stands for?
+
+166
+00:34:47.650 --> 00:34:48.710
+Ankit Shukla: Company?
+
+167
+00:34:50.889 --> 00:34:52.070
+Ankit Shukla: Customer?
+
+168
+00:34:52.949 --> 00:34:54.609
+Ankit Shukla: and competition.
+
+169
+00:34:55.429 --> 00:35:01.450
+Ankit Shukla: And 4P in marketing, I hope everyone would be able to know, which is 4Ps are… Product?
+
+170
+00:35:03.110 --> 00:35:06.210
+Ankit Shukla: place… Price?
+
+171
+00:35:06.780 --> 00:35:10.479
+Ankit Shukla: And promotion, which creates, like, a solid go-to-market strategy.
+
+172
+00:35:13.190 --> 00:35:18.280
+Ankit Shukla: Right? So this is… What a product strategy contains.
+
+173
+00:35:18.720 --> 00:35:21.899
+Ankit Shukla: But understand, there is no particular formula.
+
+174
+00:35:22.600 --> 00:35:27.210
+Ankit Shukla: 4… Doing or creating a product strategy.
+
+175
+00:35:27.430 --> 00:35:30.180
+Ankit Shukla: Every company is different. For example.
+
+176
+00:35:31.180 --> 00:35:38.150
+Ankit Shukla: Three years ago, people… 3 or 4 years ago, people used to say that the strategy is very solid, it should not change too often.
+
+177
+00:35:38.560 --> 00:35:56.649
+Ankit Shukla: Right? People used to say that strategy should… like, some companies say that strategy is an important work document that a company has to create, so it should be 10, 20, 30, 50, 100 pages long, while some companies say that it is difficult to follow along strategy, so we should go ahead and create maybe a one-pager, two-pager strategy, so that everyone is on the same page.
+
+178
+00:35:56.760 --> 00:35:59.949
+Ankit Shukla: Right? Understand everyone that, that. Understand everyone.
+
+179
+00:36:00.270 --> 00:36:02.680
+Ankit Shukla: That all of these are just opinions.
+
+180
+00:36:03.340 --> 00:36:10.279
+Ankit Shukla: What is going to suit your case will depend upon the kind of product that you are developing, and the customers that you are catering to.
+
+181
+00:36:10.820 --> 00:36:16.330
+Ankit Shukla: Right? For example, In the AI world, Look at this.
+
+182
+00:36:17.120 --> 00:36:18.590
+Ankit Shukla: We have a company
+
+183
+00:36:22.100 --> 00:36:26.220
+Ankit Shukla: called us Perplexity. How many of you have used Perplexity? Tell me your in the chat.
+
+184
+00:36:40.950 --> 00:36:45.609
+Ankit Shukla: People who have not used, you should go ahead and use perplexity. So…
+
+185
+00:36:46.670 --> 00:36:52.529
+Ankit Shukla: What is perplexity? Okay, perplexity started with a very simple, very, very simple idea.
+
+186
+00:36:52.870 --> 00:36:54.079
+Ankit Shukla: The idea was…
+
+187
+00:36:57.280 --> 00:36:58.730
+Ankit Shukla: We should make sure.
+
+188
+00:36:59.060 --> 00:37:06.210
+Ankit Shukla: That… There are multiple LLMs in the market. LLMs are… let's say GPT by OpenAI.
+
+189
+00:37:09.130 --> 00:37:11.249
+Ankit Shukla: Clawed by Anthropic.
+
+190
+00:37:13.590 --> 00:37:15.350
+Ankit Shukla: Llama by Meta.
+
+191
+00:37:16.720 --> 00:37:19.670
+Ankit Shukla: Right? And there is Mistral by some other company.
+
+192
+00:37:19.960 --> 00:37:24.060
+Ankit Shukla: And there is Brock and so many other LLMs out there Right?
+
+193
+00:37:24.930 --> 00:37:27.539
+Ankit Shukla: And what hap… so, this was…
+
+194
+00:37:28.540 --> 00:37:32.369
+Ankit Shukla: The opportunity got disown, that rather than letting people to…
+
+195
+00:37:32.550 --> 00:37:40.610
+Ankit Shukla: only be sticking to one tool or one model. We can give them an interface where they can go ahead and choose the model. So this is what the version 1 of Perplexity was.
+
+196
+00:37:41.490 --> 00:37:44.640
+Ankit Shukla: Plus, they got one more lead or opportunity.
+
+197
+00:37:44.780 --> 00:37:49.020
+Ankit Shukla: that people do not want the LLM to go ahead and answer everything.
+
+198
+00:37:49.220 --> 00:37:56.080
+Ankit Shukla: They want the right kind of resources. So if you remember the first version of GPT, it would not show you the resources and all, it will just give you the answer.
+
+199
+00:37:56.400 --> 00:38:02.230
+Ankit Shukla: Right? So now they want… what they also did was pernaxity, made their LLM,
+
+200
+00:38:02.610 --> 00:38:05.830
+Ankit Shukla: like, work these LLMs on the top of search engines.
+
+201
+00:38:07.250 --> 00:38:13.070
+Ankit Shukla: So it will search, it will get all the data, and then it will feed this data into an LLM to give you an answer.
+
+202
+00:38:13.940 --> 00:38:18.590
+Ankit Shukla: Right? So it was working with context engineering, which we are going to talk about in the coming session.
+
+203
+00:38:18.840 --> 00:38:20.760
+Ankit Shukla: Okay, so this was the product.
+
+204
+00:38:21.510 --> 00:38:23.550
+Ankit Shukla: This was the product.
+
+205
+00:38:24.330 --> 00:38:29.980
+Ankit Shukla: After that, They evolved too much.
+
+206
+00:38:30.160 --> 00:38:38.010
+Ankit Shukla: They… their interface moved from letting you to choose a model, now they are choosing the model for you. They are also developing their own model.
+
+207
+00:38:38.160 --> 00:38:41.690
+Ankit Shukla: And very recently, they have also built their own browser.
+
+208
+00:38:42.770 --> 00:38:44.119
+Ankit Shukla: Which is comment.
+
+209
+00:38:47.280 --> 00:38:54.130
+Ankit Shukla: Right? They're also able to build a browser called as… comment.
+
+210
+00:38:55.160 --> 00:39:04.879
+Ankit Shukla: Right? But I can assure you that when they started, like, the founders, when they started building Barkman City some years ago, they wouldn't have a mind that they are going to create their own project.
+
+211
+00:39:05.620 --> 00:39:07.849
+Ankit Shukla: Why did they create their own brother? Because…
+
+212
+00:39:08.390 --> 00:39:12.279
+Ankit Shukla: They got more success than they were thinking about.
+
+213
+00:39:12.690 --> 00:39:18.579
+Ankit Shukla: And they understood that if we have a surplus amount of money, surplus amount of roadmap, and
+
+214
+00:39:18.720 --> 00:39:22.970
+Ankit Shukla: Our major target, our major competitor right now is Google.
+
+215
+00:39:23.290 --> 00:39:31.050
+Ankit Shukla: And most of the people search on Google, because Chrome… most of the people search on Chrome, because Google is the default browser.
+
+216
+00:39:31.760 --> 00:39:39.679
+Ankit Shukla: Sorry, most of the people go ahead and search on Google, because Chrome is the default Chrome. So they thought that we can go ahead and
+
+217
+00:39:39.870 --> 00:39:41.880
+Ankit Shukla: Take some market share from.
+
+218
+00:39:42.350 --> 00:39:43.310
+Ankit Shukla: We will grow.
+
+219
+00:39:45.850 --> 00:39:53.970
+Ankit Shukla: Right? So this strategy also This strategy also is driven by one part of our strategy.
+
+220
+00:39:54.270 --> 00:39:56.290
+Ankit Shukla: Component, which is competitors.
+
+221
+00:39:57.350 --> 00:40:08.209
+Ankit Shukla: Right? Similarly, there is one more company. So, perplexity, They changed their product strategy, Within few months.
+
+222
+00:40:09.660 --> 00:40:14.440
+Ankit Shukla: Right? Now there is a company called as Amazon.
+
+223
+00:40:16.880 --> 00:40:24.849
+Ankit Shukla: Amazon launched Amazon launched Prime, A very long time ago.
+
+224
+00:40:25.910 --> 00:40:30.930
+Ankit Shukla: And this was… A big cost center for the company.
+
+225
+00:40:31.500 --> 00:40:44.459
+Ankit Shukla: Because the unit economics do not make sense. You take $100 from me, and then you keep on delivering me free stuff without any delivery charges, no matter how big or smaller the package is. Okay, so it does not make business sense, but Amazon understood.
+
+226
+00:40:44.960 --> 00:40:47.079
+Ankit Shukla: That right now, what we are doing is…
+
+227
+00:40:47.280 --> 00:40:50.410
+Ankit Shukla: If people come more and more on Prime.
+
+228
+00:40:50.650 --> 00:40:55.600
+Ankit Shukla: not only they will buy the things that they were already buying from Amazon, But…
+
+229
+00:40:55.750 --> 00:41:02.010
+Ankit Shukla: they will not be also considering a lot of other competitors if something is already available on Omega.
+
+230
+00:41:03.250 --> 00:41:05.930
+Ankit Shukla: Right? For example, if I want to buy something.
+
+231
+00:41:06.300 --> 00:41:19.240
+Ankit Shukla: And if that thing is available on Amazon or from some other place, if I already have a Prime account, I would go ahead and prefer Amazon. Why? Because I have… I already have that brand recall, I'm already aware about that I don't have to pay the shipping fees and these kind of things.
+
+232
+00:41:20.020 --> 00:41:22.200
+Ankit Shukla: Right? So Amazon and…
+
+233
+00:41:22.510 --> 00:41:30.120
+Ankit Shukla: After doing this, almost it took them more than 10 years to actually turn this into something which is profitable.
+
+234
+00:41:31.490 --> 00:41:42.450
+Ankit Shukla: Right? So this product strategy is driven by… long-term, multi-decade.
+
+235
+00:41:45.320 --> 00:41:46.320
+Ankit Shukla: Horizon.
+
+236
+00:41:47.380 --> 00:41:52.230
+Ankit Shukla: Right? One company perplexity, They are playing by months.
+
+237
+00:41:52.360 --> 00:41:59.149
+Ankit Shukla: And there is one company, Amazon, That is playing buyers. Similarly, Amazon also have
+
+238
+00:41:59.550 --> 00:42:02.210
+Ankit Shukla: a business called as Amazon Web Services.
+
+239
+00:42:04.610 --> 00:42:08.570
+Ankit Shukla: Amazon also has a business called as Amazon Web Services.
+
+240
+00:42:09.170 --> 00:42:16.640
+Ankit Shukla: In Amazon Web Services, what they are doing is, they were just running servers and some other components, but after AI,
+
+241
+00:42:16.830 --> 00:42:18.769
+Ankit Shukla: They changed their product strategy.
+
+242
+00:42:19.060 --> 00:42:32.039
+Ankit Shukla: They started acquiring… investing more money in order to acquire more and more NVIDIA graphics, and then they were able to go ahead and cater to these customers quickly. They might have some strategy initially, but when AI came, they have to change that strategy.
+
+243
+00:42:34.160 --> 00:42:37.260
+Ankit Shukla: Right? So, another, I would say.
+
+244
+00:42:38.440 --> 00:42:41.460
+Ankit Shukla: A characteristic of a good strategy is…
+
+245
+00:42:42.350 --> 00:42:45.029
+Ankit Shukla: A strategy also needs to be agile.
+
+246
+00:42:47.970 --> 00:42:49.739
+Ankit Shukla: Right? So I'll again repeat.
+
+247
+00:42:50.670 --> 00:42:54.299
+Ankit Shukla: Whether… how long your… how short-term your strategy is.
+
+248
+00:42:54.670 --> 00:42:57.710
+Ankit Shukla: Depends upon how these four components are moving.
+
+249
+00:42:57.980 --> 00:43:00.199
+Ankit Shukla: Okay, what are the four components?
+
+250
+00:43:00.720 --> 00:43:03.170
+Ankit Shukla: Okay, everyone, go ahead.
+
+251
+00:43:03.310 --> 00:43:05.419
+Ankit Shukla: Write the four components in the chat.
+
+252
+00:43:06.310 --> 00:43:07.360
+Ankit Shukla: Right now.
+
+253
+00:43:07.640 --> 00:43:11.100
+Ankit Shukla: Go ahead and tell me what are the four components of a product strategy.
+
+254
+00:43:14.230 --> 00:43:17.740
+Ankit Shukla: I just told you, please tell me what are the four components of a product strategy.
+
+255
+00:43:23.260 --> 00:43:24.050
+Ankit Shukla: Yes.
+
+256
+00:43:49.350 --> 00:43:58.440
+Ankit Shukla: Got it. So, we have the four parts, which is… The customer, most important, The competition will help you
+
+257
+00:43:59.160 --> 00:44:01.020
+Ankit Shukla: Create your value propositions.
+
+258
+00:44:01.400 --> 00:44:12.200
+Ankit Shukla: Then… We have the company, and then we have… Customer, competition, company, and… The result is the product.
+
+259
+00:44:15.940 --> 00:44:20.120
+Ankit Shukla: Right? This is a company's product strategy.
+
+260
+00:44:20.880 --> 00:44:27.640
+Ankit Shukla: Now, you look for… Perplexity.
+
+261
+00:44:29.060 --> 00:44:31.209
+Ankit Shukla: Right? What components changed?
+
+262
+00:44:31.840 --> 00:44:34.250
+Ankit Shukla: Yes, customer needs are always changing.
+
+263
+00:44:34.360 --> 00:44:39.969
+Ankit Shukla: So, it always changes, so we are not going to consider it much. You have to be always on the top of what your customers want.
+
+264
+00:44:40.540 --> 00:44:42.310
+Ankit Shukla: The second is competition.
+
+265
+00:44:43.840 --> 00:44:49.369
+Ankit Shukla: They understood that Google has a big advantage, that Google has grown.
+
+266
+00:44:50.230 --> 00:44:54.520
+Ankit Shukla: So why can't we go ahead and create our own modern project? So they started with…
+
+267
+00:44:55.300 --> 00:44:56.870
+Ankit Shukla: Something called a comet.
+
+268
+00:44:59.490 --> 00:45:02.860
+Ankit Shukla: Right? But… If, when this company
+
+269
+00:45:02.970 --> 00:45:05.989
+Ankit Shukla: was in the seed stage, or Series A or Series B stage.
+
+270
+00:45:06.670 --> 00:45:15.950
+Ankit Shukla: What happened was, if they were targeting this kind of product, like creating your own browser and distributing it when you're a very small company, looks like a very impossible job.
+
+271
+00:45:16.150 --> 00:45:24.970
+Ankit Shukla: Right? But what happened was, the company was infused into a lot of money. Amazon, Facebook, other companies have started investing in purpose.
+
+272
+00:45:26.310 --> 00:45:32.580
+Ankit Shukla: And then Pulpit City got a lot of money, and they thought that, yes, now is the time that our company is strong enough
+
+273
+00:45:32.770 --> 00:45:39.379
+Ankit Shukla: we have enough kind of good developers and good systems and processes at place so that we are able to create a browser such as Common.
+
+274
+00:45:40.920 --> 00:45:45.960
+Ankit Shukla: Right? And based on these things, definitely they have taken a decision to build Comet, the browser.
+
+275
+00:45:46.800 --> 00:45:48.679
+Ankit Shukla: Right? Similarly with Amazon.
+
+276
+00:45:53.050 --> 00:45:58.330
+Ankit Shukla: What it did was… They understood.
+
+277
+00:45:58.850 --> 00:46:03.760
+Ankit Shukla: what the customers want. What customers want? Customer wants things cheaper.
+
+278
+00:46:04.110 --> 00:46:08.340
+Ankit Shukla: And they want things faster, cheaper and faster. This need will not change.
+
+279
+00:46:09.180 --> 00:46:16.020
+Ankit Shukla: Right? This is the ultimate need that everyone has, which is, I want things cheaper. I want things faster.
+
+280
+00:46:17.040 --> 00:46:17.820
+Ankit Shukla: Right.
+
+281
+00:46:18.040 --> 00:46:18.880
+Ankit Shukla: Then?
+
+282
+00:46:20.400 --> 00:46:22.829
+Ankit Shukla: Our real core customer needs.
+
+283
+00:46:23.280 --> 00:46:26.820
+Ankit Shukla: And then they understood that what are… what is the competition do?
+
+284
+00:46:27.080 --> 00:46:30.199
+Ankit Shukla: All the competitions are asking for delivery fees.
+
+285
+00:46:30.340 --> 00:46:35.129
+Ankit Shukla: They are not so fast. So what we should do is, we should go ahead and give people
+
+286
+00:46:35.430 --> 00:46:44.059
+Ankit Shukla: A completely free delivery for any number of orders, and it is all the… most of the items are available on next day, within 24 hours.
+
+287
+00:46:44.670 --> 00:46:50.399
+Ankit Shukla: Right? So… They responded about how the competitors are going to.
+
+288
+00:46:50.640 --> 00:46:51.790
+Ankit Shukla: operating demand.
+
+289
+00:46:52.400 --> 00:46:53.959
+Ankit Shukla: After that, the company.
+
+290
+00:46:54.220 --> 00:46:56.210
+Ankit Shukla: Similarly here, understand that if
+
+291
+00:46:56.630 --> 00:47:03.449
+Ankit Shukla: You are a company who's taking such a long bet. You have to get your stakeholders on the same page.
+
+292
+00:47:03.930 --> 00:47:18.740
+Ankit Shukla: Right? You have to get your stakeholders on the same page. So here, a company, how you are going to execute it, what are going to be the operations of doing all of these things, delivering on the second day, and then not taking money for the same, how you are going to do this? Right? And then they evolve it into a product called a Sprime.
+
+293
+00:47:18.890 --> 00:47:22.290
+Ankit Shukla: And all of you know about the features and the consideration that Prime has.
+
+294
+00:47:24.040 --> 00:47:27.580
+Ankit Shukla: Right, so this is how a strategy is created.
+
+295
+00:47:27.900 --> 00:47:32.560
+Ankit Shukla: If you only understand the four parts, you should be able to create a great strategy.
+
+296
+00:47:34.510 --> 00:47:37.969
+Ankit Shukla: Right? So, Amazon always talked about that
+
+297
+00:47:38.650 --> 00:47:41.100
+Ankit Shukla: If you want to create good, great products.
+
+298
+00:47:41.480 --> 00:47:50.910
+Ankit Shukla: You have to focus on the things that are never going to change for the competitors, that are not… never going to stop mattering for the customers, such as
+
+299
+00:47:51.260 --> 00:47:53.559
+Ankit Shukla: your, price?
+
+300
+00:47:54.350 --> 00:47:57.560
+Ankit Shukla: Your speed to deliver, These two things.
+
+301
+00:47:58.400 --> 00:48:01.509
+Ankit Shukla: However, One more company came.
+
+302
+00:48:01.910 --> 00:48:06.560
+Ankit Shukla: which fought with Amazon on the same grounds, and then they have almost lost.
+
+303
+00:48:06.890 --> 00:48:14.140
+Ankit Shukla: Can anyone tell me which company is competing with Amazon and they were able to lose on that particular value proposition of speed and
+
+304
+00:48:14.620 --> 00:48:15.340
+Ankit Shukla: Bye.
+
+305
+00:48:22.730 --> 00:48:24.599
+Ankit Shukla: Flipkart is an older story, guys.
+
+306
+00:48:25.770 --> 00:48:31.380
+Ankit Shukla: The recent story right now, is the quick commerce.
+
+307
+00:48:33.350 --> 00:48:37.870
+Ankit Shukla: Amazon came up with this idea that customers want things as soon as possible.
+
+308
+00:48:38.320 --> 00:48:44.940
+Ankit Shukla: But their definition of as soon as possible, because of the company baggage that they were carrying, was what? It was one day.
+
+309
+00:48:45.700 --> 00:48:51.389
+Ankit Shukla: But then these players such as Zepto, Blinkit, Instamart of the World understood that
+
+310
+00:48:52.280 --> 00:48:54.539
+Ankit Shukla: Or maybe in the US, we have Instacart.
+
+311
+00:48:55.280 --> 00:49:03.420
+Ankit Shukla: Understood that if food can be delivered in a few minutes, why can't groceries and other items can also be delivered at the same time?
+
+312
+00:49:06.590 --> 00:49:07.380
+Ankit Shukla: Right?
+
+313
+00:49:08.160 --> 00:49:11.899
+Ankit Shukla: Cool. Now, a very important question which Aman has asked.
+
+314
+00:49:12.250 --> 00:49:20.300
+Ankit Shukla: Which is… Amazon, and Blinkit, and Zepto.
+
+315
+00:49:20.680 --> 00:49:22.750
+Ankit Shukla: They don't operate in the same domain.
+
+316
+00:49:23.350 --> 00:49:25.989
+Ankit Shukla: No. They actually operate in the same room.
+
+317
+00:49:26.640 --> 00:49:34.479
+Ankit Shukla: Although Blinket started with grocery, and Zepo started with grocery and all, but now everyone is eating from Amazon Spy.
+
+318
+00:49:35.050 --> 00:49:40.099
+Ankit Shukla: Okay, so people who are using… who are… who are in the, in the modern cities.
+
+319
+00:49:40.300 --> 00:49:47.409
+Ankit Shukla: let's say Bangalore, or New Delhi, or Hyderabad, or Mumbai.
+
+320
+00:49:47.550 --> 00:49:50.980
+Ankit Shukla: Can you tell me when was the last time when you have used the Quick Delivery app?
+
+321
+00:49:52.860 --> 00:49:55.920
+Ankit Shukla: Tell me, what was the last time when you've used a quick delivery app?
+
+322
+00:50:00.030 --> 00:50:03.529
+Ankit Shukla: Yes? So this is the adoption. You can see the adoption in the chat itself.
+
+323
+00:50:07.230 --> 00:50:12.039
+Ankit Shukla: Right? Otherwise, what happens? Otherwise, what happens? Some of this part
+
+324
+00:50:12.340 --> 00:50:14.399
+Ankit Shukla: you would have taken from Amazon.
+
+325
+00:50:15.210 --> 00:50:21.689
+Ankit Shukla: Right? Or you would have taken from Big Basket, or maybe some other traditional players, right? So there is, like, a strong adoption for the same. So.
+
+326
+00:50:21.920 --> 00:50:28.339
+Ankit Shukla: The strategy of one company Was actually implemented by other companies, much better than the company that gave it.
+
+327
+00:50:30.500 --> 00:50:35.680
+Ankit Shukla: Right? So, if you… again, repeating, if you just understand 3C and P,
+
+328
+00:50:36.250 --> 00:50:38.749
+Ankit Shukla: You would have a very strong strategy.
+
+329
+00:50:42.760 --> 00:50:43.560
+Ankit Shukla: Right?
+
+330
+00:50:46.090 --> 00:50:46.830
+Ankit Shukla: Cool.
+
+331
+00:50:47.280 --> 00:50:48.180
+Ankit Shukla: Now…
+
+332
+00:50:51.190 --> 00:50:52.859
+Ankit Shukla: I have created… understand, guys.
+
+333
+00:50:54.380 --> 00:50:56.460
+Ankit Shukla: The quality of your strategy.
+
+334
+00:50:57.670 --> 00:50:59.270
+Ankit Shukla: Quality of a strategy.
+
+335
+00:50:59.810 --> 00:51:05.240
+Ankit Shukla: is based on two components. Whether your strategy would be good enough or not is based on two components.
+
+336
+00:51:06.350 --> 00:51:08.889
+Ankit Shukla: The first part is the research that you have done.
+
+337
+00:51:09.900 --> 00:51:21.459
+Ankit Shukla: Right? If you're not doing the right kind of research, even if you can understand the product at a high level, or if you understand the competition at a high level, even if you follow all of these four steps, you will still create a crappy strategy.
+
+338
+00:51:22.350 --> 00:51:28.690
+Ankit Shukla: Right? So understanding, if you want to create a great strategy, you have to do some careful research.
+
+339
+00:51:29.700 --> 00:51:32.540
+Ankit Shukla: And it is worth investing.
+
+340
+00:51:32.710 --> 00:51:39.560
+Ankit Shukla: It is worth investing the time in creating a strategy, because it defines your product for a longer stop.
+
+341
+00:51:40.570 --> 00:51:44.090
+Ankit Shukla: Right? So, first is… the research.
+
+342
+00:51:44.660 --> 00:51:46.689
+Ankit Shukla: And the second is the agility.
+
+343
+00:51:47.250 --> 00:51:53.709
+Ankit Shukla: Now, agility should not be taken in a wrong way, that whenever someone changes, you are going to change your product strategy. Because understand.
+
+344
+00:51:55.370 --> 00:52:01.970
+Ankit Shukla: Understand the purpose of product strategy. The purpose of product strategy is to help the business achieve its outcomes through the product.
+
+345
+00:52:02.320 --> 00:52:06.650
+Ankit Shukla: But there is one core purpose of having this strategy, which is to give your team
+
+346
+00:52:06.800 --> 00:52:16.969
+Ankit Shukla: a clear-cut roadmap and a big picture. And if this big picture keeps on changing from time and then, and if you have not, let's say, created a good vision statement, then your company is going to fall.
+
+347
+00:52:17.350 --> 00:52:19.630
+Ankit Shukla: Right? So, right agility.
+
+348
+00:52:20.000 --> 00:52:25.279
+Ankit Shukla: Plus, the right kind of research is going to help you build a good… create a good product strategy.
+
+349
+00:52:26.110 --> 00:52:35.250
+Ankit Shukla: Right? And in order to create a product strategy, you have to implement multiple frameworks, you have to talk to multiple people, and then you'll be able to create a good product strategy.
+
+350
+00:52:35.810 --> 00:52:38.320
+Ankit Shukla: Right? So let me go ahead and give you some frameworks as well.
+
+351
+00:53:07.020 --> 00:53:07.830
+Ankit Shukla: Yes.
+
+352
+00:53:12.140 --> 00:53:12.820
+Ankit Shukla: Yes.
+
+353
+00:53:13.460 --> 00:53:17.269
+Ankit Shukla: Talking about the frameworks, a very, very important part, understand.
+
+354
+00:53:18.950 --> 00:53:21.210
+Ankit Shukla: Frameworks are like a car.
+
+355
+00:53:21.860 --> 00:53:24.990
+Ankit Shukla: Okay, a car is not good or bad in itself.
+
+356
+00:53:25.490 --> 00:53:37.270
+Ankit Shukla: It depends upon the driver who is driving it. If you are a rash driver, you are going to meet an accident, no matter what kind of car that you are driving. Car can maybe reduce the impact of an accident, but still, you are going to have it.
+
+357
+00:53:37.460 --> 00:53:44.550
+Ankit Shukla: Right? So, frameworks do not think that frameworks are silver bullets, so I'll write it down. Frameworks… odd.
+
+358
+00:53:45.660 --> 00:53:48.700
+Ankit Shukla: just… thinking structures.
+
+359
+00:53:50.440 --> 00:53:53.810
+Ankit Shukla: and not… Silver bullets.
+
+360
+00:53:55.530 --> 00:53:58.519
+Ankit Shukla: For example, when you do a comparative analysis.
+
+361
+00:53:59.330 --> 00:54:03.140
+Ankit Shukla: What should you consider in that competitive analysis.
+
+362
+00:54:04.350 --> 00:54:12.970
+Ankit Shukla: Right? For example, if you are anytime looking to understand what your competition is and what they are doing, for competitive analysis, we have multiple frameworks.
+
+363
+00:54:13.860 --> 00:54:19.490
+Ankit Shukla: A simple framework is… feature… comparison.
+
+364
+00:54:20.180 --> 00:54:28.500
+Ankit Shukla: You can just compare what are the features of this competitor, and what are my features. That is a simple, high-level framework that you can use.
+
+365
+00:54:29.510 --> 00:54:35.579
+Ankit Shukla: The second is… A very important one, and a very traditional one, called a thought analysis.
+
+366
+00:54:36.560 --> 00:54:41.919
+Ankit Shukla: A quick yes on everyone if you know what is SWAT analysis, HWOT. Only yes or no, not the full form.
+
+367
+00:54:49.590 --> 00:54:50.280
+Ankit Shukla: Yes.
+
+368
+00:54:50.470 --> 00:54:51.929
+Ankit Shukla: Sort is stand for.
+
+369
+00:54:53.470 --> 00:54:54.579
+Ankit Shukla: There's a chance?
+
+370
+00:54:55.850 --> 00:54:57.150
+Ankit Shukla: Weaknesses?
+
+371
+00:54:58.600 --> 00:55:02.660
+Ankit Shukla: Opportunities, and… types.
+
+372
+00:55:03.910 --> 00:55:12.749
+Ankit Shukla: So, your competition in your company, what is its strengths, what are its weaknesses, what are the opportunities, and what are the threats?
+
+373
+00:55:13.990 --> 00:55:21.620
+Ankit Shukla: Right? I'll share some notes with you so that you guys can read about it. I don't think that would be the best utilization of the session time to help you understand these things.
+
+374
+00:55:21.950 --> 00:55:24.330
+Ankit Shukla: Okay, because these are simple business frameworks.
+
+375
+00:55:25.000 --> 00:55:27.210
+Ankit Shukla: Similarly, in order to understand
+
+376
+00:55:31.630 --> 00:55:36.610
+Ankit Shukla: the ecosystem There's a framework called us.
+
+377
+00:55:37.600 --> 00:55:39.610
+Ankit Shukla: Motors, five forces.
+
+378
+00:55:41.400 --> 00:55:42.400
+Ankit Shukla: Which is?
+
+379
+00:55:42.850 --> 00:55:47.700
+Ankit Shukla: Whenever you try to enter any new market, You have to understand
+
+380
+00:55:48.180 --> 00:55:51.489
+Ankit Shukla: How strong are the companies that are already in that market?
+
+381
+00:55:52.640 --> 00:55:55.380
+Ankit Shukla: What is the bargaining power of the customer?
+
+382
+00:55:56.400 --> 00:56:07.110
+Ankit Shukla: Right? And what are the other components that will help you thrive in this particular market? So there are five forces that OTOR says, which I will go ahead and include the link so that you can go ahead and read more.
+
+383
+00:56:07.660 --> 00:56:11.660
+Ankit Shukla: And the last framework is… Pastel framework.
+
+384
+00:56:12.060 --> 00:56:13.040
+Ankit Shukla: Which is?
+
+385
+00:56:13.470 --> 00:56:18.530
+Ankit Shukla: political… economic… social sharing.
+
+386
+00:56:18.730 --> 00:56:23.860
+Ankit Shukla: technical… legal, and… Environmental.
+
+387
+00:56:24.130 --> 00:56:28.400
+Ankit Shukla: Effects or environmental aspects of your market.
+
+388
+00:56:32.720 --> 00:56:37.139
+Ankit Shukla: Right? So… If you remember the first two session that I've told you.
+
+389
+00:56:37.510 --> 00:56:42.370
+Ankit Shukla: Understand, guys, these things are… like, this is not rocket science.
+
+390
+00:56:43.050 --> 00:56:47.839
+Ankit Shukla: Someone has done enough strategies and enough competitive analysis.
+
+391
+00:56:48.160 --> 00:56:50.540
+Ankit Shukla: That they were able to find pattern.
+
+392
+00:56:50.650 --> 00:57:01.439
+Ankit Shukla: that every time I conduct an analysis, I was able to find good things when I go ahead and do feature comparisons, sort analysis, photography courses, and questions. So people have done it repeated number of times to convert them into
+
+393
+00:57:02.460 --> 00:57:12.580
+Ankit Shukla: convert them into some kind of variables. That whenever you do this, try to understand these variables, and it will give you most of the understanding about that particular idea.
+
+394
+00:57:13.070 --> 00:57:19.580
+Ankit Shukla: Right? So these are the frameworks that you can read about. Similarly, To understand your customers.
+
+395
+00:57:21.040 --> 00:57:22.559
+Ankit Shukla: Can you guys tell me what…
+
+396
+00:57:23.000 --> 00:57:26.390
+Ankit Shukla: are the frameworks to understand your customers? Tell me in the chat, please.
+
+397
+00:57:45.390 --> 00:57:46.130
+Ankit Shukla: Yes.
+
+398
+00:57:46.370 --> 00:57:47.890
+Ankit Shukla: Job to be done.
+
+399
+00:57:48.220 --> 00:58:01.620
+Ankit Shukla: Thinking through first principles, Applying mom status, Right? Building journey… Persona… Right?
+
+400
+00:58:04.520 --> 00:58:08.619
+Ankit Shukla: These are the things that you need to implement to understand your customers better.
+
+401
+00:58:12.530 --> 00:58:17.659
+Ankit Shukla: After that, Competition, Customers we have.
+
+402
+00:58:19.080 --> 00:58:19.950
+Ankit Shukla: company.
+
+403
+00:58:21.570 --> 00:58:24.300
+Ankit Shukla: Now, for companies, What do we do?
+
+404
+00:58:25.390 --> 00:58:32.279
+Ankit Shukla: Any ideas from anyone? What are the frameworks that we can implement for companies? Yes, very good, Aman. Sort analysis for your own company.
+
+405
+00:58:53.590 --> 00:58:59.279
+Ankit Shukla: Yes. There is something called as BCG model, which you guys can also read about, which is also an interesting part.
+
+406
+00:59:04.250 --> 00:59:07.609
+Ankit Shukla: How many of you know about a BCG model? A quick yes or no in the chat.
+
+407
+00:59:10.670 --> 00:59:13.460
+Ankit Shukla: So I'll include a load. It's a very simple framework.
+
+408
+00:59:13.770 --> 00:59:15.439
+Ankit Shukla: Which works in the following way.
+
+409
+00:59:16.450 --> 00:59:18.359
+Ankit Shukla: I'll just give you a small idea.
+
+410
+00:59:18.860 --> 00:59:27.610
+Ankit Shukla: So you create a graph, And you say, that your market is…
+
+411
+00:59:29.230 --> 00:59:30.859
+Ankit Shukla: This is the growth of the market.
+
+412
+00:59:33.650 --> 00:59:38.250
+Ankit Shukla: And this is… your… market share.
+
+413
+00:59:39.920 --> 00:59:42.330
+Ankit Shukla: Right? So if your market share
+
+414
+00:59:42.490 --> 00:59:46.110
+Ankit Shukla: Is growing, and the market is also growing, then you are at a good part.
+
+415
+00:59:46.430 --> 00:59:47.200
+Ankit Shukla: If…
+
+416
+00:59:47.530 --> 00:59:59.219
+Ankit Shukla: you are growing, and market share is not growing, then you are going to hit a ceiling. If your market share is high, but if the market is not growing, then you are a cash cow.
+
+417
+00:59:59.380 --> 01:00:03.850
+Ankit Shukla: And then, if you are not growing and the market is not growing, Ben?
+
+418
+01:00:04.860 --> 01:00:07.800
+Ankit Shukla: You are wasting your time in that opportunity space.
+
+419
+01:00:09.000 --> 01:00:13.159
+Ankit Shukla: Right? So, it will help you understand that how fast the market is going.
+
+420
+01:00:13.440 --> 01:00:16.560
+Ankit Shukla: What are the opportunities, and whether you need to be aggressive in this market.
+
+421
+01:00:19.710 --> 01:00:25.629
+Ankit Shukla: Right? So, thought… BCG model is something, and that is also called as
+
+422
+01:00:26.540 --> 01:00:31.260
+Ankit Shukla: There is also something called as It's stakeholder mapping.
+
+423
+01:00:32.540 --> 01:00:33.470
+Ankit Shukla: Which is?
+
+424
+01:00:33.790 --> 01:00:36.450
+Ankit Shukla: Who are the people who are available in your companies?
+
+425
+01:00:36.940 --> 01:00:42.629
+Ankit Shukla: Who can go ahead and do this job, who cannot do this job, so that you are able to understand whether you can take this bet or not.
+
+426
+01:00:42.940 --> 01:00:47.280
+Ankit Shukla: And if you have money, for example, if your strength, is the money.
+
+427
+01:00:47.620 --> 01:00:51.169
+Ankit Shukla: Or your opportunity is that you can get the funding as soon as possible.
+
+428
+01:00:51.340 --> 01:00:52.100
+Ankit Shukla: Then?
+
+429
+01:00:53.560 --> 01:00:57.240
+Ankit Shukla: You can go ahead and do a different kind of stakeholder mapping by hiring new people.
+
+430
+01:00:59.160 --> 01:00:59.890
+Ankit Shukla: Yes.
+
+431
+01:01:03.390 --> 01:01:05.650
+Ankit Shukla: Correct. And then, there is a product.
+
+432
+01:01:06.170 --> 01:01:11.329
+Ankit Shukla: Now, in the product, you can go ahead and have multiple things, which we have already told you, which is…
+
+433
+01:01:11.480 --> 01:01:16.710
+Ankit Shukla: the problem space… Versus… solution space.
+
+434
+01:01:23.270 --> 01:01:29.169
+Ankit Shukla: Right? And a lot of things. Let's say you can create a roadmap, For the product.
+
+435
+01:01:29.530 --> 01:01:34.199
+Ankit Shukla: You can now include all the competitive analysis that you have done, you can create a value prop.
+
+436
+01:01:34.680 --> 01:01:38.469
+Ankit Shukla: Right? So if you go ahead and implement all of these things.
+
+437
+01:01:38.680 --> 01:01:45.089
+Ankit Shukla: like this framework that I've told you, you should be able to go ahead and get Good at Productions.
+
+438
+01:01:46.750 --> 01:01:49.120
+Ankit Shukla: Right? Now we have also created
+
+439
+01:01:52.220 --> 01:01:53.590
+Ankit Shukla: We have also created.
+
+440
+01:01:54.150 --> 01:01:57.859
+Ankit Shukla: some sample product strategies for you. So, in the same slide.
+
+441
+01:01:58.020 --> 01:02:01.269
+Ankit Shukla: If you click on this particular button of Strategy Notion Template.
+
+442
+01:02:02.040 --> 01:02:04.179
+Ankit Shukla: You should be able to get a template.
+
+443
+01:02:05.680 --> 01:02:11.649
+Ankit Shukla: that can help you create a good strategy. So this template contains, first, the vision and the goals.
+
+444
+01:02:12.120 --> 01:02:13.859
+Ankit Shukla: Where are you trying to go?
+
+445
+01:02:14.340 --> 01:02:16.460
+Ankit Shukla: And how would you know if you've already got it?
+
+446
+01:02:16.700 --> 01:02:18.169
+Ankit Shukla: So, vision and the boots.
+
+447
+01:02:18.500 --> 01:02:20.240
+Ankit Shukla: Second is value proposition.
+
+448
+01:02:20.460 --> 01:02:21.450
+Ankit Shukla: Understand?
+
+449
+01:02:22.100 --> 01:02:25.090
+Ankit Shukla: The strategy is written after the research is done.
+
+450
+01:02:25.440 --> 01:02:31.870
+Ankit Shukla: Right? So now, after the research is done, you would know that how you are going to differentiate in the market, what is a value proposition for your customers.
+
+451
+01:02:32.760 --> 01:02:38.720
+Ankit Shukla: Right? Then, who is the target market? What are their needs? Computative analysis through sort.
+
+452
+01:02:39.290 --> 01:02:43.450
+Ankit Shukla: Feature prioritizations, after doing all of these things, you would have came across some features.
+
+453
+01:02:43.790 --> 01:02:49.550
+Ankit Shukla: that we can build this in order to help the customer do this, right? So then you are going to prioritize this.
+
+454
+01:02:50.270 --> 01:03:00.420
+Ankit Shukla: Right? And then you are going to build a roadmap, then you will do the resource allocation, then there would be metrics and KPIs for everything which are derived from your goals, and what the product can do.
+
+455
+01:03:01.190 --> 01:03:06.880
+Ankit Shukla: And then we are going to talk about lifecycle management, how the product will evolve, If, let's say.
+
+456
+01:03:07.160 --> 01:03:18.319
+Ankit Shukla: this product is going to die down, then what will be the end of life cycle for this product? And then what are the risks? Super important. Like, what are the risks in this strategy? What are the assumptions that we are taking?
+
+457
+01:03:20.160 --> 01:03:21.819
+Ankit Shukla: Right? And then…
+
+458
+01:03:21.930 --> 01:03:29.099
+Ankit Shukla: there is a communication and alignment thing, and then we are going to talk about iterative adoption. Like, how are we going to… so let's say…
+
+459
+01:03:29.760 --> 01:03:36.549
+Ankit Shukla: We will see what are the things that can change in the market, so that we have to adopt to the market and change the strategy.
+
+460
+01:03:37.440 --> 01:03:42.219
+Ankit Shukla: Right? And then, reviews and updates, and then there are some examples as well. Okay.
+
+461
+01:03:42.670 --> 01:03:45.050
+Ankit Shukla: Understand product strategy is a live document.
+
+462
+01:03:45.550 --> 01:04:00.099
+Ankit Shukla: It is not a PDF, it is a live Google Doc or Confluence document, where you can always keep on adding, you can keep on removing, and you can keep on iterating the document. And whatever important changes that you are doing, you can always mention them in the review and update part.
+
+463
+01:04:02.910 --> 01:04:08.589
+Ankit Shukla: Right? And then, there are some samples that we have created, let's say LinkedIn product strategy based on the same framework.
+
+464
+01:04:09.040 --> 01:04:17.130
+Ankit Shukla: So what is the mission of… vision of LinkedIn? To be world's premier professional network, connecting all professionals and helping them to be more productive and successful.
+
+465
+01:04:17.260 --> 01:04:19.190
+Ankit Shukla: This is what the ultimate product will do.
+
+466
+01:04:19.360 --> 01:04:29.220
+Ankit Shukla: What are the goals? Increase user engagement by 20% in the next year. Expand revenue from premium subscription by 15% in the next 2 years. This is generally decided by the top management.
+
+467
+01:04:30.800 --> 01:04:31.560
+Ankit Shukla: Right?
+
+468
+01:04:31.700 --> 01:04:35.139
+Ankit Shukla: These numbers might not be fixed, but they always give you the direction.
+
+469
+01:04:36.390 --> 01:04:47.730
+Ankit Shukla: Right? After that, there is value proposition. Unique value proposition is LinkedIn offers a professional network that connects individuals with opportunities, information, insights, enabling them to build their careers and businesses.
+
+470
+01:04:48.410 --> 01:04:51.319
+Ankit Shukla: Right? Not as any other network is as large.
+
+471
+01:04:51.430 --> 01:04:57.809
+Ankit Shukla: And then… There are target markets, they have been targeting professionals across various industries.
+
+472
+01:04:59.940 --> 01:05:07.139
+Ankit Shukla: Seeking networking and career growth opportunities. What are their needs? Job opportunities, professional connections, industry insights, and learning resources.
+
+473
+01:05:07.330 --> 01:05:12.629
+Ankit Shukla: Although I have defined this as a high level, but you can go at any level of depth that you want.
+
+474
+01:05:14.350 --> 01:05:15.160
+Ankit Shukla: Right?
+
+475
+01:05:15.260 --> 01:05:17.460
+Ankit Shukla: And then there are multiple other things as well.
+
+476
+01:05:17.580 --> 01:05:20.589
+Ankit Shukla: Which you can go ahead and read by yourself as well.
+
+477
+01:05:24.270 --> 01:05:25.040
+Ankit Shukla: Right?
+
+478
+01:05:25.240 --> 01:05:31.460
+Ankit Shukla: So, let's say… After doing all of these things, We were able to.
+
+479
+01:05:31.780 --> 01:05:33.659
+Ankit Shukla: Get to the feature prioritization.
+
+480
+01:05:34.540 --> 01:05:36.569
+Ankit Shukla: Feature prioritization is key features.
+
+481
+01:05:36.860 --> 01:05:39.909
+Ankit Shukla: Enhanced job search and matching algorithms.
+
+482
+01:05:40.830 --> 01:05:44.149
+Ankit Shukla: In our job search and matching algorithm, this is the first feature that we have thought.
+
+483
+01:05:44.390 --> 01:05:50.090
+Ankit Shukla: Improved content discovery and personalization. Expansion of LinkedIn Learning Library.
+
+484
+01:05:50.520 --> 01:05:56.639
+Ankit Shukla: Right, so these are the three features, and then we have prioritized them in order to go ahead and build a particular roadmap.
+
+485
+01:05:58.060 --> 01:06:02.470
+Ankit Shukla: Right, so if you go ahead and do it for the favorite products that you have chosen.
+
+486
+01:06:02.640 --> 01:06:05.829
+Ankit Shukla: You would be able to get not only the understanding of that product.
+
+487
+01:06:06.060 --> 01:06:10.140
+Ankit Shukla: But the industry understanding of this whole industry.
+
+488
+01:06:13.350 --> 01:06:14.180
+Ankit Shukla: Right?
+
+489
+01:06:17.410 --> 01:06:22.030
+Ankit Shukla: All of these links will be available to you guys. This would be available in the LMS.
+
+490
+01:06:23.100 --> 01:06:23.930
+Ankit Shukla: Okay.
+
+491
+01:06:24.090 --> 01:06:25.940
+Ankit Shukla: So this is about product strategy.
+
+492
+01:06:26.210 --> 01:06:31.119
+Ankit Shukla: Okay, after product strategy, once you have created a product strategy, this is what we are going to do.
+
+493
+01:06:32.280 --> 01:06:34.219
+Ankit Shukla: You go ahead and do product delivery.
+
+494
+01:06:34.980 --> 01:06:39.129
+Ankit Shukla: Product delivery means… How do you go ahead and
+
+495
+01:06:39.400 --> 01:06:42.169
+Ankit Shukla: Start executing on the product strategy.
+
+496
+01:06:42.370 --> 01:06:44.900
+Ankit Shukla: Just thinking and not doing will not take you anywhere.
+
+497
+01:06:45.220 --> 01:06:48.399
+Ankit Shukla: So now you have to make sure that you are able to create a strategy.
+
+498
+01:06:49.000 --> 01:06:52.120
+Ankit Shukla: In such a format that your team is able to follow it.
+
+499
+01:06:52.350 --> 01:06:56.229
+Ankit Shukla: And you are able to help them build a good, tangible product.
+
+500
+01:06:56.490 --> 01:06:58.319
+Ankit Shukla: Out of this particular car.
+
+501
+01:06:58.710 --> 01:07:02.429
+Ankit Shukla: out of this particular strategy. So in the product delivery, what we do is.
+
+502
+01:07:03.790 --> 01:07:06.000
+Ankit Shukla: Understand the first step is always overlapping.
+
+503
+01:07:06.650 --> 01:07:08.329
+Ankit Shukla: The first step is always overlapping.
+
+504
+01:07:08.630 --> 01:07:22.150
+Ankit Shukla: Building a roadmap happens at the end part of discovery or strategy as well, and it also is a part of product delivery, like improvement of that, right? Then you do prioritization, create a product requirement document, do agile development, and then you coordinate with the statement.
+
+505
+01:07:23.430 --> 01:07:26.629
+Ankit Shukla: Right? So this is what happens in product discovery.
+
+506
+01:07:27.180 --> 01:07:28.839
+Ankit Shukla: You create those strategies.
+
+507
+01:07:29.150 --> 01:07:36.359
+Ankit Shukla: How do you create a strategy? By doing the user research, by doing the market research, and also by doing brainstorming with your team.
+
+508
+01:07:39.300 --> 01:07:40.160
+Ankit Shukla: Right?
+
+509
+01:07:41.360 --> 01:07:42.530
+Ankit Shukla: Prioritization?
+
+510
+01:07:42.860 --> 01:07:44.950
+Ankit Shukla: There are multiple methods of prioritization.
+
+511
+01:07:45.660 --> 01:07:48.990
+Ankit Shukla: How do you set the goals? It's through OKRs, I'm going to tell you in a moment.
+
+512
+01:07:49.300 --> 01:07:56.829
+Ankit Shukla: Then we have a framework called as RISE, ICE, and Kano model, which we are going to talk about in the next class, so that you understand about how to do paradigm.
+
+513
+01:07:56.990 --> 01:08:00.529
+Ankit Shukla: And then we have our roadmap. So, once you do all of these things.
+
+514
+01:08:01.450 --> 01:08:05.839
+Ankit Shukla: The output is a good, solid product roadmap.
+
+515
+01:08:08.920 --> 01:08:13.979
+Ankit Shukla: Right? So this is how the strategy part works. You create a product strategy.
+
+516
+01:08:14.910 --> 01:08:21.339
+Ankit Shukla: Okay, and product strategy is not created in isolation. It is informed by all of these three parts that I have told you.
+
+517
+01:08:22.600 --> 01:08:29.180
+Ankit Shukla: Right? And in this strategy also is a part which is called as OKRs, which is what the company wants to do, what is the goal.
+
+518
+01:08:29.490 --> 01:08:33.220
+Ankit Shukla: And then you go ahead and build a timeline by prioritizing all this stuff.
+
+519
+01:08:36.550 --> 01:08:37.390
+Ankit Shukla: Right?
+
+520
+01:08:38.399 --> 01:08:42.689
+Ankit Shukla: Yes, although we can discuss about creating a roadmap, but I think that would be too much.
+
+521
+01:08:44.450 --> 01:08:45.180
+Ankit Shukla: Cool.
+
+522
+01:08:48.410 --> 01:08:49.180
+Ankit Shukla: Yes.
+
+523
+01:08:49.319 --> 01:08:55.329
+Ankit Shukla: It is both Rupa, ICE, or ICE. We use some in other format and one in other format. I'm going to tell you about both the ideas.
+
+524
+01:08:55.560 --> 01:08:56.310
+Ankit Shukla: Okay.
+
+525
+01:08:56.550 --> 01:09:04.190
+Ankit Shukla: Cool. So guys, what we'll do is, because strategy is an important topic, I want you to first go through all of this document before we can move ahead.
+
+526
+01:09:04.310 --> 01:09:05.810
+Ankit Shukla: So what we'll do today is…
+
+527
+01:09:08.410 --> 01:09:10.969
+Ankit Shukla: Let us take a quick break of 5 minutes right now.
+
+528
+01:09:11.380 --> 01:09:15.459
+Ankit Shukla: After that, you guys through your questions. Okay.
+
+529
+01:09:15.640 --> 01:09:27.200
+Ankit Shukla: After that, I'll go ahead and give you all of these links, so you guys can go through it, read them today, and then from tomorrow, I can go ahead and take all of your questions that you might have over there, and then we can talk about the product.
+
+530
+01:09:27.580 --> 01:09:39.339
+Ankit Shukla: Okay, understand? Product strategy cannot be understood by passively listening to this session. You have to read those strategies, you have to understand at least some parts of this framework that I've told you in order to move forward. This has to be active work.
+
+531
+01:09:40.060 --> 01:09:43.990
+Ankit Shukla: Okay, so a quick break of 5 minutes, and then we will connect back.
+
+532
+01:09:45.109 --> 01:09:49.140
+Ankit Shukla: Go ahead, guys. Take a sip of water, stretch yourself, and come back.
+
+533
+01:14:53.610 --> 01:14:57.100
+Ankit Shukla: Hello everyone, welcome back. Please write, I'm back in the chat if you are back.
+
+534
+01:15:04.840 --> 01:15:05.680
+Ankit Shukla: Cool.
+
+535
+01:15:05.920 --> 01:15:10.400
+Ankit Shukla: Based on the request from Yes.
+
+536
+01:15:11.820 --> 01:15:13.469
+Ankit Shukla: Just give me one moment, please.
+
+537
+01:15:24.770 --> 01:15:30.700
+Ankit Shukla: Yes. So, based on the request from the folks, Let us do a… Quick.
+
+538
+01:15:31.350 --> 01:15:32.140
+Ankit Shukla: Division.
+
+539
+01:15:32.510 --> 01:15:33.270
+Ankit Shukla: Okay.
+
+540
+01:15:33.480 --> 01:15:37.280
+Ankit Shukla: So, we are here talking about product strategy, okay?
+
+541
+01:15:37.890 --> 01:15:44.970
+Ankit Shukla: What is product strategy? Product strategy is a major component of a business strategy as any product-based company.
+
+542
+01:15:45.170 --> 01:15:50.659
+Ankit Shukla: That makes sure that the product is able to help the company achieve its goal by solving the user problems.
+
+543
+01:15:50.910 --> 01:15:54.430
+Ankit Shukla: Okay, so there is a… business strategy?
+
+544
+01:15:55.440 --> 01:15:56.390
+Ankit Shukla: And then…
+
+545
+01:15:56.570 --> 01:16:02.880
+Ankit Shukla: This business strategy would have one critical part, which is called as a product strategy. So what role is product going to play over here?
+
+546
+01:16:03.880 --> 01:16:08.389
+Ankit Shukla: Right? So, product strategy is… a plan?
+
+547
+01:16:10.340 --> 01:16:15.420
+Ankit Shukla: That will help you achieve your… Product provision.
+
+548
+01:16:15.560 --> 01:16:16.360
+Ankit Shukla: Right?
+
+549
+01:16:18.250 --> 01:16:19.730
+Ankit Shukla: By solving the user problems.
+
+550
+01:16:19.970 --> 01:16:20.700
+Ankit Shukla: Right.
+
+551
+01:16:22.050 --> 01:16:22.950
+Ankit Shukla: No.
+
+552
+01:16:24.650 --> 01:16:30.650
+Ankit Shukla: product strategy, It's con… is containing of four components.
+
+553
+01:16:32.530 --> 01:16:37.769
+Ankit Shukla: The first component, and the most essential component, is the customers.
+
+554
+01:16:39.570 --> 01:16:43.750
+Ankit Shukla: who they are, Right? What are their needs?
+
+555
+01:16:44.390 --> 01:16:47.210
+Ankit Shukla: desires… problems.
+
+556
+01:16:48.770 --> 01:16:51.260
+Ankit Shukla: Right? And what is their context, eventually?
+
+557
+01:16:53.100 --> 01:16:54.570
+Ankit Shukla: Then the second part is…
+
+558
+01:16:56.600 --> 01:17:03.699
+Ankit Shukla: your competition, or you can also consider it as an ecosystem. What are the things that are in this market? So, who are your competition?
+
+559
+01:17:04.080 --> 01:17:08.930
+Ankit Shukla: What are their features? What are their strengths, weaknesses, opportunities, and threats?
+
+560
+01:17:10.080 --> 01:17:10.860
+Ankit Shukla: Right?
+
+561
+01:17:13.440 --> 01:17:18.599
+Ankit Shukla: After that, like, thought means that if right now your people are using, like.
+
+562
+01:17:18.890 --> 01:17:23.419
+Ankit Shukla: Your own, customers or your prospective customers are using
+
+563
+01:17:23.570 --> 01:17:27.519
+Ankit Shukla: their product, their competitor's competition's product, why are they using that?
+
+564
+01:17:27.840 --> 01:17:33.289
+Ankit Shukla: Right? And if they do not use it, why are they not doing so? So that you can build upon these kind of weaknesses.
+
+565
+01:17:33.580 --> 01:17:34.390
+Ankit Shukla: Right?
+
+566
+01:17:34.650 --> 01:17:37.270
+Ankit Shukla: Then you have… Company?
+
+567
+01:17:38.840 --> 01:17:43.130
+Ankit Shukla: Company can have multiple things, okay? So, you can also create a sort analysis for the company.
+
+568
+01:17:43.350 --> 01:17:47.219
+Ankit Shukla: And you can consider components. For example, availability of money.
+
+569
+01:17:47.850 --> 01:17:54.449
+Ankit Shukla: Availability of power. Power means that if you are a company which is connected to so many people in the ecosystem, that is also your power.
+
+570
+01:17:54.990 --> 01:17:57.930
+Ankit Shukla: Right? So if Google starts a business today.
+
+571
+01:17:58.640 --> 01:18:08.399
+Ankit Shukla: And if they have taken care of the customer and everything, then in terms of implementation and execution, Google will be able to do a much better job than any other company, because they are already connected with so many people.
+
+572
+01:18:08.790 --> 01:18:17.589
+Ankit Shukla: Right? So, you can do a SWOT analysis on the company, and company can have multiple kinds of strengths and weaknesses and opportunities and threats. For example, availability of funding.
+
+573
+01:18:18.330 --> 01:18:21.730
+Ankit Shukla: The strength of the team, the background of the team.
+
+574
+01:18:21.980 --> 01:18:27.000
+Ankit Shukla: The problem that you're solving, the team already has the domain matter expertise on the same
+
+575
+01:18:27.190 --> 01:18:29.290
+Ankit Shukla: The place from where you are operating.
+
+576
+01:18:29.660 --> 01:18:32.680
+Ankit Shukla: Right? For example, if a company from China
+
+577
+01:18:33.030 --> 01:18:40.020
+Ankit Shukla: They are doing everything good. They are having a great, let's say, understanding of the customers. They have built better products than the competition.
+
+578
+01:18:40.340 --> 01:18:45.010
+Ankit Shukla: But… If they are trying to operate in a market which is outside of China.
+
+579
+01:18:45.320 --> 01:19:00.709
+Ankit Shukla: you are going to face this kind of threat, because you're a company that is enrolled in China, and then China has a policy that whenever you operate from China, and if there is any player outside, any of your customers are outside China, you have to also share their data.
+
+580
+01:19:01.390 --> 01:19:02.160
+Ankit Shukla: Right?
+
+581
+01:19:02.980 --> 01:19:08.029
+Ankit Shukla: So that is the company one. Company part is very important, because understand, every company cannot do everything.
+
+582
+01:19:08.420 --> 01:19:14.379
+Ankit Shukla: It is like an individual, right? Usain Bolt cannot go ahead and win a gold medal in hockey.
+
+583
+01:19:14.640 --> 01:19:20.199
+Ankit Shukla: Right? So understand that you have to understand this company character, company DNA as well. It evolves.
+
+584
+01:19:20.650 --> 01:19:23.279
+Ankit Shukla: But, you have to be mindful of this.
+
+585
+01:19:23.800 --> 01:19:25.350
+Ankit Shukla: And the last part is the product.
+
+586
+01:19:25.940 --> 01:19:35.770
+Ankit Shukla: Now, in the product, you can do anything, which is you can talk in detail about the problem space, which is coming from the customer's part and the market part. You can talk about the solution space.
+
+587
+01:19:35.910 --> 01:19:39.360
+Ankit Shukla: you can convert it into a product roadmap. Product roadmap is nothing.
+
+588
+01:19:41.500 --> 01:19:45.120
+Ankit Shukla: But, a set of features, And when?
+
+589
+01:19:45.950 --> 01:19:47.440
+Ankit Shukla: They will be.
+
+590
+01:19:48.030 --> 01:19:48.790
+Ankit Shukla: Double up.
+
+591
+01:19:50.790 --> 01:19:54.070
+Ankit Shukla: Right? So this is what… is…
+
+592
+01:19:55.860 --> 01:19:58.949
+Ankit Shukla: Our product… this is what our product strategy contains.
+
+593
+01:19:59.670 --> 01:20:07.340
+Ankit Shukla: Right? And then I have given you examples of… perplexity, and Amazon.
+
+594
+01:20:07.470 --> 01:20:09.109
+Ankit Shukla: Okay, so perplexity…
+
+595
+01:20:12.660 --> 01:20:15.850
+Ankit Shukla: Short term, and Agile.
+
+596
+01:20:17.350 --> 01:20:19.699
+Ankit Shukla: Right? I gave you example of…
+
+597
+01:20:20.670 --> 01:20:23.429
+Ankit Shukla: Comment, because they are in the rapidly developing market.
+
+598
+01:20:23.960 --> 01:20:25.530
+Ankit Shukla: They focus on technology.
+
+599
+01:20:25.970 --> 01:20:28.860
+Ankit Shukla: Rather than only the news. And Amazon.
+
+600
+01:20:32.350 --> 01:20:33.830
+Ankit Shukla: They have a long term.
+
+601
+01:20:35.050 --> 01:20:39.750
+Ankit Shukla: And… They have a long-term strategy.
+
+602
+01:20:40.150 --> 01:20:47.820
+Ankit Shukla: On basic customer needs, And that is how they have created a plane.
+
+603
+01:20:48.170 --> 01:20:55.620
+Ankit Shukla: Right? And the same company, Have a short term, the strategy.
+
+604
+01:20:56.300 --> 01:20:57.180
+Ankit Shukla: on.
+
+605
+01:20:57.310 --> 01:21:01.860
+Ankit Shukla: market movement. So right now, everyone is going to AI, so Amazon has created Amazon.
+
+606
+01:21:02.410 --> 01:21:03.360
+Ankit Shukla: Sagewinkle.
+
+607
+01:21:03.880 --> 01:21:06.039
+Ankit Shukla: And another product is Amazon Q.
+
+608
+01:21:07.230 --> 01:21:10.719
+Ankit Shukla: Their cursor, like, web development tool, ideally.
+
+609
+01:21:10.940 --> 01:21:13.169
+Ankit Shukla: Right? So this is what we have done so far.
+
+610
+01:21:13.710 --> 01:21:14.510
+Ankit Shukla: Nate!
+
+611
+01:21:14.910 --> 01:21:19.310
+Ankit Shukla: Everyone, tell me on a scale of 1 to 5 if you were able to understand things so far.
+
+612
+01:21:29.970 --> 01:21:31.729
+Sachin Gupta: Mario Vazari, hello?
+
+613
+01:21:32.210 --> 01:21:33.180
+Ankit Shukla: Hello? Who's this?
+
+614
+01:21:39.540 --> 01:21:41.029
+Ankit Shukla: Now, guys, what I'll do is…
+
+615
+01:21:41.430 --> 01:21:43.159
+Ankit Shukla: I'll not jump to the new topics.
+
+616
+01:21:43.890 --> 01:21:46.219
+Ankit Shukla: I will now start taking questions from you, Vik.
+
+617
+01:21:46.470 --> 01:21:47.250
+Ankit Shukla: Okay.
+
+618
+01:21:47.420 --> 01:21:51.340
+Ankit Shukla: Go ahead, guys, raise your hand so that we can go ahead and take questions one by one.
+
+619
+01:21:51.470 --> 01:21:53.039
+Ankit Shukla: Go ahead, guys, raise your hands.
+
+620
+01:22:02.410 --> 01:22:03.090
+Ankit Shukla: Yes.
+
+621
+01:22:07.660 --> 01:22:08.360
+Ankit Shukla: Yes, sir.
+
+622
+01:22:09.290 --> 01:22:13.060
+Ankit Shukla: Also, today we have a hard stop at 11.30, so I'll take questions in that way.
+
+623
+01:22:15.320 --> 01:22:16.150
+Ankit Shukla: Yes.
+
+624
+01:22:16.490 --> 01:22:18.909
+Ankit Shukla: Cool. Sudhesh, you have a question, please go ahead.
+
+625
+01:22:24.730 --> 01:22:25.670
+Siddhesh Bhutki: Am I audible?
+
+626
+01:22:25.670 --> 01:22:26.820
+Ankit Shukla: Yes, okay, surely.
+
+627
+01:22:27.290 --> 01:22:32.099
+Siddhesh Bhutki: Yeah, my question was around all these, new LLM-based AI products.
+
+628
+01:22:32.100 --> 01:22:35.230
+Ankit Shukla: Actually, I got some insight from the chat also.
+
+629
+01:22:35.230 --> 01:22:42.530
+Siddhesh Bhutki: But I still wanted to know, your take. Currently, every now and… every, 15 days of a month.
+
+630
+01:22:42.610 --> 01:22:54.160
+Siddhesh Bhutki: there's a new LLM product that comes in the market, right? So, now, initially, ChatGPT didn't have this, like, they were not quoting the sources, but now.
+
+631
+01:22:54.160 --> 01:23:03.650
+Siddhesh Bhutki: ChatGPT, whatever the information comes as an outcome in ChatGPT comes with a source also, which perplexity had an edge over ChatGPT.
+
+632
+01:23:03.660 --> 01:23:22.939
+Siddhesh Bhutki: So, with such minor differences, isn't the entire ecosystem, like, it's like a cutthroat competition, right? Like, there's a very minor difference between these products. So, what advantage Perplexity had 15 days back, ChatGPT has, actually done,
+
+633
+01:23:23.050 --> 01:23:34.419
+Siddhesh Bhutki: done some progress in that… that, aspect. So, how to be… how to keep officers on the toes, always, to keep up with these rapid changes?
+
+634
+01:23:34.610 --> 01:23:36.530
+Ankit Shukla: Right. So, Tanish, first of all, understand.
+
+635
+01:23:37.690 --> 01:23:40.120
+Ankit Shukla: That change is not minor or major.
+
+636
+01:23:40.380 --> 01:23:45.299
+Ankit Shukla: Based on how it looks like, what is the effort that has gone into creating it, right?
+
+637
+01:23:45.660 --> 01:23:48.969
+Ankit Shukla: Change is good or bad, or small or large.
+
+638
+01:23:49.060 --> 01:23:51.380
+Siddhesh Bhutki: Based on the impact that it creates.
+
+639
+01:23:51.740 --> 01:23:54.760
+Ankit Shukla: Most of the people, were using ChatGPT.
+
+640
+01:23:55.120 --> 01:24:04.940
+Ankit Shukla: In order to create the presentations that they can show to others. In order to create the documentation that they need to show to others. And for all of these things, you need to code your resources.
+
+641
+01:24:05.060 --> 01:24:11.660
+Ankit Shukla: Right? And everyone wants a search background, like a research background, so that they can refer to the resources.
+
+642
+01:24:11.800 --> 01:24:18.560
+Ankit Shukla: That is why, although this feature looks, like, very small, but it is a highly impactful feature, and also understand in large B2C companies.
+
+643
+01:24:19.130 --> 01:24:36.040
+Ankit Shukla: Even because of the scale of the companies, even if you're creating a very small feature, it is going to have a lot of impact, right? So all of these companies, they look at the impact of doing something versus the efforts, and then they go ahead and move forward. How do you keep up, understand if you are the… if you are just a spectator looking at these things?
+
+644
+01:24:36.400 --> 01:24:56.120
+Ankit Shukla: I can tell you that maybe you can spend 2-3 hours every week in order to understand the major news material that is happening in the industry, and then you can keep yourself updated. You don't have to get overwhelmed, because in the end, you'll understand that if you are able to understand the framework, like, the basics better, you should be able to understand about anything. Like, focus on the fundamentals rather than only the news.
+
+645
+01:24:56.530 --> 01:24:58.810
+Ankit Shukla: But if you are a product leader at these companies.
+
+646
+01:24:59.120 --> 01:25:00.589
+Ankit Shukla: Then what you should do is.
+
+647
+01:25:00.710 --> 01:25:03.159
+Ankit Shukla: Please be closer to the customers.
+
+648
+01:25:03.490 --> 01:25:08.390
+Ankit Shukla: And please be closer to the engineers. You should have some engineers in your company.
+
+649
+01:25:08.520 --> 01:25:14.290
+Ankit Shukla: Where you should tell them that your responsibility, at least for some part of the week, your responsibility.
+
+650
+01:25:14.400 --> 01:25:22.440
+Ankit Shukla: It's to be aware about what is happening recently in the market in terms of technology, so that they are aware about what is possible, because things are changing very, very rapidly.
+
+651
+01:25:22.820 --> 01:25:35.829
+Ankit Shukla: And your responsibility becomes that you are able to be on the top of your customer needs. Not only your existing customers, but why your customers are moving, why they're staying on the platform, who are the new customers, and also the customers of your customers.
+
+652
+01:25:36.200 --> 01:25:43.750
+Ankit Shukla: If you are able to match these two things, you should be able to go ahead and have a strategy enough, which will be agile enough to take you forward.
+
+653
+01:25:46.130 --> 01:25:54.950
+Siddhesh Bhutki: Okay, okay, thank you for that. But my difference is, there's hardly any difference, between these two apps now. So how do you make a decision to use Perplexity or to use ChatGPT?
+
+654
+01:25:55.180 --> 01:26:01.250
+Ankit Shukla: So there are multiple components, okay? First is on the feature parity. Second is on, let's say, what you are already used.
+
+655
+01:26:01.580 --> 01:26:21.249
+Ankit Shukla: Okay, if you go ahead and, let's say, if ChatGPT has an edge, that it is able to go ahead and give you the right kind of content, then you are going to stick to ChatGPT. But because the switching cost is almost low, whenever you find that maybe it is not giving me the right output, I can go ahead and switch to perplexity. Okay, so these people understand that the switching cost is low. That is why they are
+
+656
+01:26:21.360 --> 01:26:36.069
+Ankit Shukla: Right now, targeting even the minor features. And understand, right now, the AI market is only at about 10-12% of its features. The big features are actually able to be developed in the future only. Right now, it is a very, I would say, black bar that is happening out there.
+
+657
+01:26:36.830 --> 01:26:47.730
+Siddhesh Bhutki: Yeah, it's a bloodbath, actually, for the customers as well. My question was because, we as product managers also will be, coming up with new products in future, so…
+
+658
+01:26:47.730 --> 01:26:59.440
+Siddhesh Bhutki: There's hardly any… what Perplexity does now, ChatGPT is already doing it, so… I feel that Perplexity has entered a market where there was already a person who was catering to the needs.
+
+659
+01:26:59.450 --> 01:27:05.899
+Siddhesh Bhutki: So, nowadays, that's why they had a need to go to another, like, avenue of…
+
+660
+01:27:06.000 --> 01:27:07.619
+Siddhesh Bhutki: Creating their own,
+
+661
+01:27:07.640 --> 01:27:16.289
+Siddhesh Bhutki: Creating their own browser. What resources and all, what they were coding now, ChatGPT is already doing. So, my question was around that, that…
+
+662
+01:27:16.290 --> 01:27:36.970
+Siddhesh Bhutki: the solution which a user needs is already being catered by one app, so why build another just for… maybe they were having that FOMO of creating an app. Maybe they had a FOMO of creating an app, they just created it, but now they don't know. ChatGPT has a bigger team than Perplexity, so ChatGPT can keep up in a faster way, to the competition.
+
+663
+01:27:36.970 --> 01:27:40.070
+Ankit Shukla: And that is not true, that is not true. So understand, that is how,
+
+664
+01:27:40.220 --> 01:27:42.080
+Ankit Shukla: A junior product manager thinks.
+
+665
+01:27:42.080 --> 01:27:42.810
+Siddhesh Bhutki: Okay.
+
+666
+01:27:42.810 --> 01:27:45.530
+Ankit Shukla: What you're thinking about is, if that was true.
+
+667
+01:27:45.840 --> 01:27:49.460
+Ankit Shukla: then OpenAI would not be able to create ChatGPT because Google was already there.
+
+668
+01:27:49.990 --> 01:27:55.109
+Ankit Shukla: Right? So never think that the size of the company or these kind of things matter. Yes, they matter.
+
+669
+01:27:55.300 --> 01:27:58.970
+Ankit Shukla: But, if there is someone who has a particular kind of insight, for example.
+
+670
+01:27:59.600 --> 01:28:02.879
+Ankit Shukla: Chad, perplexity did not exist 3 years ago.
+
+671
+01:28:03.070 --> 01:28:12.290
+Ankit Shukla: But now, they are having a substantial, not the largest, but the substantial kind of market share, right? So understand it depends upon what is the customer insight that you have.
+
+672
+01:28:12.500 --> 01:28:24.019
+Ankit Shukla: how agile you are, and how big bets you are able to take. Perplexity could have gone ahead and played the war of just adding one more feature over perplexity, and then ChatGPT will calculate, but now they are playing a different game altogether.
+
+673
+01:28:24.020 --> 01:28:37.389
+Ankit Shukla: which comes from strategy, which is building your own browser, right? So understand, this is what a strategic product manager thinks about, that, yes, if all the parities are same, what is the un… let's say, what is the unfair advantage that I can go ahead and create?
+
+674
+01:28:37.440 --> 01:28:42.880
+Ankit Shukla: So rather than playing on the features, now they are playing on the distribution mode by partnering with so many other players out.
+
+675
+01:28:43.330 --> 01:28:50.570
+Siddhesh Bhutki: So they understood that what they are delivering, ChatGPT is already delivering now, so now they have pivoted to different, thing.
+
+676
+01:28:50.960 --> 01:28:52.190
+Siddhesh Bhutki: Is it like that?
+
+677
+01:28:52.190 --> 01:28:55.389
+Ankit Shukla: This is not pivoting, this is adding. Pivoting means changing the strategy.
+
+678
+01:28:55.980 --> 01:28:56.530
+Siddhesh Bhutki: Okay.
+
+679
+01:28:57.390 --> 01:29:00.840
+Ankit Shukla: Adding means they already know that they have to focus on the core product.
+
+680
+01:29:01.140 --> 01:29:07.940
+Ankit Shukla: But now what they're doing is, they are adding more and more layers of distribution to make sure that more and more people are able to use it.
+
+681
+01:29:09.780 --> 01:29:10.470
+Siddhesh Bhutki: Okay.
+
+682
+01:29:10.470 --> 01:29:11.020
+Ankit Shukla: Yes.
+
+683
+01:29:11.640 --> 01:29:12.060
+Siddhesh Bhutki: Thank you.
+
+684
+01:29:12.060 --> 01:29:14.050
+Ankit Shukla: Cool. We have next question from Ashish.
+
+685
+01:29:16.800 --> 01:29:18.630
+Ashish: Hi, Ingit, am I audible good?
+
+686
+01:29:18.900 --> 01:29:20.020
+Ankit Shukla: Yes, Ashis, please go ahead.
+
+687
+01:29:20.760 --> 01:29:36.499
+Ashish: So, when you talk about product strategy, the 3C, so I understand the 3C. When you talk about P, the product, it is about the existing product, we are doing the product strategy, or it is for a new product that we are doing this product strategy?
+
+688
+01:29:36.940 --> 01:29:43.330
+Ankit Shukla: It could be both, it could be both. Ashish, good question. You can look at your current product, what are the strengths and weaknesses.
+
+689
+01:29:43.480 --> 01:29:49.429
+Ankit Shukla: And once you've done all of this research, you can also put what the upcoming product is going to be based on your insights, so it can be both.
+
+690
+01:29:50.550 --> 01:29:51.210
+Ashish: Okay.
+
+691
+01:29:53.630 --> 01:29:56.079
+Ankit Shukla: Subhash, you want to go ahead?
+
+692
+01:29:56.080 --> 01:30:14.889
+Subhas Chandra Bose: Yeah, hi, Ankit. So, Ankit, when you're talking about value proposition, so I'm a bit blank on that area, so any examples would be better, just to understand. That's the first question. And the second thing, so when we were talking about the strategies, there are two strategies. One is business, and the second one is product.
+
+693
+01:30:14.920 --> 01:30:23.709
+Subhas Chandra Bose: So, when we consider the product's business strategy, that's more or like a company, so it assumes, like, the company which is already there in the market of SaaS.
+
+694
+01:30:23.940 --> 01:30:35.820
+Subhas Chandra Bose: And the product, what they were developing to increase their, SaaS-based products. So, is that the way, the differentiation, or else both the same, or else both are two different, components?
+
+695
+01:30:35.820 --> 01:30:50.559
+Ankit Shukla: Yes, I'll tell you. So, talking about the first part, as in what is the value proposition? Value proposition is, what is the value that you are giving to your customers? Why would customers use your product? That is a simple value proposition. For example, in the earliest part of Perplexity and ChatGPT,
+
+696
+01:30:51.160 --> 01:30:54.310
+Ankit Shukla: The issue is that we need to make sure that
+
+697
+01:30:55.570 --> 01:30:57.599
+Ankit Shukla: We need to make sure that,
+
+698
+01:30:58.520 --> 01:31:05.189
+Ankit Shukla: In the perplexity part, initially, their value proposition was that they were giving you multiple LLMs and sources.
+
+699
+01:31:05.360 --> 01:31:13.130
+Ankit Shukla: Now, they are going ahead and maybe changing a bit of strategy in order to include more value propagation. So, first, you have to understand the value propagation.
+
+700
+01:31:13.270 --> 01:31:16.329
+Ankit Shukla: Then you have to keep up with the market to make sure that if the
+
+701
+01:31:16.520 --> 01:31:25.270
+Ankit Shukla: customer, like, everyone else is also providing the same. What is different that you can do? Okay, and understand, all the time, it's not just you are going to change your offerings.
+
+702
+01:31:25.570 --> 01:31:27.779
+Ankit Shukla: But the number of people that you are able to reach.
+
+703
+01:31:27.890 --> 01:31:32.449
+Ankit Shukla: What is the mode that you have in the market? Can also go ahead and define how many people are going to use the product.
+
+704
+01:31:32.850 --> 01:31:35.699
+Ankit Shukla: But value provision is, why would people use your product? Simple.
+
+705
+01:31:37.860 --> 01:31:39.430
+Ankit Shukla: Right? What was the next question?
+
+706
+01:31:39.430 --> 01:31:43.870
+Subhas Chandra Bose: Moreover, like, can we consider that as a unique selling point of my product?
+
+707
+01:31:43.870 --> 01:31:44.660
+Ankit Shukla: I'll tell you.
+
+708
+01:31:45.010 --> 01:31:49.730
+Subhas Chandra Bose: Although value proposition and unique value proposition are very interchangeable words. Okay.
+
+709
+01:31:50.550 --> 01:31:55.359
+Ankit Shukla: I'm not using unique here, because unique is something that is your… only your company's office.
+
+710
+01:31:56.130 --> 01:31:56.950
+Subhas Chandra Bose: Okay.
+
+711
+01:31:56.950 --> 01:32:03.670
+Ankit Shukla: So, initially it would be unique, but then eventually, because customer catches up, that will become mostly a value proposition.
+
+712
+01:32:04.210 --> 01:32:04.800
+Subhas Chandra Bose: Got it.
+
+713
+01:32:04.800 --> 01:32:09.440
+Ankit Shukla: If you have a unique value provision, it's even better, because then you are finding your competitors better.
+
+714
+01:32:10.220 --> 01:32:11.180
+Subhas Chandra Bose: Okay, okay.
+
+715
+01:32:11.290 --> 01:32:16.819
+Subhas Chandra Bose: So the second question would be, like, difference between business strategy and product strategy. Yeah.
+
+716
+01:32:16.820 --> 01:32:28.970
+Ankit Shukla: So, in business strategy, you are going to talk about multiple things, which are who are the people that you are going to hire, how you are going to acquire the money, how you are going to go ahead and capture this particular market. But the product strategy is basically
+
+717
+01:32:29.110 --> 01:32:33.659
+Ankit Shukla: Understanding the customer problems, and building a product that is going to solve these problems.
+
+718
+01:32:33.820 --> 01:32:39.139
+Ankit Shukla: That's it. So it is a finer, I would say a thinner part of whole business strategy.
+
+719
+01:32:39.820 --> 01:32:41.880
+Subhas Chandra Bose: Okay, got you. Thank you.
+
+720
+01:32:42.310 --> 01:32:43.540
+Ankit Shukla: Arti, you want to go ahead?
+
+721
+01:32:46.530 --> 01:32:53.779
+Aarti: Hi. Hi, Inked. First up, congrats on your 100, hits.
+
+722
+01:32:53.950 --> 01:33:05.609
+Aarti: I wanted to, gauge, you know, you gave example of perplexity and Amazon as the long and the short strategy.
+
+723
+01:33:05.940 --> 01:33:07.559
+Aarti: At some point.
+
+724
+01:33:07.710 --> 01:33:15.429
+Aarti: the ROI is also going to influence, right? Like, maybe Amazon was ready… had that muscle to flex.
+
+725
+01:33:15.430 --> 01:33:15.790
+Ankit Shukla: Right.
+
+726
+01:33:15.790 --> 01:33:27.999
+Aarti: But, you know, a newer or a small company or a startup cannot. So, at what point do we gaze that, yep, this is, like, a 5-year long… I'm sure when Amazon launched Prime.
+
+727
+01:33:28.100 --> 01:33:36.479
+Aarti: it gradually started saying, you know what, the logistics is the pain point, right? So we'll take over the entire logistics to get to that two-day model.
+
+728
+01:33:36.650 --> 01:33:44.380
+Aarti: But it really requires, like, a lot of vision and thought and, to be honest, guts to be putting that kind of money
+
+729
+01:33:44.510 --> 01:33:47.199
+Aarti: Well, I just wanted to know your thoughts, like, how…
+
+730
+01:33:47.460 --> 01:33:52.600
+Aarti: how do companies, like, when I look inward, how do I make my product?
+
+731
+01:33:53.060 --> 01:34:02.870
+Aarti: Thinking about, like, yes, in 8 years, how things are gonna be, given the volatility in the market today, like, can't even think about 6 months, and it will change.
+
+732
+01:34:02.870 --> 01:34:03.490
+Ankit Shukla: Yes.
+
+733
+01:34:04.330 --> 01:34:06.610
+Ankit Shukla: You're correct, Karti. Understand that.
+
+734
+01:34:06.850 --> 01:34:07.790
+Ankit Shukla: guts?
+
+735
+01:34:08.000 --> 01:34:09.500
+Ankit Shukla: And your own conviction.
+
+736
+01:34:09.850 --> 01:34:16.570
+Ankit Shukla: is always going to play a very important role in the life of a pro- like, in the life of an entrepreneur or product manager. Without that.
+
+737
+01:34:16.700 --> 01:34:29.899
+Ankit Shukla: It is not possible to create any kind of product, because frameworks are not just enough. If everyone has the same kind of framework, everyone would create a similar kind of products, and then they would not be able to win. So guts, conviction, unique insights are important.
+
+738
+01:34:30.500 --> 01:34:35.600
+Ankit Shukla: But you have to base all of these things On some strong foundation.
+
+739
+01:34:35.710 --> 01:34:36.470
+Ankit Shukla: Right?
+
+740
+01:34:36.670 --> 01:34:51.399
+Ankit Shukla: So Jeff Bezos' foundation at that point of time was, he had a simple thing that people used to ask him that, how you are, like, in the future, shopping is going to change, how are you going to make sure that Amazon is able to keep up with that particular trend? Because, as you have disrupted Walmart.
+
+741
+01:34:51.520 --> 01:34:55.799
+Ankit Shukla: there would be some other company who will disrupt Amazon. So how will you keep at it?
+
+742
+01:34:56.290 --> 01:35:01.489
+Ankit Shukla: So he answered a simple question, that, question very simply, that rather than looking at what is going to change in the marker.
+
+743
+01:35:02.020 --> 01:35:04.099
+Ankit Shukla: I'm going to see what is never going to change.
+
+744
+01:35:04.440 --> 01:35:08.789
+Ankit Shukla: And what will never change is people's need of getting things at a cheaper price.
+
+745
+01:35:08.900 --> 01:35:17.539
+Ankit Shukla: And people's need of getting things at a quicker point, like, at a quicker pace, right? So that is how they have gone ahead and created a strategy. So yes, conviction is important.
+
+746
+01:35:17.680 --> 01:35:23.689
+Ankit Shukla: But what your conviction is rooted in? For him, it was these two insights, that is why he was able to pay it on his own bank.
+
+747
+01:35:24.140 --> 01:35:26.020
+Ankit Shukla: However, for perplexity.
+
+748
+01:35:26.350 --> 01:35:45.179
+Ankit Shukla: They don't right now know that, let's say, Comet is the right strategy for them or not. But what they can do is, rather than stopping in the market, they will go ahead and start iterating, let's say, in small steps, and eventually, they are going to figure out what is going to work in the long run. So they are taking more bets to make sure that they have enough breath covered to take right number of risks.
+
+749
+01:35:47.430 --> 01:35:52.720
+Aarti: Makes sense. So that means the emphasis goes back to that the product vision
+
+750
+01:35:53.040 --> 01:36:08.889
+Aarti: has to be so strong and convincing that the… and you're actually solving for a user problem, which they are willing to pay. Kind of… I'm connecting the dot, too, from where we started this journey, right? Like, it's ultimately about the user value for which they're willing to pay. Okay, makes sense. Thank you all.
+
+751
+01:36:08.890 --> 01:36:24.989
+Ankit Shukla: Product strategy is also more important. Like, product strategy is less important than the user value. If the user value changes if you have things that, no, this is something that is already available at all the places, so you have to make sure that you are able to differentiate those strategies. So strategy evolves as the four components that we have discussed evolves.
+
+752
+01:36:27.920 --> 01:36:35.040
+Aarti: Yeah, because if the government policy changes, no matter how strong a vision you have, now you won't be able to proceed forward.
+
+753
+01:36:35.370 --> 01:36:42.649
+Aarti: Or it will jeopardize your… plans of expansion, for example. Okay, that makes sense. Thank you.
+
+754
+01:36:42.750 --> 01:36:44.100
+Ankit Shukla: Chandra, you want to go ahead?
+
+755
+01:36:44.750 --> 01:36:50.730
+chandra sagar: Yeah, hi, hi, Ankit. Thanks for the session. Ankit, as we discussed about the product strategy.
+
+756
+01:36:53.040 --> 01:37:07.319
+chandra sagar: I just try to easily relate with the 0 to 1 stage of the product, like the initial or introductory part. For example, if you take the product lifecycle, we have four stages, right? Introduction, growth, maturity, and decline. For example, if I want to utilize
+
+757
+01:37:07.680 --> 01:37:16.099
+chandra sagar: the product strategy and the growth. Can we try to get more details in the part of how can we try to scale the product, or a distribution?
+
+758
+01:37:16.660 --> 01:37:25.199
+chandra sagar: That is also… plays a major role of the product strategy, right? And if the product… the next point is, like, if the product enters into the maturity stage.
+
+759
+01:37:25.520 --> 01:37:38.389
+chandra sagar: What are the, precautions or what are the strategies they try to need it towards the, jumping into the next product or next feature in the terms of innovation? That is also part of the strategy, right? Can we get that type of details also?
+
+760
+01:37:38.390 --> 01:37:50.239
+Ankit Shukla: Correct. So what happens is, Chandra, that let's say I can break down the strategy into, like, stage of a company into three parts. 0 to 1, 1 to 10, and 10 to 100. Which is, first is, you are figuring out what the product market fit is.
+
+761
+01:37:50.650 --> 01:37:56.009
+Ankit Shukla: Then you're trying to go ahead and build a better product, add more features, and then you want to get as many users as possible.
+
+762
+01:37:56.300 --> 01:37:56.750
+chandra sagar: Right.
+
+763
+01:37:56.750 --> 01:38:14.099
+Ankit Shukla: Now, you can break the business strategy into multiple parts. First part is the marketing strategy, second part is the product strategy, and maybe there are other components. In the first part, when you're trying to find the product market fit, product strategy becomes particularly important, because you are figuring out what is going to work for the users. Distribution marketing does not matter for you at this point of time.
+
+764
+01:38:14.470 --> 01:38:28.639
+Ankit Shukla: After that, from 1 to 10, 1 to 10, you are going to make sure that you are taking care of both the things. Yes, there is a focus on product strategy, because you need to make sure that there are more features in the product, or maybe the features that are already created are more polished, so that people would want to use them
+
+765
+01:38:28.640 --> 01:38:36.679
+Ankit Shukla: But there will also be a growing importance on distribution and marketing. And then going forward, like, when the product is mature, and let's say you take the product such as
+
+766
+01:38:36.680 --> 01:38:47.119
+Ankit Shukla: all the products of Hindusan, Unilever, or most of the D2C brands. Once they have reached, let's say, a certain kind of product market fit, and they are ready to go ahead and conquer the market, then most of the shift
+
+767
+01:38:47.120 --> 01:39:01.389
+Ankit Shukla: focuses towards, let's say, your distribution part and the marketing part, and product generally, product strategy is generally inspired by what the customer feedback and what the competitors are doing. So, the value of product strategy and the strength of product strategy
+
+768
+01:39:01.550 --> 01:39:06.659
+Ankit Shukla: keeps on, let's say, I would say, moving as your product continues to go.
+
+769
+01:39:07.890 --> 01:39:08.560
+chandra sagar: Yeah.
+
+770
+01:39:09.170 --> 01:39:11.050
+chandra sagar: Got it, Engin. Thanks.
+
+771
+01:39:11.630 --> 01:39:12.950
+Ankit Shukla: Aniket, you want to go ahead?
+
+772
+01:39:15.340 --> 01:39:31.290
+Aniket Chalke: Hey, hey, hi, Ankit. Thank you for the wonderful session. So, my question is, like, you mentioned, product types based on customer, competition, company, product, right? And now also we have data. So, how one should decide, like, which one I should prioritize and…
+
+773
+01:39:31.290 --> 01:39:43.259
+Aniket Chalke: put my strategy forward. Like, you also mentioned, Jeff Bezos had a conviction and an insight, right? So, that insight, does it come naturally to someone because he's a business for a long run, or it is something that is inborn, he understands well?
+
+774
+01:39:43.300 --> 01:39:48.160
+Aniket Chalke: So, how do, I mean, PM prioritize it and decide, okay, this is the one that I should focus on?
+
+775
+01:39:48.380 --> 01:39:52.969
+Ankit Shukla: Yeah, just kidding. So understand… I don't know whether it comes…
+
+776
+01:39:53.350 --> 01:40:05.350
+Ankit Shukla: from your DNA, or you are born with it, okay? But even if it does or it does not, that information does not help us, right? Because we want to grow, we want to make sure that we should only focus on things that we can learn, okay?
+
+777
+01:40:05.640 --> 01:40:06.660
+Ankit Shukla: I believe.
+
+778
+01:40:06.830 --> 01:40:15.130
+Ankit Shukla: that… that insight, was not a magic move. Most of us also know that, yes, people want cheaper, faster.
+
+779
+01:40:15.590 --> 01:40:34.729
+Ankit Shukla: Are you able to bet on it or not? Is, let's say, one thing. And you're able to let go of the short-term benefits, or are able to take short-term losses in order to bet for the long-term or not, that was a major task that he has done. Okay. And generally, these kind of things, this kind of conviction, it comes from the character.
+
+780
+01:40:35.030 --> 01:40:44.069
+Ankit Shukla: But a lot of it comes from the confidence that you have while building for all of these things. So experience, yes, matters a lot in these kind of calls.
+
+781
+01:40:45.660 --> 01:40:46.819
+Aniket Chalke: Thank you, Ankit.
+
+782
+01:40:46.980 --> 01:40:50.239
+Ankit Shukla: There's one more question you have asked, which is, which one should I focus on?
+
+783
+01:40:50.670 --> 01:40:58.949
+Ankit Shukla: product, or the market, or users, or something else. Understand, you should take the breath first, the depth later on.
+
+784
+01:40:59.160 --> 01:41:01.819
+Aniket Chalke: Try to understand all of the four things at a high level first.
+
+785
+01:41:02.350 --> 01:41:03.690
+Ankit Shukla: Once you've understood.
+
+786
+01:41:04.000 --> 01:41:08.499
+Ankit Shukla: Then you can go ahead and see that, yes, there is a gap. I can go much deeper into the same.
+
+787
+01:41:08.770 --> 01:41:12.359
+Ankit Shukla: But focus on the customers, that will be the major outcome from this.
+
+788
+01:41:13.680 --> 01:41:14.850
+Aniket Chalke: Thanks, thank you.
+
+789
+01:41:14.850 --> 01:41:15.600
+Ankit Shukla: want to go ahead.
+
+790
+01:41:16.740 --> 01:41:36.879
+sachin: I just have a simple question. Like, when is the right time to think about the product strategy, right? Is the first step before the ideation or the user research? Which is the right time to fit? And when, like, if I have started the user research, or I've started the competitor research, then,
+
+791
+01:41:36.880 --> 01:41:40.219
+sachin: How does the product strategy at that time fits, right?
+
+792
+01:41:40.950 --> 01:41:47.269
+Ankit Shukla: I'll tell you. So, such an understanding of two parts. First is, when do you start thinking about production?
+
+793
+01:41:47.270 --> 01:41:48.050
+sachin: impact.
+
+794
+01:41:48.450 --> 01:41:50.419
+sachin: And when do you create a project?
+
+795
+01:41:50.630 --> 01:42:03.530
+Ankit Shukla: you should start thinking about product strategy from day one. You are not actually creating it, but you are thinking about it, that I have to consider these four parts. And when you start thinking about product strategy, you are going to eventually start with user research, because user research is a part of product strategy.
+
+796
+01:42:03.790 --> 01:42:08.179
+Ankit Shukla: But once you're done with the user research, market research, everything, your things are finalized.
+
+797
+01:42:08.350 --> 01:42:10.799
+Ankit Shukla: Then you will go ahead and get a product strategy.
+
+798
+01:42:11.150 --> 01:42:16.599
+Ankit Shukla: Right, so the document gets created eventually in the end, once your user research is done.
+
+799
+01:42:16.730 --> 01:42:19.500
+Ankit Shukla: But… the… the…
+
+800
+01:42:20.270 --> 01:42:25.869
+Ankit Shukla: The method of creating the document, or the process of creating the document, starts as soon as you start the user research.
+
+801
+01:42:28.130 --> 01:42:28.830
+sachin: Thank you.
+
+802
+01:42:28.830 --> 01:42:30.729
+Ankit Shukla: Yes? Simran, you want to go ahead?
+
+803
+01:42:31.800 --> 01:42:45.010
+Simran Sharma: Hi, Ankit, I just have one question. Now that we have discussed the product strategy, a quick question is that, for example, you have a product and you have few competitors. Now, few competitors have, like, few features that you don't have.
+
+804
+01:42:45.010 --> 01:42:55.409
+Simran Sharma: Right? So what… what do you majorly focus on? Like, building something which already, competitors have, or building something which is not there in the market and create a superiority?
+
+805
+01:42:56.010 --> 01:43:00.460
+Ankit Shukla: Yes. So, Simran, it depends upon… What are those features?
+
+806
+01:43:00.710 --> 01:43:05.790
+Ankit Shukla: And do your customers need these features as well? Okay, so you will do your discovery.
+
+807
+01:43:06.190 --> 01:43:15.969
+Ankit Shukla: You'll understand that in one part of the discovery, you are also going to consider what are the ideas that your competition has given. Like, what are ideas that your competition has already implemented, the features that you already have.
+
+808
+01:43:16.130 --> 01:43:33.109
+Ankit Shukla: Similarly, you are going to understand that what do my users want? You are going to put them in a bucket, you are going to prioritize. If the ideas that you have found out from your users are more important, you are going to implement them, or if you find that your competition has done a better job, you are going to maybe copy them in your own particular format. So.
+
+809
+01:43:33.290 --> 01:43:51.310
+Ankit Shukla: Collect all the data first, collect all the things that you can do, and then prioritize. Just having the strategy that we are going to copy or not copy the competitors is not good. Focusing on users, and then looking at competition, and then creating a, like, a good list, and then choosing from that will help you take more logical decisions.
+
+810
+01:43:52.120 --> 01:43:53.090
+Simran Sharma: Thank you.
+
+811
+01:43:54.260 --> 01:43:55.360
+Ankit Shukla: Ginsu, you want to go ahead?
+
+812
+01:43:56.280 --> 01:43:57.860
+Jincy Shibu: Are you able to hear me?
+
+813
+01:43:57.860 --> 01:43:59.529
+Ankit Shukla: Yes, agents, you're audible. Please go ahead.
+
+814
+01:43:59.700 --> 01:44:05.320
+Jincy Shibu: Okay, my question, Ankit, is regarding building strategic mode.
+
+815
+01:44:05.540 --> 01:44:19.000
+Jincy Shibu: So in the age of AI, where it is easy to build, it's, hard to create a strategic mode, so I would like to know your thoughts on what are the different ways we should think about…
+
+816
+01:44:19.000 --> 01:44:29.620
+Jincy Shibu: Because unless we create a strategic mode, right, it is easy for, anything that is easy to build, some competition can also eventually
+
+817
+01:44:29.620 --> 01:44:36.269
+Jincy Shibu: think about building. So, pricing, for example, is not a strong strategic mode by itself.
+
+818
+01:44:36.330 --> 01:44:48.289
+Jincy Shibu: somebody else can offer a lower price, and then you're gone, right? So, what are the different ways we can think about with creating strategic mode in AI age?
+
+819
+01:44:48.290 --> 01:44:52.459
+Ankit Shukla: So understand, Ginsi, that… Strategic modes is a very important topic.
+
+820
+01:44:52.920 --> 01:44:58.099
+Ankit Shukla: Which we are going to discuss later in the AI growth management part, which is an important part.
+
+821
+01:44:58.750 --> 01:44:59.150
+Jincy Shibu: Okay.
+
+822
+01:44:59.150 --> 01:45:05.509
+Ankit Shukla: But understand, that… The pursuit of moth for the sake of it.
+
+823
+01:45:05.920 --> 01:45:10.089
+Ankit Shukla: It's a very bad step for any product manager, or any underwater
+
+824
+01:45:10.810 --> 01:45:13.839
+Ankit Shukla: What happens is, initially, when you're starting a new company.
+
+825
+01:45:14.690 --> 01:45:16.700
+Ankit Shukla: What possibly could be your mood?
+
+826
+01:45:16.830 --> 01:45:23.630
+Ankit Shukla: You don't have any users, you don't have any features, you don't have any data. Most probably, if you don't have, let's say.
+
+827
+01:45:23.740 --> 01:45:28.289
+Ankit Shukla: a good problem statement, then you'll also not get funding, right? So…
+
+828
+01:45:28.290 --> 01:45:28.650
+Jincy Shibu: Yes.
+
+829
+01:45:28.650 --> 01:45:29.300
+Ankit Shukla: telecomm.
+
+830
+01:45:29.300 --> 01:45:32.209
+Jincy Shibu: Identifying gap in the market that you're.
+
+831
+01:45:32.210 --> 01:45:33.040
+Ankit Shukla: But that doesn'.
+
+832
+01:45:33.040 --> 01:45:34.690
+Jincy Shibu: Not want to solve for.
+
+833
+01:45:34.690 --> 01:45:37.460
+Ankit Shukla: Correctly, but they do not want to solve for right now.
+
+834
+01:45:37.630 --> 01:45:38.390
+Ankit Shukla: Okay.
+
+835
+01:45:39.330 --> 01:45:45.579
+Ankit Shukla: Is that in the long run, people would not be able to fight with you, because you have motors, high advantage that you have that other people might not have.
+
+836
+01:45:46.180 --> 01:45:46.870
+Jincy Shibu: Yeah.
+
+837
+01:45:46.870 --> 01:45:53.470
+Ankit Shukla: To understand, pursuit of moon is not a good thing. Like, yes, you can do so if you have the moon, but
+
+838
+01:45:53.800 --> 01:45:59.630
+Ankit Shukla: That is not a good strategy to follow, because eventually, every moon is going to die down. Like, if you look at any product.
+
+839
+01:45:59.630 --> 01:46:00.170
+Jincy Shibu: Okay.
+
+840
+01:46:00.950 --> 01:46:03.810
+Ankit Shukla: Google has a moat. They thought that data is their mode.
+
+841
+01:46:04.130 --> 01:46:13.070
+Ankit Shukla: Then ChatGPT came, they understood that maybe experience was the one. That… and Google, we have to go ahead and maybe, browse through multiple links in order to find my answer.
+
+842
+01:46:13.180 --> 01:46:16.410
+Ankit Shukla: But on ChatGP, I'm able to find it right then and there.
+
+843
+01:46:16.540 --> 01:46:21.809
+Ankit Shukla: So my recommendation for moat is, although we are going to talk about moat and everything in the future.
+
+844
+01:46:22.000 --> 01:46:26.150
+Ankit Shukla: But right now, my approach would be… that generally.
+
+845
+01:46:26.260 --> 01:46:31.379
+Ankit Shukla: The knowledge that you acquire while building the products, while iterating the products, is your unique
+
+846
+01:46:31.800 --> 01:46:43.970
+Ankit Shukla: Right? What you understand about users, how deeply you understand users, how agile are you in order to pursue what the users want as soon as possible, is the ultimate moat then product can have. For example.
+
+847
+01:46:44.030 --> 01:46:52.499
+Ankit Shukla: When Gamma launched, Gamma app, which helps you create presentations and all, they would have started very basic, that we will just go ahead and call the GPT API, and then it will give you the presentation.
+
+848
+01:46:52.640 --> 01:46:54.460
+Ankit Shukla: But they got feedback from people.
+
+849
+01:46:54.670 --> 01:46:56.020
+Ankit Shukla: that this…
+
+850
+01:46:56.080 --> 01:47:15.839
+Ankit Shukla: slide is not good, the colors are not good. So they've started developing features, improved their prompts, created, let's say, good drag model based on the same, and now they are at a stage that if a new company comes, it is super difficult for them to exactly copy what they are doing, because the prompts, their orchestrations, their understanding of the user is something that is very difficult to capture. So I would say.
+
+851
+01:47:16.040 --> 01:47:22.620
+Ankit Shukla: Your ultimate mode is the knowledge that you have about your product, about your business, about your competition, and about your income.
+
+852
+01:47:23.620 --> 01:47:38.409
+Jincy Shibu: So, if we are able to build a personalization at scale in such a way that you can get habitual usage from your users, wouldn't that serve… for example, there may be much better products.
+
+853
+01:47:38.410 --> 01:47:55.949
+Jincy Shibu: But if you are able to hook your user to your product, because you have certain personalization elements, and you're able to implement it at scale, then even if there are better, or cheaper, or, you know, even much technically, stronger products.
+
+854
+01:47:56.400 --> 01:48:12.680
+Jincy Shibu: because people are habitually used… like, for example, in my interview, I discovered that people, even if ChatGPT is not the best for their use case, they are so habituated to ChatGPT, they have no incentive to switch to other.
+
+855
+01:48:13.440 --> 01:48:14.420
+Ankit Shukla: To understand.
+
+856
+01:48:15.170 --> 01:48:20.620
+Ankit Shukla: Assuming that your products are… your people are habitual to your product, and they will not lose the product.
+
+857
+01:48:20.910 --> 01:48:24.119
+Ankit Shukla: is actually a… Google has their delivery.
+
+858
+01:48:24.290 --> 01:48:37.829
+Ankit Shukla: That people are so used to Google search, because it was our habit that we'll just go ahead and search for Google all the time. But now people have moved from, let's say, Google to ChatGPT, okay? So my recommendation would also… will, again, be the same.
+
+859
+01:48:38.070 --> 01:48:42.850
+Ankit Shukla: Focus on the knowledge that you acquire, and then how do you keep that knowledge into action?
+
+860
+01:48:42.850 --> 01:48:46.300
+Jincy Shibu: Yes, building a HubSpot interface is something that can help you get over there.
+
+861
+01:48:46.300 --> 01:48:57.060
+Ankit Shukla: But still, that cannot be con… like, told as a strong enough mode, because that can also be break. Like, if someone is giving you a better experience with less number of clicks, more optimization, more optimized answers.
+
+862
+01:48:57.060 --> 01:48:58.629
+Jincy Shibu: You should be able to. Got it.
+
+863
+01:48:58.810 --> 01:49:00.249
+Jincy Shibu: Got it, thank you, thank you.
+
+864
+01:49:00.250 --> 01:49:01.320
+Ankit Shukla: Ravin, you want to go ahead?
+
+865
+01:49:04.040 --> 01:49:10.140
+Praveen Ancha: Hey, Sangeet, so my question is not related to the product strategy, but
+
+866
+01:49:10.510 --> 01:49:12.819
+Praveen Ancha: Does business goals change?
+
+867
+01:49:13.250 --> 01:49:22.869
+Praveen Ancha: Over the time. Let's say, you know, when cloud was established, their motive was, you know, in order to provide the reliable and safe AI,
+
+868
+01:49:23.410 --> 01:49:30.369
+Praveen Ancha: So, in this process, and my product, I'm doing this, currently researching on Clod AA, so…
+
+869
+01:49:30.790 --> 01:49:36.219
+Praveen Ancha: When I was researching, I came to know that, they don't have this feature called as image generation.
+
+870
+01:49:36.280 --> 01:49:39.140
+Ankit Shukla: And as I did deeper research, it…
+
+871
+01:49:39.350 --> 01:49:46.910
+Praveen Ancha: it came… I understood that they don't want to have their future, because it's not aligning with their business goals, as in, like.
+
+872
+01:49:47.120 --> 01:49:49.709
+Praveen Ancha: You know, if they use this imagination feature.
+
+873
+01:49:49.960 --> 01:49:54.229
+Praveen Ancha: And they can't provide a reliable and safe AI. So,
+
+874
+01:49:54.600 --> 01:49:58.930
+Praveen Ancha: According to this, will this business goal keep changing?
+
+875
+01:49:59.180 --> 01:50:04.430
+Praveen Ancha: In the future, because in order to be, competitive with, other AI models.
+
+876
+01:50:05.900 --> 01:50:12.070
+Ankit Shukla: Yes, business goals change. Okay, understand I have told you that good business knows how to adapt to the market.
+
+877
+01:50:12.230 --> 01:50:24.359
+Ankit Shukla: Initially, Anthropic has a goal that they will make sure that they are creating the safest AI, but now they are looking to build some features where users would have control, but still they would have not done it
+
+878
+01:50:24.680 --> 01:50:31.189
+Ankit Shukla: Given their initial business mission or business goal. So yes, this can keep on changing, but understand, because product strategy
+
+879
+01:50:31.470 --> 01:50:34.829
+Ankit Shukla: And product vision vision statements are created at the top level.
+
+880
+01:50:35.130 --> 01:50:42.939
+Ankit Shukla: It is recommended to not change them too often, and whenever you change them, you should have a proper written logic as in why it was changed.
+
+881
+01:50:43.090 --> 01:50:50.110
+Ankit Shukla: Right? Even the business statements of Facebook and other companies have also gone ahead and changed over time, so it is okay to change them unless… as long as you have the logic.
+
+882
+01:50:53.540 --> 01:50:58.379
+Praveen Ancha: Got it. So, with that, the product strategist will also keep changing.
+
+883
+01:50:58.380 --> 01:51:09.480
+Ankit Shukla: Yes, it will evolve. As I've told you that the last part of, like, the important characteristic of a product strategy is being agile. And not agile for the sake of it, but there has to be a logic why you are changing the strategy.
+
+884
+01:51:10.540 --> 01:51:11.709
+Praveen Ancha: Got it, thanks, Amanda.
+
+885
+01:51:11.710 --> 01:51:14.300
+Ankit Shukla: that you've found that allows you to change your shadow.
+
+886
+01:51:14.880 --> 01:51:15.490
+Praveen Ancha: Okay.
+
+887
+01:51:15.640 --> 01:51:16.660
+Praveen Ancha: Got it.
+
+888
+01:51:17.100 --> 01:51:17.550
+Praveen Ancha: Young.
+
+889
+01:51:19.790 --> 01:51:20.620
+Raj: Yeah, I'm kid.
+
+890
+01:51:20.800 --> 01:51:40.189
+Raj: Congratulations on your 100K achievements, and thank you for the session as well. My question is around the MIT article which came in that 95% of enterprise AI investments are failing. So what's your view on that? Like, what's going wrong? And there's a lot of hype around AI, but,
+
+891
+01:51:40.280 --> 01:51:44.440
+Raj: What is something which is going wrong, and how we can be mindful of it?
+
+892
+01:51:44.440 --> 01:51:46.100
+Ankit Shukla: Cool. How many people have read this?
+
+893
+01:51:47.410 --> 01:51:51.049
+Ankit Shukla: How many people have read that MIT article?
+
+894
+01:51:54.260 --> 01:51:55.690
+Ankit Shukla: A yes or no in the chat?
+
+895
+01:51:56.160 --> 01:51:59.089
+Ankit Shukla: Like, read it completely, I'm not talking about you know about it.
+
+896
+01:52:03.430 --> 01:52:06.480
+Ankit Shukla: Yeah, so I'm sending the link in the… just let me know.
+
+897
+01:52:06.900 --> 01:52:11.780
+Ankit Shukla: And the AI report… Yes.
+
+898
+01:52:13.480 --> 01:52:20.770
+Ankit Shukla: Cool. So I think this can be a good point of discussion. Okay, I'll not answer this question right now. I am also sending this check
+
+899
+01:52:20.980 --> 01:52:23.729
+Ankit Shukla: This link in the chat group.
+
+900
+01:52:24.090 --> 01:52:33.200
+Ankit Shukla: You guys should go ahead and read this, okay? And then, we can, maybe tomorrow give maybe 15-20 minutes in order to discuss about it. It's a very important paper.
+
+901
+01:52:33.360 --> 01:52:39.150
+Ankit Shukla: That everyone should go ahead and read, and you'll understand, like, what is happening wrong with AI. Is it the technology or the people?
+
+902
+01:52:39.580 --> 01:52:46.069
+Ankit Shukla: Okay, so thanks a lot for bringing this question, Raj. I'll also post this thing in the WhatsApp group, like the chat group.
+
+903
+01:52:46.270 --> 01:52:48.330
+Ankit Shukla: So that, we guys can follow.
+
+904
+01:52:52.320 --> 01:52:54.830
+Ankit Shukla: Not able to access this, let me see. No, it is…
+
+905
+01:52:54.960 --> 01:52:59.249
+Ankit Shukla: Okay, I'll upload the PDF. I'll upload the PDF in the chat group, guys.
+
+906
+01:53:03.330 --> 01:53:04.959
+Ankit Shukla: I'll upload a PDF in the chat.
+
+907
+01:53:05.530 --> 01:53:12.060
+Ankit Shukla: Okay, Shalom. Cool, guys. Thank you. Take care. We'll see each other very soon. See you tomorrow. Take care. Bye.
+
+908
+01:53:12.060 --> 01:53:13.640
+Subhas Chandra Bose: Thank you all, thank you, I'm good.
+
+909
+01:53:13.820 --> 01:53:14.389
+Raj: Thank you.
+
+910
+01:53:14.390 --> 01:53:14.930
+Aniket Chalke: girl.
+
+911
+01:53:14.930 --> 01:53:16.689
+Somesh: Thank you so much.

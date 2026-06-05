@@ -1,0 +1,109 @@
+[
+  {
+    "id": "jtbd-forces",
+    "title": "JTBD Four Forces",
+    "module": "02-jobs-to-be-done",
+    "topicIds": ["jtbd"],
+    "definition": "Push, pull, anxiety, and habit — the four forces that determine whether a customer switches to a new solution.",
+    "whenToUse": "Evaluating why users adopt or reject a solution; designing onboarding and messaging.",
+    "frameworkSteps": [
+      "Identify push of the situation (pain with status quo)",
+      "Identify pull of the new solution (attraction)",
+      "Surface anxieties about switching",
+      "Map habits keeping them on current solution",
+      "Assess if push+pull exceeds anxiety+habit"
+    ],
+    "interviewPrompts": [
+      "What was happening in your life when you first thought about changing?",
+      "What almost stopped you from switching?"
+    ],
+    "officeUse": "Opportunity assessments, positioning, and conversion funnel analysis.",
+    "relatedConcepts": ["switch-interview", "job-statement"],
+    "sources": ["helloPM-mod-2"]
+  },
+  {
+    "id": "job-statement",
+    "title": "Job Statement",
+    "module": "02-jobs-to-be-done",
+    "topicIds": ["jtbd"],
+    "definition": "A structured sentence: When [situation], I want to [motivation], so I can [expected outcome].",
+    "whenToUse": "Framing discovery insights and aligning team on user motivation without solution bias.",
+    "frameworkSteps": [
+      "Identify the triggering situation",
+      "Articulate the motivation (not a feature)",
+      "State the desired outcome",
+      "Validate with real user stories"
+    ],
+    "interviewPrompts": [
+      "What were you trying to accomplish?",
+      "What would success have looked like?"
+    ],
+    "officeUse": "PRD problem sections, roadmap narratives, and pitch decks.",
+    "relatedConcepts": ["problem-statement", "jtbd-forces"],
+    "sources": ["helloPM-mod-2"]
+  },
+  {
+    "id": "switch-interview",
+    "title": "Switch Interview",
+    "module": "02-jobs-to-be-done",
+    "topicIds": ["jtbd"],
+    "definition": "A JTBD interview method exploring a customer's past decision to adopt or switch products.",
+    "whenToUse": "Deep discovery on why customers buy, churn, or choose competitors.",
+    "frameworkSteps": [
+      "Identify the switching timeline",
+      "Explore first thought and trigger events",
+      "Map options considered",
+      "Uncover decision criteria and forces",
+      "Document the hiring and firing moment"
+    ],
+    "interviewPrompts": [
+      "Tell me about the last time you switched from X to Y.",
+      "What were you using before? What changed?"
+    ],
+    "officeUse": "Win/loss analysis, churn research, and new market entry.",
+    "relatedConcepts": ["jtbd-forces", "interview-techniques"],
+    "sources": ["helloPM-mod-2"]
+  },
+  {
+    "id": "job-map",
+    "title": "Job Map",
+    "module": "02-jobs-to-be-done",
+    "topicIds": ["jtbd"],
+    "definition": "A breakdown of the steps a customer takes to complete a job, used to find innovation opportunities.",
+    "whenToUse": "Identifying underserved steps in a customer's workflow.",
+    "frameworkSteps": [
+      "Define the core job",
+      "List job steps in chronological order",
+      "Rate pain and gain at each step",
+      "Prioritize steps with high pain and low satisfaction"
+    ],
+    "interviewPrompts": [
+      "Walk me through every step you took.",
+      "Where did you get stuck?"
+    ],
+    "officeUse": "Feature prioritization and blue-ocean opportunity finding.",
+    "relatedConcepts": ["job-statement", "opportunity-assessment"],
+    "sources": ["helloPM-mod-2"]
+  },
+  {
+    "id": "competing-with-status-quo",
+    "title": "Competing with Status Quo",
+    "module": "02-jobs-to-be-done",
+    "topicIds": ["jtbd"],
+    "definition": "The insight that your biggest competitor is often doing nothing or a manual workaround, not another product.",
+    "whenToUse": "Sizing opportunities and designing go-to-market strategy.",
+    "frameworkSteps": [
+      "Identify current workarounds users employ",
+      "Quantify cost of status quo (time, money, risk)",
+      "Design solution that beats workaround, not just competitors",
+      "Address anxieties that block switching"
+    ],
+    "interviewPrompts": [
+      "How do you handle this today without our product?",
+      "What would you do if our product didn't exist?"
+    ],
+    "officeUse": "Competitive analysis and positioning statements.",
+    "relatedConcepts": ["jtbd-forces", "problem-solution-fit"],
+    "sources": ["helloPM-mod-2"]
+  }
+]

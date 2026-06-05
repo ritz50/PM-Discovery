@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/prepare-content.js",
     "build": "next build",
+    "deploy": "vercel build --prod && vercel deploy --prebuilt --prod --yes",
     "start": "next start",
     "lint": "next lint"
   },

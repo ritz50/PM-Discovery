@@ -12,7 +12,18 @@ import type {
   ModuleMeta,
 } from "./types";
 
-const CONTENT_DIR = path.join(process.cwd(), "..", "content");
+function resolveContentDir(): string {
+  const candidates = [
+    path.join(process.cwd(), "..", "content"),
+    path.join(process.cwd(), "content-data"),
+  ];
+  for (const dir of candidates) {
+    if (fs.existsSync(dir)) return dir;
+  }
+  return candidates[0];
+}
+
+const CONTENT_DIR = resolveContentDir();
 
 function readJson<T>(filePath: string): T {
   return JSON.parse(fs.readFileSync(filePath, "utf-8")) as T;

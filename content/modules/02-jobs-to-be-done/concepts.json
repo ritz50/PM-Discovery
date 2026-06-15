@@ -5,6 +5,7 @@
     "module": "02-jobs-to-be-done",
     "topicIds": ["jtbd"],
     "definition": "Push, pull, anxiety, and habit — the four forces that determine whether a customer switches to a new solution.",
+    "example": "A user is pushed by slow bank transfers (push) and pulled by instant payouts (pull), but anxiety about security and habit of using PayPal block switching until onboarding addresses both.",
     "whenToUse": "Evaluating why users adopt or reject a solution; designing onboarding and messaging.",
     "frameworkSteps": [
       "Identify push of the situation (pain with status quo)",
@@ -27,6 +28,7 @@
     "module": "02-jobs-to-be-done",
     "topicIds": ["jtbd"],
     "definition": "A structured sentence: When [situation], I want to [motivation], so I can [expected outcome].",
+    "example": "When I close a client project, I want to send a professional invoice quickly, so I can get paid without awkward follow-up emails.",
     "whenToUse": "Framing discovery insights and aligning team on user motivation without solution bias.",
     "frameworkSteps": [
       "Identify the triggering situation",
@@ -48,6 +50,7 @@
     "module": "02-jobs-to-be-done",
     "topicIds": ["jtbd"],
     "definition": "A JTBD interview method exploring a customer's past decision to adopt or switch products.",
+    "example": "You ask a Notion user: 'Tell me about when you moved your team wiki from Confluence — what triggered the first thought, and what almost stopped you?'",
     "whenToUse": "Deep discovery on why customers buy, churn, or choose competitors.",
     "frameworkSteps": [
       "Identify the switching timeline",
@@ -70,6 +73,7 @@
     "module": "02-jobs-to-be-done",
     "topicIds": ["jtbd"],
     "definition": "A breakdown of the steps a customer takes to complete a job, used to find innovation opportunities.",
+    "example": "For 'plan a team offsite,' steps include define goals → shortlist venues → get budget approval → book — you find highest pain at budget approval and prioritize a cost-estimator feature.",
     "whenToUse": "Identifying underserved steps in a customer's workflow.",
     "frameworkSteps": [
       "Define the core job",
@@ -91,6 +95,7 @@
     "module": "02-jobs-to-be-done",
     "topicIds": ["jtbd"],
     "definition": "The insight that your biggest competitor is often doing nothing or a manual workaround, not another product.",
+    "example": "Your expense tool competes with employees stuffing receipts in a shoebox and emailing finance once a month — not just Expensify.",
     "whenToUse": "Sizing opportunities and designing go-to-market strategy.",
     "frameworkSteps": [
       "Identify current workarounds users employ",

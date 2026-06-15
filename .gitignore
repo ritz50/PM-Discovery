@@ -1,6 +1,7 @@
 node_modules/
 .next/
 out/
+app/content-data/
 .DS_Store
 *.log
 .env*.local

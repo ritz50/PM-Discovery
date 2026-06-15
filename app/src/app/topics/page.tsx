@@ -9,8 +9,8 @@ export default function TopicsPage() {
   return (
     <div>
       <PageHeader
-        title="Product Discovery Topics"
-        subtitle="Browse the full curriculum — phases, mastery status, and drill-down lessons."
+        title="Learn"
+        subtitle="Browse the curriculum by phase — open a topic to read lessons, concepts, and practice."
       />
       <ClientTopics
         curriculum={curriculum}

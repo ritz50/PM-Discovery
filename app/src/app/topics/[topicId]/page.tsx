@@ -7,7 +7,9 @@ import {
   getModule,
 } from "@/lib/content";
 import { VisitTracker } from "@/components/VisitTracker";
-import { Card, PageHeader, Section, TextLink } from "@/components/ui";
+import { Breadcrumbs, BackLink } from "@/components/Breadcrumbs";
+import { ConceptDetailCard } from "@/components/ConceptDetailCard";
+import { Card, LinkButton, PageHeader, Section, TextLink } from "@/components/ui";
 
 export default async function TopicDetailPage({
   params,
@@ -21,45 +23,84 @@ export default async function TopicDetailPage({
 
   const phase = curriculum.phases.find((p) => p.id === topic.phase);
   const concepts = getConceptsForTopic(topicId, curriculum);
+  const primaryModuleId = topic.moduleIds[0];
+  const primaryModule = primaryModuleId ? getModule(primaryModuleId) : null;
 
-  const actionClass =
-    "btn btn-ghost text-sm no-underline !px-3 !py-1.5";
+  const phaseTopics = curriculum.topics.filter((t) => t.phase === topic.phase);
+  const topicIndex = phaseTopics.findIndex((t) => t.id === topicId);
+  const nextTopic = topicIndex >= 0 && topicIndex < phaseTopics.length - 1
+    ? phaseTopics[topicIndex + 1]
+    : null;
+
+  const actionClass = "btn btn-ghost text-sm no-underline !px-3 !py-1.5";
 
   return (
     <div>
       <VisitTracker topicId={topicId} />
-      <PageHeader title={topic.title} subtitle={topic.description} />
-      <p className="-mt-4 mb-6 text-sm" style={{ color: "var(--muted)" }}>
-        {phase?.title}
-      </p>
+      <Breadcrumbs
+        items={[
+          { label: "Learn", href: "/topics" },
+          { label: phase?.title ?? topic.phase, href: `/topics#phase-${topic.phase}` },
+          { label: topic.title },
+        ]}
+      />
+      <BackLink href="/topics" label="Back to all topics" />
 
-      <div className="mb-8 flex flex-wrap gap-2">
-        {topic.moduleIds.map((m) => (
-          <Link key={m} href={`/learn/${m}`} className={actionClass}>
-            Learn
+      <PageHeader title={topic.title} subtitle={topic.description} />
+
+      {primaryModule && (
+        <section className="mb-8">
+          <h2 className="section-title mb-3">Start here</h2>
+          <Card className="card-gradient flex flex-wrap items-center justify-between gap-4 !p-5">
+            <div>
+              <p className="font-medium" style={{ color: "var(--fg)" }}>
+                {primaryModule.title}
+              </p>
+              <p className="mt-1 text-sm" style={{ color: "var(--muted)" }}>
+                {primaryModule.difficulty} · Full lesson with key concepts
+              </p>
+            </div>
+            <LinkButton href={`/learn/${primaryModuleId}`}>Open lesson</LinkButton>
+          </Card>
+        </section>
+      )}
+
+      <section className="mb-8">
+        <h2 className="mb-3 text-sm font-medium" style={{ color: "var(--muted)" }}>
+          Practice this topic
+        </h2>
+        <div className="flex flex-wrap gap-2">
+          <Link href={`/recall?topic=${topicId}`} className={actionClass}>
+            Recall
           </Link>
-        ))}
-        <Link href={`/recall?topic=${topicId}`} className={actionClass}>
-          Recall
-        </Link>
-        {topic.moduleIds[0] && (
-          <Link href={`/quiz/${topic.moduleIds[0]}`} className={actionClass}>
-            Quiz
+          {primaryModuleId && (
+            <Link href={`/quiz/${primaryModuleId}`} className={actionClass}>
+              Quiz
+            </Link>
+          )}
+          <Link href={`/interview?topic=${topicId}`} className={actionClass}>
+            Interview
           </Link>
-        )}
-        <Link href={`/interview?topic=${topicId}`} className={actionClass}>
-          Interview
-        </Link>
-      </div>
+        </div>
+      </section>
 
       {topic.frameworkIds.length > 0 && (
         <Section title="Frameworks">
-          <ul className="space-y-2">
+          <ul className="grid gap-3 sm:grid-cols-2">
             {topic.frameworkIds.map((fwId) => {
               const fw = getFramework(fwId);
               return fw ? (
                 <li key={fwId}>
-                  <TextLink href={`/frameworks/${fwId}`}>{fw.title}</TextLink>
+                  <Link href={`/frameworks/${fwId}`} className="block no-underline">
+                    <Card interactive className="!p-4">
+                      <p className="font-medium" style={{ color: "var(--fg)" }}>
+                        {fw.title}
+                      </p>
+                      <p className="mt-1 text-sm" style={{ color: "var(--accent)" }}>
+                        View framework →
+                      </p>
+                    </Card>
+                  </Link>
                 </li>
               ) : null;
             })}
@@ -71,47 +112,42 @@ export default async function TopicDetailPage({
         <ul className="space-y-3">
           {concepts.map((c) => (
             <li key={c.id}>
-              <Card>
-                <p className="font-medium" style={{ color: "var(--fg)" }}>
-                  {c.title}
-                </p>
-                <p className="mt-1 text-sm" style={{ color: "var(--muted)" }}>
-                  {c.definition}
-                </p>
-              </Card>
+              <ConceptDetailCard concept={c} />
             </li>
           ))}
         </ul>
       </Section>
 
-      {topic.moduleIds.map((mId) => {
-        const mod = getModule(mId);
-        return mod ? (
-          <section key={mId} className="mt-6">
-            <h2 className="section-title">{mod.title}</h2>
-            <p className="text-sm" style={{ color: "var(--muted)" }}>
-              Difficulty: {mod.difficulty}
-            </p>
-          </section>
-        ) : null;
-      })}
-
-      {topic.prerequisites.length > 0 && (
-        <section className="mt-8">
-          <h2 className="mb-2 text-sm font-medium" style={{ color: "var(--muted)" }}>
-            Prerequisites
-          </h2>
-          <div className="flex flex-wrap gap-3">
-            {topic.prerequisites.map((p) => {
-              const prereq = curriculum.topics.find((t) => t.id === p);
-              return prereq ? (
-                <TextLink key={p} href={`/topics/${p}`}>
-                  {prereq.title}
-                </TextLink>
-              ) : null;
-            })}
-          </div>
-        </section>
+      {(topic.prerequisites.length > 0 || nextTopic) && (
+        <Section title="What's next">
+          {topic.prerequisites.length > 0 && (
+            <div className="mb-4">
+              <p className="mb-2 text-sm font-medium" style={{ color: "var(--muted)" }}>
+                Prerequisites
+              </p>
+              <div className="flex flex-wrap gap-3">
+                {topic.prerequisites.map((p) => {
+                  const prereq = curriculum.topics.find((t) => t.id === p);
+                  return prereq ? (
+                    <TextLink key={p} href={`/topics/${p}`}>
+                      {prereq.title}
+                    </TextLink>
+                  ) : null;
+                })}
+              </div>
+            </div>
+          )}
+          {nextTopic && (
+            <Card className="!p-4">
+              <p className="text-sm" style={{ color: "var(--muted)" }}>
+                Next in {phase?.title}
+              </p>
+              <TextLink href={`/topics/${nextTopic.id}`} className="mt-1 inline-block text-base !font-medium">
+                {nextTopic.title} →
+              </TextLink>
+            </Card>
+          )}
+        </Section>
       )}
     </div>
   );

@@ -5,6 +5,7 @@
     "module": "01-problem-discovery",
     "topicIds": ["problem-validation"],
     "definition": "A concise description of a user segment's struggle, root cause, and negative outcome — without prescribing a solution.",
+    "example": "Freelance designers spend 4+ hours weekly chasing invoice payments because clients delay approvals, causing cash-flow stress — not 'we need automated invoicing.'",
     "whenToUse": "At the start of any discovery initiative to align the team on what you are solving.",
     "frameworkSteps": [
       "Identify the user segment",
@@ -26,6 +27,7 @@
     "module": "01-problem-discovery",
     "topicIds": ["problem-validation", "discovery-artifacts"],
     "definition": "A technique to visualize and prioritize beliefs about users, problems, and solutions by importance and uncertainty.",
+    "example": "You plot 'SMBs will pay $50/mo' as high-importance, high-uncertainty — and prioritize a pricing interview over polishing UI mockups.",
     "whenToUse": "When you have many unknowns and need to decide what to validate first.",
     "frameworkSteps": [
       "List all assumptions about users, problem, and solution",
@@ -47,6 +49,7 @@
     "module": "01-problem-discovery",
     "topicIds": ["problem-validation"],
     "definition": "The stage where you have evidence that a real problem exists and your proposed solution addresses it meaningfully.",
+    "example": "After 8 interviews, 6 users tried your concierge prototype and 4 said they'd switch from spreadsheets within a month — evidence of fit before building v1.",
     "whenToUse": "Before investing in building an MVP or scaling a feature.",
     "frameworkSteps": [
       "Validate problem exists with user evidence",
@@ -68,6 +71,7 @@
     "module": "01-problem-discovery",
     "topicIds": ["discovery-artifacts"],
     "definition": "A short document aligning the team on discovery goals, assumptions, research plan, and success criteria.",
+    "example": "A one-pager for 'onboarding drop-off' lists 3 assumptions, a 2-week interview plan, and a success bar of 5 validated pain points before any build.",
     "whenToUse": "Starting any discovery initiative with cross-functional stakeholders.",
     "frameworkSteps": [
       "State problem hypothesis and target user",
@@ -86,6 +90,7 @@
     "module": "01-problem-discovery",
     "topicIds": ["discovery-artifacts"],
     "definition": "A structured script for user interviews with open-ended questions, probes, and success criteria.",
+    "example": "Your guide opens with context questions, then 'Tell me about the last time you onboarded a new hire' with probes for pain points — never 'Would you use this feature?'",
     "whenToUse": "Before conducting any user discovery interview.",
     "frameworkSteps": [
       "Define research objective",

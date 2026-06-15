@@ -4,6 +4,7 @@ export interface Concept {
   module: string;
   topicIds?: string[];
   definition: string;
+  example?: string;
   whenToUse: string;
   frameworkSteps?: string[];
   interviewPrompts?: string[];

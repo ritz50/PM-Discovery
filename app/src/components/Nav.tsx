@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { LogoutButton } from "./LogoutButton";
 
 const practiceLinks = [
   { href: "/topics", label: "Learn" },
@@ -36,9 +37,10 @@ function NavLink({ href, label, pathname }: { href: string; label: string; pathn
   );
 }
 
-export function Nav() {
+export function Nav({ showLogout = false }: { showLogout?: boolean }) {
   const pathname = usePathname();
-  const homeActive = pathname === "/";
+  const minimal = pathname === "/" || pathname === "/login";
+  const homeActive = pathname === "/home";
 
   return (
     <nav
@@ -49,7 +51,7 @@ export function Nav() {
       }}
     >
       <div className="mx-auto flex max-w-5xl flex-wrap items-center gap-3 px-4 py-3 md:gap-5 md:px-6">
-        <Link href="/" className="flex items-center gap-2 no-underline">
+        <Link href={minimal ? "/" : "/home"} className="flex items-center gap-2 no-underline">
           <span
             className="flex h-8 w-8 items-center justify-center rounded-full text-xs font-bold text-white"
             style={{ background: "var(--gradient-brand)" }}
@@ -61,40 +63,57 @@ export function Nav() {
           </span>
         </Link>
 
-        <div
-          className="hidden h-5 w-px sm:block"
-          style={{ background: "var(--border)" }}
-          aria-hidden
-        />
+        {!minimal && (
+          <>
+            <div
+              className="hidden h-5 w-px sm:block"
+              style={{ background: "var(--border)" }}
+              aria-hidden
+            />
 
-        <div className="flex flex-wrap gap-1">
+            <div className="flex flex-wrap gap-1">
+              <Link
+                href="/home"
+                className="rounded-lg px-3 py-1.5 text-sm no-underline transition-colors"
+                style={{
+                  color: homeActive ? "var(--fg)" : "var(--muted)",
+                  background: homeActive ? "var(--accent-soft)" : "transparent",
+                  border: homeActive ? "1px solid rgba(27, 77, 254, 0.35)" : "1px solid transparent",
+                }}
+              >
+                Home
+              </Link>
+              {practiceLinks.map((l) => (
+                <NavLink key={l.href} {...l} pathname={pathname} />
+              ))}
+            </div>
+
+            <div
+              className="hidden h-5 w-px md:block"
+              style={{ background: "var(--border)" }}
+              aria-hidden
+            />
+
+            <div className="flex flex-wrap items-center gap-3">
+              <div className="flex flex-wrap gap-1">
+                {secondaryLinks.map((l) => (
+                  <NavLink key={l.href} {...l} pathname={pathname} />
+                ))}
+              </div>
+              {showLogout && <LogoutButton />}
+            </div>
+          </>
+        )}
+
+        {minimal && (
           <Link
-            href="/"
-            className="rounded-lg px-3 py-1.5 text-sm no-underline transition-colors"
-            style={{
-              color: homeActive ? "var(--fg)" : "var(--muted)",
-              background: homeActive ? "var(--accent-soft)" : "transparent",
-              border: homeActive ? "1px solid rgba(27, 77, 254, 0.35)" : "1px solid transparent",
-            }}
+            href="/login"
+            className="ml-auto text-sm no-underline"
+            style={{ color: "var(--accent)" }}
           >
-            Home
+            Log in
           </Link>
-          {practiceLinks.map((l) => (
-            <NavLink key={l.href} {...l} pathname={pathname} />
-          ))}
-        </div>
-
-        <div
-          className="hidden h-5 w-px md:block"
-          style={{ background: "var(--border)" }}
-          aria-hidden
-        />
-
-        <div className="flex flex-wrap gap-1">
-          {secondaryLinks.map((l) => (
-            <NavLink key={l.href} {...l} pathname={pathname} />
-          ))}
-        </div>
+        )}
       </div>
     </nav>
   );
